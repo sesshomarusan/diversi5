@@ -24,6 +24,9 @@ Assets {
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
         Control {
           Width: 500
           Height: 30
@@ -44,6 +47,8 @@ Assets {
             Size: 15
             Justification {
               Value: "mc:etextjustify:right"
+            }
+            Font {
             }
           }
           AnchorLayout {
@@ -66,5 +71,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 76
+  SerializationVersion: 78
 }

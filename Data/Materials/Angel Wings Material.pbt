@@ -2,7 +2,7 @@ Assets {
   Id: 1861718381371180932
   Name: "Angel Wings Material"
   PlatformAssetType: 13
-  SerializationVersion: 76
+  SerializationVersion: 78
   CustomMaterialAsset {
     BaseMaterialId: 17985044124906445811
     ParameterOverrides {

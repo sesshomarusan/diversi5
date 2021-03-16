@@ -2,7 +2,7 @@ Assets {
   Id: 1261118093406815502
   Name: "Green Potion Liquid"
   PlatformAssetType: 13
-  SerializationVersion: 76
+  SerializationVersion: 78
   CustomMaterialAsset {
     BaseMaterialId: 18280303351516875622
     ParameterOverrides {

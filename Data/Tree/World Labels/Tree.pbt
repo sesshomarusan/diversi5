@@ -24,8 +24,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "SPAWN POINT"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -67,8 +72,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "Difficulty: Hard<br>Min Level: 7<br>Boss: Fire"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -110,8 +120,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "Difficulty: Normal<br>Min Level: 4<br>Boss: Ice"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -153,8 +168,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "Difficulty: Easy<br>Min Level: 1<br>Boss: Stone"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -195,8 +215,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "COSTUMES SHOP<br>Buy costumes here!"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -237,8 +262,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "EXAMPLE FANTASY PROPS"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -280,8 +310,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "DUNGEON 2"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -323,8 +358,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "DUNGEON 1"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -366,8 +406,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "DUNGEON 3"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -407,8 +452,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "GAMEPLAY OBJECTS"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
@@ -450,8 +500,13 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
   Text {
     Text: "WEAPONS SHOP<br>Purchase weapons here!"
+    FontAsset {
+    }
     Color {
       R: 1
       G: 1
