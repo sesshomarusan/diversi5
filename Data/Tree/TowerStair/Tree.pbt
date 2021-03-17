@@ -5,12 +5,12 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved Window 01"
   Transform {
     Location {
-      X: 400.000763
-      Y: -399.999756
+      X: 404.95459
+      Y: -404.156616
       Z: 1200
     }
     Rotation {
-      Yaw: -94.9998856
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -533,8 +533,8 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
-      X: 0.000663757324
-      Y: -400.000061
+      X: -1.32474518
+      Y: -390.510254
       Z: 1200
     }
     Rotation {
@@ -1385,8 +1385,8 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   Transform {
     Location {
-      X: -2.67597961
-      Y: -792.121521
+      X: -0.184371948
+      Y: -809.197144
       Z: 1200
     }
     Rotation {

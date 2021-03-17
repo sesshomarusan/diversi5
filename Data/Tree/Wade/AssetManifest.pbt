@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 17244731375696479666
-  Name: "Mechanical Gears Squeaky 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_mechanical_gears_squeaky_01_Cue_ref"
-  }
-}
-Assets {
   Id: 16563829183567904255
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   PlatformAssetType: 1
@@ -122,6 +113,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_found_001_pillar_01"
+  }
+}
+Assets {
+  Id: 14265726385927418716
+  Name: "Fantasy Castle Trim - Battlement 01 4m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_battlement_001_4m"
   }
 }
 Assets {
@@ -431,6 +431,15 @@ Assets {
   }
 }
 Assets {
+  Id: 1375231939874751248
+  Name: "Wedge - Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_hq_001"
+  }
+}
+Assets {
   Id: 1367565729547875542
   Name: "Fantasy Castle Wall 01"
   PlatformAssetType: 1
@@ -482,14 +491,5 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_false_window_001"
-  }
-}
-Assets {
-  Id: 142821667836297939
-  Name: "Car Crash Heavy Metal Impact 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_car_crash_heavy_metal_impact_01a_Cue_ref"
   }
 }
