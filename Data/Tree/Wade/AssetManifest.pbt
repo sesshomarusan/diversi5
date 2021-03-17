@@ -8,6 +8,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17806973179004074755
+  Name: "Bricks Layered Stone Floor 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_floor_layered_001"
+  }
+}
+Assets {
   Id: 17546982558755096284
   Name: "Whitebox Floor 01 8m x 8m"
   PlatformAssetType: 1
@@ -224,6 +233,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10131155274911409562
+  Name: "Grass Clumps"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_grass_002_uv"
+  }
+}
+Assets {
   Id: 8983708969469221779
   Name: "Fantasy Castle Wall 03"
   PlatformAssetType: 1
@@ -419,6 +437,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_curve_001"
+  }
+}
+Assets {
+  Id: 2003541027630853449
+  Name: "Wedge - Convex Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_curved_convex_hq_001"
   }
 }
 Assets {
