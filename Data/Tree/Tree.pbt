@@ -23,6 +23,7 @@ Objects {
   ChildIds: 10680076438754699651
   ChildIds: 6002287883041365082
   ChildIds: 4658613548534488732
+  ChildIds: 10749735823100360741
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +36,49 @@ Objects {
     Value: "mc:ecollisionsetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 10749735823100360741
+  Name: "Candle Flame VFX"
+  Transform {
+    Location {
+      X: 6602
+      Y: 12523
+      Z: 980
+    }
+    Rotation {
+    }
+    Scale {
+      X: 35.5
+      Y: 35.5
+      Z: 35.5
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9199751096616988864
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
   }
 }
 Objects {
