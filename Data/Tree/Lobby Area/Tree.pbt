@@ -521,35 +521,3 @@ Objects {
     TemplateId: 5984235938909643820
   }
 }
-Objects {
-  Id: 14941386982392477555
-  Name: "Spawn Point"
-  Transform {
-    Location {
-      X: -1900
-      Y: 12360
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3765684858975843531
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  PlayerSpawnPoint {
-    TeamInt: 1
-    PlayerScaleMultiplier: 1
-  }
-}

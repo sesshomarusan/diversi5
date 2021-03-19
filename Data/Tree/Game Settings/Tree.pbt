@@ -1011,7 +1011,7 @@ Objects {
   }
   Settings {
     RespawnSettings {
-      RespawnDelay: 4
+      RespawnDelay: 3
       RespawnMode_v2 {
         Value: "mc:erespawnmode:roundrobin"
       }
