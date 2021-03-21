@@ -1,0 +1,71 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "93bac24246804e68aa60c35d45339dbd"
+  OwnerAccountId: "6b056767c5e540f9bc75d9c9d099f22a"
+  OwnerName: "happy_onion"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 993328236157218467
+  value: 6180239231335198880
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 10846726075961591335
+}
+AssetIdsOriginalToNew {
+  key: 3194930412626622494
+  value: 3852563229523201635
+}
+AssetIdsOriginalToNew {
+  key: 3624822498572836838
+  value: 2072594169324727752
+}
+AssetIdsOriginalToNew {
+  key: 4548079104551910248
+  value: 17893961787042420573
+}
+AssetIdsOriginalToNew {
+  key: 6535552036334716182
+  value: 16055353728658464629
+}
+AssetIdsOriginalToNew {
+  key: 6893986948569522536
+  value: 17562591368651451198
+}
+AssetIdsOriginalToNew {
+  key: 7104865665539075675
+  value: 11082400334352103685
+}
+AssetIdsOriginalToNew {
+  key: 8532721132612378698
+  value: 3456053277872361443
+}
+AssetIdsOriginalToNew {
+  key: 8750372765084847384
+  value: 257849656826219448
+}
+AssetIdsOriginalToNew {
+  key: 10109220941690346490
+  value: 16484012913083846759
+}
+AssetIdsOriginalToNew {
+  key: 10251728999306098252
+  value: 10950780676562108100
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 10509523860710671489
+}
+AssetIdsOriginalToNew {
+  key: 16371963766042267190
+  value: 15717291352031466710
+}
+AssetIdsOriginalToNew {
+  key: 16673441874583589830
+  value: 13810985692465590350
+}
+AssetIdsOriginalToNew {
+  key: 17134926086803901810
+  value: 11436425024869544631
+}
