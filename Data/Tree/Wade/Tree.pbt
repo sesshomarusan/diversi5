@@ -1,6 +1,38 @@
 Name: "Wade"
 RootId: 8692248943897606178
 Objects {
+  Id: 8798517231792960002
+  Name: "Inner Castle"
+  Transform {
+    Location {
+      X: 9870
+      Y: -1620
+      Z: 1410
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8692248943897606178
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Inner Castle"
+  }
+}
+Objects {
   Id: 15670984679063103876
   Name: "Gate Garden Floor "
   Transform {
