@@ -14,7 +14,7 @@ Assets {
       }
       Overrides {
         Name: "hot high threshold"
-        Float: -0.386686683
+        Float: -0.285650074
       }
       Overrides {
         Name: "color2"
@@ -63,7 +63,7 @@ Assets {
       }
       Overrides {
         Name: "noise scale"
-        Float: 50
+        Float: 10
       }
       Overrides {
         Name: "displacement max"
@@ -80,6 +80,7 @@ Assets {
       Overrides {
         Name: "speed"
         Vector {
+          X: 4
           Z: 0.5
         }
       }

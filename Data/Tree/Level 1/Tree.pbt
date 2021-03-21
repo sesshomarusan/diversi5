@@ -5,6 +5,7 @@ Objects {
   Name: "Nancy"
   Transform {
     Location {
+      X: 28140
     }
     Rotation {
     }

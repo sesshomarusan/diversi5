@@ -1,65 +1,31 @@
 Name: "Platform"
 RootId: 14897680476122489549
 Objects {
-  Id: 17795987673449320906
-  Name: "Cube - Chamfered Large"
-  Transform {
-    Location {
-      Y: 5050
-      Z: 400
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2.5
-      Y: 2.5
-      Z: 2.5
-    }
-  }
-  ParentId: 14897680476122489549
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9032484619104688176
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
-  Id: 4853928893901378235
+  Id: 10073309695976664313
   Name: "Cube"
   Transform {
     Location {
-      X: 570
-      Y: 8800
-      Z: 230
+      X: 1390
+      Y: 9584.375
+      Z: 227
     }
     Rotation {
     }
     Scale {
-      X: 15
-      Y: 7.5
+      X: 16.195118
+      Y: 8.18681622
       Z: 5
     }
   }
   ParentId: 14897680476122489549
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6909333837115408700
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -90,19 +56,27 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 570
-      Y: 3990
-      Z: 230
+      X: 1390
+      Y: 3240.06543
+      Z: 222
     }
     Rotation {
     }
     Scale {
-      X: 15
-      Y: 7.5
+      X: 14.5394545
+      Y: 7.50685072
       Z: 5
     }
   }
   ParentId: 14897680476122489549
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6909333837115408700
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

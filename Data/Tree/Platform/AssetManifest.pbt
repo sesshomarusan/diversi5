@@ -8,11 +8,11 @@ Assets {
   }
 }
 Assets {
-  Id: 9032484619104688176
-  Name: "Cube - Chamfered Large"
-  PlatformAssetType: 1
+  Id: 6909333837115408700
+  Name: "Terrain - Grass Cliffs"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_chamfer"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_cliff-grass-001_wa"
   }
 }
