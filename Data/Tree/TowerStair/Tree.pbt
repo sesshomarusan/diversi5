@@ -1385,8 +1385,8 @@ Objects {
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   Transform {
     Location {
-      X: -0.184371948
-      Y: -809.197144
+      X: 3.42558289
+      Y: -801.783508
       Z: 1200
     }
     Rotation {

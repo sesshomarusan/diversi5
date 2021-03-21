@@ -217,3 +217,36 @@ Objects {
     FilePartitionName: "Environment"
   }
 }
+Objects {
+  Id: 14941386982392477555
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: -1200
+      Y: 33900
+      Z: 9700
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 413991195585998862
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
+  }
+}

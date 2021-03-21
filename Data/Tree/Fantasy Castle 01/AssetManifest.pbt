@@ -62,6 +62,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16626931919023374994
+  Name: "Stair Bannister - Mid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_stair_mid_ref"
+  }
+}
+Assets {
   Id: 16563829183567904255
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   PlatformAssetType: 1
@@ -149,6 +158,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_battlement_001_4m"
+  }
+}
+Assets {
+  Id: 13895290989889815401
+  Name: "Stair Bannister - Bottom"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_stair_bottom_ref"
   }
 }
 Assets {
@@ -248,6 +266,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_part_window_001_ref"
+  }
+}
+Assets {
+  Id: 9842143421296066252
+  Name: "Fantasy Castle Stairs 01 - 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_stairs_001_150cm"
   }
 }
 Assets {
@@ -386,6 +413,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5690610490455183775
+  Name: "Stair Bannister - Top"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_stair_top_ref"
+  }
+}
+Assets {
   Id: 5109129970559468393
   Name: "Cube"
   PlatformAssetType: 1
@@ -482,6 +518,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_found_001"
+  }
+}
+Assets {
+  Id: 1367565729547875542
+  Name: "Fantasy Castle Wall 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_wall_001"
   }
 }
 Assets {
