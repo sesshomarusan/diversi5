@@ -25,12 +25,3 @@ Assets {
     AssetId: "mi_brick_stone_floor_rough_001"
   }
 }
-Assets {
-  Id: 2221841292547025553
-  Name: "Bricks Cobblestone Floor Arches 001"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_cobblestone_floor_arch_001"
-  }
-}

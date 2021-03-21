@@ -471,23 +471,17 @@ Objects {
   }
 }
 Objects {
-  Id: 3739130615929029646
-  Name: "Stone Wall Divider 6m"
+  Id: 7432585397722982087
+  Name: "Pillar"
   Transform {
     Location {
-      X: 748
-      Y: 2924
-      Z: 399
     }
     Rotation {
-      Pitch: -0.153411865
-      Yaw: 1.72754657
-      Roll: 0.148759678
     }
     Scale {
-      X: 2.25
-      Y: 1.75
-      Z: 2.75
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 1719997790152050639
@@ -498,41 +492,25 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 5834673791843655790
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Pillar"
   }
 }
 Objects {
-  Id: 1512220435836465756
-  Name: "Stone Wall Divider 6m"
+  Id: 15930827077461580938
+  Name: "Rocks"
   Transform {
     Location {
-      X: 2002
-      Y: 2942
-      Z: 399
     }
     Rotation {
-      Pitch: -0.153411865
-      Yaw: 1.72754657
-      Roll: 0.148759693
     }
     Scale {
-      X: 2.25
-      Y: 1.75
-      Z: 2.75
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 1719997790152050639
@@ -543,111 +521,11 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5834673791843655790
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8690264873493106859
-  Name: "Stone Wall Divider 6m"
-  Transform {
-    Location {
-      X: 2103
-      Y: 9885
-      Z: 399
-    }
-    Rotation {
-      Pitch: -0.153411865
-      Yaw: 1.72754657
-      Roll: 0.148759678
-    }
-    Scale {
-      X: 2.25
-      Y: 1.75
-      Z: 2.75
-    }
-  }
-  ParentId: 1719997790152050639
-  Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5834673791843655790
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 15111383014933940540
-  Name: "Stone Wall Divider 6m"
-  Transform {
-    Location {
-      X: 680
-      Y: 9885
-      Z: 399
-    }
-    Rotation {
-      Pitch: -0.153412864
-      Yaw: 1.72754633
-      Roll: 0.148759648
-    }
-    Scale {
-      X: 2.25
-      Y: 1.75
-      Z: 2.75
-    }
-  }
-  ParentId: 1719997790152050639
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5834673791843655790
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Rocks"
   }
 }
 Objects {

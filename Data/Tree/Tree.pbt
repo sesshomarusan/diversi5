@@ -24,8 +24,6 @@ Objects {
   ChildIds: 6002287883041365082
   ChildIds: 4658613548534488732
   ChildIds: 10604205431541317147
-  ChildIds: 1807683895496414549
-  ChildIds: 3265038317775095481
   ChildIds: 1230773469354354671
   UnregisteredParameters {
   }
@@ -86,92 +84,6 @@ Objects {
         Anchor {
           Value: "mc:euianchor:topleft"
         }
-      }
-    }
-  }
-}
-Objects {
-  Id: 3265038317775095481
-  Name: "Bush Leafy Low 01"
-  Transform {
-    Location {
-      X: 30140
-      Y: 3135
-      Z: 466
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2683215230344695366
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
-  Id: 1807683895496414549
-  Name: "Bush Leafy Low 01"
-  Transform {
-    Location {
-      X: 28904
-      Y: 3421
-      Z: 459
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2683215230344695366
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
       }
     }
   }
