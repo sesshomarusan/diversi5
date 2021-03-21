@@ -149,6 +149,7 @@ Objects {
   Transform {
     Location {
       X: 760
+      Y: -134
       Z: 10
     }
     Rotation {
@@ -2165,7 +2166,7 @@ Objects {
   Transform {
     Location {
       X: 800
-      Y: -770
+      Y: -904
       Z: -10
     }
     Rotation {
@@ -2301,6 +2302,7 @@ Objects {
   Transform {
     Location {
       X: 800
+      Y: -134
       Z: -10
     }
     Rotation {
