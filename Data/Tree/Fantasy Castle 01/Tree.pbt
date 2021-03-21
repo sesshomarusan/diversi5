@@ -30430,6 +30430,7 @@ Objects {
   ChildIds: 4654977220869824546
   ChildIds: 3408309407710058275
   ChildIds: 10395140113753294974
+  ChildIds: 755257753892461747
   ChildIds: 12749888612593882628
   ChildIds: 1298700015335520073
   ChildIds: 6131651726878804912
@@ -31870,6 +31871,55 @@ Objects {
   }
 }
 Objects {
+  Id: 755257753892461747
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: -399.998291
+      Y: 2400
+      Z: 50
+    }
+    Rotation {
+      Yaw: -9.15527344e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4357504822316793048
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4927017302746496390
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 755257753892461747
+    SubobjectId: 15445306619148368440
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
   Id: 10395140113753294974
   Name: "Fantasy Castle Pillar 01 Base"
   Transform {
@@ -32626,8 +32676,14 @@ Objects {
   ChildIds: 5230595457736009768
   ChildIds: 7167436504921865725
   ChildIds: 16788053701217417932
+  ChildIds: 4366028756056906021
+  ChildIds: 14633738570774018426
+  ChildIds: 13274141532530889873
+  ChildIds: 4928008076001432735
+  ChildIds: 10432091320568909189
   ChildIds: 8973603838604980783
   ChildIds: 2220004511791169087
+  ChildIds: 15449476555332911380
   ChildIds: 16652184752367454044
   ChildIds: 9884199814717971571
   ChildIds: 16553513436681713389
@@ -32821,6 +32877,49 @@ Objects {
   }
 }
 Objects {
+  Id: 15449476555332911380
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 2484.00342
+      Y: 3259.01782
+      Z: 598
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 0.6
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 601691344762606041
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1367565729547875542
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
   Id: 2220004511791169087
   Name: "Fantasy Castle Wall 01"
   Transform {
@@ -32904,6 +33003,437 @@ Objects {
       Physics {
       }
     }
+  }
+}
+Objects {
+  Id: 10432091320568909189
+  Name: "Fantasy Castle Wall 01"
+  Transform {
+    Location {
+      X: 2484.00342
+      Y: 3278.99316
+      Z: 48
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 0.6
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 601691344762606041
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 1367565729547875542
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 4928008076001432735
+  Name: "Fantasy Castle Wall 01 - Cellar"
+  Transform {
+    Location {
+      X: -375.996582
+      Y: 3269
+      Z: 50
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 601691344762606041
+  ChildIds: 685796095219022958
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10107062091948111687
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 3837839991996942141
+    SubobjectId: 16816803052668936630
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 685796095219022958
+  Name: "Castle Part - Grate 01"
+  Transform {
+    Location {
+      X: 399.999878
+      Y: 0.000286102266
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4928008076001432735
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11292394934840136893
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 5099685615746369103
+    SubobjectId: 11161696039939219652
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 13274141532530889873
+  Name: "Fantasy Castle Wall 01 - Cellar"
+  Transform {
+    Location {
+      X: -1175.99658
+      Y: 3269.00415
+      Z: 50
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 601691344762606041
+  ChildIds: 16825451751491880211
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10107062091948111687
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 1827044105325240719
+    SubobjectId: 14229405091989587716
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 16825451751491880211
+  Name: "Castle Part - Grate 01"
+  Transform {
+    Location {
+      X: 399.999878
+      Y: 0.000286102266
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13274141532530889873
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11292394934840136893
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 9208785276447968502
+    SubobjectId: 11812901202004945533
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 14633738570774018426
+  Name: "Fantasy Castle Wall 01 - Cellar"
+  Transform {
+    Location {
+      X: 1199.99951
+      Y: 3279.00244
+      Z: 50
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 601691344762606041
+  ChildIds: 4741615911815526800
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10107062091948111687
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 1827044105325240719
+    SubobjectId: 14229405091989587716
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 4741615911815526800
+  Name: "Castle Part - Grate 01"
+  Transform {
+    Location {
+      X: 399.999878
+      Y: 0.000286102266
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14633738570774018426
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11292394934840136893
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 9208785276447968502
+    SubobjectId: 11812901202004945533
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 4366028756056906021
+  Name: "Fantasy Castle Wall 01 - Cellar"
+  Transform {
+    Location {
+      X: 1999.9978
+      Y: 3278.9978
+      Z: 50
+    }
+    Rotation {
+      Yaw: 180
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 601691344762606041
+  ChildIds: 12319679682163720904
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10107062091948111687
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 3837839991996942141
+    SubobjectId: 16816803052668936630
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 12319679682163720904
+  Name: "Castle Part - Grate 01"
+  Transform {
+    Location {
+      X: 399.999878
+      Y: 0.000286102266
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4366028756056906021
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11292394934840136893
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 5099685615746369103
+    SubobjectId: 11161696039939219652
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
   }
 }
 Objects {

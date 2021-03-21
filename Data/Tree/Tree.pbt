@@ -44,10 +44,10 @@ Objects {
   Name: "Terrain"
   Transform {
     Location {
-      Y: 55287
+      Y: 55267
     }
     Rotation {
-      Yaw: -90
+      Yaw: 270
     }
     Scale {
       X: 1
