@@ -25,6 +25,8 @@ Objects {
   ChildIds: 4658613548534488732
   ChildIds: 10749735823100360741
   ChildIds: 12657443587902675875
+  ChildIds: 5269832783435679914
+  ChildIds: 13036876668855795080
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -40,6 +42,94 @@ Objects {
   }
 }
 Objects {
+  Id: 13036876668855795080
+  Name: "Fantasy Castle Stairs 01 - Straight"
+  Transform {
+    Location {
+      X: 7480
+      Y: 32960
+      Z: 9065
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: -1.2
+      Y: 1.2
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 517374961762022671
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 5269832783435679914
+  Name: "Fantasy Castle Stairs 01 - Straight"
+  Transform {
+    Location {
+      X: 7480
+      Y: 35190
+      Z: 9065
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 1.2
+      Y: 1.2
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 517374961762022671
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 12657443587902675875
   Name: "Terrain"
   Transform {
@@ -47,7 +137,7 @@ Objects {
       Y: 55267
     }
     Rotation {
-      Yaw: 270
+      Yaw: -90
     }
     Scale {
       X: 1
