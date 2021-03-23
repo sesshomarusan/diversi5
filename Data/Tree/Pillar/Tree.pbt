@@ -1,6 +1,404 @@
 Name: "Pillar"
 RootId: 7432585397722982087
 Objects {
+  Id: 7651505709620932981
+  Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
+  Transform {
+    Location {
+      X: 26868
+      Y: 4744
+      Z: -277
+    }
+    Rotation {
+      Pitch: -1.29256546
+      Yaw: -85.1695175
+      Roll: 14.9455528
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1982780320219488550
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -79.9038086
+            Y: -70.8329
+            Z: 1227.47852
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 54.3508873
+            Yaw: -11.9699097
+            Roll: -15.6276855
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5651245337890175187
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fantasy Castle Pillar 01 - 2x Tile Template"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -800
+            Y: 4263
+            Z: -706
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -4.14257813
+            Yaw: 34.6353531
+            Roll: 19.0593243
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6393615945825996208
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17962226693329885709
+    }
+  }
+}
+Objects {
+  Id: 15881400750500706240
+  Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
+  Transform {
+    Location {
+      X: 27920
+      Y: 5620
+      Z: -100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1982780320219488550
+      value {
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.391937256
+            Y: 27.4265594
+            Z: 1199.96851
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5651245337890175187
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fantasy Castle Pillar 01 - 2x Tile Template"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1272
+            Y: 4744
+            Z: -277
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -1.29257202
+            Yaw: -85.1695251
+            Roll: 14.9455309
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17962226693329885709
+    }
+  }
+}
+Objects {
+  Id: 17350162530219905186
+  Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
+  Transform {
+    Location {
+      X: 26681
+      Y: 6981
+      Z: -100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5651245337890175187
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fantasy Castle Pillar 01 - 2x Tile Template"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1485
+            Y: 7613
+            Z: -294
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 7.82745123
+            Yaw: 12.315897
+            Roll: -25.9179077
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17962226693329885709
+    }
+  }
+}
+Objects {
+  Id: 6477236952806078712
+  Name: "Fantasy Castle Pillar Wall 01 Arch"
+  Transform {
+    Location {
+      X: -1462
+      Y: 7389
+      Z: 180
+    }
+    Rotation {
+      Pitch: 25.6485062
+      Yaw: 25.3042202
+      Roll: -28.2901611
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11679638938136483441
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 12679705630076360788
+  Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
+  Transform {
+    Location {
+      X: 26681
+      Y: 7714
+      Z: -100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5651245337890175187
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fantasy Castle Pillar 01 - 2x Tile Template"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1459
+            Y: 7033.29736
+            Z: -97.8040161
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17962226693329885709
+    }
+  }
+}
+Objects {
+  Id: 16619679563920524414
+  Name: "Fantasy Castle Pillar Wall 01 Arch"
+  Transform {
+    Location {
+      X: -1414
+      Y: 6982
+      Z: 500
+    }
+    Rotation {
+      Roll: -5
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11679638938136483441
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 17411962526091818752
   Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
   Transform {
@@ -43,8 +441,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -220
-            Y: 7620
+            X: -1459
+            Y: 7714
             Z: -100
           }
         }
@@ -65,12 +463,11 @@ Objects {
   Name: "Fantasy Castle Pillar Wall 01 Arch"
   Transform {
     Location {
-      X: -210
-      Y: 7560
+      X: -1414
+      Y: 7715
       Z: 500
     }
     Rotation {
-      Yaw: -84.9999847
     }
     Scale {
       X: 1
@@ -123,6 +520,23 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 1982780320219488550
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 1200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 25
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 5651245337890175187
       value {
         Overrides {
@@ -148,6 +562,17 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6393615945825996208
+      value {
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -5
           }
         }
       }

@@ -16,12 +16,3 @@ Assets {
     AssetId: "mi_brick_cobblestone_floor_001"
   }
 }
-Assets {
-  Id: 5539844578883618691
-  Name: "Bricks Rough Stone Floor 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_stone_floor_rough_001"
-  }
-}

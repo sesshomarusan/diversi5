@@ -1,6 +1,152 @@
 Name: "Fire_Trees"
 RootId: 12361524627397976700
 Objects {
+  Id: 10641468242232787987
+  Name: "Tree In Fire"
+  Transform {
+    Location {
+      X: 31270
+      Y: 5679
+      Z: -25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 0.5
+    }
+  }
+  ParentId: 12361524627397976700
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4750981950714715491
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17672323514672693903
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree In Fire"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1013
+            Y: 8963
+            Z: -25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.5
+            Y: 0.5
+            Z: 0.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4785843876295230461
+    }
+  }
+}
+Objects {
+  Id: 1479267009231312456
+  Name: "Tree In Fire"
+  Transform {
+    Location {
+      X: 30813
+      Y: 5406
+      Z: -25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 0.5
+      Z: 0.5
+    }
+  }
+  ParentId: 12361524627397976700
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4750981950714715491
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17672323514672693903
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree In Fire"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1470
+            Y: 8690
+            Z: -25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.5
+            Y: 0.5
+            Z: 0.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4785843876295230461
+    }
+  }
+}
+Objects {
   Id: 4694667858236869189
   Name: "Tree In Fire"
   Transform {
@@ -50,79 +196,6 @@ Objects {
           Vector {
             X: 5550
             Y: 8618
-            Z: -25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 4785843876295230461
-    }
-  }
-}
-Objects {
-  Id: 3890682604216637829
-  Name: "Tree In Fire"
-  Transform {
-    Location {
-      X: 33016
-      Y: 3926
-      Z: -25
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 0.5
-    }
-  }
-  ParentId: 12361524627397976700
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 4750981950714715491
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17672323514672693903
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Tree In Fire"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 4876
-            Y: 7776
             Z: -25
           }
         }
