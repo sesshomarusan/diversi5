@@ -5,7 +5,7 @@ Objects {
   Name: "Fantasy Castle Stairs 01 - 150cm"
   Transform {
     Location {
-      X: 1397
+      X: 1170
       Y: 3806
       Z: 294
     }
@@ -14,7 +14,7 @@ Objects {
       Yaw: -15
     }
     Scale {
-      X: 0.25
+      X: 0.8
       Y: 1
       Z: 1
     }

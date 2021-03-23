@@ -1,6 +1,112 @@
 Name: "Steps"
 RootId: 16787535566305772942
 Objects {
+  Id: 5750875497232133648
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 2010
+      Y: 6790
+      Z: -10
+    }
+    Rotation {
+      Pitch: -7.77035522
+      Yaw: 58.5668182
+      Roll: -90.3026733
+    }
+    Scale {
+      X: 1
+      Y: 1.5
+      Z: 4.25000048
+    }
+  }
+  ParentId: 16787535566305772942
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7839867527616256170
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 768214175509798572
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 1590
+      Y: 3960
+      Z: 30
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 2.60000038
+      Y: 2.2
+      Z: 3.5
+    }
+  }
+  ParentId: 16787535566305772942
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7839867527616256170
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 6211139119540644200
   Name: "Cube"
   Transform {
@@ -268,8 +374,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3486
-      Y: 6354
+      X: 4440
+      Y: 5050
       Z: 116
     }
     Rotation {
@@ -320,8 +426,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 4108.61719
-      Y: 6294
+      X: 4710
+      Y: 7370
       Z: 91
     }
     Rotation {
@@ -372,9 +478,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3589.61719
-      Y: 7194
-      Z: 100
+      X: 3780
+      Y: 7880
+      Z: 99.999939
     }
     Rotation {
       Yaw: 89.9999542
@@ -424,9 +530,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3771.37891
-      Y: 6746
-      Z: 54
+      X: 4170
+      Y: 7490
+      Z: 53.999939
     }
     Rotation {
       Yaw: 89.9999542
@@ -476,17 +582,17 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 1091
-      Y: 6376
+      X: 1270
+      Y: 6180
       Z: 96
     }
     Rotation {
       Yaw: -179.999969
     }
     Scale {
-      X: 1.5
-      Y: 2.25
-      Z: 3.50000024
+      X: 2.60000038
+      Y: 1.6
+      Z: 3.5
     }
   }
   ParentId: 16787535566305772942
@@ -588,9 +694,9 @@ Objects {
       Yaw: 180
     }
     Scale {
-      X: 1.5
-      Y: 2.25
-      Z: 3.50000024
+      X: 2.10000038
+      Y: 2.2
+      Z: 3.5
     }
   }
   ParentId: 16787535566305772942
@@ -1849,12 +1955,12 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3195.87695
-      Y: 7955
+      X: 2785.07422
+      Y: 7966.89453
       Z: -17
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 130
     }
     Scale {
       X: 1
@@ -1901,12 +2007,12 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3161.48047
-      Y: 7862.63623
+      X: 2818.0918
+      Y: 7874.02832
       Z: -17
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 130
     }
     Scale {
       X: 0.999999762
@@ -1953,12 +2059,12 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3094
-      Y: 7673
+      X: 2888.29688
+      Y: 7685.38379
       Z: -17
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 130
     }
     Scale {
       X: 1
@@ -2005,12 +2111,12 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3146.26953
-      Y: 7588.56445
+      X: 2982.60938
+      Y: 7654.3
       Z: -17
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 130
     }
     Scale {
       X: 0.8
@@ -2057,14 +2163,14 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 3115
-      Y: 7322
+      X: 3370
+      Y: 7430
       Z: -5
     }
     Rotation {
-      Pitch: 17.2293835
-      Yaw: 58.4332199
-      Roll: -60.3140869
+      Pitch: 17.2293568
+      Yaw: 98.4331894
+      Roll: -60.3140564
     }
     Scale {
       X: 1
@@ -2316,68 +2422,16 @@ Objects {
   }
 }
 Objects {
-  Id: 15681967416794369584
-  Name: "Cube"
-  Transform {
-    Location {
-      X: -233.238281
-      Y: 7461
-      Z: 107
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 1.5
-      Y: 2.25
-      Z: 2.25
-    }
-  }
-  ParentId: 16787535566305772942
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 7839867527616256170
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
   Id: 14448511519723703201
   Name: "Cube"
   Transform {
     Location {
-      X: 3230.48242
-      Y: 8047.91211
+      X: 2751.85938
+      Y: 8060.31104
       Z: -17
     }
     Rotation {
-      Yaw: 89.9999847
+      Yaw: 130
     }
     Scale {
       X: 1

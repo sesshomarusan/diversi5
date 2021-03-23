@@ -5,12 +5,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -8912.17188
-      Y: 5674
-      Z: -28
+      X: -9008.17188
+      Y: 5890
+      Z: -107
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -150
     }
     Scale {
       X: 1
@@ -49,12 +49,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -8869.16602
-      Y: 5673.99902
-      Z: -28
+      X: -8998.17188
+      Y: 5820
+      Z: -107.000214
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -55
     }
     Scale {
       X: 1
@@ -93,12 +93,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -8992.17188
+      X: -9178.17188
       Y: 5674.00049
-      Z: -28
+      Z: -107.000031
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -70
     }
     Scale {
       X: 1
@@ -137,12 +137,14 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -8949.17
-      Y: 5673.99902
-      Z: -28
+      X: -8978.17188
+      Y: 5560
+      Z: -107.000031
     }
     Rotation {
-      Yaw: -89.9999924
+      Pitch: -4.980896
+      Yaw: -95.0189514
+      Roll: 0.436883688
     }
     Scale {
       X: 1
@@ -181,12 +183,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -9753.17188
-      Y: 4751
-      Z: -28
+      X: -9568.17188
+      Y: 4860
+      Z: -107.000061
     }
     Rotation {
-      Yaw: 95
+      Yaw: 75
     }
     Scale {
       X: 1
@@ -225,12 +227,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -9796.01172
-      Y: 4747.25098
-      Z: -28
+      X: -9668.17188
+      Y: 4590
+      Z: -97.000061
     }
     Rotation {
-      Yaw: 95
+      Yaw: 120
     }
     Scale {
       X: 1
@@ -269,12 +271,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -9673.47852
-      Y: 4757.97314
-      Z: -28
+      X: -9508.17188
+      Y: 4700
+      Z: -107
     }
     Rotation {
-      Yaw: 95
+      Yaw: 25
     }
     Scale {
       X: 1
@@ -313,9 +315,9 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -9716.3125
-      Y: 4754.22412
-      Z: -28
+      X: -9428.17188
+      Y: 5010
+      Z: -97
     }
     Rotation {
       Yaw: 95
@@ -357,12 +359,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10181.1699
+      X: -10228.1719
       Y: 5933.99902
-      Z: -28
+      Z: -87
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
@@ -403,10 +405,10 @@ Objects {
     Location {
       X: -10224.1719
       Y: 5934.00049
-      Z: -28
+      Z: -107
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -110
     }
     Scale {
       X: 1
@@ -445,12 +447,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10101.166
-      Y: 5933.99902
-      Z: -28
+      X: -10118.1719
+      Y: 5870
+      Z: -97.0000153
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -75
     }
     Scale {
       X: 1
@@ -489,12 +491,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10144.1719
-      Y: 5934
-      Z: -28
+      X: -10128.1719
+      Y: 5920
+      Z: -97
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -120
     }
     Scale {
       X: 1
@@ -533,11 +535,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10348.1719
+      X: -10488.1719
       Y: 8163
-      Z: -28
+      Z: -107
     }
     Rotation {
+      Yaw: -20
     }
     Scale {
       X: 1
@@ -576,11 +579,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10348.1719
-      Y: 8206
-      Z: -28
+      X: -10343.1172
+      Y: 8142.80469
+      Z: -107
     }
     Rotation {
+      Yaw: -5
     }
     Scale {
       X: 1
@@ -619,11 +623,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10348.1719
-      Y: 8083
-      Z: -28
+      X: -10395.0977
+      Y: 8031.3291
+      Z: -107
     }
     Rotation {
+      Yaw: -85
     }
     Scale {
       X: 1
@@ -662,11 +667,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -10348.1719
-      Y: 8126
-      Z: -28
+      X: -10295.3555
+      Y: 8032.26416
+      Z: -107
     }
     Rotation {
+      Yaw: -25
     }
     Scale {
       X: 1
@@ -705,11 +711,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -9488.17188
+      X: -9438.17188
       Y: 6937
-      Z: -28
+      Z: -107
     }
     Rotation {
+      Yaw: 5
     }
     Scale {
       X: 1
@@ -750,9 +757,10 @@ Objects {
     Location {
       X: -9488.17188
       Y: 6980
-      Z: -28
+      Z: -107
     }
     Rotation {
+      Yaw: 15
     }
     Scale {
       X: 1
@@ -793,9 +801,10 @@ Objects {
     Location {
       X: -9488.17188
       Y: 6857
-      Z: -28
+      Z: -107
     }
     Rotation {
+      Yaw: -10
     }
     Scale {
       X: 1
@@ -834,9 +843,9 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -9488.17188
+      X: -9518.17188
       Y: 6900
-      Z: -28
+      Z: -107
     }
     Rotation {
     }
@@ -878,10 +887,11 @@ Objects {
   Transform {
     Location {
       X: -8737.17188
-      Y: 7838
-      Z: -28
+      Y: 7860
+      Z: -97
     }
     Rotation {
+      Yaw: 10
     }
     Scale {
       X: 1
@@ -921,10 +931,12 @@ Objects {
   Transform {
     Location {
       X: -8737.17188
-      Y: 7795
-      Z: -28
+      Y: 7850
+      Z: -67
     }
     Rotation {
+      Pitch: -10
+      Yaw: -15
     }
     Scale {
       X: 1
@@ -963,11 +975,12 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -8737.17188
-      Y: 7758
-      Z: -28
+      X: -8738.17188
+      Y: 7820
+      Z: -97.0000153
     }
     Rotation {
+      Yaw: -30
     }
     Scale {
       X: 1
@@ -1006,11 +1019,14 @@ Objects {
   Name: "Wood 2x4 4m"
   Transform {
     Location {
-      X: -8737.17188
+      X: -8618.17188
       Y: 7715
-      Z: -28
+      Z: -67
     }
     Rotation {
+      Pitch: -8.64917
+      Yaw: 30.3812714
+      Roll: -5.0383606
     }
     Scale {
       X: 1

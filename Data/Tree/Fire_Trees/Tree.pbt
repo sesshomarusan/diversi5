@@ -36,6 +36,12 @@ Objects {
             Z: 1
           }
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 50
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -266,6 +272,11 @@ Objects {
             X: 28
             Y: -17.5000038
             Z: 28
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }

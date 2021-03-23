@@ -58,13 +58,13 @@ Objects {
     Location {
       X: 969
       Y: 4031
-      Z: 121
+      Z: 26
     }
     Rotation {
     }
     Scale {
-      X: 2.5
-      Y: 1.49999988
+      X: 2.2
+      Y: 1.5
       Z: 1.5
     }
   }
@@ -109,7 +109,7 @@ Objects {
     Location {
       X: 1649
       Y: 4998
-      Z: 40
+      Z: 6
     }
     Rotation {
       Yaw: 89.9999847
@@ -212,7 +212,7 @@ Objects {
     Location {
       X: 1723
       Y: 6105
-      Z: 27
+      Z: 6
     }
     Rotation {
     }
@@ -220,58 +220,6 @@ Objects {
       X: 3.24077582
       Y: 3.35352969
       Z: 2.13695669
-    }
-  }
-  ParentId: 3577199658077703067
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 412493161198471310
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9032484619104688176
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
-  Id: 13816931949482931032
-  Name: "Cube - Chamfered Large"
-  Transform {
-    Location {
-      X: 2147
-      Y: 6685
-      Z: -3
-    }
-    Rotation {
-      Yaw: 89.9999847
-    }
-    Scale {
-      X: 1.72166216
-      Y: 1.67676449
-      Z: 1.8995173
     }
   }
   ParentId: 3577199658077703067
@@ -372,9 +320,9 @@ Objects {
       Yaw: 90
     }
     Scale {
-      X: 3.03822708
-      Y: 1.72608113
-      Z: 1.78079736
+      X: 3
+      Y: 4.70000124
+      Z: 1.80000007
     }
   }
   ParentId: 3577199658077703067
@@ -423,9 +371,9 @@ Objects {
     Rotation {
     }
     Scale {
-      X: 2.78504157
-      Y: 1.47949815
-      Z: 1.78079736
+      X: 2.4
+      Y: 2.4
+      Z: 1.80000007
     }
   }
   ParentId: 3577199658077703067
@@ -474,9 +422,9 @@ Objects {
     Rotation {
     }
     Scale {
-      X: 3.03822708
-      Y: 1.72608113
-      Z: 1.78079736
+      X: 2.60000014
+      Y: 2.90000033
+      Z: 1.80000007
     }
   }
   ParentId: 3577199658077703067
@@ -578,9 +526,9 @@ Objects {
       Yaw: -90
     }
     Scale {
-      X: 4.75
+      X: 2.69999957
       Y: 2
-      Z: 1.49999988
+      Z: 1.5
     }
   }
   ParentId: 3577199658077703067
@@ -630,9 +578,9 @@ Objects {
       Yaw: -90
     }
     Scale {
-      X: 4.75
-      Y: 2
-      Z: 1.49999988
+      X: 2.5
+      Y: 3.2
+      Z: 1.5
     }
   }
   ParentId: 3577199658077703067

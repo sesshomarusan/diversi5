@@ -261,50 +261,6 @@ Objects {
   }
 }
 Objects {
-  Id: 15825874817017090450
-  Name: "Stone Arch (doorway) 001"
-  Transform {
-    Location {
-      X: 5394
-      Y: 6836
-      Z: 305
-    }
-    Rotation {
-      Yaw: 15.00002
-    }
-    Scale {
-      X: 1
-      Y: 1.25
-      Z: 1
-    }
-  }
-  ParentId: 16022447241991079606
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1747602873247320667
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
   Id: 13805638447223729835
   Name: "Stone Arch (doorway) 001"
   Transform {
