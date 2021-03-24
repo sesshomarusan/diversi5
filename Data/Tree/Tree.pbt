@@ -25,8 +25,7 @@ Objects {
   ChildIds: 4658613548534488732
   ChildIds: 10749735823100360741
   ChildIds: 12657443587902675875
-  ChildIds: 5269832783435679914
-  ChildIds: 13036876668855795080
+  ChildIds: 13289977813562031234
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -42,24 +41,63 @@ Objects {
   }
 }
 Objects {
-  Id: 13036876668855795080
-  Name: "Fantasy Castle Stairs 01 - Straight"
+  Id: 13289977813562031234
+  Name: "Advanced Spear"
   Transform {
     Location {
-      X: 7480
-      Y: 32960
-      Z: 9065
-    }
-    Rotation {
-      Yaw: 89.9999924
+      X: 11017
+      Y: 31095
+      Z: 9278
     }
     Scale {
-      X: -1.2
-      Y: 1.2
-      Z: 1
+      X: 2.1
+      Y: 2.1
+      Z: 2.1
     }
   }
   ParentId: 4781671109827199097
+  ChildIds: 3045850404201114530
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:EquipmentStance"
+      String: "2hand_staff_stance"
+    }
+    Overrides {
+      Name: "cs:PickupSound"
+      AssetReference {
+        Id: 16682648391066602855
+      }
+    }
+    Overrides {
+      Name: "cs:PlayerImpact"
+      AssetReference {
+        Id: 10913097761010544759
+      }
+    }
+    Overrides {
+      Name: "cs:SwingSound"
+      AssetReference {
+        Id: 17949265995935887884
+      }
+    }
+    Overrides {
+      Name: "cs:EquipmentStance:tooltip"
+      String: "The stance animation when a player picks up the equipment."
+    }
+    Overrides {
+      Name: "cs:PlayerImpact:tooltip"
+      String: "Template that is spawned at the location where the hitbox hit the player."
+    }
+    Overrides {
+      Name: "cs:PickupSound:tooltip"
+      String: "Template that is spawned at the equipment owner location when being picked up."
+    }
+    Overrides {
+      Name: "cs:SwingSound:tooltip"
+      String: "Template that is spawned at the equipment owner location when a melee ability is executed."
+    }
+  }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -69,41 +107,36 @@ Objects {
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 517374961762022671
+  Equipment {
+    SocketName: "right_prop"
+    PickupTrigger {
+      SelfId: 841534158063459245
     }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
+  }
+  InstanceHistory {
+    SelfId: 13289977813562031234
+    SubobjectId: 17992957111025546175
+    InstanceId: 2282145498198224705
+    TemplateId: 17897842029256027200
+    WasRoot: true
   }
 }
 Objects {
-  Id: 5269832783435679914
-  Name: "Fantasy Castle Stairs 01 - Straight"
+  Id: 3045850404201114530
+  Name: "ClientContext"
   Transform {
     Location {
-      X: 7480
-      Y: 35190
-      Z: 9065
     }
     Rotation {
-      Yaw: 90
     }
     Scale {
-      X: 1.2
-      Y: 1.2
+      X: 1
+      Y: 1
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 13289977813562031234
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -113,20 +146,13 @@ Objects {
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 517374961762022671
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
+  NetworkContext {
+  }
+  InstanceHistory {
+    SelfId: 3045850404201114530
+    SubobjectId: 7753412466298119327
+    InstanceId: 2282145498198224705
+    TemplateId: 17897842029256027200
   }
 }
 Objects {
@@ -146,6 +172,7 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+  ChildIds: 17622066315791203151
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceon"
   }
@@ -162,6 +189,61 @@ Objects {
     VoxelSize: 100
     OctreeDepth: 5
     GeneratorID: "DEPRECATED"
+  }
+}
+Objects {
+  Id: 17622066315791203151
+  Name: "Point Light"
+  Transform {
+    Location {
+      X: 21410.6328
+      Y: 6905.91943
+      Z: 9891
+    }
+    Rotation {
+      Yaw: -122
+    }
+    Scale {
+      X: -0.299999982
+      Y: -0.299999982
+      Z: -0.299999982
+    }
+  }
+  ParentId: 12657443587902675875
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Light {
+    Intensity: 50
+    Color {
+      R: 1
+      G: 1
+      B: 1
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 5195.8
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 5000
+      MaxDistanceFadeRange: 1000
+    }
   }
 }
 Objects {

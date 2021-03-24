@@ -27,6 +27,15 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 534428102922246853
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 369.232
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 12864697072360640381
       value {
         Overrides {
@@ -44,7 +53,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -5.00001335
+            Yaw: -5
           }
         }
         Overrides {
@@ -100,6 +109,15 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 534428102922246853
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 369.232
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 12864697072360640381
       value {
@@ -166,6 +184,15 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 534428102922246853
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 369.232
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 12864697072360640381
       value {
@@ -241,6 +268,15 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 534428102922246853
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 369.232
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 12864697072360640381
       value {
         Overrides {
@@ -258,7 +294,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -5.00001049
+            Yaw: -5
           }
         }
         Overrides {

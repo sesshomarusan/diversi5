@@ -10,7 +10,7 @@ Objects {
       Z: 1.42234802
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -53,7 +53,7 @@ Objects {
       Z: 1.42234802
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -96,7 +96,7 @@ Objects {
       Z: 1.42234802
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -139,7 +139,7 @@ Objects {
       Z: 1.42234802
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -182,7 +182,7 @@ Objects {
       Z: 1.42234802
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -225,7 +225,7 @@ Objects {
       Z: 1.42234802
     }
     Rotation {
-      Yaw: -90.0000229
+      Yaw: -90.0000305
     }
     Scale {
       X: 1
