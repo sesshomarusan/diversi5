@@ -152,6 +152,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14313501685241229986
+  Name: "Terrain - Moss"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_rock-moss_001_wa"
+  }
+}
+Assets {
   Id: 14265726385927418716
   Name: "Fantasy Castle Trim - Battlement 01 4m"
   PlatformAssetType: 1
@@ -368,6 +377,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7559047187829955417
+  Name: "Terrain - Mossy Concrete"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_concrete-moss_001_wa"
+  }
+}
+Assets {
   Id: 7513385921730942068
   Name: "Fantasy Castle Wall 02 Half - Window 01"
   PlatformAssetType: 1
@@ -401,6 +419,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_002_win_01"
+  }
+}
+Assets {
+  Id: 6778237645489430215
+  Name: "Moss 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_moss_001_uv"
   }
 }
 Assets {

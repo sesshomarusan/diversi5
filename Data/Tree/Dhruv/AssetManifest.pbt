@@ -71,6 +71,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17800555224598990128
+  Name: "Plane Circle - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_circle_001"
+  }
+}
+Assets {
   Id: 17546982558755096284
   Name: "Whitebox Floor 01 8m x 8m"
   PlatformAssetType: 1
@@ -149,33 +158,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_002"
-  }
-}
-Assets {
-  Id: 16548328858262956159
-  Name: "Gem - Radiant Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_gem_radiant_polished_001"
-  }
-}
-Assets {
-  Id: 16354317593366277883
-  Name: "Metal Old Beaten Gold 02"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_gold_002"
-  }
-}
-Assets {
-  Id: 16300919169194553303
-  Name: "Diamond - Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_diamond_hq_001"
   }
 }
 Assets {
@@ -269,24 +251,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14828136740558774078
-  Name: "Column Segment 1m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_column_segment_001"
-  }
-}
-Assets {
-  Id: 14665557274846010729
-  Name: "Cone - Truncated Hollow Concave"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_hollow_convex_001"
-  }
-}
-Assets {
   Id: 14655116653287160419
   Name: "Hill 04"
   PlatformAssetType: 1
@@ -311,6 +275,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_broken_02"
+  }
+}
+Assets {
+  Id: 14427003188438588897
+  Name: "Terrain - Grass Cliffs"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_cliff-grass-001_wa"
   }
 }
 Assets {
@@ -350,15 +323,6 @@ Assets {
   }
 }
 Assets {
-  Id: 13716299855703764385
-  Name: "Teardrop - Truncated"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_truncated_teardrop_001"
-  }
-}
-Assets {
   Id: 13710161915374590549
   Name: "Rock 03"
   PlatformAssetType: 1
@@ -386,6 +350,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13405450940038911275
+  Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_stairs_spiral_001_sm_150cm"
+  }
+}
+Assets {
   Id: 13253926991121342451
   Name: "Fantasy Clay Pot 02 Damaged 02"
   PlatformAssetType: 1
@@ -395,21 +368,21 @@ Assets {
   }
 }
 Assets {
+  Id: 12725858972823480894
+  Name: "Generic Water - No Distortion"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_parameter_driven_water_nodistortion"
+  }
+}
+Assets {
   Id: 12628183978468003363
   Name: "Hill 05"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_hill_005"
-  }
-}
-Assets {
-  Id: 12434974458467685788
-  Name: "Sphere"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sphere_002"
   }
 }
 Assets {
@@ -428,6 +401,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bucket_001"
+  }
+}
+Assets {
+  Id: 12095835209017042614
+  Name: "Cube"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_002"
   }
 }
 Assets {
@@ -467,6 +449,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11402441593685472770
+  Name: "Sconce 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_sconce_002"
+  }
+}
+Assets {
   Id: 11376796222350485006
   Name: "Stone Block Big Broken"
   PlatformAssetType: 1
@@ -491,6 +482,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_broken_04"
+  }
+}
+Assets {
+  Id: 11029918611887617758
+  Name: "Humanoid 1 Rig"
+  PlatformAssetType: 25
+  PrimaryAsset {
+    AssetType: "SkeletonAssetRef"
+    AssetId: "npc_gal_wireframe_001_ref"
   }
 }
 Assets {
@@ -530,21 +530,12 @@ Assets {
   }
 }
 Assets {
-  Id: 10563354162025328576
-  Name: "Chain Tile 01"
-  PlatformAssetType: 1
+  Id: 10633922864131216250
+  Name: "Bricks Chunky Stone 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_chain_001"
-  }
-}
-Assets {
-  Id: 10466899058966006131
-  Name: "Cylinder - Rounded Small"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_rounded_003"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_chunky_001"
   }
 }
 Assets {
@@ -575,21 +566,21 @@ Assets {
   }
 }
 Assets {
+  Id: 9788398931164949884
+  Name: "Column Topper 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_column_top_001"
+  }
+}
+Assets {
   Id: 9767326643704416540
   Name: "Fantasy Clay Pot 03 Damaged 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_clay_pot_broken_005_ref"
-  }
-}
-Assets {
-  Id: 9763506156585266330
-  Name: "Opaque Bubble Glass"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_opaque_bubble_glass"
   }
 }
 Assets {
@@ -620,12 +611,21 @@ Assets {
   }
 }
 Assets {
-  Id: 9138686588166611216
-  Name: "Cone - Truncated Concave"
+  Id: 9172507844207773517
+  Name: "Terrain - Grass"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_rock-grass-001_wa"
+  }
+}
+Assets {
+  Id: 9077430455517979125
+  Name: "Container - Rectangle"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_concave_001"
+    AssetId: "sm_container_rectangle_ref"
   }
 }
 Assets {
@@ -644,15 +644,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_clay_pot_002_ref"
-  }
-}
-Assets {
-  Id: 8980991256821348555
-  Name: "Cone - Truncated Hollow"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_hollow_001"
   }
 }
 Assets {
@@ -710,6 +701,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8577916611928249881
+  Name: "Generic Water"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_parameter_driven_water_manual"
+  }
+}
+Assets {
   Id: 8441475853161605225
   Name: "Rock Block 02"
   PlatformAssetType: 1
@@ -743,6 +743,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_foot_01_ref"
+  }
+}
+Assets {
+  Id: 8047616286204415729
+  Name: "Humanoid 1 Core Shirt"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_upper_basic_000_ref"
   }
 }
 Assets {
@@ -791,12 +800,12 @@ Assets {
   }
 }
 Assets {
-  Id: 7511473365680159662
-  Name: "Ring - Quarter"
+  Id: 7562564312206413552
+  Name: "Stone Arch 3m"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_quarter_torus_002"
+    AssetId: "sm_stone-arch_6m_002"
   }
 }
 Assets {
@@ -827,30 +836,39 @@ Assets {
   }
 }
 Assets {
+  Id: 6506670176163777679
+  Name: "Container - Rectangle Thin 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_container_rectangle_thin_ref"
+  }
+}
+Assets {
+  Id: 6434660588544064544
+  Name: "Humanoid 1 Nalo"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_gal_head_basic_003_ref"
+  }
+}
+Assets {
+  Id: 6159833405382513654
+  Name: "Tree Oak Bare 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_oak_002"
+  }
+}
+Assets {
   Id: 5999600642333949881
   Name: "Dirt 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "dirt_001"
-  }
-}
-Assets {
-  Id: 5836430349218932838
-  Name: "Pipe - Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_003"
-  }
-}
-Assets {
-  Id: 5756089993950954690
-  Name: "Arch Fancy 3m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_arch_fancy_3m_001"
   }
 }
 Assets {
@@ -863,21 +881,21 @@ Assets {
   }
 }
 Assets {
-  Id: 5113278490719783875
-  Name: "Chain Ceiling Anchor"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_chain_top_001"
-  }
-}
-Assets {
   Id: 5109129970559468393
   Name: "Cube"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 4816965053956745018
+  Name: "Decal Moss Patch"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_moss_patch_001"
   }
 }
 Assets {
@@ -917,39 +935,12 @@ Assets {
   }
 }
 Assets {
-  Id: 4247430867898109902
-  Name: "Stucco Tintable"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_stucco_tint_001_uv"
-  }
-}
-Assets {
   Id: 4211126831021962034
   Name: "Fantasy Clay Pot 02 Damaged 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_clay_pot_broken_001_ref"
-  }
-}
-Assets {
-  Id: 4193024863549911546
-  Name: "Column Base 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_column_bottom_002"
-  }
-}
-Assets {
-  Id: 4191189716791684405
-  Name: "Pipe - Thick"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_004"
   }
 }
 Assets {
@@ -1097,21 +1088,21 @@ Assets {
   }
 }
 Assets {
-  Id: 1602583136959178566
-  Name: "Ellipsoid - Truncated"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ellipsoid_truncated_001"
-  }
-}
-Assets {
   Id: 1367565729547875542
   Name: "Fantasy Castle Wall 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_001"
+  }
+}
+Assets {
+  Id: 1287203782625704153
+  Name: "Concrete Rough"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_gen_concrete_rough_001"
   }
 }
 Assets {
@@ -1139,15 +1130,6 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_metal_painted_new_001_uv"
-  }
-}
-Assets {
-  Id: 866382360966279153
-  Name: "Column Base 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_column_bottom_001"
   }
 }
 Assets {

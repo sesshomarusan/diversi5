@@ -42060,6 +42060,12 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 14313501685241229986
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42157,6 +42163,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42215,6 +42229,12 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 14313501685241229986
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42265,6 +42285,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42323,6 +42351,12 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 7559047187829955417
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42371,6 +42405,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42418,6 +42460,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42466,6 +42516,12 @@ Objects {
   }
   ParentId: 6004812996865371057
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42524,6 +42580,12 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 14313501685241229986
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42574,6 +42636,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42621,6 +42691,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42669,6 +42747,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42727,6 +42813,12 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 7559047187829955417
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42777,6 +42869,12 @@ Objects {
   }
   ParentId: 6004812996865371057
   UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42826,6 +42924,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42883,6 +42989,12 @@ Objects {
         G: 0.839314699
         B: 0.81576
         A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 14313501685241229986
       }
     }
   }
@@ -42944,6 +43056,12 @@ Objects {
         A: 1
       }
     }
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 7559047187829955417
+      }
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42993,6 +43111,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -43041,6 +43167,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -43090,6 +43224,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -43138,6 +43280,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -43186,6 +43336,14 @@ Objects {
     }
   }
   ParentId: 6004812996865371057
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 6778237645489430215
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
