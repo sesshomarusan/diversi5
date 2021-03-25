@@ -63,15 +63,14 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 4220
-            Y: 2800
-            Z: 30
+            X: 5450
+            Y: 3200
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -90.0000534
+            Yaw: -90.000061
           }
         }
         Overrides {
@@ -81,9 +80,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 10
+            Y: 10
+            Z: 10
           }
         }
         Overrides {
@@ -93,6 +92,16 @@ Objects {
         Overrides {
           Name: "cs:Speed"
           Float: 333
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17276905968692241527
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
         }
       }
     }
@@ -1362,7 +1371,7 @@ Objects {
   Name: "Teleporter A"
   Transform {
     Location {
-      X: 5200
+      X: 1950
       Y: 2000
       Z: 30
     }
