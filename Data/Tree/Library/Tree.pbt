@@ -1,16 +1,16 @@
 Name: "Library"
 RootId: 6504418214286829755
 Objects {
-  Id: 9174776548643255988
+  Id: 15543955168616390390
   Name: "Book shelf"
   Transform {
     Location {
-      X: 6832.84
-      Y: 32053.9805
-      Z: 9672
+      X: 11301.8916
+      Y: 2409.95703
+      Z: 1421.88965
     }
     Rotation {
-      Yaw: -85.9999847
+      Yaw: -89.5291443
     }
     Scale {
       X: 2
@@ -25,91 +25,32 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1430720065360865468
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 103.588074
-            Y: 47.9599571
-            Z: 130
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10708
-            Y: 3141
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -85.9999695
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10.5
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 103.588074
-            Y: 47.9599571
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17518057868905220446
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 18089168383533880061
+  Id: 11383985482502549644
   Name: "Book shelf"
   Transform {
     Location {
-      X: 6862
-      Y: 31637
-      Z: 9672
+      X: 11306.2031
+      Y: 1884.80469
+      Z: 1421.88965
     }
     Rotation {
-      Yaw: 91.9999924
+      Yaw: -89.5291443
     }
     Scale {
       X: 2
@@ -124,77 +65,32 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10737.1602
-            Y: 2724.01953
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 91.9999771
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 99.8306122
-            Y: 48.2231941
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6777761933385266638
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_1"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 9943663537301388250
+  Id: 133618059559991628
   Name: "Book shelf"
   Transform {
     Location {
-      X: 8423.84
-      Y: 32053.9805
-      Z: 9672
+      X: 11095.8076
+      Y: 1401.03125
+      Z: 1421.88965
     }
     Rotation {
-      Yaw: -85.9999619
+      Yaw: 179.418182
     }
     Scale {
       X: 2
@@ -209,91 +105,32 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1430720065360865468
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 102.091812
-            Y: 48.0652809
-            Z: 130
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 12299
-            Y: 3141
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -85.9999695
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10.5
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 100.595474
-            Y: 48.1699104
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17518057868905220446
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_2"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 7207110803249857530
+  Id: 6030680282140672514
   Name: "Book shelf"
   Transform {
     Location {
-      X: 8453
-      Y: 31637
-      Z: 9672
+      X: 11489.3682
+      Y: 1397.03516
+      Z: 1421.88965
     }
     Rotation {
-      Yaw: 91.9999695
+      Yaw: 179.418182
     }
     Scale {
       X: 2
@@ -308,343 +145,29 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 12328.1602
-            Y: 2724.01953
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 91.9999619
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 99.8306122
-            Y: 48.2231941
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6777761933385266638
-    }
-  }
-}
-Objects {
-  Id: 3639528520657003159
-  Name: "Book shelf"
-  Transform {
-    Location {
-      X: 6862
-      Y: 31637
-      Z: 9672
-    }
-    Rotation {
-      Yaw: 91.9999924
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 6504418214286829755
-  Collidable_v2 {
+  CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_3"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 13092
-            Y: -1627
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 91.9999771
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 99.8306122
-            Y: 48.2231941
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6777761933385266638
-    }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 293751822570356499
+  Id: 10376452796244755070
   Name: "Book shelf"
   Transform {
     Location {
-      X: 6832.84
-      Y: 32053.9805
-      Z: 9672
-    }
-    Rotation {
-      Yaw: -85.9999847
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 6504418214286829755
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1430720065360865468
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 102.091812
-            Y: 48.0652809
-            Z: 130
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 13062.8398
-            Y: -1210.01953
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -85.9999695
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10.5
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 100.595474
-            Y: 48.1699104
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17518057868905220446
-    }
-  }
-}
-Objects {
-  Id: 10154842626527759456
-  Name: "Book shelf"
-  Transform {
-    Location {
-      X: 5709
-      Y: 32947
-      Z: 9672
-    }
-    Rotation {
-      Yaw: 178
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 6504418214286829755
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 11501
-            Y: -1627
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 92
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 99.8306122
-            Y: 48.2231941
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6777761933385266638
-    }
-  }
-}
-Objects {
-  Id: 14950450022695090217
-  Name: "Book shelf"
-  Transform {
-    Location {
-      X: 5291
-      Y: 32947
-      Z: 9672
+      X: 11470.2227
+      Y: -2
+      Z: 1347.04688
     }
     Rotation {
     }
@@ -661,173 +184,29 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1430720065360865468
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 103.588074
-            Y: 47.9599571
-            Z: 130
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 11471.8398
-            Y: -1210.01953
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -86
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10.5
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 103.588074
-            Y: 47.9599571
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17518057868905220446
-    }
-  }
-}
-Objects {
-  Id: 4241370642329227290
-  Name: "Book shelf"
-  Transform {
-    Location {
-      X: 5709
-      Y: 34555
-      Z: 9672
-    }
-    Rotation {
-      Yaw: 178
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 6504418214286829755
-  Collidable_v2 {
+  CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_4"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10348
-            Y: -317
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 178
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 99.8306122
-            Y: 48.2231941
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6777761933385266638
-    }
+  InstanceHistory {
+    SelfId: 12976399206524904716
+    SubobjectId: 3116846897190880547
+    InstanceId: 12593366584431750638
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 6810427974719241664
+  Id: 10081374852354482298
   Name: "Book shelf"
   Transform {
     Location {
-      X: 5291
-      Y: 34555
-      Z: 9672
+      X: 11069.9365
+      Y: -2
+      Z: 1347.04688
     }
     Rotation {
     }
@@ -844,61 +223,29 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9930
-            Y: -317
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10.5
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17518057868905220446
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_5"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 7144858532380263164
+  Id: 17082055121516671302
   Name: "Book shelf"
   Transform {
     Location {
-      X: 5291
-      Y: 34555
-      Z: 9672
+      X: 10676.3594
+      Y: -2
+      Z: 1347.04688
     }
     Rotation {
     }
@@ -915,74 +262,36 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10348
-            Y: 1291
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 178
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10654041117555285901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 99.8306122
-            Y: 48.2231941
-            Z: 60
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6777761933385266638
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_6"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
 Objects {
-  Id: 10119689967093928917
+  Id: 15067005359610264782
   Name: "Book shelf"
   Transform {
+    Location {
+      X: 11470.2227
+      Y: -2
+      Z: 1347.04688
+    }
+    Rotation {
+    }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 2
+      Y: 2
+      Z: 2
     }
   }
   ParentId: 6504418214286829755
@@ -992,50 +301,854 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3116846897190880547
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Book shelf"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9930
-            Y: 1291
-            Z: 1470
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_7"
+  }
+  InstanceHistory {
+    SelfId: 12976399206524904716
+    SubobjectId: 3116846897190880547
+    InstanceId: 12593366584431750638
+    TemplateId: 17518057868905220446
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 15869765293465403236
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11069.9365
+      Y: -2
+      Z: 1347.04688
     }
-    ParameterOverrideMap {
-      key: 4328571131137826901
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10.5
-          }
-        }
-      }
+    Rotation {
     }
-    TemplateAsset {
-      Id: 17518057868905220446
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
     }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_8"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 12976399206524904716
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11470.2227
+      Y: -2
+      Z: 856
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_9"
+  }
+  InstanceHistory {
+    SelfId: 12976399206524904716
+    SubobjectId: 3116846897190880547
+    InstanceId: 12593366584431750638
+    TemplateId: 17518057868905220446
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 9821339014482824565
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11069.9365
+      Y: -2
+      Z: 856
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_10"
+  }
+  InstanceHistory {
+    SelfId: 9821339014482824565
+    SubobjectId: 3116846897190880547
+    InstanceId: 8554667029130191985
+    TemplateId: 17518057868905220446
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 2079677764456928745
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10782.9355
+      Y: 1916.01563
+      Z: 866.463867
+    }
+    Rotation {
+      Yaw: 179.175461
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_11"
+  }
+  InstanceHistory {
+    SelfId: 2079677764456928745
+    SubobjectId: 3116846897190880547
+    InstanceId: 4894446093235731541
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 17341090043454619539
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11174.957
+      Y: 1910.20313
+      Z: 866.463867
+    }
+    Rotation {
+      Yaw: 179.175461
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_12"
+  }
+  InstanceHistory {
+    SelfId: 17341090043454619539
+    SubobjectId: 3116846897190880547
+    InstanceId: 4934743085480848953
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 14771438721487334707
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10790.3496
+      Y: 2431.11719
+      Z: 866.463867
+    }
+    Rotation {
+      Yaw: 179.175476
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_13"
+  }
+  InstanceHistory {
+    SelfId: 14771438721487334707
+    SubobjectId: 3116846897190880547
+    InstanceId: 712879431592440572
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 1310920057087449051
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11182.3711
+      Y: 2425.30469
+      Z: 866.463867
+    }
+    Rotation {
+      Yaw: 179.175476
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_14"
+  }
+  InstanceHistory {
+    SelfId: 1310920057087449051
+    SubobjectId: 3116846897190880547
+    InstanceId: 10805985950735274341
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 14466318340768581496
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10775.9121
+      Y: 1427.95313
+      Z: 866.463867
+    }
+    Rotation {
+      Yaw: 179.175507
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_15"
+  }
+  InstanceHistory {
+    SelfId: 14466318340768581496
+    SubobjectId: 3116846897190880547
+    InstanceId: 12352672684117847135
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 9894468313766675836
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11167.9336
+      Y: 1422.14063
+      Z: 866.463867
+    }
+    Rotation {
+      Yaw: 179.175507
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_16"
+  }
+  InstanceHistory {
+    SelfId: 9894468313766675836
+    SubobjectId: 3116846897190880547
+    InstanceId: 2683160626235274559
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 8540130973513416069
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 9919.58594
+      Y: 1661.65625
+      Z: 869.90918
+    }
+    Rotation {
+      Yaw: -91
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_17"
+  }
+  InstanceHistory {
+    SelfId: 8540130973513416069
+    SubobjectId: 3116846897190880547
+    InstanceId: 5603806861033070690
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 6148601256615428133
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 9926.58594
+      Y: 2053.65625
+      Z: 869.90918
+    }
+    Rotation {
+      Yaw: -91
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_18"
+  }
+  InstanceHistory {
+    SelfId: 6148601256615428133
+    SubobjectId: 3116846897190880547
+    InstanceId: 1747965130816453625
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 14714296911418559602
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11170
+      Y: 1640
+      Z: 864
+    }
+    Rotation {
+      Yaw: -91
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_19"
+  }
+  InstanceHistory {
+    SelfId: 14714296911418559602
+    SubobjectId: 3116846897190880547
+    InstanceId: 17504446467806522537
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 7574633172908981567
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11177
+      Y: 2032
+      Z: 864
+    }
+    Rotation {
+      Yaw: -91
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_20"
+  }
+  InstanceHistory {
+    SelfId: 7574633172908981567
+    SubobjectId: 3116846897190880547
+    InstanceId: 2987707465574892288
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 11538133392658553911
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11476
+      Y: -595
+      Z: 864
+    }
+    Rotation {
+      Yaw: -34
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_21"
+  }
+  InstanceHistory {
+    SelfId: 11538133392658553911
+    SubobjectId: 3116846897190880547
+    InstanceId: 6785544839592078477
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 4852894154474033849
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11084
+      Y: -588
+      Z: 864
+    }
+    Rotation {
+      Yaw: 3
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_22"
+  }
+  InstanceHistory {
+    SelfId: 4852894154474033849
+    SubobjectId: 3116846897190880547
+    InstanceId: 12657885285872939576
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 15026721682054012414
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10918
+      Y: -436
+      Z: 864
+    }
+    Rotation {
+      Yaw: 91.9999771
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_23"
+  }
+  InstanceHistory {
+    SelfId: 15026721682054012414
+    SubobjectId: 3116846897190880547
+    InstanceId: 228022072826716284
+    TemplateId: 17518057868905220446
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 17881362034030172764
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10904
+      Y: -18
+      Z: 864
+    }
+    Rotation {
+      Yaw: -89
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_24"
+  }
+  InstanceHistory {
+    SelfId: 17881362034030172764
+    SubobjectId: 3116846897190880547
+    InstanceId: 17640915849254936506
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 10055574413556524291
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10931
+      Y: -812
+      Z: 864
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_25"
+  }
+  InstanceHistory {
+    SelfId: 10055574413556524291
+    SubobjectId: 3116846897190880547
+    InstanceId: 4241370642329227290
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 14034551784498054411
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10932
+      Y: -832
+      Z: 864
+    }
+    Rotation {
+      Yaw: 92
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_26"
+  }
+  InstanceHistory {
+    SelfId: 14034551784498054411
+    SubobjectId: 3116846897190880547
+    InstanceId: 6810427974719241664
+    TemplateId: 17518057868905220446
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 14100912551037560793
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 11184
+      Y: 2425
+      Z: 864
+    }
+    Rotation {
+      Yaw: -91
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_27"
+  }
+  InstanceHistory {
+    SelfId: 14100912551037560793
+    SubobjectId: 3116846897190880547
+    InstanceId: 7144858532380263164
+    TemplateId: 6777761933385266638
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 13183883738513611083
+  Name: "Book shelf"
+  Transform {
+    Location {
+      X: 10676
+      Y: -2
+      Z: 856
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 6504418214286829755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Book shelf_28"
+  }
+  InstanceHistory {
+    SelfId: 13183883738513611083
+    SubobjectId: 3116846897190880547
+    InstanceId: 10119689967093928917
+    TemplateId: 17518057868905220446
+    WasRoot: true
   }
 }
