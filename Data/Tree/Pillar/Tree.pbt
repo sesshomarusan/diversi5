@@ -1,6 +1,268 @@
 Name: "Pillar"
 RootId: 7432585397722982087
 Objects {
+  Id: 17922599056397544297
+  Name: "Stone Wall Divider 6m"
+  Transform {
+    Location {
+      X: 5476
+      Y: 4697
+      Z: 118
+    }
+    Rotation {
+      Pitch: 53.7515602
+      Yaw: 57.3195457
+      Roll: -105.189377
+    }
+    Scale {
+      X: 2.25
+      Y: 1.75
+      Z: 2.75
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5834673791843655790
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7264638126963266003
+  Name: "Stone Wall Divider 6m"
+  Transform {
+    Location {
+      X: 6269
+      Y: 3538
+      Z: -74
+    }
+    Rotation {
+      Pitch: 47.1319771
+      Yaw: -172.137344
+      Roll: -91
+    }
+    Scale {
+      X: 2.25
+      Y: 1.75
+      Z: 2.75
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5834673791843655790
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 282896960018561862
+  Name: "Stone Wall Divider 6m"
+  Transform {
+    Location {
+      X: 7221
+      Y: 5956
+      Z: 353
+    }
+    Rotation {
+      Pitch: -110.171661
+      Yaw: -48.1829224
+      Roll: -34.9471436
+    }
+    Scale {
+      X: 2.25
+      Y: 1.75
+      Z: 2.75
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5834673791843655790
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15028197062001119643
+  Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
+  Transform {
+    Location {
+      X: 25421
+      Y: 7714
+      Z: -150
+    }
+    Rotation {
+      Pitch: -79.9999466
+      Roll: -44.9999847
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5651245337890175187
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fantasy Castle Pillar 01 - 2x Tile Template"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2891
+            Y: 7226
+            Z: -95
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -57.621521
+            Yaw: 64.3429565
+            Roll: -85.0715332
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17962226693329885709
+    }
+  }
+}
+Objects {
+  Id: 3118519681169532659
+  Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
+  Transform {
+    Location {
+      X: 26681
+      Y: 7714
+      Z: -100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7432585397722982087
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5651245337890175187
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fantasy Castle Pillar 01 - 2x Tile Template"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2719
+            Y: 7714
+            Z: -150
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -75
+            Roll: -45
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17962226693329885709
+    }
+  }
+}
+Objects {
   Id: 7651505709620932981
   Name: "Fantasy Castle Pillar 01 - 2x Tile Template"
   Transform {

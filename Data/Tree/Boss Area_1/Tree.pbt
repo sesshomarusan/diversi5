@@ -654,7 +654,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Walls_1"
+    FilePartitionName: "Walls_2"
   }
 }
 Objects {

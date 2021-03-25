@@ -1,15 +1,181 @@
 Name: "Walls_2"
-RootId: 13690723108590033856
+RootId: 8515320692023668415
 Objects {
-  Id: 13212963150640915006
-  Name: "Whitebox Wall 01 Window Slot 3x"
+  Id: 8654333316203119871
+  Name: "Whitebox Wall 01 Corner"
   Transform {
     Location {
-      X: 4800
+      X: 5600
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17525083072546193994
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3194271795523311858
+  Name: "Whitebox Wall 01 Corner"
+  Transform {
+    Location {
+      X: 6425
+    }
+    Rotation {
+      Yaw: 89.9999771
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17525083072546193994
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 10916372257172525521
+  Name: "Whitebox Wall 01 Corner"
+  Transform {
+    Location {
+      X: 6425
+      Y: 775
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17525083072546193994
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16971644572114133204
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 6400
+      Y: 800
+    }
+    Rotation {
+      Yaw: -179.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14905098098869111770
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 7200
       Y: 2400
     }
     Rotation {
-      Yaw: -90
+      Yaw: -179.999939
     }
     Scale {
       X: 1
@@ -17,7 +183,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29,7 +195,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17452387132035491001
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -43,15 +209,15 @@ Objects {
   }
 }
 Objects {
-  Id: 11890923742742245273
-  Name: "Whitebox Wall 01 Window Slot 3x"
+  Id: 10430207154980164412
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: 4800
-      Y: -800
+      X: 8000
+      Y: 2400.00049
     }
     Rotation {
-      Yaw: 89.9999542
+      Yaw: -179.999939
     }
     Scale {
       X: 1
@@ -59,7 +225,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -71,7 +237,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17452387132035491001
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -85,15 +251,141 @@ Objects {
   }
 }
 Objects {
-  Id: 3223837431228337025
-  Name: "Whitebox Wall 01 Half - Window 1x Square Template "
+  Id: 3177833993990605322
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: 2300
+      X: 8800
+      Y: 2399.99976
+    }
+    Rotation {
+      Yaw: -179.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 11300693623261810898
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 9600
+      Y: 2400
+    }
+    Rotation {
+      Yaw: -179.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 2797051448004831854
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 9600.00195
+      Y: 1599.99976
+    }
+    Rotation {
+      Yaw: 90.0000153
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 15017083298510877808
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 9600.00195
       Y: 800
     }
     Rotation {
-      Yaw: -90
+      Yaw: 90.0000153
     }
     Scale {
       X: 1
@@ -101,39 +393,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
-  ChildIds: 8731918107310385316
-  ChildIds: 13134191132146228195
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 13134191132146228195
-  Name: "Whitebox Window Insert - Basic Frame"
-  Transform {
-    Location {
-      X: 100
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3223837431228337025
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -145,7 +405,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15851271444363751188
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -159,12 +419,14 @@ Objects {
   }
 }
 Objects {
-  Id: 8731918107310385316
-  Name: "Whitebox Wall 01 Half - Window Slot 1x"
+  Id: 15557013633258858673
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
+      X: 9600.00098
     }
     Rotation {
+      Yaw: 90.0000153
     }
     Scale {
       X: 1
@@ -172,7 +434,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3223837431228337025
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -184,7 +446,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9917187920465160383
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -198,15 +460,15 @@ Objects {
   }
 }
 Objects {
-  Id: 13953777606708754962
-  Name: "Whitebox Wall 01 Half - Window 1x Square Template "
+  Id: 10690927144099298655
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: 2300
+      X: 9600
       Y: -800
     }
     Rotation {
-      Yaw: 89.9999542
+      Yaw: 90.0000153
     }
     Scale {
       X: 1
@@ -214,39 +476,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
-  ChildIds: 10679891366254516535
-  ChildIds: 6583872202372590192
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 6583872202372590192
-  Name: "Whitebox Window Insert - Basic Frame"
-  Transform {
-    Location {
-      X: 100
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13953777606708754962
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -258,7 +488,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 15851271444363751188
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -272,293 +502,15 @@ Objects {
   }
 }
 Objects {
-  Id: 10679891366254516535
-  Name: "Whitebox Wall 01 Half - Window Slot 1x"
+  Id: 8507917678251459097
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13953777606708754962
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 9917187920465160383
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 10879504499408984319
-  Name: "Whitebox Wall 01 - Window 3x Rounded Straight Template"
-  Transform {
-    Location {
-      X: -1000
-      Y: 800
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13690723108590033856
-  ChildIds: 8722199721180242479
-  ChildIds: 6666631043281854796
-  ChildIds: 18437949915035324290
-  ChildIds: 4978286707149653020
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-}
-Objects {
-  Id: 4978286707149653020
-  Name: "Whitebox Window Insert - Rounded Top"
-  Transform {
-    Location {
-      X: 500
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10879504499408984319
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16469235602445101834
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 18437949915035324290
-  Name: "Whitebox Window Insert - Rounded Top"
-  Transform {
-    Location {
-      X: 300
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10879504499408984319
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16469235602445101834
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6666631043281854796
-  Name: "Whitebox Window Insert - Rounded Top"
-  Transform {
-    Location {
-      X: 100
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10879504499408984319
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16469235602445101834
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8722199721180242479
-  Name: "Whitebox Wall 01 Window Slot 3x"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10879504499408984319
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17452387132035491001
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 17923378325336532230
-  Name: "Whitebox Wall 01 - Foundation"
-  Transform {
-    Location {
-      X: 3600
-      Y: -400
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13690723108590033856
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2777530842543105839
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 1451329949560643020
-  Name: "Whitebox Wall 01 - Foundation"
-  Transform {
-    Location {
-      X: 1250
+      X: 8000
       Y: -800
     }
     Rotation {
-      Yaw: 89.9999542
+      Yaw: 4.09811182e-05
     }
     Scale {
       X: 1
@@ -566,7 +518,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -578,7 +530,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 2777530842543105839
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -592,15 +544,15 @@ Objects {
   }
 }
 Objects {
-  Id: 2845989172686890559
-  Name: "Whitebox Wall 01 Doorway 01"
+  Id: 7103456469096908476
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: 2300
-      Y: 400
+      X: 8800
+      Y: -800.000488
     }
     Rotation {
-      Yaw: -89.9999695
+      Yaw: 4.09811182e-05
     }
     Scale {
       X: 1
@@ -608,7 +560,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -620,7 +572,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11691100420648372282
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -634,15 +586,15 @@ Objects {
   }
 }
 Objects {
-  Id: 13654290935951796250
-  Name: "Whitebox Wall 01 Doorway 01"
+  Id: 212129075694819933
+  Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: -1000
+      X: 7200
       Y: -800
     }
     Rotation {
-      Yaw: 89.9999542
+      Yaw: 4.09811182e-05
     }
     Scale {
       X: 1
@@ -650,7 +602,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13690723108590033856
+  ParentId: 8515320692023668415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -662,7 +614,216 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11691100420648372282
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13734262367238805854
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 6400
+      Y: -800
+    }
+    Rotation {
+      Yaw: 4.09811182e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5012107616344553444
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 6399.99951
+      Y: 1600
+    }
+    Rotation {
+      Yaw: -89.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8160189294643273016
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 6400
+      Y: 2400
+    }
+    Rotation {
+      Yaw: -89.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 12158910854441825970
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 6400
+    }
+    Rotation {
+      Yaw: -89.999939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 16994770764243072673
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: 5600
+      Y: 0.000244140625
+    }
+    Rotation {
+      Yaw: -6.10351563e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8515320692023668415
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
     }
     Teams {
       IsTeamCollisionEnabled: true
