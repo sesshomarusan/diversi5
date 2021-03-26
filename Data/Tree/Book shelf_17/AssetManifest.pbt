@@ -44,29 +44,11 @@ Assets {
   }
 }
 Assets {
-  Id: 4050437425243511619
-  Name: "Wood Raw"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_raw_001_uv"
-  }
-}
-Assets {
   Id: 3770737166054525592
   Name: "Bottle 05"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_bottle_005"
-  }
-}
-Assets {
-  Id: 3653441150779916324
-  Name: "Counter - Drawers"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_counter_drawers_001"
   }
 }

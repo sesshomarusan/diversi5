@@ -998,6 +998,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2931553316469989521
+  Name: "Skull and  Bones 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_fan_ground_bones_001_uv"
+  }
+}
+Assets {
   Id: 2691439941996834384
   Name: "Torch Holder Metal"
   PlatformAssetType: 1

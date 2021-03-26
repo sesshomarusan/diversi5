@@ -1,6 +1,1031 @@
 Name: "Mesas"
 RootId: 10590743399300510524
 Objects {
+  Id: 11435599392592392514
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -3759.14844
+      Y: 4117.60742
+      Z: -2.42675781
+    }
+    Rotation {
+      Yaw: -3.43722534
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 5255599657747807139
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -3804.12622
+      Y: 3307.51978
+      Z: -2.42675781
+    }
+    Rotation {
+      Yaw: -3.43722534
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 182979259682038034
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -3852.72583
+      Y: 2510.50537
+      Z: -2.42675781
+    }
+    Rotation {
+      Yaw: -3.43722534
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 13254594760015215483
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -3903.8313
+      Y: 1699.63721
+      Z: -2.42675781
+    }
+    Rotation {
+      Yaw: -3.43722534
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 81570226359573610
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -3950.04907
+      Y: 906.635254
+      Z: -2.42675781
+    }
+    Rotation {
+      Yaw: -3.43722534
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 2848857389242225561
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -5693.45654
+      Y: 316.398438
+      Z: 2.97949219
+    }
+    Rotation {
+      Yaw: -93
+    }
+    Scale {
+      X: 0.900000155
+      Y: 1.01769531
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 863331608921672990
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -5385.91895
+      Y: 300.287109
+      Z: 6
+    }
+    Rotation {
+      Yaw: -93
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 11970471306638244664
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -4593.29199
+      Y: 258.749023
+      Z: 6
+    }
+    Rotation {
+      Yaw: -93
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 14528567783181215551
+  Name: "Carpet Tile 01"
+  Transform {
+    Location {
+      X: -3792.91357
+      Y: 216.803223
+      Z: 6
+    }
+    Rotation {
+      Yaw: -93
+    }
+    Scale {
+      X: 0.900000036
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 16173958326744450810
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 17207712602627804247
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -5867.68652
+      Y: 3865.04321
+    }
+    Rotation {
+      Yaw: -135.471436
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 9347088289703630846
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -5171.71973
+      Y: 3532.75903
+      Z: 602.226563
+    }
+    Rotation {
+      Yaw: 50.9339638
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 11247462321328234864
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -5454.82275
+      Y: 3520.55078
+      Z: 602.226563
+    }
+    Rotation {
+      Yaw: 11.1228867
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 15903221412049177874
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -2278.48511
+      Y: 3354.07983
+      Z: 602.226563
+    }
+    Rotation {
+      Yaw: -0.37487793
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 18350433576912188626
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -3157.51611
+      Y: 3400.17383
+      Z: 602.226563
+    }
+    Rotation {
+      Yaw: -0.37487793
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 13764543955920504820
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -3939.89502
+      Y: 3441.18628
+      Z: 602.226563
+    }
+    Rotation {
+      Yaw: -39.5100403
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 10533759720121546424
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -2330.40161
+      Y: 3337.19189
+    }
+    Rotation {
+      Yaw: 83.4040527
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 12766581797852585072
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -2609.02295
+      Y: 2514.43774
+    }
+    Rotation {
+      Yaw: -1.47763062
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 13530084695681246791
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -3172.77979
+      Y: 2543.99243
+    }
+    Rotation {
+      Yaw: -1.47763062
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 1870214974399546786
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -4294.54883
+      Y: 2157.64844
+    }
+    Rotation {
+      Yaw: -135.471405
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 15282069061564276249
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -4330.00195
+      Y: 1481.1626
+    }
+    Rotation {
+      Yaw: -48.0322571
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 12780182758178573211
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -3632.66528
+      Y: 1444.62915
+    }
+    Rotation {
+      Yaw: 48.7530594
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
+  Id: 12352751509632368931
+  Name: "Craftsman Dining Chair"
+  Transform {
+    Location {
+      X: -3500.36426
+      Y: 1963.47314
+    }
+    Rotation {
+      Yaw: 111.568893
+    }
+    Scale {
+      X: 1.4785105
+      Y: 1.4785105
+      Z: 1.4785105
+    }
+  }
+  ParentId: 10590743399300510524
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 6002668440825051591
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17647745666481617556
+    SubobjectId: 6770733697027071306
+    InstanceId: 2378929602943719746
+    TemplateId: 13204456275407892849
+  }
+}
+Objects {
   Id: 6187450134824770094
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {

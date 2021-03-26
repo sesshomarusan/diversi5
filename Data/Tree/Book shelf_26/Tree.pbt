@@ -5,8 +5,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 108.510788
-      Y: 48.2231293
+      X: 105.301804
+      Y: 48.3351822
       Z: 130
     }
     Rotation {
@@ -70,8 +70,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 108.510788
-      Y: 48.2231293
+      X: 105.301804
+      Y: 48.3351822
       Z: 60
     }
     Rotation {
@@ -117,84 +117,6 @@ Objects {
   InstanceHistory {
     SelfId: 8817832783893913509
     SubobjectId: 10654041117555285901
-    InstanceId: 6810427974719241664
-    TemplateId: 17518057868905220446
-  }
-}
-Objects {
-  Id: 15391000336432406653
-  Name: "Counter - Drawers"
-  Transform {
-    Location {
-      X: 10.5
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 0.7
-      Z: 2
-    }
-  }
-  ParentId: 14034551784498054411
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Prop_Top:id"
-      AssetReference {
-        Id: 4050437425243511619
-      }
-    }
-    Overrides {
-      Name: "ma:Prop_Top:color"
-      Color {
-        R: 0.28125
-        G: 0.28125
-        B: 0.28125
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4050437425243511619
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.302083343
-        G: 0.302083343
-        B: 0.302083343
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13949647182894972053
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 15391000336432406653
-    SubobjectId: 4328571131137826901
     InstanceId: 6810427974719241664
     TemplateId: 17518057868905220446
   }

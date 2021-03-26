@@ -2636,7 +2636,7 @@ Objects {
       UseTemperature: true
       Temperature: 2000
       LocalLight {
-        AttenuationRadius: 500
+        AttenuationRadius: 369.232
         PointLight {
           SourceRadius: 9.23469257
           SoftSourceRadius: 100
@@ -5258,7 +5258,7 @@ Objects {
       UseTemperature: true
       Temperature: 2000
       LocalLight {
-        AttenuationRadius: 700
+        AttenuationRadius: 50.9967308
         PointLight {
           SourceRadius: 136.057541
           SoftSourceRadius: 350
@@ -8789,7 +8789,7 @@ Objects {
       UseTemperature: true
       Temperature: 2000
       LocalLight {
-        AttenuationRadius: 700
+        AttenuationRadius: 157.07515
         PointLight {
           SourceRadius: 136.057541
           SoftSourceRadius: 350
@@ -9081,7 +9081,6 @@ Objects {
   ChildIds: 17717095228794169614
   ChildIds: 14604537294898104954
   ChildIds: 15651882691798517768
-  ChildIds: 14637712218868107092
   ChildIds: 7550575345156397799
   ChildIds: 12792247955146882565
   Collidable_v2 {
@@ -9107,9 +9106,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 601.678345
-      Y: 678.613892
-      Z: 55.2922363
+      X: 848.268066
+      Y: 966.11084
+      Z: 55.2915802
     }
     Rotation {
     }
@@ -9167,9 +9166,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.714904785
-      Y: -1241.83203
-      Z: 55.2922363
+      X: -18.1173286
+      Y: -1781.04822
+      Z: 55.2915802
     }
     Rotation {
     }
@@ -9223,73 +9222,13 @@ Objects {
   }
 }
 Objects {
-  Id: 14637712218868107092
-  Name: "Point Light"
-  Transform {
-    Location {
-      X: 612.049
-      Y: -1748.50085
-      Z: 55.2922363
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17766327304865636727
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Light {
-    Intensity: 50
-    Color {
-      R: 1
-      G: 0.726868153
-      B: 0.477918148
-      A: 1
-    }
-    VolumetricIntensity: 5
-    TeamSettings {
-    }
-    Light {
-      UseTemperature: true
-      Temperature: 2000
-      LocalLight {
-        AttenuationRadius: 6000
-        PointLight {
-          SourceRadius: 136.057541
-          SoftSourceRadius: 350
-          FallOffExponent: 8
-        }
-      }
-      MaxDrawDistance: 5000
-      MaxDistanceFadeRange: 1000
-    }
-  }
-  InstanceHistory {
-    SelfId: 8743763048103887392
-    SubobjectId: 15007981223985866238
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
   Id: 15651882691798517768
   Name: "Point Light"
   Transform {
     Location {
-      X: 651.856384
-      Y: -673.347412
-      Z: 20.5546875
+      X: 883.805054
+      Y: -880.023132
+      Z: 20.5552483
     }
     Rotation {
     }
@@ -9347,9 +9286,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: -746.695435
-      Y: -633.217163
-      Z: 62.0506
+      X: -1035.10645
+      Y: -875.132
+      Z: 62.0507889
     }
     Rotation {
     }

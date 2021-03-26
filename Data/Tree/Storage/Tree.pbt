@@ -5,9 +5,8 @@ Objects {
   Name: "Craftsman End Table"
   Transform {
     Location {
-      X: 10.4250488
-      Y: -752.729309
-      Z: -0.000122070313
+      X: -78.7080078
+      Y: -618.027344
     }
     Rotation {
     }
@@ -61,9 +60,9 @@ Objects {
   Name: "Craftsman End Table"
   Transform {
     Location {
-      X: 10.4250488
-      Y: -752.792542
-      Z: 198.75531
+      X: -78.7080078
+      Y: -618.089844
+      Z: 198.754883
     }
     Rotation {
       Roll: -179.140701
@@ -118,9 +117,9 @@ Objects {
   Name: "Craftsman End Table"
   Transform {
     Location {
-      X: 10.4250488
-      Y: -641.123474
-      Z: 198.75531
+      X: -78.7080078
+      Y: -506.421875
+      Z: 198.754883
     }
     Rotation {
       Roll: -179.140717
@@ -175,8 +174,8 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: -148.000977
-      Y: -1176.0321
+      X: -207.277344
+      Y: -1176.03125
     }
     Rotation {
       Yaw: -2.55438232
@@ -223,8 +222,8 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: 1.51293945
-      Y: -1094.99146
+      X: -57.7636719
+      Y: -1094.99219
     }
     Rotation {
       Yaw: -2.55438232
@@ -419,9 +418,8 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: -146.787842
-      Y: -2119.82
-      Z: -0.000183105469
+      X: -199.835938
+      Y: -2119.82031
     }
     Rotation {
     }
@@ -467,9 +465,9 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: -146.787842
-      Y: -2037.84619
-      Z: 132.830475
+      X: -199.835938
+      Y: -2037.84766
+      Z: 132.830078
     }
     Rotation {
       Roll: 170.558182
@@ -516,9 +514,8 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: -118.558105
-      Y: -2232.65845
-      Z: -0.000183105469
+      X: -171.606445
+      Y: -2232.66016
     }
     Rotation {
       Yaw: 20.1436462
@@ -565,9 +562,9 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: -169.300293
-      Y: -2158.27026
-      Z: 132.830475
+      X: -222.348633
+      Y: -2158.26953
+      Z: 132.830078
     }
     Rotation {
       Yaw: 20.1436081
@@ -1340,11 +1337,11 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: 1.51293945
-      Y: -1242.06213
+      X: -57.7636719
+      Y: -1242.0625
     }
     Rotation {
-      Yaw: -2.55438256
+      Yaw: -2.55438232
     }
     Scale {
       X: 1
@@ -1726,864 +1723,6 @@ Objects {
   }
 }
 Objects {
-  Id: 17321188187569482798
-  Name: "1"
-  Transform {
-    Location {
-      X: -809.312
-      Y: -198.008
-      Z: -0.000183105469
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2104398415333133464
-  ChildIds: 8763220171340995119
-  ChildIds: 4640797475168137394
-  ChildIds: 3084864971060838106
-  ChildIds: 9615895761884231630
-  ChildIds: 13827341502357268683
-  ChildIds: 14704006928445532116
-  ChildIds: 11360549064824236277
-  ChildIds: 1723234499752241581
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 4510570505767627508
-    SubobjectId: 10918936306392337706
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 1723234499752241581
-  Name: "Bottle 05"
-  Transform {
-    Location {
-      X: -9.96923828
-      Y: 42.3565674
-      Z: 3.20986938
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3770737166054525592
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 17346368229644410345
-    SubobjectId: 6459767967966050871
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 11360549064824236277
-  Name: "Bottle 05"
-  Transform {
-    Location {
-      X: -9.46044922
-      Y: -1.98077393
-      Z: 3.2099
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3770737166054525592
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16527361064974440932
-    SubobjectId: 5495484530975309370
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 14704006928445532116
-  Name: "Bottle 04"
-  Transform {
-    Location {
-      X: -18.2331543
-      Y: -44.0266724
-      Z: 3.20986938
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8238583930569634834
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 1385895781717201740
-    SubobjectId: 13413032081017336978
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 13827341502357268683
-  Name: "Bottle 01"
-  Transform {
-    Location {
-      X: 13.0522461
-      Y: 37.694397
-      Z: 3.2099
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10761768979513085968
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 18176279699809124762
-    SubobjectId: 6133910765344122436
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 9615895761884231630
-  Name: "Bottle 02"
-  Transform {
-    Location {
-      X: 15.1599121
-      Y: -1.74835205
-      Z: 3.20986938
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15177054442487712282
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16449930487648762019
-    SubobjectId: 5572920717251420029
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 3084864971060838106
-  Name: "Bottle 01"
-  Transform {
-    Location {
-      X: 9.34985352
-      Y: -39.2070313
-      Z: 3.20993042
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10761768979513085968
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 13038536398442411789
-    SubobjectId: 2156439753605157075
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 4640797475168137394
-  Name: "Small Crate Lid"
-  Transform {
-    Location {
-      X: -1.46362305
-      Y: 0.317260742
-      Z: 62.6479721
-    }
-    Rotation {
-      Yaw: -15.9592743
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1832894999287324335
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 544981235109711009
-    SubobjectId: 12578325926782462847
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 8763220171340995119
-  Name: "Small Open Crate"
-  Transform {
-    Location {
-      X: 1.5637207
-      Y: 6.59454346
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17321188187569482798
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10333000717486619107
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16621394081300648426
-    SubobjectId: 5743238069997745716
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 10665338549399688002
-  Name: "1"
-  Transform {
-    Location {
-      X: -809.871826
-      Y: -27.8547363
-      Z: -0.000183105469
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2104398415333133464
-  ChildIds: 11027811479983137760
-  ChildIds: 8282849613665658065
-  ChildIds: 15121645215901641492
-  ChildIds: 13268286308086753705
-  ChildIds: 5725876850116539892
-  ChildIds: 7345224556544006672
-  ChildIds: 5605938370980084611
-  ChildIds: 13212297999552613387
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 14527448959077756401
-    SubobjectId: 6954899889925982767
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 13212297999552613387
-  Name: "Bottle 05"
-  Transform {
-    Location {
-      X: -9.96923828
-      Y: 42.3565674
-      Z: 3.20986938
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3770737166054525592
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 1122923434412996323
-    SubobjectId: 12000533522086777149
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 5605938370980084611
-  Name: "Bottle 05"
-  Transform {
-    Location {
-      X: -9.46044922
-      Y: -1.98077393
-      Z: 3.2099
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3770737166054525592
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 598749157114952197
-    SubobjectId: 11623850482210250203
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 7345224556544006672
-  Name: "Bottle 04"
-  Transform {
-    Location {
-      X: -18.2331543
-      Y: -44.0266724
-      Z: 3.20986938
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8238583930569634834
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3267420171667807786
-    SubobjectId: 9531635615950911988
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 5725876850116539892
-  Name: "Bottle 01"
-  Transform {
-    Location {
-      X: 13.0522461
-      Y: 37.694397
-      Z: 3.2099
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10761768979513085968
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 6779985667108892551
-    SubobjectId: 17800548209311893593
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 13268286308086753705
-  Name: "Bottle 02"
-  Transform {
-    Location {
-      X: 15.1599121
-      Y: -1.74835205
-      Z: 3.20986938
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 15177054442487712282
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 7138992361053727088
-    SubobjectId: 14559525134426050222
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 15121645215901641492
-  Name: "Bottle 01"
-  Transform {
-    Location {
-      X: 9.34985352
-      Y: -39.2070313
-      Z: 3.20993042
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.727174163
-      Y: 0.727174163
-      Z: 0.727174163
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10761768979513085968
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 17128217609461571555
-    SubobjectId: 4948539446716774461
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 8282849613665658065
-  Name: "Small Crate Lid"
-  Transform {
-    Location {
-      X: 7.91967773
-      Y: 16.866333
-      Z: 62.6479874
-    }
-    Rotation {
-      Yaw: 10.7325573
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 1832894999287324335
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 2081922126953314311
-    SubobjectId: 13113180735417638873
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 11027811479983137760
-  Name: "Small Open Crate"
-  Transform {
-    Location {
-      X: 1.5637207
-      Y: 6.59454346
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10665338549399688002
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10333000717486619107
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 10213527584526410060
-    SubobjectId: 2639853181296314002
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
   Id: 12541792710588298268
   Name: "Simple Crate 150cm"
   Transform {
@@ -2829,12 +1968,12 @@ Objects {
   Name: "Dresser 01"
   Transform {
     Location {
-      X: -201.888672
-      Y: -513.663574
-      Z: 42.7943878
+      X: -291.021484
+      Y: -378.960938
+      Z: 42.7939453
     }
     Rotation {
-      Pitch: -2.72821641
+      Pitch: -2.72821045
       Yaw: 71.2404709
       Roll: -87.6125488
     }
@@ -2894,9 +2033,8 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: 12.3222656
-      Y: -513.558838
-      Z: -0.000152587891
+      X: -76.8105469
+      Y: -378.855469
     }
     Rotation {
       Yaw: 177.232697
@@ -2951,9 +2089,8 @@ Objects {
   Name: "Craftsman End Table"
   Transform {
     Location {
-      X: 10.4250488
-      Y: -641.060303
-      Z: -0.000122070313
+      X: -78.7080078
+      Y: -506.355469
     }
     Rotation {
     }
@@ -3425,9 +2562,9 @@ Objects {
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
-      X: -4.66870117
-      Y: -2142.86768
-      Z: 149.773422
+      X: -57.7167969
+      Y: -2142.86719
+      Z: 149.773438
     }
     Rotation {
     }
@@ -3481,9 +2618,8 @@ Objects {
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
-      X: -4.66870117
+      X: -57.7167969
       Y: -2069.60547
-      Z: 0.000122070313
     }
     Rotation {
     }
@@ -3537,9 +2673,8 @@ Objects {
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
-      X: -4.66870117
+      X: -57.7167969
       Y: -2224.01953
-      Z: 0.000122070313
     }
     Rotation {
     }
@@ -4153,7 +3288,7 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: -302.743164
+      X: -361.020508
     }
     Rotation {
     }
@@ -4313,12 +3448,12 @@ Objects {
   Name: "Wooden Barrel"
   Transform {
     Location {
-      X: -187.237793
-      Y: -0.17175293
-      Z: 151.882141
+      X: -231.201172
+      Y: -0.171875
+      Z: 151.881836
     }
     Rotation {
-      Pitch: -4.8224206
+      Pitch: -4.82241821
     }
     Scale {
       X: 1
@@ -4370,9 +3505,9 @@ Objects {
   Name: "Wooden Barrel"
   Transform {
     Location {
-      X: -87.2487793
-      Y: -0.17175293
-      Z: 147.325485
+      X: -131.211914
+      Y: -0.171875
+      Z: 147.325195
     }
     Rotation {
     }
@@ -4694,7 +3829,7 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: -151.541748
+      X: -209.819336
     }
     Rotation {
     }
@@ -4740,9 +3875,9 @@ Objects {
   Name: "Wooden Barrel"
   Transform {
     Location {
-      X: 10.5986328
-      Y: -0.17175293
-      Z: 147.67128
+      X: -33.3642578
+      Y: -0.171875
+      Z: 147.670898
     }
     Rotation {
     }
@@ -5281,6 +4416,7 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
+      X: -58.2773438
     }
     Rotation {
     }

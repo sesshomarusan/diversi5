@@ -8342,9 +8342,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 601.678345
-      Y: 678.613892
-      Z: 55.2922363
+      X: 903.581116
+      Y: 993.729675
+      Z: 55.2915802
     }
     Rotation {
     }
@@ -8402,9 +8402,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 0.714904785
-      Y: -1241.83203
-      Z: 55.2922363
+      X: 7.30800152
+      Y: -1741.32227
+      Z: 55.2915802
     }
     Rotation {
     }
@@ -8462,9 +8462,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 612.049
-      Y: -1748.50085
-      Z: 55.2922363
+      X: 939.060181
+      Y: -2511.56689
+      Z: 55.2915802
     }
     Rotation {
     }
@@ -8522,9 +8522,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: 651.856384
-      Y: -673.347412
-      Z: 20.5546875
+      X: 866.067627
+      Y: -912.862488
+      Z: 20.5552483
     }
     Rotation {
     }
@@ -8582,9 +8582,9 @@ Objects {
   Name: "Point Light"
   Transform {
     Location {
-      X: -746.695435
-      Y: -633.217163
-      Z: 62.0506
+      X: -1094.62158
+      Y: -1021.61548
+      Z: 62.0507889
     }
     Rotation {
     }

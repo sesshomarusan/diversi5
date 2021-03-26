@@ -191,13 +191,14 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
-      X: 10.5
+      X: -166.82991
+      Y: -1.8015449
     }
     Rotation {
     }
     Scale {
-      X: 2
-      Y: 0.7
+      X: 3.80148888
+      Y: 0.700012088
       Z: 2
     }
   }

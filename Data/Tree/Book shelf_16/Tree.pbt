@@ -5,8 +5,8 @@ Objects {
   Name: "Candle Group Melted 02"
   Transform {
     Location {
-      X: 159.347244
-      Y: 1015.91278
+      X: 159.301041
+      Y: 1019.12347
       Z: 169.450195
     }
     Rotation {
@@ -48,8 +48,8 @@ Objects {
   Name: "Bone Human Skull 01"
   Transform {
     Location {
-      X: 154.65419
-      Y: 1011.88788
+      X: 154.607956
+      Y: 1015.10052
       Z: 171.807617
     }
     Rotation {
@@ -75,50 +75,6 @@ Objects {
   CoreMesh {
     MeshAsset {
       Id: 18300597072120582980
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 6587648916575874988
-  Name: "Candle 01"
-  Transform {
-    Location {
-      X: 157.979416
-      Y: 1012.62531
-      Z: 193.174316
-    }
-    Rotation {
-      Yaw: -116.661224
-      Roll: -6.26947
-    }
-    Scale {
-      X: 0.5
-      Y: 0.5
-      Z: 0.5
-    }
-  }
-  ParentId: 9894468313766675836
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 7638780617241569171
     }
     Teams {
       IsTeamCollisionEnabled: true

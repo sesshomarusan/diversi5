@@ -1,6 +1,49 @@
 Name: "Level 3"
 RootId: 6002287883041365082
 Objects {
+  Id: 10582550457597907934
+  Name: "Craftsman End Table"
+  Transform {
+    Location {
+      X: 10020.4639
+      Y: 2217.82031
+      Z: 895.319336
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.83236408
+      Y: 2.92724657
+      Z: 1.17349684
+    }
+  }
+  ParentId: 6002287883041365082
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11573800874559868299
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 15549841719830059888
   Name: "Fantasy Book Pile 02"
   Transform {
@@ -54,7 +97,7 @@ Objects {
       Z: 1593.37695
     }
     Rotation {
-      Yaw: -90.4060593
+      Yaw: -90.4060669
     }
     Scale {
       X: 1
@@ -439,9 +482,9 @@ Objects {
   Name: "Fantasy Book Collection 04"
   Transform {
     Location {
-      X: 11649.1738
-      Y: 826.882813
-      Z: 1024.83887
+      X: 11700.8232
+      Y: 738.71875
+      Z: 1068.7002
     }
     Rotation {
       Pitch: 86.8400421
@@ -485,12 +528,12 @@ Objects {
   Name: "Fantasy Book 02"
   Transform {
     Location {
-      X: 11754.1729
-      Y: 1088.76172
-      Z: 1022.75586
+      X: 11805.8232
+      Y: 1000.59766
+      Z: 1066.61719
     }
     Rotation {
-      Roll: -33.5419044
+      Roll: -33.5419
     }
     Scale {
       X: 2.26831365
@@ -529,9 +572,9 @@ Objects {
   Name: "Fantasy Book Open 01"
   Transform {
     Location {
-      X: 11955.377
-      Y: 1100.08594
-      Z: 973.305664
+      X: 12007.0264
+      Y: 1011.92188
+      Z: 1017.16699
     }
     Rotation {
       Pitch: 0.625802398
@@ -574,9 +617,9 @@ Objects {
   Name: "Fantasy Book Pile 03"
   Transform {
     Location {
-      X: 11736.8623
-      Y: 754.503906
-      Z: 981.198242
+      X: 11788.5127
+      Y: 666.339844
+      Z: 1025.05957
     }
     Rotation {
     }
@@ -617,9 +660,9 @@ Objects {
   Name: "Fantasy Book Pile 04"
   Transform {
     Location {
-      X: 11752.0225
-      Y: 996.089844
-      Z: 981.110352
+      X: 11803.6729
+      Y: 907.925781
+      Z: 1024.97168
     }
     Rotation {
       Yaw: 45.5856209
@@ -661,9 +704,9 @@ Objects {
   Name: "Fantasy Book Pile 01"
   Transform {
     Location {
-      X: 11882.2686
-      Y: 670.601563
-      Z: 981.154297
+      X: 11933.9189
+      Y: 582.4375
+      Z: 1025.01563
     }
     Rotation {
     }
@@ -704,9 +747,9 @@ Objects {
   Name: "Fantasy Book Pile 02"
   Transform {
     Location {
-      X: 11727.6357
-      Y: 894.074219
-      Z: 981.298828
+      X: 11779.2861
+      Y: 805.910156
+      Z: 1025.16016
     }
     Rotation {
     }
@@ -747,9 +790,9 @@ Objects {
   Name: "Fantasy Book Pile 04"
   Transform {
     Location {
-      X: 11827.4951
-      Y: 796.601563
-      Z: 981.362305
+      X: 11879.1455
+      Y: 708.4375
+      Z: 1025.22363
     }
     Rotation {
     }
@@ -790,9 +833,9 @@ Objects {
   Name: "Fantasy Book Pile 03"
   Transform {
     Location {
-      X: 12066.6777
-      Y: 1002.65625
-      Z: 981.306641
+      X: 12118.3271
+      Y: 914.492188
+      Z: 1025.16797
     }
     Rotation {
       Yaw: -88.0241089
@@ -834,8 +877,8 @@ Objects {
   Name: "Craftsman Dining Table"
   Transform {
     Location {
-      X: 11882.8369
-      Y: 913.136719
+      X: 11934.4873
+      Y: 824.972656
       Z: 862.508789
     }
     Rotation {
@@ -843,7 +886,7 @@ Objects {
     Scale {
       X: 3.2666707
       Y: 3.27161288
-      Z: 0.897475541
+      Z: 1.30175304
     }
   }
   ParentId: 6002287883041365082

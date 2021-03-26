@@ -71,15 +71,6 @@ Assets {
   }
 }
 Assets {
-  Id: 7638780617241569171
-  Name: "Candle 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_candle_003"
-  }
-}
-Assets {
   Id: 4050437425243511619
   Name: "Wood Raw"
   PlatformAssetType: 2

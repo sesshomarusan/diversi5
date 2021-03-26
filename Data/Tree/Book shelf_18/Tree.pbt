@@ -1,6 +1,85 @@
 Name: "Book shelf_18"
 RootId: 6148601256615428133
 Objects {
+  Id: 16556321419132948064
+  Name: "Counter - Drawers"
+  Transform {
+    Location {
+      X: 203.543213
+      Y: 3.55285645
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 0.7
+      Z: 2
+    }
+  }
+  ParentId: 6148601256615428133
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Prop_Top:id"
+      AssetReference {
+        Id: 4050437425243511619
+      }
+    }
+    Overrides {
+      Name: "ma:Prop_Top:color"
+      Color {
+        R: 0.28125
+        G: 0.28125
+        B: 0.28125
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4050437425243511619
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.302083343
+        G: 0.302083343
+        B: 0.302083343
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3653441150779916324
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4757867719418258771
+    SubobjectId: 4328571131137826901
+    InstanceId: 1747965130816453625
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
   Id: 10036213197029797668
   Name: "Candle Group Melted 02"
   Transform {
