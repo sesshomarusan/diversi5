@@ -64,7 +64,7 @@ Objects {
           Name: "Position"
           Vector {
             X: 5450
-            Y: 3200
+            Y: 5350
           }
         }
         Overrides {
@@ -115,8 +115,8 @@ Objects {
   Name: "NPC Camp - Minions"
   Transform {
     Location {
-      X: 3950
-      Y: 4700
+      X: 7150
+      Y: 750
       Z: 100
     }
     Rotation {
@@ -195,12 +195,10 @@ Objects {
   Name: "Minion"
   Transform {
     Location {
-      X: -1325
-      Y: -225
-      Z: -50
+      X: 600
+      Y: 600
     }
     Rotation {
-      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -243,12 +241,8 @@ Objects {
   Name: "Minion"
   Transform {
     Location {
-      X: 200
-      Y: 1450
-      Z: -50
     }
     Rotation {
-      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -291,10 +285,10 @@ Objects {
   Name: "Minion"
   Transform {
     Location {
-      Z: -50
+      X: -300
+      Y: -300
     }
     Rotation {
-      Yaw: -90.0000305
     }
     Scale {
       X: 1
@@ -337,14 +331,13 @@ Objects {
   Name: "OutsideTrigger"
   Transform {
     Location {
-      Z: 150
     }
     Rotation {
     }
     Scale {
-      X: 39
-      Y: 38.0000038
-      Z: 8
+      X: 30
+      Y: 30
+      Z: 5
     }
   }
   ParentId: 2757451909256636770
@@ -378,15 +371,12 @@ Objects {
   Name: "InsideTrigger"
   Transform {
     Location {
-      X: 400
-      Y: -650
-      Z: 150
     }
     Rotation {
     }
     Scale {
-      X: 15.000001
-      Y: 16
+      X: 30
+      Y: 30
       Z: 5
     }
   }
@@ -545,9 +535,8 @@ Objects {
   Name: "NPC Camp - Skeletons"
   Transform {
     Location {
-      X: -900
-      Y: 1600
-      Z: 30
+      X: 7350
+      Y: 3400
     }
     Rotation {
     }
@@ -599,8 +588,8 @@ Objects {
   }
   ParentId: 18262213127301190048
   ChildIds: 9208020192408354788
-  ChildIds: 14992945767499586817
   ChildIds: 13725200583083843812
+  ChildIds: 14992945767499586817
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -621,64 +610,14 @@ Objects {
   }
 }
 Objects {
-  Id: 13725200583083843812
-  Name: "Swordsman"
-  Transform {
-    Location {
-      X: 600
-      Y: -600
-      Z: -0.000366210938
-    }
-    Rotation {
-      Yaw: 179.999924
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16357872349440537279
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
   Id: 14992945767499586817
   Name: "Marksman"
   Transform {
     Location {
-      X: 2300
-      Y: 400
-      Z: -0.000366210938
+      X: -2050
+      Y: 700
     }
     Rotation {
-      Yaw: -90.000061
     }
     Scale {
       X: 1
@@ -717,16 +656,58 @@ Objects {
   }
 }
 Objects {
+  Id: 13725200583083843812
+  Name: "Swordsman"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16357872349440537279
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:NPC"
+      AssetReference {
+        Id: 18416574560789436901
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 13043298331982480779
+    }
+  }
+  InstanceHistory {
+    SelfId: 14226489024020690528
+    SubobjectId: 15875901479348693684
+    InstanceId: 6922697643248069676
+    TemplateId: 17510640320964350980
+  }
+}
+Objects {
   Id: 9208020192408354788
   Name: "Marksman"
   Transform {
     Location {
-      X: 3100
-      Y: -575
-      Z: -0.000122070313
+      X: 2200
+      Y: -600
     }
     Rotation {
-      Yaw: 89.9999313
     }
     Scale {
       X: 1
@@ -769,15 +750,13 @@ Objects {
   Name: "OutsideTrigger"
   Transform {
     Location {
-      X: 2100
-      Z: 370
     }
     Rotation {
     }
     Scale {
-      X: 71.5
-      Y: 15
-      Z: 8.09999847
+      X: 100
+      Y: 20
+      Z: 5
     }
   }
   ParentId: 18262213127301190048
@@ -811,15 +790,13 @@ Objects {
   Name: "InsideTrigger"
   Transform {
     Location {
-      X: 550
-      Z: 380
     }
     Rotation {
     }
     Scale {
-      X: 19.3000011
-      Y: 14.5
-      Z: 7.64151049
+      X: 100
+      Y: 20
+      Z: 5
     }
   }
   ParentId: 18262213127301190048
@@ -1971,6 +1948,198 @@ Objects {
   }
 }
 Objects {
+  Id: 6600977591446432137
+  Name: "Poison Zone"
+  Transform {
+    Location {
+      X: 5350
+      Y: 5300
+      Z: -725
+    }
+    Rotation {
+    }
+    Scale {
+      X: 10
+      Y: 10
+      Z: 10
+    }
+  }
+  ParentId: 10680076438754699651
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5075594846372664617
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -25
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11809434864792108708
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lava NE"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9150
+            Y: 1650
+            Z: 25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 180
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 10
+            Y: 10
+            Z: 10
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13290375674311009113
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18024746372008724467
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 150
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10606543271707601197
+    }
+  }
+}
+Objects {
+  Id: 4644743597776824209
+  Name: "Poison Zone"
+  Transform {
+    Location {
+      X: 9150
+      Y: 5300
+      Z: -725
+    }
+    Rotation {
+    }
+    Scale {
+      X: 10
+      Y: 10
+      Z: 10
+    }
+  }
+  ParentId: 10680076438754699651
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5075594846372664617
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -25
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11809434864792108708
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Lava North"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 7300
+            Y: 3100
+            Z: 25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 180
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30
+            Y: 30
+            Z: 30
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13290375674311009113
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18024746372008724467
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 150
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10606543271707601197
+    }
+  }
+}
+Objects {
   Id: 17347264799883411619
   Name: "Poison Zone"
   Transform {
@@ -1993,31 +2162,70 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 5075594846372664617
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -25
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 11809434864792108708
       value {
         Overrides {
           Name: "Name"
-          String: "Lava Zone"
+          String: "Lava NW"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 775
-            Y: 1600
+            X: 5350
+            Y: 1650
             Z: 25
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: 180
           }
         }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 10
+            Y: 10
+            Z: 10
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13290375674311009113
+      value {
         Overrides {
           Name: "Scale"
           Vector {
             X: 1
             Y: 1
             Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18024746372008724467
+      value {
+        Overrides {
+          Name: "AttenuationRadius"
+          Float: 150
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
           }
         }
       }
