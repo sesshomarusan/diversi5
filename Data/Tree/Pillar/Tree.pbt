@@ -986,10 +986,10 @@ Objects {
     Location {
       X: 680
       Y: 9885
-      Z: 399
+      Z: 309
     }
     Rotation {
-      Pitch: -0.153412864
+      Pitch: -0.153411865
       Yaw: 1.72754645
       Roll: 0.148759663
     }

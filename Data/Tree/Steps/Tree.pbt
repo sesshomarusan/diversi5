@@ -1,6 +1,161 @@
 Name: "Steps"
 RootId: 16787535566305772942
 Objects {
+  Id: 610558241411388024
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 860
+      Y: 7380
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 1.4
+      Y: 2.10000014
+      Z: 3.2
+    }
+  }
+  ParentId: 16787535566305772942
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7839867527616256170
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 18409137038422259347
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 1970
+      Y: 5240
+      Z: 60
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 2.60000038
+      Y: 1.6
+      Z: 3.5
+    }
+  }
+  ParentId: 16787535566305772942
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7839867527616256170
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 3673170265930773374
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -415
+      Y: 7820
+      Z: 90
+    }
+    Rotation {
+      Yaw: 89.9999542
+    }
+    Scale {
+      X: 1.5
+      Y: 2.25
+      Z: 3.25
+    }
+  }
+  ParentId: 16787535566305772942
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 7839867527616256170
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 17240053443279817463
   Name: "Cube"
   Transform {
@@ -746,7 +901,7 @@ Objects {
     Location {
       X: 1270
       Y: 6180
-      Z: 96
+      Z: 60
     }
     Rotation {
       Yaw: -179.999969
@@ -1704,7 +1859,7 @@ Objects {
     Location {
       X: 3451
       Y: 8589.45605
-      Z: 229
+      Z: 139
     }
     Rotation {
       Yaw: 0.747054815
@@ -1756,7 +1911,7 @@ Objects {
     Location {
       X: 3263.64453
       Y: 8622.85254
-      Z: 202
+      Z: 112
     }
     Rotation {
       Yaw: 0.747054815
@@ -1808,7 +1963,7 @@ Objects {
     Location {
       X: 3111.8457
       Y: 8656.0332
-      Z: 175
+      Z: 85
     }
     Rotation {
       Yaw: 0.747054815
@@ -1860,7 +2015,7 @@ Objects {
     Location {
       X: 2961
       Y: 8689.43555
-      Z: 140
+      Z: 50
     }
     Rotation {
       Yaw: 0.747054815
@@ -1912,7 +2067,7 @@ Objects {
     Location {
       X: 2798.80664
       Y: 8721.1416
-      Z: 148
+      Z: 58
     }
     Rotation {
       Yaw: 0.747054815
@@ -1964,7 +2119,7 @@ Objects {
     Location {
       X: 2614.58789
       Y: 8667.66797
-      Z: 103
+      Z: 13
     }
     Rotation {
       Yaw: 0.747054815
@@ -2068,6 +2223,7 @@ Objects {
     Location {
       X: 2404.40039
       Y: 8821.11523
+      Z: -90
     }
     Rotation {
       Yaw: 0.747054815
@@ -2434,7 +2590,7 @@ Objects {
     Location {
       X: -720
       Y: 4770
-      Z: 120
+      Z: 100
     }
     Rotation {
       Yaw: -179.999954
@@ -2486,7 +2642,7 @@ Objects {
     Location {
       X: -415
       Y: 7909
-      Z: 106
+      Z: 10
     }
     Rotation {
       Yaw: 89.9999542

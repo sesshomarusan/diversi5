@@ -1,6 +1,109 @@
 Name: "Stepswith lava"
 RootId: 3577199658077703067
 Objects {
+  Id: 14998485692134768260
+  Name: "Cube - Chamfered Large"
+  Transform {
+    Location {
+      X: 950
+      Y: 7698
+      Z: -3
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 1.80000007
+    }
+  }
+  ParentId: 3577199658077703067
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 412493161198471310
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9032484619104688176
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 15357887821287474428
+  Name: "Cube - Chamfered Large"
+  Transform {
+    Location {
+      X: 1190
+      Y: 5370
+      Z: -3
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.89999974
+      Y: 1.7
+      Z: 1.80000007
+    }
+  }
+  ParentId: 3577199658077703067
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 412493161198471310
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9032484619104688176
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 5969552751789309580
   Name: "Cube - Chamfered Large"
   Transform {
@@ -159,8 +262,8 @@ Objects {
   Name: "Cube - Chamfered Large"
   Transform {
     Location {
-      X: 1294
-      Y: 5587
+      X: 1250
+      Y: 5820
       Z: -3
     }
     Rotation {
