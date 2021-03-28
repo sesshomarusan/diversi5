@@ -53,6 +53,15 @@ Assets {
   }
 }
 Assets {
+  Id: 18049175085252879244
+  Name: "Decal Gold Coins 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_gold_coins_001"
+  }
+}
+Assets {
   Id: 17915627786077875210
   Name: "Torch Metal"
   PlatformAssetType: 1
@@ -143,6 +152,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17001123347469898316
+  Name: "Simple Crate 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_simple_150cm_001"
+  }
+}
+Assets {
   Id: 16709968254195406331
   Name: "Stone Block Long"
   PlatformAssetType: 1
@@ -215,6 +233,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15177054442487712282
+  Name: "Bottle 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_002"
+  }
+}
+Assets {
   Id: 15127837516411449464
   Name: "Hill 05"
   PlatformAssetType: 1
@@ -230,6 +257,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_stairs_001_150cm_corner02"
+  }
+}
+Assets {
+  Id: 14964967653464214432
+  Name: "Decal Dirt Patch"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_dirt_patch_001"
   }
 }
 Assets {
@@ -365,6 +401,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_clay_pot_broken_002_ref"
+  }
+}
+Assets {
+  Id: 12912690389659346107
+  Name: "Book Shelf 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_fan_books_shelf_001_uv"
   }
 }
 Assets {
@@ -512,6 +557,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10761768979513085968
+  Name: "Bottle 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_001"
+  }
+}
+Assets {
   Id: 10718538370904281203
   Name: "Fantasy Clay Pot Debris 01"
   PlatformAssetType: 1
@@ -536,6 +590,24 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_brick_stone_chunky_001"
+  }
+}
+Assets {
+  Id: 10628477911311457542
+  Name: "Shield 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_shield_004"
+  }
+}
+Assets {
+  Id: 10333000717486619107
+  Name: "Small Open Crate"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_narrow_open_simple_160cm_001"
   }
 }
 Assets {
@@ -746,6 +818,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8238583930569634834
+  Name: "Bottle 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_004"
+  }
+}
+Assets {
   Id: 8047616286204415729
   Name: "Humanoid 1 Core Shirt"
   PlatformAssetType: 26
@@ -800,6 +881,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7622923852987071105
+  Name: "Wispy Fog Volume VFX"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_fog_volume_vfx"
+  }
+}
+Assets {
   Id: 7562564312206413552
   Name: "Stone Arch 3m"
   PlatformAssetType: 1
@@ -833,6 +923,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_001"
+  }
+}
+Assets {
+  Id: 6716904778113771463
+  Name: "Large Wood Beam 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_large_beam_6m"
+  }
+}
+Assets {
+  Id: 6578463261395863448
+  Name: "Fantasy Throne 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_throne_001_ref"
   }
 }
 Assets {
@@ -908,6 +1016,15 @@ Assets {
   }
 }
 Assets {
+  Id: 4534565048296646729
+  Name: "Bone Human Ribcage Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_ribhalf_01_ref"
+  }
+}
+Assets {
   Id: 4524004223631073795
   Name: "Fire and Flame Burning Loop Set 01 SFX"
   PlatformAssetType: 10
@@ -935,12 +1052,39 @@ Assets {
   }
 }
 Assets {
+  Id: 4241954836035827010
+  Name: "Candle Holder 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_candle_holder_table_002"
+  }
+}
+Assets {
   Id: 4211126831021962034
   Name: "Fantasy Clay Pot 02 Damaged 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_clay_pot_broken_001_ref"
+  }
+}
+Assets {
+  Id: 3951462634526154992
+  Name: "Short Banner Fleur-de-lis"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_banner_003"
+  }
+}
+Assets {
+  Id: 3770737166054525592
+  Name: "Bottle 05"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_005"
   }
 }
 Assets {
@@ -968,6 +1112,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_hand_01_ref"
+  }
+}
+Assets {
+  Id: 3533190463953898497
+  Name: "Fantasy Chest Treasure Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_chest_treasure_pile_001_ref"
   }
 }
 Assets {
@@ -1043,6 +1196,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2617024611183834650
+  Name: "Fantasy Sack Tied"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_sack_002_ref"
+  }
+}
+Assets {
   Id: 2327605942852374154
   Name: "Bone Human Scattered 02"
   PlatformAssetType: 1
@@ -1079,6 +1241,15 @@ Assets {
   }
 }
 Assets {
+  Id: 1832894999287324335
+  Name: "Small Crate Lid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_narrow_lid_simple_160cm_001"
+  }
+}
+Assets {
   Id: 1790557420871868568
   Name: "Shield 03"
   PlatformAssetType: 1
@@ -1097,6 +1268,15 @@ Assets {
   }
 }
 Assets {
+  Id: 1498807753825017890
+  Name: "Decal Bones 02"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_fan_ground_bones_002"
+  }
+}
+Assets {
   Id: 1367565729547875542
   Name: "Fantasy Castle Wall 01"
   PlatformAssetType: 1
@@ -1112,6 +1292,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_gen_concrete_rough_001"
+  }
+}
+Assets {
+  Id: 1171022678323580308
+  Name: "Large Wood Board 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_large_board_6m"
   }
 }
 Assets {
@@ -1151,12 +1340,30 @@ Assets {
   }
 }
 Assets {
+  Id: 705806923722962045
+  Name: "Reinforced Crate 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_reinforced_150cm_001"
+  }
+}
+Assets {
   Id: 517374961762022671
   Name: "Fantasy Castle Stairs 01 - Straight"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_stairs_001_straight"
+  }
+}
+Assets {
+  Id: 516042341545244664
+  Name: "Wooden Barrel"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_barrel_001"
   }
 }
 Assets {
