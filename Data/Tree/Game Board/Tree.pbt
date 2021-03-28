@@ -1,8 +1,8 @@
-Name: "Root"
-RootId: 4781671109827199097
+Name: "Game Board"
+RootId: 16054865319965896536
 Objects {
-  Id: 4781671109827199097
-  Name: "Root"
+  Id: 6179461341677513473
+  Name: "Banners"
   Transform {
     Location {
     }
@@ -14,80 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ChildIds: 18014765257829886886
-  ChildIds: 2654916338316290302
-  ChildIds: 5628166357863187692
-  ChildIds: 413991195585998862
-  ChildIds: 6052477552364043076
-  ChildIds: 3543124865317691034
-  ChildIds: 10680076438754699651
-  ChildIds: 6002287883041365082
-  ChildIds: 4658613548534488732
-  ChildIds: 12657443587902675875
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceon"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Folder {
-  }
-}
-Objects {
-  Id: 12657443587902675875
-  Name: "Terrain"
-  Transform {
-    Location {
-      Y: 55267
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Terrain {
-    Material {
-      Id: 7588855651093818113
-    }
-    VoxelSize: 100
-    OctreeDepth: 5
-    GeneratorID: "DEPRECATED"
-  }
-}
-Objects {
-  Id: 4658613548534488732
-  Name: "Boss Level"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
+  ParentId: 16054865319965896536
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -99,17 +26,16 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Boss Level"
+    FilePartitionName: "Banners"
   }
 }
 Objects {
-  Id: 6002287883041365082
-  Name: "Level 3"
+  Id: 12775277438002744396
+  Name: "Finish Line"
   Transform {
     Location {
-      X: -4639
-      Y: 33264
-      Z: 8202
+      X: 6200
+      Y: 1200
     }
     Rotation {
     }
@@ -119,7 +45,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 16054865319965896536
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -131,16 +57,16 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Level 3"
+    FilePartitionName: "Finish Line"
   }
 }
 Objects {
-  Id: 10680076438754699651
-  Name: "Level 2"
+  Id: 944487436511659260
+  Name: "Starting Line"
   Transform {
     Location {
-      Y: 11800
-      Z: -750
+      X: 6200
+      Y: -6000
     }
     Rotation {
     }
@@ -150,7 +76,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 16054865319965896536
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -162,14 +88,271 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Level 2"
+    FilePartitionName: "Starting Line"
   }
 }
 Objects {
-  Id: 3543124865317691034
-  Name: "Level 1"
+  Id: 9671405788428370880
+  Name: "Wall SW"
   Transform {
     Location {
+      X: 9650
+      Y: -6000
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 0.5
+      Y: 40
+      Z: 3
+    }
+  }
+  ParentId: 16054865319965896536
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8546474113687245702
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 7895445400287575625
+  Name: "Wall SE"
+  Transform {
+    Location {
+      X: 4850
+      Y: -6000
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 0.5
+      Y: 40
+      Z: 3
+    }
+  }
+  ParentId: 16054865319965896536
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8546474113687245702
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 4922486210470662393
+  Name: "Wall West"
+  Transform {
+    Location {
+      X: 3650
+      Y: -2400
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 140
+      Z: 3
+    }
+  }
+  ParentId: 16054865319965896536
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8546474113687245702
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 5376835526760445159
+  Name: "Wall East"
+  Transform {
+    Location {
+      X: 10450
+      Y: -2400
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.5
+      Y: 140
+      Z: 3
+    }
+  }
+  ParentId: 16054865319965896536
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8546474113687245702
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 13235605304405595030
+  Name: "Wall NE"
+  Transform {
+    Location {
+      X: 4850
+      Y: 800
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 0.5
+      Y: 40
+      Z: 3
+    }
+  }
+  ParentId: 16054865319965896536
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8546474113687245702
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 8860865384744555590
+  Name: "Wall NW"
+  Transform {
+    Location {
+      X: 9650
+      Y: 800
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 0.5
+      Y: 40
+      Z: 3
+    }
+  }
+  ParentId: 16054865319965896536
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8546474113687245702
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 7163975842816591346
+  Name: "Tile Floor"
+  Transform {
+    Location {
+      X: 4850
     }
     Rotation {
     }
@@ -179,7 +362,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 16054865319965896536
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -191,151 +374,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Level 1"
-  }
-}
-Objects {
-  Id: 6052477552364043076
-  Name: "NavMesh"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceoff"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "NavMesh"
-  }
-}
-Objects {
-  Id: 413991195585998862
-  Name: "Map"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Map_1"
-  }
-}
-Objects {
-  Id: 5628166357863187692
-  Name: "UI Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "UI Settings"
-  }
-}
-Objects {
-  Id: 2654916338316290302
-  Name: "Game Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Game Settings"
-  }
-}
-Objects {
-  Id: 18014765257829886886
-  Name: "Framework Documentation"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Framework Documentation"
+    FilePartitionName: "Tile Floor"
   }
 }
