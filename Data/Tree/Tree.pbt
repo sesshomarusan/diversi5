@@ -23,6 +23,7 @@ Objects {
   ChildIds: 10680076438754699651
   ChildIds: 6002287883041365082
   ChildIds: 4658613548534488732
+  ChildIds: 14814857204544419984
   ChildIds: 12657443587902675875
   UnregisteredParameters {
   }
@@ -71,6 +72,37 @@ Objects {
     VoxelSize: 100
     OctreeDepth: 5
     GeneratorID: "DEPRECATED"
+  }
+}
+Objects {
+  Id: 14814857204544419984
+  Name: "Starting Tavern"
+  Transform {
+    Location {
+      Y: 55267
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Starting Tavern"
   }
 }
 Objects {
@@ -170,6 +202,9 @@ Objects {
   Name: "Level 1"
   Transform {
     Location {
+      X: -27880
+      Y: 64080
+      Z: 450
     }
     Rotation {
     }

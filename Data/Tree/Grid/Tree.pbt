@@ -5,15 +5,15 @@ Objects {
   Name: "Whitebox Floor 01 4m x 4m"
   Transform {
     Location {
-      X: -4250
-      Y: 9280
+      X: -17700
+      Y: 16030
       Z: -50.0004883
     }
     Rotation {
     }
     Scale {
-      X: 29.6
-      Y: 14.9000025
+      X: 262.4
+      Y: 84.2000122
       Z: 1
     }
   }
