@@ -26,7 +26,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder"
+    FilePartitionName: "Dungeon Wall Separators"
   }
 }
 Objects {

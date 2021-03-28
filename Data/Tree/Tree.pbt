@@ -23,6 +23,7 @@ Objects {
   ChildIds: 10680076438754699651
   ChildIds: 6002287883041365082
   ChildIds: 4658613548534488732
+  ChildIds: 12657443587902675875
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +36,41 @@ Objects {
     Value: "mc:ecollisionsetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 12657443587902675875
+  Name: "Terrain"
+  Transform {
+    Location {
+      Y: 55267
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Terrain {
+    Material {
+      Id: 7588855651093818113
+    }
+    VoxelSize: 100
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
   }
 }
 Objects {
@@ -71,6 +107,9 @@ Objects {
   Name: "Level 3"
   Transform {
     Location {
+      X: -4639
+      Y: 33264
+      Z: 8202
     }
     Rotation {
     }
@@ -100,6 +139,8 @@ Objects {
   Name: "Level 2"
   Transform {
     Location {
+      Y: 11800
+      Z: -750
     }
     Rotation {
     }

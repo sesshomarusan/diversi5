@@ -2247,7 +2247,6 @@ Objects {
       Z: -25
     }
     Rotation {
-      Yaw: -6.83018516e-06
     }
     Scale {
       X: 1
@@ -2300,7 +2299,6 @@ Objects {
       Z: -25
     }
     Rotation {
-      Yaw: -6.83018516e-06
     }
     Scale {
       X: 1

@@ -17,7 +17,6 @@ Objects {
     }
   }
   ParentId: 413991195585998862
-  ChildIds: 6202191793116170475
   ChildIds: 4261340250641796324
   UnregisteredParameters {
   }
@@ -54,7 +53,7 @@ Objects {
     Overrides {
       Name: "cs:KillTrigger"
       ObjectReference {
-        SelfId: 6202191793116170475
+        SelfId: 841534158063459245
       }
     }
   }
@@ -70,42 +69,6 @@ Objects {
   Script {
     ScriptAsset {
       Id: 3908110495107565482
-    }
-  }
-}
-Objects {
-  Id: 6202191793116170475
-  Name: "KillTrigger"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 200
-      Y: 200
-      Z: 1
-    }
-  }
-  ParentId: 6269342187725287856
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
     }
   }
 }
@@ -252,5 +215,38 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Environment"
+  }
+}
+Objects {
+  Id: 14941386982392477555
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: -1200
+      Y: 33900
+      Z: 9700
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 413991195585998862
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 1
+    PlayerScaleMultiplier: 1
   }
 }
