@@ -1,6 +1,35 @@
 Name: "Wade_2"
 RootId: 8692248943897606178
 Objects {
+  Id: 6085767331542653235
+  Name: "Destructibles"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8692248943897606178
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Destructibles"
+  }
+}
+Objects {
   Id: 15670984679063103876
   Name: "Gate Garden Floor "
   Transform {

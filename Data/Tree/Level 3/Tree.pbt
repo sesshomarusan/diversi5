@@ -1,6 +1,35 @@
 Name: "Level 3"
 RootId: 6002287883041365082
 Objects {
+  Id: 665492965316060442
+  Name: "Key locations"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6002287883041365082
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Key locations"
+  }
+}
+Objects {
   Id: 13585828261751183278
   Name: "Nancy"
   Transform {

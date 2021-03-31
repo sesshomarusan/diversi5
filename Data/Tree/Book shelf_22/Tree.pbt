@@ -108,9 +108,9 @@ Objects {
     Overrides {
       Name: "ma:Prop_Top:color"
       Color {
-        R: 0.28125
-        G: 0.28125
-        B: 0.28125
+        R: 1
+        G: 1
+        B: 1
         A: 1
       }
     }
@@ -123,9 +123,9 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
       Color {
-        R: 0.302083343
-        G: 0.302083343
-        B: 0.302083343
+        R: 1
+        G: 1
+        B: 1
         A: 1
       }
     }
