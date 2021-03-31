@@ -79,10 +79,12 @@ Objects {
   Name: "Starting Tavern"
   Transform {
     Location {
-      Y: 55267
+      X: -27150
+      Y: 91870
+      Z: -1569.99707
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 1
