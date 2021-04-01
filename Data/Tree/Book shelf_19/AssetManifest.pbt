@@ -1,49 +1,4 @@
 Assets {
-  Id: 18280303351516875622
-  Name: "Emissive Container Liquid"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_emissive_cutoff_liquid"
-  }
-}
-Assets {
-  Id: 16538944796220617190
-  Name: "Gel Transparent"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_gel"
-  }
-}
-Assets {
-  Id: 16112374843727261573
-  Name: "Candle Group Melted 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_candles_melted_001"
-  }
-}
-Assets {
-  Id: 15177054442487712282
-  Name: "Bottle 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_bottle_002"
-  }
-}
-Assets {
-  Id: 13927126014220789258
-  Name: "Gel Opaque"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_gel_opaque"
-  }
-}
-Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -80,30 +35,12 @@ Assets {
   }
 }
 Assets {
-  Id: 7883058270730557610
-  Name: "Bottle 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_bottle_003"
-  }
-}
-Assets {
   Id: 4050437425243511619
   Name: "Wood Raw"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_wood_raw_001_uv"
-  }
-}
-Assets {
-  Id: 3770737166054525592
-  Name: "Bottle 05"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_bottle_005"
   }
 }
 Assets {

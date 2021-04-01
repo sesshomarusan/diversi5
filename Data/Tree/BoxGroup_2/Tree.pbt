@@ -1,7 +1,7 @@
 Name: "BoxGroup_2"
-RootId: 11505746918799549371
+RootId: 2986724365749798381
 Objects {
-  Id: 5433109432809738452
+  Id: 4592191537107829833
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11505746918799549371
+  ParentId: 2986724365749798381
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -96,7 +96,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3955869719039505586
+  Id: 6933856401460692908
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -113,7 +113,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11505746918799549371
+  ParentId: 2986724365749798381
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -181,7 +181,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10469316022417235565
+  Id: 10985821430980435443
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -197,7 +197,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11505746918799549371
+  ParentId: 2986724365749798381
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -270,7 +270,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18165471328436541361
+  Id: 3339926829879583370
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -287,7 +287,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11505746918799549371
+  ParentId: 2986724365749798381
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -355,7 +355,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9190406301003876708
+  Id: 11153755829348860413
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -372,7 +372,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11505746918799549371
+  ParentId: 2986724365749798381
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -400,7 +400,16 @@ Objects {
         Overrides {
           Name: "ma:Shared_BaseMaterial:id"
           AssetReference {
-            Id: 5771844425491559774
+            Id: 841534158063459245
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
           }
         }
       }
@@ -446,7 +455,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10360110688684899235
+  Id: 16005640408680486817
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -463,7 +472,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11505746918799549371
+  ParentId: 2986724365749798381
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

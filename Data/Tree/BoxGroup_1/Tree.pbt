@@ -1,7 +1,7 @@
 Name: "BoxGroup_1"
-RootId: 2121960589083533221
+RootId: 13930068097204299458
 Objects {
-  Id: 8170671670644532288
+  Id: 9034143194558959200
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2121960589083533221
+  ParentId: 13930068097204299458
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -71,15 +71,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -138.977158
-            Y: -92.0833817
+            X: -139.442963
+            Y: -114.077431
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -17
+            Yaw: 13
           }
         }
       }
@@ -90,7 +90,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5141776909984367136
+  Id: 14394871886982302977
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -107,7 +107,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2121960589083533221
+  ParentId: 13930068097204299458
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -175,7 +175,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11498400687663948797
+  Id: 9995543974424171724
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -192,7 +192,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2121960589083533221
+  ParentId: 13930068097204299458
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -241,8 +241,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 32.2464638
-            Y: 11.321023
+            X: 41.244545
+            Y: 11.1307526
             Z: 84
           }
         }
@@ -260,7 +260,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18038772431315662463
+  Id: 13731813952875962709
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -277,7 +277,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2121960589083533221
+  ParentId: 13930068097204299458
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -342,8 +342,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -113.813667
-            Y: -84.6135254
+            X: -93.3475494
+            Y: -110.051071
             Z: 82
           }
         }

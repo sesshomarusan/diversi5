@@ -1,31 +1,4 @@
 Assets {
-  Id: 18280303351516875622
-  Name: "Emissive Container Liquid"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_emissive_cutoff_liquid"
-  }
-}
-Assets {
-  Id: 15177054442487712282
-  Name: "Bottle 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_bottle_002"
-  }
-}
-Assets {
-  Id: 13549539976900896759
-  Name: "Edgeline Wavy Object Fade Advanced"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_add_edgeline_local"
-  }
-}
-Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -50,15 +23,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_bottle_001"
-  }
-}
-Assets {
-  Id: 8238583930569634834
-  Name: "Bottle 04"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_bottle_004"
   }
 }
 Assets {

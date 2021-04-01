@@ -418,8 +418,9 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: -199.835938
-      Y: -2119.82031
+      X: -37
+      Y: -1274.97266
+      Z: 147.169922
     }
     Rotation {
     }
@@ -465,9 +466,9 @@ Objects {
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
-      X: -199.835938
-      Y: -2037.84766
-      Z: 132.830078
+      X: -37
+      Y: -1193
+      Z: 280
     }
     Rotation {
       Roll: 170.558182
@@ -1556,12 +1557,12 @@ Objects {
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
-      X: -46.2995605
-      Y: -1589.42432
-      Z: 149.773544
+      X: -78
+      Y: -1639
+      Z: 149.773438
     }
     Rotation {
-      Yaw: -90.0460205
+      Yaw: -108.046005
     }
     Scale {
       X: 1
@@ -2563,7 +2564,7 @@ Objects {
   Transform {
     Location {
       X: -57.7167969
-      Y: -2142.86719
+      Y: -2093
       Z: 149.773438
     }
     Rotation {
@@ -2997,54 +2998,6 @@ Objects {
   }
 }
 Objects {
-  Id: 2101535128449563054
-  Name: "Simple Crate 150cm"
-  Transform {
-    Location {
-      X: -796.135498
-      Y: -3093.61914
-      Z: 125.484375
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2104398415333133464
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17001123347469898316
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 910716068361598745
-    SubobjectId: 11942589852508049607
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
   Id: 14578663637878903495
   Name: "Wooden Barrel"
   Transform {
@@ -3093,54 +3046,6 @@ Objects {
   }
 }
 Objects {
-  Id: 9167843728067559692
-  Name: "Wooden Barrel"
-  Transform {
-    Location {
-      X: -510.559326
-      Y: -3119.24414
-      Z: 0.699417114
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2104398415333133464
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 516042341545244664
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 16217945640893027100
-    SubobjectId: 5192279699396867266
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
   Id: 1582641892040581199
   Name: "Simple Crate 150cm"
   Transform {
@@ -3183,102 +3088,6 @@ Objects {
   InstanceHistory {
     SelfId: 18425651856264400293
     SubobjectId: 6244814825443797627
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 12410580912572601386
-  Name: "Chest Small Closed"
-  Transform {
-    Location {
-      X: -788.603149
-      Y: -3102.54541
-      Z: -0.000152587891
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2104398415333133464
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10457055295305168447
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3271895106586669692
-    SubobjectId: 9545100140758193570
-    InstanceId: 2378929602943719746
-    TemplateId: 13204456275407892849
-  }
-}
-Objects {
-  Id: 9713720653687239104
-  Name: "Reinforced Crate 150cm"
-  Transform {
-    Location {
-      X: -641.079
-      Y: -3090.09863
-      Z: 0.000122070313
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2104398415333133464
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 705806923722962045
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 15588203288973090565
-    SubobjectId: 8163747457039251675
     InstanceId: 2378929602943719746
     TemplateId: 13204456275407892849
   }

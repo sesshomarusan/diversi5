@@ -1,7 +1,7 @@
 Name: "BoxGroup_3"
-RootId: 7445214737194400399
+RootId: 15473330561860053681
 Objects {
-  Id: 14982462254168540350
+  Id: 5393849765831629934
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7445214737194400399
+  ParentId: 15473330561860053681
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42,6 +42,11 @@ Objects {
             Id: 17001123347469898316
           }
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -54,9 +59,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
           }
         }
         Overrides {
@@ -66,15 +71,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -175
-            Y: -60
+            X: -138.977158
+            Y: -92.0833817
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -39.9999847
+            Yaw: -17
           }
         }
       }
@@ -85,7 +90,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6745458841365694159
+  Id: 3217594965353340161
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +107,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7445214737194400399
+  ParentId: 15473330561860053681
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -117,8 +122,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 10
-            Y: 20
+            X: 9.9999218
+            Y: 20.0014133
           }
         }
         Overrides {
@@ -139,9 +144,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 1.1
+            Y: 1.1
+            Z: 1.1
           }
         }
         Overrides {
@@ -151,14 +156,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Y: 40
+            X: -8.81424618
+            Y: 56.1988335
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -5.00000238
+            Yaw: -5
           }
         }
       }
@@ -169,7 +175,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13408044094432767946
+  Id: 15844461506163713212
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -186,7 +192,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7445214737194400399
+  ParentId: 15473330561860053681
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -203,91 +209,6 @@ Objects {
           Vector {
             X: 21.6845245
             Y: 45.0572357
-          }
-        }
-        Overrides {
-          Name: "StaticMesh"
-          AssetReference {
-            Id: 17001123347469898316
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 18013155490129251080
-      value {
-        Overrides {
-          Name: "Name"
-          String: "DestructibleBarrel"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "cs:LootId"
-          String: "Nothing"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 25
-            Y: 65
-            Z: 65
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 24.999979
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 14404379499092769970
-    }
-  }
-}
-Objects {
-  Id: 15040775456151912289
-  Name: "DestructibleBarrel"
-  Transform {
-    Location {
-      X: -7625
-      Y: 33075
-      Z: 9575
-    }
-    Rotation {
-      Yaw: 24.999979
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7445214737194400399
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3909470211396568186
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 38.3022194
-            Y: 32.1393814
           }
         }
         Overrides {
@@ -326,9 +247,104 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -100
-            Y: -60
-            Z: 65
+            X: 32.2464638
+            Y: 11.321023
+            Z: 84
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 24.999979
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14404379499092769970
+    }
+  }
+}
+Objects {
+  Id: 5408977655735760964
+  Name: "DestructibleBarrel"
+  Transform {
+    Location {
+      X: -7625
+      Y: 33075
+      Z: 9575
+    }
+    Rotation {
+      Yaw: 24.999979
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15473330561860053681
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3909470211396568186
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 38.3022194
+            Y: 32.1393814
+          }
+        }
+        Overrides {
+          Name: "StaticMesh"
+          AssetReference {
+            Id: 17001123347469898316
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17379918311934367126
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18013155490129251080
+      value {
+        Overrides {
+          Name: "Name"
+          String: "DestructibleBarrel"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "cs:LootId"
+          String: "Nothing"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -113.813667
+            Y: -84.6135254
+            Z: 82
           }
         }
         Overrides {

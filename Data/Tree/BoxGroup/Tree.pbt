@@ -1,7 +1,7 @@
 Name: "BoxGroup"
-RootId: 15473330561860053681
+RootId: 11229072444301560890
 Objects {
-  Id: 5393849765831629934
+  Id: 7996488808412959164
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15473330561860053681
+  ParentId: 11229072444301560890
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -71,15 +71,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -138.977158
-            Y: -92.0833817
+            X: -139.442963
+            Y: -114.077431
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -17
+            Yaw: 13
           }
         }
       }
@@ -90,7 +90,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3217594965353340161
+  Id: 17891430704025324457
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -107,7 +107,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15473330561860053681
+  ParentId: 11229072444301560890
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -175,7 +175,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15844461506163713212
+  Id: 14509186843576241355
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -192,7 +192,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15473330561860053681
+  ParentId: 11229072444301560890
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -215,12 +215,6 @@ Objects {
           Name: "StaticMesh"
           AssetReference {
             Id: 17001123347469898316
-          }
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 5771844425491559774
           }
         }
       }
@@ -247,8 +241,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 32.2464638
-            Y: 11.321023
+            X: 41.244545
+            Y: 11.1307526
             Z: 84
           }
         }
@@ -266,7 +260,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5408977655735760964
+  Id: 16805023656967989140
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -283,7 +277,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15473330561860053681
+  ParentId: 11229072444301560890
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -306,6 +300,12 @@ Objects {
           Name: "StaticMesh"
           AssetReference {
             Id: 17001123347469898316
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 5771844425491559774
           }
         }
       }
@@ -342,8 +342,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -113.813667
-            Y: -84.6135254
+            X: -93.3475494
+            Y: -110.051071
             Z: 82
           }
         }
