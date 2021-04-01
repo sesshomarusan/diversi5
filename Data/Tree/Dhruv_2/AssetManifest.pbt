@@ -404,15 +404,6 @@ Assets {
   }
 }
 Assets {
-  Id: 13405450940038911275
-  Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_stairs_spiral_001_sm_150cm"
-  }
-}
-Assets {
   Id: 13253926991121342451
   Name: "Fantasy Clay Pot 02 Damaged 02"
   PlatformAssetType: 1
@@ -557,15 +548,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11029918611887617758
-  Name: "Humanoid 1 Rig"
-  PlatformAssetType: 25
-  PrimaryAsset {
-    AssetType: "SkeletonAssetRef"
-    AssetId: "npc_gal_wireframe_001_ref"
-  }
-}
-Assets {
   Id: 10914354925542967262
   Name: "Fantasy Castle Pillar 02 - Mid"
   PlatformAssetType: 1
@@ -662,15 +644,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_trim_brick_6m_001"
-  }
-}
-Assets {
-  Id: 9788398931164949884
-  Name: "Column Topper 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_column_top_001"
   }
 }
 Assets {
@@ -881,15 +854,6 @@ Assets {
   }
 }
 Assets {
-  Id: 8047616286204415729
-  Name: "Humanoid 1 Core Shirt"
-  PlatformAssetType: 26
-  PrimaryAsset {
-    AssetType: "SkinnedMeshAssetRef"
-    AssetId: "npc_human_gal_upper_basic_000_ref"
-  }
-}
-Assets {
   Id: 8006645688920751412
   Name: "Long Banner Manticore"
   PlatformAssetType: 1
@@ -1007,15 +971,6 @@ Assets {
   }
 }
 Assets {
-  Id: 6434660588544064544
-  Name: "Humanoid 1 Nalo"
-  PlatformAssetType: 26
-  PrimaryAsset {
-    AssetType: "SkinnedMeshAssetRef"
-    AssetId: "npc_human_gal_head_basic_003_ref"
-  }
-}
-Assets {
   Id: 6159833405382513654
   Name: "Tree Oak Bare 01"
   PlatformAssetType: 1
@@ -1040,6 +995,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "dirt_001"
+  }
+}
+Assets {
+  Id: 5771844425491559774
+  Name: "Terrain Grid Glow"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_grid+emissive-paint_001"
   }
 }
 Assets {
@@ -1364,15 +1328,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_001"
-  }
-}
-Assets {
-  Id: 1287203782625704153
-  Name: "Concrete Rough"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_gen_concrete_rough_001"
   }
 }
 Assets {

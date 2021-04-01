@@ -1,7 +1,7 @@
 Name: "BoxGroup_6"
-RootId: 17045446781554750860
+RootId: 12114489002582964491
 Objects {
-  Id: 5082570631222299981
+  Id: 8153481824170296296
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17045446781554750860
+  ParentId: 12114489002582964491
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -86,7 +86,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2863852470003112665
+  Id: 806061307994715334
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17045446781554750860
+  ParentId: 12114489002582964491
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -170,7 +170,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2057318312693783045
+  Id: 11844796512782599041
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -187,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17045446781554750860
+  ParentId: 12114489002582964491
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -254,7 +254,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16823320519372619667
+  Id: 12275742880456270914
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -271,7 +271,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17045446781554750860
+  ParentId: 12114489002582964491
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -294,6 +294,12 @@ Objects {
           Name: "StaticMesh"
           AssetReference {
             Id: 17001123347469898316
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 5771844425491559774
           }
         }
       }
@@ -339,7 +345,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17375103083254529413
+  Id: 5827191363644910807
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -356,7 +362,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17045446781554750860
+  ParentId: 12114489002582964491
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

@@ -29,7 +29,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_3"
+    FilePartitionName: "BoxGroup_6"
   }
 }
 Objects {
@@ -61,7 +61,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_4"
+    FilePartitionName: "BoxGroup_7"
   }
 }
 Objects {
@@ -93,7 +93,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_6"
+    FilePartitionName: "BoxGroup_8"
   }
 }
 Objects {
@@ -125,7 +125,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_7"
+    FilePartitionName: "BoxGroup_9"
   }
 }
 Objects {
@@ -158,7 +158,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_8"
+    FilePartitionName: "BoxGroup_10"
   }
 }
 Objects {
@@ -190,6 +190,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_9"
+    FilePartitionName: "BoxGroup_11"
   }
 }
