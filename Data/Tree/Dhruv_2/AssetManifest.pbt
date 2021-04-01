@@ -881,15 +881,6 @@ Assets {
   }
 }
 Assets {
-  Id: 8206502277197523969
-  Name: "Underwater Post Process"
-  PlatformAssetType: 20
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_water"
-  }
-}
-Assets {
   Id: 8047616286204415729
   Name: "Humanoid 1 Core Shirt"
   PlatformAssetType: 26
