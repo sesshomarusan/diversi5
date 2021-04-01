@@ -1,11 +1,12 @@
 Name: "Walls_2"
-RootId: 8515320692023668415
+RootId: 8624945604156873055
 Objects {
-  Id: 8654333316203119871
+  Id: 11486388077444592432
   Name: "Whitebox Wall 01 Corner"
   Transform {
     Location {
-      X: 5600
+      X: 5600.01563
+      Y: 775.001953
     }
     Rotation {
       Yaw: 89.9999542
@@ -16,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -42,7 +43,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3194271795523311858
+  Id: 5758208309340594151
   Name: "Whitebox Wall 01 Corner"
   Transform {
     Location {
@@ -57,7 +58,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -83,7 +84,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10916372257172525521
+  Id: 441530052501475086
   Name: "Whitebox Wall 01 Corner"
   Transform {
     Location {
@@ -99,7 +100,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -125,7 +126,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16971644572114133204
+  Id: 1884300650203736691
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -141,7 +142,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -167,7 +168,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14905098098869111770
+  Id: 3360703646513135407
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -183,7 +184,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -209,7 +210,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10430207154980164412
+  Id: 17354275791146783031
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -225,7 +226,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -251,7 +252,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3177833993990605322
+  Id: 14440912425651016324
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -267,7 +268,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -293,7 +294,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11300693623261810898
+  Id: 14490042054631776216
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -309,7 +310,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -335,7 +336,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2797051448004831854
+  Id: 1343706372455917583
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -351,7 +352,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -377,7 +378,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15017083298510877808
+  Id: 5041417438540157107
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -393,7 +394,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -419,7 +420,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15557013633258858673
+  Id: 4787678947144005534
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -434,7 +435,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -460,7 +461,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10690927144099298655
+  Id: 2677233648003154593
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -476,7 +477,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -502,7 +503,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8507917678251459097
+  Id: 12402741812434028702
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -518,7 +519,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -544,7 +545,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7103456469096908476
+  Id: 5355361318677399558
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -560,7 +561,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -586,7 +587,7 @@ Objects {
   }
 }
 Objects {
-  Id: 212129075694819933
+  Id: 9426633445100666207
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -602,7 +603,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -628,7 +629,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13734262367238805854
+  Id: 9291428269120674455
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -644,7 +645,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -670,7 +671,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5012107616344553444
+  Id: 8834605934986421735
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -686,7 +687,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -712,7 +713,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8160189294643273016
+  Id: 14037980253734495160
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -728,7 +729,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -754,7 +755,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12158910854441825970
+  Id: 4997307871177283165
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -769,7 +770,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -795,7 +796,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16994770764243072673
+  Id: 9032802717923777428
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -811,7 +812,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 8624945604156873055
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

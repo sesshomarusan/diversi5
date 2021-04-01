@@ -26,7 +26,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Walls"
+    FilePartitionName: "Walls_1"
   }
 }
 Objects {
@@ -84,7 +84,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Archs"
+    FilePartitionName: "Archs_1"
   }
 }
 Objects {
@@ -378,7 +378,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Platform"
+    FilePartitionName: "Platform_1"
   }
 }
 Objects {
@@ -407,6 +407,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Grid"
+    FilePartitionName: "Grid_1"
   }
 }
