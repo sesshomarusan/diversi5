@@ -38,17 +38,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2830
-            Y: 4097
+            X: -3218.42188
+            Y: 4279.05859
             Z: -239
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -6.69516277
+            Pitch: -6.69516
             Yaw: 4.77352953
-            Roll: -36.3122826
+            Roll: -36.3122864
           }
         }
         Overrides {
@@ -104,17 +104,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2480
-            Y: 3926
+            X: -2868.42188
+            Y: 4108.05859
             Z: -239
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -11.3133535
+            Pitch: -11.3133545
             Yaw: 46.6558418
-            Roll: -16.6019402
+            Roll: -16.6019287
           }
         }
         Overrides {
@@ -170,17 +170,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2808
-            Y: 4517
+            X: -3196.42188
+            Y: 4699.05859
             Z: -239
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -2.69768548
-            Yaw: -64.0315094
-            Roll: -50.8218842
+            Pitch: -2.69769287
+            Yaw: -64.0314941
+            Roll: -50.8219
           }
         }
         Overrides {
@@ -226,17 +226,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2922
-            Y: 4203
+            X: -3310.42188
+            Y: 4385.05859
             Z: -239
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -11.3133535
-            Yaw: -33.3441925
-            Roll: -16.6018505
+            Pitch: -11.3133545
+            Yaw: -33.3441772
+            Roll: -16.6018372
           }
         }
         Overrides {
