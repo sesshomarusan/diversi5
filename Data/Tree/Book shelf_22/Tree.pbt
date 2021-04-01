@@ -81,86 +81,6 @@ Objects {
   }
 }
 Objects {
-  Id: 11230890979092219307
-  Name: "Counter - Drawers"
-  Transform {
-    Location {
-      X: -74.4828949
-      Y: -115.907196
-    }
-    Rotation {
-      Yaw: 88.4648514
-    }
-    Scale {
-      X: 2
-      Y: 0.7
-      Z: 2
-    }
-  }
-  ParentId: 4852894154474033849
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Prop_Top:id"
-      AssetReference {
-        Id: 4050437425243511619
-      }
-    }
-    Overrides {
-      Name: "ma:Prop_Top:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 4050437425243511619
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3653441150779916324
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 6056108646701660111
-    SubobjectId: 4328571131137826901
-    InstanceId: 12657885285872939576
-    TemplateId: 6777761933385266638
-  }
-}
-Objects {
   Id: 13248187702030966710
   Name: "Counter - Drawers"
   Transform {
@@ -236,54 +156,6 @@ Objects {
   InstanceHistory {
     SelfId: 6056108646701660111
     SubobjectId: 4328571131137826901
-    InstanceId: 12657885285872939576
-    TemplateId: 6777761933385266638
-  }
-}
-Objects {
-  Id: 10248281200632316664
-  Name: "Bottle 01"
-  Transform {
-    Location {
-      X: 93.9258804
-      Y: 64.6862488
-      Z: 170
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 4852894154474033849
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10761768979513085968
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 10248281200632316664
-    SubobjectId: 16582402592318494050
     InstanceId: 12657885285872939576
     TemplateId: 6777761933385266638
   }
@@ -452,62 +324,6 @@ Objects {
   InstanceHistory {
     SelfId: 8702084350053258922
     SubobjectId: 1215322796515705136
-    InstanceId: 12657885285872939576
-    TemplateId: 6777761933385266638
-  }
-}
-Objects {
-  Id: 14703583576745326789
-  Name: "Bottle 01"
-  Transform {
-    Location {
-      X: 132.784241
-      Y: 49.9909515
-      Z: 170
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.3
-      Y: 0.3
-      Z: 0.3
-    }
-  }
-  ParentId: 4852894154474033849
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 17685432005016080008
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 10761768979513085968
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 14703583576745326789
-    SubobjectId: 11823124831933951839
     InstanceId: 12657885285872939576
     TemplateId: 6777761933385266638
   }
@@ -701,72 +517,6 @@ Objects {
   InstanceHistory {
     SelfId: 18141471036571387927
     SubobjectId: 10654041117555285901
-    InstanceId: 12657885285872939576
-    TemplateId: 6777761933385266638
-  }
-}
-Objects {
-  Id: 7666062171267257472
-  Name: "Bottle 04"
-  Transform {
-    Location {
-      X: 38.9738579
-      Y: 63.1147919
-      Z: 170
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.6
-      Y: 0.6
-      Z: 0.6
-    }
-  }
-  ParentId: 4852894154474033849
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.0331065543
-        G: 0.0541085
-        B: 0.661458313
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        B: 0.0885416642
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8238583930569634834
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 7666062171267257472
-    SubobjectId: 178702340933026586
     InstanceId: 12657885285872939576
     TemplateId: 6777761933385266638
   }

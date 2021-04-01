@@ -27928,7 +27928,7 @@ Objects {
   Transform {
     Location {
       X: 9959
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -28156,7 +28156,7 @@ Objects {
   Transform {
     Location {
       X: 7569
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -28213,7 +28213,7 @@ Objects {
   Transform {
     Location {
       X: 8359
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -28441,7 +28441,7 @@ Objects {
   Transform {
     Location {
       X: 9159
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -32681,7 +32681,7 @@ Objects {
   Transform {
     Location {
       X: 6769
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -32852,7 +32852,7 @@ Objects {
   Transform {
     Location {
       X: 5969
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -32909,7 +32909,7 @@ Objects {
   Transform {
     Location {
       X: 5179
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -32966,7 +32966,7 @@ Objects {
   Transform {
     Location {
       X: 4380
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -33080,7 +33080,7 @@ Objects {
   Transform {
     Location {
       X: 4380
-      Y: -1730
+      Y: -1730.13281
       Z: 598
     }
     Rotation {
@@ -35792,7 +35792,7 @@ Objects {
   Transform {
     Location {
       X: 3589
-      Y: -1730
+      Y: -1730.13281
       Z: 598
     }
     Rotation {
@@ -35849,7 +35849,7 @@ Objects {
   Transform {
     Location {
       X: 3589
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -35906,7 +35906,7 @@ Objects {
   Transform {
     Location {
       X: 2789
-      Y: -1730
+      Y: -1730.13281
       Z: 598
     }
     Rotation {
@@ -35963,7 +35963,7 @@ Objects {
   Transform {
     Location {
       X: 2789
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -36020,7 +36020,7 @@ Objects {
   Transform {
     Location {
       X: 1999
-      Y: -1730
+      Y: -1730.13281
       Z: 598
     }
     Rotation {
@@ -36077,7 +36077,7 @@ Objects {
   Transform {
     Location {
       X: 1999
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {
@@ -36824,7 +36824,7 @@ Objects {
   Transform {
     Location {
       X: 1200
-      Y: -1730
+      Y: -1730.13281
       Z: 598
     }
     Rotation {
@@ -36881,7 +36881,7 @@ Objects {
   Transform {
     Location {
       X: 1200
-      Y: -2540
+      Y: -2526.71094
       Z: 598
     }
     Rotation {

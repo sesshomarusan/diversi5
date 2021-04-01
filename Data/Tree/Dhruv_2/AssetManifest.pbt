@@ -89,6 +89,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17636451187442300607
+  Name: "Bone Human Tibula 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_tib_01_ref"
+  }
+}
+Assets {
   Id: 17546982558755096284
   Name: "Whitebox Floor 01 8m x 8m"
   PlatformAssetType: 1
@@ -149,6 +158,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_04"
+  }
+}
+Assets {
+  Id: 17076123493715271626
+  Name: "Bone Human Foot 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_foot_01_ref"
   }
 }
 Assets {
@@ -467,6 +485,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11876435710545393649
+  Name: "Urban Fence Cable Clamp"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_mil_fence_wire_loop_01"
+  }
+}
+Assets {
   Id: 11669484600232390848
   Name: "Candle Group Melted 02"
   PlatformAssetType: 1
@@ -710,6 +737,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9057677626164209795
+  Name: "Container - Rectangle Thin 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_container_rectangle_thin_ref"
+  }
+}
+Assets {
   Id: 8985846431173858098
   Name: "Fantasy Clay Pot 02"
   PlatformAssetType: 1
@@ -734,6 +770,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pyramid_001"
+  }
+}
+Assets {
+  Id: 8862136610131911150
+  Name: "Bone Human Spine 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_spine_01_ref"
   }
 }
 Assets {
@@ -800,6 +845,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8406463304856800769
+  Name: "Bone Human Femur 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_femur_01_ref"
+  }
+}
+Assets {
   Id: 8335155650445410318
   Name: "Bone Human Skull Pile 01"
   PlatformAssetType: 1
@@ -824,6 +878,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_bottle_004"
+  }
+}
+Assets {
+  Id: 8206502277197523969
+  Name: "Underwater Post Process"
+  PlatformAssetType: 20
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_post_process_water"
   }
 }
 Assets {
@@ -908,6 +971,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7358079627798353884
+  Name: "Bone Human Skull 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_01_ref"
+  }
+}
+Assets {
   Id: 7166687745725831822
   Name: "Stone Block Standard Broken"
   PlatformAssetType: 1
@@ -923,15 +995,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_001"
-  }
-}
-Assets {
-  Id: 6716904778113771463
-  Name: "Large Wood Beam 8m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_large_beam_6m"
   }
 }
 Assets {
@@ -968,6 +1031,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_tree_oak_002"
+  }
+}
+Assets {
+  Id: 6053343078335566482
+  Name: "Bone Human Ribcage 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_ribcage_01_ref"
   }
 }
 Assets {
@@ -1160,6 +1232,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2906776099345387114
+  Name: "Container - Rectangle"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_container_rectangle_ref"
+  }
+}
+Assets {
   Id: 2691439941996834384
   Name: "Torch Holder Metal"
   PlatformAssetType: 1
@@ -1220,6 +1301,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_grass_generic_002"
+  }
+}
+Assets {
+  Id: 2027999639971947151
+  Name: "Bone Human Hand 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_hand_01_ref"
   }
 }
 Assets {
@@ -1292,6 +1382,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_gen_concrete_rough_001"
+  }
+}
+Assets {
+  Id: 1271802712005788862
+  Name: "Bone Human Scapula 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_scap_01_ref"
   }
 }
 Assets {

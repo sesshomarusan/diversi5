@@ -53,15 +53,6 @@ Assets {
   }
 }
 Assets {
-  Id: 8238583930569634834
-  Name: "Bottle 04"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_bottle_004"
-  }
-}
-Assets {
   Id: 4050437425243511619
   Name: "Wood Raw"
   PlatformAssetType: 2
