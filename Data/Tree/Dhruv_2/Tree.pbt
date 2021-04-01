@@ -1,6 +1,133 @@
 Name: "Dhruv_2"
 RootId: 13237809934491936166
 Objects {
+  Id: 5242040492547818338
+  Name: "Spooky Bone Chandelier"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13237809934491936166
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11817576672060305986
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Spooky Bone Chandelier"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9623
+            Y: -4370
+            Z: 1299
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.4
+            Y: 0.4
+            Z: 0.4
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12227336780154480329
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3.07495117
+            Y: 0.671875
+            Z: 107.416016
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.2
+            Y: 1.2
+            Z: 0.8
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4698531109298904836
+    }
+  }
+}
+Objects {
+  Id: 14772231855498892040
+  Name: "Bone King Throne"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13237809934491936166
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18373512628809793478
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Bone King Throne"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 14535
+            Y: -2449
+            Z: 886
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.30000007
+            Y: 1.30000007
+            Z: 1.30000007
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11436254791942247517
+    }
+  }
+}
+Objects {
   Id: 5038128419039192485
   Name: "Fantasy Chest Base 3 - interactable"
   Transform {
