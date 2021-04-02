@@ -541,12 +541,12 @@ Objects {
   Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -886.643066
+      X: -862.6875
       Y: -1540.96
       Z: 1327.51355
     }
     Rotation {
-      Yaw: -8.21119118
+      Yaw: -8.21118164
     }
     Scale {
       X: 1.3

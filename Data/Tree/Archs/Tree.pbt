@@ -1,6 +1,206 @@
 Name: "Archs"
 RootId: 15275281446114906431
 Objects {
+  Id: 15998558957369963466
+  Name: "Fantasy Castle Pillar 01 Top"
+  Transform {
+    Location {
+      X: -6237.84277
+      Y: -4326.25684
+      Z: -255.421387
+    }
+    Rotation {
+      Yaw: 1.03802109
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 2.5
+    }
+  }
+  ParentId: 15275281446114906431
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13304908840312358092
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7242139764983621267
+    SubobjectId: 12069529600432462687
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 11849565156485770514
+  Name: "Arch Fancy 3m"
+  Transform {
+    Location {
+      X: -6275.42627
+      Y: -5338.93848
+      Z: 1224.74719
+    }
+    Rotation {
+      Pitch: 1.89191449
+      Yaw: -4.59256
+      Roll: -1.72995
+    }
+    Scale {
+      X: 2.46823788
+      Y: 1.63129175
+      Z: 2.0500834
+    }
+  }
+  ParentId: 15275281446114906431
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10073283002455226988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4494278085251398025
+    SubobjectId: 18275687126068216901
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 8434783536786507080
+  Name: "Fantasy Castle Pillar 01 Top"
+  Transform {
+    Location {
+      X: -6237.84277
+      Y: -5403.25098
+      Z: -255.421387
+    }
+    Rotation {
+      Yaw: 1.03802109
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 2.5
+    }
+  }
+  ParentId: 15275281446114906431
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13304908840312358092
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7242139764983621267
+    SubobjectId: 12069529600432462687
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 12932942209465858470
+  Name: "Arch Fancy 3m"
+  Transform {
+    Location {
+      X: -6179.55322
+      Y: -6442.58594
+      Z: 1224.74719
+    }
+    Rotation {
+      Pitch: 1.89191449
+      Yaw: 2.89878273
+      Roll: -1.72995
+    }
+    Scale {
+      X: 2.46823788
+      Y: 1.63129175
+      Z: 2.0500834
+    }
+  }
+  ParentId: 15275281446114906431
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10073283002455226988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4494278085251398025
+    SubobjectId: 18275687126068216901
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
   Id: 6133108794759720186
   Name: "Arch Fancy 3m"
   Transform {
@@ -2128,8 +2328,8 @@ Objects {
   Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -5428.4126
-      Y: 1640.79199
+      X: -5392.3623
+      Y: 1632.58887
       Z: 1212.36438
     }
     Rotation {

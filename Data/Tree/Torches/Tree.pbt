@@ -1,6 +1,1394 @@
 Name: "Torches"
 RootId: 4441129708257701836
 Objects {
+  Id: 5543805610476830253
+  Name: "Torch"
+  Transform {
+    Location {
+      X: -6125.29395
+      Y: -1020.14844
+      Z: 850.395691
+    }
+    Rotation {
+      Yaw: -91.028717
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4441129708257701836
+  ChildIds: 5591799728677635619
+  ChildIds: 17793099042137179103
+  ChildIds: 12183551329826908822
+  ChildIds: 8428636070695179847
+  ChildIds: 6122177369842094567
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 7835659390256056313
+    SubobjectId: 14394300956910210222
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 6122177369842094567
+  Name: "Point Light"
+  Transform {
+    Location {
+      Y: 15
+      Z: 75
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5543805610476830253
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Light {
+    Intensity: 50
+    Color {
+      R: 1
+      G: 0.25
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 1000
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 10000
+      MaxDistanceFadeRange: 2000
+    }
+  }
+  InstanceHistory {
+    SelfId: 18188271276705106112
+    SubobjectId: 6275403910742705047
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 8428636070695179847
+  Name: "Fire and Flame Burning Loop Set 01 SFX"
+  Transform {
+    Location {
+      Y: 20
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5543805610476830253
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:esfx_fireloops_01:13"
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 4524004223631073795
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 2000
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 7424312064198219172
+    SubobjectId: 14733379651417595635
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 12183551329826908822
+  Name: "Torch Fire VFX"
+  Transform {
+    Location {
+      Y: 10
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5543805610476830253
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 17329716952275971373
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 2767712642323826259
+    SubobjectId: 10166855525791796484
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+}
+Objects {
+  Id: 17793099042137179103
+  Name: "Torch Metal"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: 19.9999561
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5543805610476830253
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17915627786077875210
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 16088169316221342369
+    SubobjectId: 8375470480688028150
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 5591799728677635619
+  Name: "Torch Holder Metal"
+  Transform {
+    Location {
+      Y: -30
+      Z: 10
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5543805610476830253
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2691439941996834384
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 62613128797357701
+    SubobjectId: 12367302979112816082
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 17311219026009910897
+  Name: "Torch"
+  Transform {
+    Location {
+      X: -6125.29395
+      Y: -31.3173828
+      Z: 850.395691
+    }
+    Rotation {
+      Yaw: -91.0286865
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4441129708257701836
+  ChildIds: 11815716959619871266
+  ChildIds: 1608854701021097370
+  ChildIds: 12206198766528619729
+  ChildIds: 6801208364581158395
+  ChildIds: 3060413460862868711
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 7835659390256056313
+    SubobjectId: 14394300956910210222
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 3060413460862868711
+  Name: "Point Light"
+  Transform {
+    Location {
+      Y: 15
+      Z: 75
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17311219026009910897
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Light {
+    Intensity: 50
+    Color {
+      R: 1
+      G: 0.25
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 1000
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 10000
+      MaxDistanceFadeRange: 2000
+    }
+  }
+  InstanceHistory {
+    SelfId: 18188271276705106112
+    SubobjectId: 6275403910742705047
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 6801208364581158395
+  Name: "Fire and Flame Burning Loop Set 01 SFX"
+  Transform {
+    Location {
+      Y: 20
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17311219026009910897
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:esfx_fireloops_01:13"
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 4524004223631073795
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 2000
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 7424312064198219172
+    SubobjectId: 14733379651417595635
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 12206198766528619729
+  Name: "Torch Fire VFX"
+  Transform {
+    Location {
+      Y: 10
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17311219026009910897
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 17329716952275971373
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 2767712642323826259
+    SubobjectId: 10166855525791796484
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+}
+Objects {
+  Id: 1608854701021097370
+  Name: "Torch Metal"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: 19.9999561
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17311219026009910897
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17915627786077875210
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 16088169316221342369
+    SubobjectId: 8375470480688028150
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 11815716959619871266
+  Name: "Torch Holder Metal"
+  Transform {
+    Location {
+      Y: -30
+      Z: 10
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17311219026009910897
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2691439941996834384
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 62613128797357701
+    SubobjectId: 12367302979112816082
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 16530562307819225348
+  Name: "Arch Fancy 3m"
+  Transform {
+    Location {
+      X: -6275.42627
+      Y: -1084.78027
+      Z: 1203.1261
+    }
+    Rotation {
+      Pitch: 1.89191449
+      Yaw: -4.59256
+      Roll: -1.72995
+    }
+    Scale {
+      X: 2.46823788
+      Y: 1.63129175
+      Z: 2.0500834
+    }
+  }
+  ParentId: 4441129708257701836
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10073283002455226988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4494278085251398025
+    SubobjectId: 18275687126068216901
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 10414027410047858180
+  Name: "Fantasy Castle Pillar 01 Top"
+  Transform {
+    Location {
+      X: -6237.84277
+      Y: -31.4541016
+      Z: -277.042603
+    }
+    Rotation {
+      Yaw: 1.03802109
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 2.5
+    }
+  }
+  ParentId: 4441129708257701836
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13304908840312358092
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7242139764983621267
+    SubobjectId: 12069529600432462687
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 5081453740842433455
+  Name: "Fantasy Castle Pillar 01 Top"
+  Transform {
+    Location {
+      X: -6237.84277
+      Y: -1027.52832
+      Z: -277.042603
+    }
+    Rotation {
+      Yaw: 1.03802109
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 2.5
+    }
+  }
+  ParentId: 4441129708257701836
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13304908840312358092
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 7242139764983621267
+    SubobjectId: 12069529600432462687
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 5565319235427278486
+  Name: "Arch Fancy 3m"
+  Transform {
+    Location {
+      X: -6305.13477
+      Y: -25.3310547
+      Z: 1203.1261
+    }
+    Rotation {
+      Pitch: 1.89191449
+      Yaw: -15.1364136
+      Roll: -1.72995
+    }
+    Scale {
+      X: 2.46823788
+      Y: 1.63129175
+      Z: 2.0500834
+    }
+  }
+  ParentId: 4441129708257701836
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10073283002455226988
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4494278085251398025
+    SubobjectId: 18275687126068216901
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 4997311718783650354
+  Name: "Torch"
+  Transform {
+    Location {
+      X: -6125.29395
+      Y: -4326.12
+      Z: 850.395691
+    }
+    Rotation {
+      Yaw: -91.028717
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4441129708257701836
+  ChildIds: 14059738444453184923
+  ChildIds: 12335683673832255500
+  ChildIds: 8550414734677751703
+  ChildIds: 3302719323385077795
+  ChildIds: 10386934444475133341
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 7835659390256056313
+    SubobjectId: 14394300956910210222
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 10386934444475133341
+  Name: "Point Light"
+  Transform {
+    Location {
+      Y: 15
+      Z: 75
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4997311718783650354
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Light {
+    Intensity: 50
+    Color {
+      R: 1
+      G: 0.25
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 1000
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 10000
+      MaxDistanceFadeRange: 2000
+    }
+  }
+  InstanceHistory {
+    SelfId: 18188271276705106112
+    SubobjectId: 6275403910742705047
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 3302719323385077795
+  Name: "Fire and Flame Burning Loop Set 01 SFX"
+  Transform {
+    Location {
+      Y: 20
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4997311718783650354
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:esfx_fireloops_01:13"
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 4524004223631073795
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 2000
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 7424312064198219172
+    SubobjectId: 14733379651417595635
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 8550414734677751703
+  Name: "Torch Fire VFX"
+  Transform {
+    Location {
+      Y: 10
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4997311718783650354
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 17329716952275971373
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 2767712642323826259
+    SubobjectId: 10166855525791796484
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+}
+Objects {
+  Id: 12335683673832255500
+  Name: "Torch Metal"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: 19.9999561
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4997311718783650354
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17915627786077875210
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 16088169316221342369
+    SubobjectId: 8375470480688028150
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 14059738444453184923
+  Name: "Torch Holder Metal"
+  Transform {
+    Location {
+      Y: -30
+      Z: 10
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4997311718783650354
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2691439941996834384
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 62613128797357701
+    SubobjectId: 12367302979112816082
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 2163565272059097571
+  Name: "Torch"
+  Transform {
+    Location {
+      X: -6125.29395
+      Y: -5395.87109
+      Z: 850.395691
+    }
+    Rotation {
+      Yaw: -91.0287476
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4441129708257701836
+  ChildIds: 9174626658466744872
+  ChildIds: 9322103373602358816
+  ChildIds: 2790157351857785870
+  ChildIds: 12775793108537444086
+  ChildIds: 12540818285262211316
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 7835659390256056313
+    SubobjectId: 14394300956910210222
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 12540818285262211316
+  Name: "Point Light"
+  Transform {
+    Location {
+      Y: 15
+      Z: 75
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2163565272059097571
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Light {
+    Intensity: 50
+    Color {
+      R: 1
+      G: 0.25
+      A: 1
+    }
+    VolumetricIntensity: 5
+    TeamSettings {
+    }
+    Light {
+      Temperature: 6500
+      LocalLight {
+        AttenuationRadius: 1000
+        PointLight {
+          SourceRadius: 20
+          SoftSourceRadius: 20
+          FallOffExponent: 8
+          UseFallOffExponent: true
+        }
+      }
+      MaxDrawDistance: 10000
+      MaxDistanceFadeRange: 2000
+    }
+  }
+  InstanceHistory {
+    SelfId: 18188271276705106112
+    SubobjectId: 6275403910742705047
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 12775793108537444086
+  Name: "Fire and Flame Burning Loop Set 01 SFX"
+  Transform {
+    Location {
+      Y: 20
+      Z: 100
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2163565272059097571
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Type"
+      Enum {
+        Value: "mc:esfx_fireloops_01:13"
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 4524004223631073795
+    }
+    AudioBP {
+      AutoPlay: true
+      Repeat: true
+      Volume: 1
+      Falloff: 2000
+      Radius: 400
+      EnableOcclusion: true
+      IsSpatializationEnabled: true
+      IsAttenuationEnabled: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 7424312064198219172
+    SubobjectId: 14733379651417595635
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 2790157351857785870
+  Name: "Torch Fire VFX"
+  Transform {
+    Location {
+      Y: 10
+      Z: 40
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2163565272059097571
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 17329716952275971373
+    }
+    TeamSettings {
+    }
+    Vfx {
+      AutoPlay: true
+    }
+  }
+  InstanceHistory {
+    SelfId: 2767712642323826259
+    SubobjectId: 10166855525791796484
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+}
+Objects {
+  Id: 9322103373602358816
+  Name: "Torch Metal"
+  Transform {
+    Location {
+      Y: -10
+    }
+    Rotation {
+      Roll: 19.9999561
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2163565272059097571
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17915627786077875210
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 16088169316221342369
+    SubobjectId: 8375470480688028150
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 9174626658466744872
+  Name: "Torch Holder Metal"
+  Transform {
+    Location {
+      Y: -30
+      Z: 10
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2163565272059097571
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2691439941996834384
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 62613128797357701
+    SubobjectId: 12367302979112816082
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
   Id: 15812411431781035180
   Name: "Torch"
   Transform {

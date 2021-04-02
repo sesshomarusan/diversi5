@@ -1,6 +1,135 @@
 Name: "Platform"
 RootId: 4451328267923618837
 Objects {
+  Id: 10909906504647651566
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -5226.36475
+      Y: -3451.33398
+      Z: 376.061401
+    }
+    Rotation {
+    }
+    Scale {
+      X: 5
+      Y: 5
+      Z: 5
+    }
+  }
+  ParentId: 4451328267923618837
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5109129970559468393
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 8198624459138792574
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -6181.55566
+      Y: -3451.33398
+      Z: 376.061401
+    }
+    Rotation {
+    }
+    Scale {
+      X: 5
+      Y: 5
+      Z: 5
+    }
+  }
+  ParentId: 4451328267923618837
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5109129970559468393
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 3469112962572531065
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -5697.69727
+      Y: -3451.33398
+      Z: 376.061401
+    }
+    Rotation {
+    }
+    Scale {
+      X: 5
+      Y: 5
+      Z: 5
+    }
+  }
+  ParentId: 4451328267923618837
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5109129970559468393
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 3336349101966459678
   Name: "Cube"
   Transform {
@@ -1490,8 +1619,8 @@ Objects {
   Transform {
     Location {
       X: -6181.55566
-      Y: -1741.40527
-      Z: 396.341553
+      Y: -1525.73535
+      Z: 376.061401
     }
     Rotation {
     }
@@ -1533,8 +1662,8 @@ Objects {
   Transform {
     Location {
       X: -6181.55566
-      Y: -2228.02637
-      Z: 393.545166
+      Y: -2012.35645
+      Z: 373.265
     }
     Rotation {
     }
@@ -1576,8 +1705,8 @@ Objects {
   Transform {
     Location {
       X: -6181.55566
-      Y: -2720.49805
-      Z: 396.341553
+      Y: -2504.82813
+      Z: 376.061401
     }
     Rotation {
     }
@@ -1619,8 +1748,8 @@ Objects {
   Transform {
     Location {
       X: -6181.55566
-      Y: -3183.11426
-      Z: 396.341553
+      Y: -2967.44434
+      Z: 376.061401
     }
     Rotation {
     }
@@ -2937,8 +3066,8 @@ Objects {
   Transform {
     Location {
       X: -5226.36475
-      Y: -1741.40527
-      Z: 396.341553
+      Y: -1525.73535
+      Z: 376.061401
     }
     Rotation {
     }
@@ -2980,8 +3109,8 @@ Objects {
   Transform {
     Location {
       X: -5697.69727
-      Y: -1741.40527
-      Z: 396.341553
+      Y: -1525.73535
+      Z: 376.061401
     }
     Rotation {
     }
@@ -3023,8 +3152,8 @@ Objects {
   Transform {
     Location {
       X: -5226.36475
-      Y: -3183.11426
-      Z: 396.341553
+      Y: -2967.44434
+      Z: 376.061401
     }
     Rotation {
     }
@@ -3066,8 +3195,8 @@ Objects {
   Transform {
     Location {
       X: -5697.69727
-      Y: -3183.11426
-      Z: 396.341553
+      Y: -2967.44434
+      Z: 376.061401
     }
     Rotation {
     }
@@ -3109,8 +3238,8 @@ Objects {
   Transform {
     Location {
       X: -5226.36475
-      Y: -2228.02637
-      Z: 393.545166
+      Y: -2012.35645
+      Z: 373.265
     }
     Rotation {
     }
@@ -3152,8 +3281,8 @@ Objects {
   Transform {
     Location {
       X: -5226.36475
-      Y: -2720.49805
-      Z: 396.341553
+      Y: -2504.82813
+      Z: 376.061401
     }
     Rotation {
     }
@@ -3460,8 +3589,8 @@ Objects {
   Transform {
     Location {
       X: -5697.69727
-      Y: -2228.02637
-      Z: 393.545166
+      Y: -2012.35645
+      Z: 373.265
     }
     Rotation {
     }
@@ -3503,8 +3632,8 @@ Objects {
   Transform {
     Location {
       X: -5697.69727
-      Y: -2720.49805
-      Z: 396.341553
+      Y: -2504.82813
+      Z: 376.061401
     }
     Rotation {
     }
