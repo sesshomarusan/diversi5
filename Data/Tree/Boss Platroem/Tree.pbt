@@ -1,26 +1,26 @@
-Name: "Rocks"
-RootId: 16760391958898429160
+Name: "Boss Platroem"
+RootId: 1147258153146898845
 Objects {
-  Id: 4824679233373772417
-  Name: "Rock Pile 002"
+  Id: 17500161570052586388
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -3876.94922
-      Y: -3000.84863
-      Z: -65.9287109
+      X: 1732.11047
+      Y: -4243.25586
+      Z: 457.561768
     }
     Rotation {
-      Pitch: -9.71887207
-      Yaw: -72.0846863
-      Roll: 8.30769348
+      Pitch: 45.2942696
+      Yaw: -179.379547
+      Roll: 0.440960795
     }
     Scale {
-      X: 3.11351633
-      Y: 3.11351633
-      Z: 3.11351633
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -32,7 +32,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -47,26 +47,24 @@ Objects {
   }
 }
 Objects {
-  Id: 5750593192035219597
-  Name: "Rock Pile 002"
+  Id: 2868461578122764816
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -3389.12842
-      Y: -2930.52441
-      Z: -35.293457
+      X: 1039.70129
+      Y: -4243.25586
+      Z: 457.561768
     }
     Rotation {
-      Pitch: -9.71887207
-      Yaw: -122.408829
-      Roll: 8.30759716
+      Yaw: -179.563614
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -78,7 +76,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -93,26 +91,24 @@ Objects {
   }
 }
 Objects {
-  Id: 15789842532998932017
-  Name: "Rock Pile 002"
+  Id: 600847441108352869
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 3771.87305
-      Y: 1976.20508
-      Z: 19.5877075
+      X: 196.869873
+      Y: -4255.33789
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 14.6487608
-      Yaw: -153.947357
-      Roll: -18.6710205
+      Yaw: -89.5635376
     }
     Scale {
-      X: 2.62860227
-      Y: 2.62860227
-      Z: 2.62860227
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -124,7 +120,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -139,26 +135,26 @@ Objects {
   }
 }
 Objects {
-  Id: 1815360022496964155
-  Name: "Rock Pile 002"
+  Id: 17016862411940243207
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 4528.64453
-      Y: 813.511719
-      Z: -9.32568359
+      X: 98.9458
+      Y: -675.424805
+      Z: 1364.03967
     }
     Rotation {
-      Pitch: 1.26499879
-      Yaw: -17.887085
-      Roll: -23.1795654
+      Pitch: -1.56332088
+      Yaw: -84.8282776
+      Roll: 72.1072
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -170,7 +166,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -185,26 +181,26 @@ Objects {
   }
 }
 Objects {
-  Id: 2948273857947605150
-  Name: "Rock Pile 002"
+  Id: 102596169824744678
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 4528.64453
-      Y: 1394.66602
-      Z: -9.32568359
+      X: 706.750366
+      Y: -683.462891
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 1.26499879
-      Yaw: 21.6233215
-      Roll: -23.1803589
+      Pitch: 56.2923927
+      Yaw: -179.213165
+      Roll: 0.654416263
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -216,7 +212,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -231,26 +227,26 @@ Objects {
   }
 }
 Objects {
-  Id: 2271750299909525010
-  Name: "Rock Pile 002"
+  Id: 9380400380196607957
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 5695.65186
-      Y: -3550.31055
-      Z: -33.4036255
+      X: 976.097656
+      Y: -675.424805
+      Z: 758.10791
     }
     Rotation {
-      Pitch: 4.90507269
-      Yaw: 149.794235
-      Roll: 14.9290609
+      Pitch: 0.313362241
+      Yaw: -89.6959839
+      Roll: -45.8742218
     }
     Scale {
-      X: 3.22907639
-      Y: 3.22907639
-      Z: 3.22907639
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -262,7 +258,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -277,26 +273,24 @@ Objects {
   }
 }
 Objects {
-  Id: 1705298528935395950
-  Name: "Rock Pile 002"
+  Id: 651667833394540736
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 5888.15771
-      Y: -2979.98535
-      Z: -33.4036255
+      X: 1598.50488
+      Y: -683.462891
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 4.90507269
-      Yaw: 149.794266
-      Roll: 14.929019
+      Yaw: -0.682891846
     }
     Scale {
-      X: 3.22907639
-      Y: 3.22907639
-      Z: 3.22907639
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -308,7 +302,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -323,26 +317,24 @@ Objects {
   }
 }
 Objects {
-  Id: 14975203122960287048
-  Name: "Rock Pile 002"
+  Id: 62937407999352724
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 5888.15771
-      Y: -4316.98145
-      Z: -0.804504395
+      X: -811.254211
+      Y: -2488.6416
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 4.90507269
-      Yaw: 41.7446175
-      Roll: 14.9280739
+      Yaw: 85.5747681
     }
     Scale {
-      X: 1.95242608
-      Y: 1.95242608
-      Z: 1.95242608
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -354,7 +346,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -369,26 +361,24 @@ Objects {
   }
 }
 Objects {
-  Id: 9642884829030324695
-  Name: "Rock 03"
+  Id: 4495739064108344932
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 3832.1084
-      Y: -7050.20898
-      Z: -64.5256348
+      X: -821.860657
+      Y: -2515.72168
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 24.9313374
-      Yaw: 49.3909683
-      Roll: 8.40115356
+      Yaw: 179.955948
     }
     Scale {
-      X: 2.65089512
-      Y: 2.65089512
-      Z: 2.65089512
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -400,7 +390,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18244274405329183209
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -415,26 +405,24 @@ Objects {
   }
 }
 Objects {
-  Id: 13915899737281534289
-  Name: "Rock Pile 002"
+  Id: 3380316159035558239
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 4456.79883
-      Y: -6318.14453
-      Z: -0.804504395
+      X: -832.988
+      Y: -2445.57422
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 4.90507269
-      Yaw: 41.7446022
-      Roll: 14.9280386
+      Yaw: -0.595214903
     }
     Scale {
-      X: 1.95242608
-      Y: 1.95242608
-      Z: 1.95242608
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -446,7 +434,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -461,26 +449,24 @@ Objects {
   }
 }
 Objects {
-  Id: 6972079978315659129
-  Name: "Rock Pile 002"
+  Id: 6805769467769773065
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 1786.34448
-      Y: -6263.14844
-      Z: -50.3096313
+      X: -836.430786
+      Y: -1599.47754
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 4.90507269
-      Yaw: 41.7445793
-      Roll: 14.9280024
+      Yaw: 85.0662
     }
     Scale {
-      X: 1.22625315
-      Y: 1.22625315
-      Z: 1.22625315
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -492,7 +478,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -507,26 +493,24 @@ Objects {
   }
 }
 Objects {
-  Id: 14405525503093886463
-  Name: "Rock Pile 002"
+  Id: 14152598728304936199
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 1219.25806
-      Y: -6476.05078
-      Z: 50.1100464
+      X: -811.254211
+      Y: -3358.91699
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 4.90507269
-      Yaw: 41.7445564
-      Roll: 14.9279652
+      Yaw: 91.1645432
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -538,7 +522,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -553,26 +537,24 @@ Objects {
   }
 }
 Objects {
-  Id: 712718171123198594
-  Name: "Rock Pile 002"
+  Id: 4204034154519959925
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 2920.50513
-      Y: -6183.1084
-      Z: -84.7527466
+      X: -886.643066
+      Y: -1540.96
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 14
-      Yaw: -25.4231567
-      Roll: -3.60922241
+      Yaw: -8.21119118
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -584,7 +566,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -599,26 +581,24 @@ Objects {
   }
 }
 Objects {
-  Id: 16303933403814699508
-  Name: "Rock Pile 002"
+  Id: 5929573979226780575
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -3116.00708
-      Y: -6784.40039
-      Z: -109.973877
+      X: -878.820679
+      Y: -3394.50684
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 11.2774544
-      Yaw: 136.285873
-      Roll: -4.93624878
+      Yaw: -168.805634
     }
     Scale {
-      X: 3.2655921
-      Y: 3.2655921
-      Z: 3.2655921
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -630,7 +610,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -645,26 +625,24 @@ Objects {
   }
 }
 Objects {
-  Id: 11410057176797133578
-  Name: "Rock Pile 002"
+  Id: 7450150846872520371
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -4689.14746
-      Y: -7053.13672
-      Z: -35.293457
+      X: -756.932373
+      Y: -734.112305
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 15.5476
-      Yaw: 105.658569
-      Roll: -18.9623108
+      Yaw: 53.99049
     }
     Scale {
-      X: 3.96927738
-      Y: 3.96927738
-      Z: 3.96927738
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -676,7 +654,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -691,26 +669,24 @@ Objects {
   }
 }
 Objects {
-  Id: 7246285448881079609
-  Name: "Rock Pile 002"
+  Id: 10224506176568802681
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -4689.14746
-      Y: -6058.3252
-      Z: -35.293457
+      X: -699.022217
+      Y: -4213.19043
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 15.5476065
-      Yaw: 105.658524
-      Roll: -18.9623108
+      Yaw: 135.366394
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -722,7 +698,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -737,26 +713,24 @@ Objects {
   }
 }
 Objects {
-  Id: 4721159983764368620
-  Name: "Rock Pile 002"
+  Id: 12097594628898765329
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -2996.31909
-      Y: -6457.13281
-      Z: -35.293457
+      X: -657.644531
+      Y: -4255.33789
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 11.2774544
-      Yaw: 108.929619
-      Roll: -4.93624878
+      Yaw: -89.5635376
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -768,7 +742,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -783,26 +757,24 @@ Objects {
   }
 }
 Objects {
-  Id: 919889703969726543
-  Name: "Rock Pile 002"
+  Id: 15632708093150098549
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -668.363647
-      Y: -6071.63086
-      Z: -35.293457
+      X: -709.2146
+      Y: -675.424805
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: 11.2774544
-      Yaw: -59.1139526
-      Roll: -4.93624878
+      Yaw: -89.5635376
     }
     Scale {
-      X: 2.76370335
-      Y: 2.76370335
-      Z: 2.76370335
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -814,7 +786,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -829,26 +801,24 @@ Objects {
   }
 }
 Objects {
-  Id: 4343968716310140739
-  Name: "Rock Pile 002"
+  Id: 14346631246855634351
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -68.6578369
-      Y: -6596.04688
-      Z: -35.293457
+      X: 126.215088
+      Y: -683.462891
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 11.2774544
-      Yaw: -59.1139832
-      Roll: -4.93624878
+      Yaw: 0.691376269
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -860,7 +830,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -875,26 +845,24 @@ Objects {
   }
 }
 Objects {
-  Id: 7109146122102074829
-  Name: "Rock Pile 002"
+  Id: 9875583589693441454
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -1366.92896
-      Y: -5810.6709
-      Z: -35.293457
+      X: 177.785156
+      Y: -4263.37598
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 11.2774544
-      Yaw: -59.1140137
-      Roll: -4.93624878
+      Yaw: -179.563614
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -906,7 +874,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -921,26 +889,26 @@ Objects {
   }
 }
 Objects {
-  Id: 4784179382266483136
-  Name: "Rock Pile 002"
+  Id: 18155771445235084061
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -1046.60962
-      Y: 1080.04
-      Z: -45.2200317
+      X: 1046.60254
+      Y: -4255.33789
+      Z: 1320.54858
     }
     Rotation {
-      Pitch: -47.4692383
-      Yaw: -164.050354
-      Roll: 31.6715584
+      Pitch: -0.432193846
+      Yaw: -89.9383469
+      Roll: 81.8098526
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -952,7 +920,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -967,26 +935,24 @@ Objects {
   }
 }
 Objects {
-  Id: 14902511355022912007
-  Name: "Rock Pile 002"
+  Id: 18229478698438801090
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: -4166.96143
-      Y: 1311.59082
-      Z: -43.8720703
+      X: 2524.22852
+      Y: -4263.37598
+      Z: 457.561768
     }
     Rotation {
-      Pitch: -32.0424194
-      Yaw: -93.6395264
-      Roll: 30.2363262
+      Yaw: -179.563614
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -998,7 +964,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1013,26 +979,24 @@ Objects {
   }
 }
 Objects {
-  Id: 12713473614225102003
-  Name: "Rock Pile 002"
+  Id: 13899848917437858293
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: -5294.20313
-      Y: 1311.59082
-      Z: -20.9245605
+      X: 2584.18213
+      Y: -4248.62109
+      Z: 1327.51355
     }
     Rotation {
-      Pitch: -49.5692139
-      Yaw: -62.8347473
-      Roll: -22.7996826
+      Yaw: -86.4099655
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1044,7 +1008,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1059,26 +1023,24 @@ Objects {
   }
 }
 Objects {
-  Id: 10910328203270729587
-  Name: "Rock Pile 002"
+  Id: 13445025198837529230
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 2.58291626
-      Y: 1247.65625
-      Z: 23.6958
+      X: 2472.6582
+      Y: -683.462891
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 15.4467249
-      Yaw: 20.2297382
-      Roll: -41.4899597
+      Yaw: -2.05599976
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1090,7 +1052,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1105,24 +1067,24 @@ Objects {
   }
 }
 Objects {
-  Id: 4094846748821455156
-  Name: "Rock Pile 002"
+  Id: 16206106086058222999
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 1174.17749
-      Y: 1321.81641
-      Z: -210.941284
+      X: 2532.6123
+      Y: -668.708
+      Z: 1327.51355
     }
     Rotation {
-      Yaw: 153.887787
+      Yaw: -93.4025803
     }
     Scale {
-      X: 4.80943
-      Y: 4.80943
-      Z: 4.80943
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1134,7 +1096,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1149,24 +1111,24 @@ Objects {
   }
 }
 Objects {
-  Id: 15170584618869446995
-  Name: "Rock Pile 002"
+  Id: 9382821208926410397
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 1940.40759
-      Y: 1321.81641
-      Z: -149.579712
+      X: 1650.86145
+      Y: -675.424805
+      Z: 1327.51355
     }
     Rotation {
-      Yaw: -43.6494751
+      Yaw: -89.5635376
     }
     Scale {
-      X: 4.80943
-      Y: 4.80943
-      Z: 4.80943
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1178,7 +1140,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1193,24 +1155,24 @@ Objects {
   }
 }
 Objects {
-  Id: 15461544913989822753
-  Name: "Rock Pile 002"
+  Id: 12267108271117081822
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 5307.21484
-      Y: 380.020508
-      Z: -149.579712
+      X: 3420.70117
+      Y: -4140.14355
+      Z: 1327.51355
     }
     Rotation {
-      Yaw: -136.579071
+      Yaw: -16.6104565
     }
     Scale {
-      X: 4.80943
-      Y: 4.80943
-      Z: 4.80943
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1222,7 +1184,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1237,24 +1199,24 @@ Objects {
   }
 }
 Objects {
-  Id: 14695274731786173666
-  Name: "Rock Pile 002"
+  Id: 414083619893059640
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 5797.54834
-      Y: -5727.41406
-      Z: -141.89917
+      X: 3604.44385
+      Y: -1516.09082
+      Z: 1327.51355
     }
     Rotation {
-      Yaw: -57.4506531
+      Yaw: 17.1440067
     }
     Scale {
-      X: 4.80943
-      Y: 4.80943
-      Z: 4.80943
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1266,7 +1228,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1281,26 +1243,24 @@ Objects {
   }
 }
 Objects {
-  Id: 2667188091333661430
-  Name: "Rock 03"
+  Id: 7442116905158615449
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 6063.24365
-      Y: -4642.84961
-      Z: -220.627197
+      X: 3370.7666
+      Y: -741.617188
+      Z: 457.561768
     }
     Rotation {
-      Pitch: 24.9313431
-      Yaw: 49.3909721
-      Roll: 8.40113735
+      Yaw: -54.8285446
     }
     Scale {
-      X: 3.31833792
-      Y: 3.31833792
-      Z: 3.31833792
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1312,7 +1272,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18244274405329183209
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1327,24 +1287,24 @@ Objects {
   }
 }
 Objects {
-  Id: 1090275562571833493
-  Name: "Rock Pile 002"
+  Id: 4645178355766969544
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 5516.26318
-      Y: -2078.56836
-      Z: -141.89917
+      X: 3378.3457
+      Y: -4198.25684
+      Z: 457.561768
     }
     Rotation {
-      Yaw: -57.4506836
+      Yaw: -130.67627
     }
     Scale {
-      X: 4.80943
-      Y: 4.80943
-      Z: 4.80943
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1356,7 +1316,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1371,26 +1331,24 @@ Objects {
   }
 }
 Objects {
-  Id: 15942145271165750445
-  Name: "Rock Pile 002"
+  Id: 10679448237179770580
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 946.427063
-      Y: -828.891602
-      Z: 489.211304
+      X: 3631.84424
+      Y: -3359.55762
+      Z: 457.561768
     }
     Rotation {
-      Pitch: -0.729522705
-      Yaw: -1.38842773
-      Roll: -27.714386
+      Yaw: -89.9999924
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1402,7 +1360,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1417,24 +1375,24 @@ Objects {
   }
 }
 Objects {
-  Id: 13022352508464722900
-  Name: "Rock Pile 002"
+  Id: 17521092852839731023
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 1897.0271
-      Y: -4056.24121
-      Z: 457.561279
+      X: 3631.84424
+      Y: -1535.2334
+      Z: 457.561768
     }
     Rotation {
-      Yaw: -23.3406067
+      Yaw: -89.9999924
     }
     Scale {
-      X: 2.27453351
-      Y: 2.27453351
-      Z: 2.27453351
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1446,7 +1404,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1461,24 +1419,23 @@ Objects {
   }
 }
 Objects {
-  Id: 12425982394878966376
-  Name: "Rock Pile 002"
+  Id: 6418134410052257258
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 1310.12183
-      Y: -752.570313
-      Z: 457.561279
+      X: 3617.54688
+      Y: -2379.18262
+      Z: 1327.51355
     }
     Rotation {
-      Yaw: 25.7899399
     }
     Scale {
-      X: 1.62858546
-      Y: 1.62858546
-      Z: 1.62858546
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1490,7 +1447,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1505,24 +1462,24 @@ Objects {
   }
 }
 Objects {
-  Id: 8698155595515457922
-  Name: "Rock Pile 002"
+  Id: 2178658155661750310
+  Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 517.896179
-      Y: -751.192383
-      Z: 423.44812
+      X: 3631.84424
+      Y: -2439.24609
+      Z: 457.561768
     }
     Rotation {
-      Yaw: -52.7801
+      Yaw: -89.9999924
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1534,7 +1491,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 7822473577673662489
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1549,24 +1506,23 @@ Objects {
   }
 }
 Objects {
-  Id: 17707664263401521292
-  Name: "Rock Pile 002"
+  Id: 1613387091460096693
+  Name: "Arch Fancy 3m"
   Transform {
     Location {
-      X: 1524.00879
-      Y: -4238.03516
-      Z: 457.561279
+      X: 3617.54688
+      Y: -3279.86328
+      Z: 1327.51355
     }
     Rotation {
-      Yaw: -52.7801
     }
     Scale {
-      X: 1.96061397
-      Y: 1.96061397
-      Z: 1.96061397
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1578,7 +1534,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1593,24 +1549,119 @@ Objects {
   }
 }
 Objects {
-  Id: 6088237619490271286
-  Name: "Rock Pile 002"
+  Id: 11108478723191027538
+  Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
-      X: 2147.19849
-      Y: -4125.54102
-      Z: 457.561279
+      X: -6458.86279
+      Y: -4817.90332
+      Z: -173.432373
     }
     Rotation {
-      Yaw: 25.789959
+      Yaw: 89.9999542
     }
     Scale {
-      X: 1.62858546
-      Y: 1.62858546
-      Z: 1.62858546
+      X: 5.85
+      Y: 3.2
+      Z: 3.5
     }
   }
-  ParentId: 16760391958898429160
+  ParentId: 1147258153146898845
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:id"
+      AssetReference {
+        Id: 14276748686261659610
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 14276748686261659610
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_TrimInner:id"
+      AssetReference {
+        Id: 14276748686261659610
+      }
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Building_LowerTrimInner:vtile"
+      Float: 3
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:vtile"
+      Float: 3
+    }
+    Overrides {
+      Name: "ma:Shared_TrimInner:utile"
+      Float: 5
+    }
+    Overrides {
+      Name: "ma:Shared_TrimInner:vtile"
+      Float: 3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8318010931141529991
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 15043565737229271626
+    SubobjectId: 929585610749158593
+    InstanceId: 7479747307012093541
+    TemplateId: 12305564463880745875
+  }
+}
+Objects {
+  Id: 5522994681415193258
+  Name: "Arch Fancy 3m"
+  Transform {
+    Location {
+      X: 1932.15747
+      Y: -4276.83691
+      Z: 789.65271
+    }
+    Rotation {
+      Pitch: 16.7080345
+      Yaw: -106.578362
+      Roll: -44.6724625
+    }
+    Scale {
+      X: 1.3
+      Y: 1.3
+      Z: 1.3
+    }
+  }
+  ParentId: 1147258153146898845
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1622,7 +1673,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 3377721323622766709
+      Id: 10073283002455226988
     }
     Teams {
       IsTeamCollisionEnabled: true

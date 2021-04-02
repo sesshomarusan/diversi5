@@ -142,7 +142,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Rocks"
+    FilePartitionName: "Rocks_1"
   }
 }
 Objects {

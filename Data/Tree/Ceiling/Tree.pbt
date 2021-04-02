@@ -7,7 +7,7 @@ Objects {
     Location {
       X: 6673.3125
       Y: -7340.03125
-      Z: 1963.68335
+      Z: 2003.75708
     }
     Rotation {
       Roll: 90
