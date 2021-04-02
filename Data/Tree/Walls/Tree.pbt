@@ -7,7 +7,7 @@ Objects {
     Location {
       X: 8967.17578
       Y: -9470.23828
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -75,7 +75,7 @@ Objects {
     Location {
       X: 8870.42
       Y: -4673.60156
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
       Yaw: 89.9999542
@@ -144,7 +144,7 @@ Objects {
     Location {
       X: 8870.53711
       Y: -7069.76
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
       Yaw: 89.9999771
@@ -211,9 +211,9 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Straight"
   Transform {
     Location {
-      X: -537.534424
+      X: -537.53418
       Y: -9474.05078
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -281,7 +281,7 @@ Objects {
     Location {
       X: 8967.17578
       Y: 109.791016
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -349,7 +349,7 @@ Objects {
     Location {
       X: 8870.42
       Y: 58.5419922
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
       Yaw: 89.9999542
@@ -416,9 +416,9 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Straight"
   Transform {
     Location {
-      X: -537.534424
+      X: -537.53418
       Y: 109.791016
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -486,7 +486,7 @@ Objects {
     Location {
       X: 2987.78711
       Y: -9477.04102
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -554,7 +554,7 @@ Objects {
     Location {
       X: 2781.4209
       Y: 109.791016
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -622,7 +622,7 @@ Objects {
     Location {
       X: -4016.97363
       Y: -7027.03613
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
       Yaw: 89.9999771
@@ -691,7 +691,7 @@ Objects {
     Location {
       X: 6385
       Y: 109.791016
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -759,7 +759,7 @@ Objects {
     Location {
       X: 8870.53711
       Y: -2337.61523
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
       Yaw: 89.9999924
@@ -828,7 +828,7 @@ Objects {
     Location {
       X: 6749.61963
       Y: -9477.04102
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
     }
@@ -894,9 +894,9 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Straight"
   Transform {
     Location {
-      X: -4044.13135
+      X: -4044.13086
       Y: 48.7910156
-      Z: -184.009033
+      Z: -89.6533203
     }
     Rotation {
       Yaw: 89.9999542

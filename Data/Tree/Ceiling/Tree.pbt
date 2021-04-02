@@ -32,11 +32,11 @@ Objects {
     }
     Overrides {
       Name: "ma:Shared_Detail3:utile"
-      Float: 5
+      Float: 25
     }
     Overrides {
       Name: "ma:Shared_Detail3:vtile"
-      Float: 5
+      Float: 15
     }
   }
   Collidable_v2 {
