@@ -1047,7 +1047,7 @@ Objects {
   Settings {
     TeamSettings {
       TeamMode_v2 {
-        Value: "mc:eteammode:teamsvs"
+        Value: "mc:eteammode:friendly"
       }
     }
   }
