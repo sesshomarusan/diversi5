@@ -6,6 +6,22 @@ Entries {
     Table {
       Entries {
         Key {
+          StringVar: "KeyToCastleGate"
+        }
+        SimpleValue {
+          IntVar: 2
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 50
+        }
+      }
+      Entries {
+        Key {
           StringVar: "Level"
         }
         SimpleValue {
