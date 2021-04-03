@@ -529,11 +529,12 @@ Objects {
   Name: "Level 2"
   Transform {
     Location {
-      X: -27890
-      Y: 44140
+      X: -14000
+      Y: 42250
       Z: 3500
     }
     Rotation {
+      Yaw: 180
     }
     Scale {
       X: 1
