@@ -6,10 +6,10 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "KeyToCastleGate"
+          StringVar: "Level"
         }
         SimpleValue {
-          IntVar: 2
+          IntVar: 1
         }
       }
       Entries {
@@ -22,10 +22,10 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Level"
+          StringVar: "KeyToCastleGate"
         }
         SimpleValue {
-          IntVar: 1
+          IntVar: 2
         }
       }
     }
