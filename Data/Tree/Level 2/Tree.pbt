@@ -546,7 +546,7 @@ Objects {
   Transform {
     Location {
       X: -699.145203
-      Y: -3799.13062
+      Y: -3799.08374
       Z: 5150
     }
     Rotation {
@@ -759,6 +759,36 @@ Objects {
   }
 }
 Objects {
+  Id: 6052477552364043076
+  Name: "NavMesh"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "NavMesh"
+  }
+}
+Objects {
   Id: 10421399018432315538
   Name: "Healing Zone"
   Transform {
@@ -925,6 +955,9 @@ Objects {
   Name: "Game Pieces"
   Transform {
     Location {
+      X: 2799.93262
+      Y: -300.000549
+      Z: 1950
     }
     Rotation {
     }

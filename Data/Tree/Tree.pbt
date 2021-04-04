@@ -18,7 +18,6 @@ Objects {
   ChildIds: 2654916338316290302
   ChildIds: 5628166357863187692
   ChildIds: 413991195585998862
-  ChildIds: 6052477552364043076
   ChildIds: 3543124865317691034
   ChildIds: 10680076438754699651
   ChildIds: 6002287883041365082
@@ -731,35 +730,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Level 1"
-  }
-}
-Objects {
-  Id: 6052477552364043076
-  Name: "NavMesh"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceoff"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "NavMesh"
   }
 }
 Objects {
