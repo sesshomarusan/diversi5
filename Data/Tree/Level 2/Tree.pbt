@@ -1,6 +1,180 @@
 Name: "Level 2"
 RootId: 10680076438754699651
 Objects {
+  Id: 5292577466753890254
+  Name: "Foundation S"
+  Transform {
+    Location {
+      X: 1049.99707
+      Y: -6149.98096
+      Z: -2300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 13.8
+      Y: 5
+      Z: 15
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14702429642618024506
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 18403949121711232929
+  Name: "Foundation N"
+  Transform {
+    Location {
+      X: 1049.99976
+      Y: 5349.91943
+      Z: -2300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 13.9
+      Y: 5
+      Z: 15
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14702429642618024506
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 9172468988379503370
+  Name: "Foundation E"
+  Transform {
+    Location {
+      X: 1290
+      Y: -6389.77393
+      Z: -2300
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 15
+      Y: 5
+      Z: 15
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14702429642618024506
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 10234876545966164757
+  Name: "Foundation W"
+  Transform {
+    Location {
+      X: 11899.5908
+      Y: 5599.79199
+      Z: -2300
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 15
+      Y: 5
+      Z: 15
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14702429642618024506
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 12529679561123477755
   Name: "Floor"
   Transform {
@@ -45,13 +219,100 @@ Objects {
   }
 }
 Objects {
+  Id: 4270967890171359609
+  Name: "Exit Stairs"
+  Transform {
+    Location {
+      X: 5949.80469
+      Y: 7699.96338
+      Z: -1800
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14612498637166225861
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 10186032337501252403
+  Name: "Entrance Stairs"
+  Transform {
+    Location {
+      X: 7499.7207
+      Y: -7599.82617
+      Z: -1700
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10567192068688216948
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 9114008037851693504
   Name: "Loot"
   Transform {
     Location {
-      X: 3399.82446
-      Y: 9249.78418
-      Z: -2750
+      X: 4949.62158
+      Y: 10249.9014
+      Z: 1200
     }
     Rotation {
     }
