@@ -63,8 +63,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5450
-            Y: 5350
+            X: 5449.77295
+            Y: 5349.40283
           }
         }
         Overrides {
@@ -80,9 +80,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 10
-            Y: 10
-            Z: 10
+            X: 6
+            Y: 6
+            Z: 6
           }
         }
         Overrides {
@@ -169,8 +169,6 @@ Objects {
     }
   }
   ParentId: 18262213127301190048
-  ChildIds: 9208020192408354788
-  ChildIds: 13725200583083843812
   ChildIds: 14992945767499586817
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -198,98 +196,6 @@ Objects {
     Location {
       X: -2399.97925
       Y: 700.000305
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16357872349440537279
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 13725200583083843812
-  Name: "Swordsman"
-  Transform {
-    Location {
-      X: -0.000369547808
-      Y: -1549.99512
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16357872349440537279
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:NPC"
-      AssetReference {
-        Id: 18416574560789436901
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 13043298331982480779
-    }
-  }
-  InstanceHistory {
-    SelfId: 14226489024020690528
-    SubobjectId: 15875901479348693684
-    InstanceId: 6922697643248069676
-    TemplateId: 17510640320964350980
-  }
-}
-Objects {
-  Id: 9208020192408354788
-  Name: "Swordsman"
-  Transform {
-    Location {
-      X: 2200
-      Y: -600
     }
     Rotation {
     }
@@ -377,16 +283,16 @@ Objects {
   Name: "InsideTrigger"
   Transform {
     Location {
-      X: 3.58642974e-05
-      Y: 150.42572
-      Z: -450
+      X: -0.000989297288
+      Y: -4149.41211
+      Z: 950
     }
     Rotation {
     }
     Scale {
       X: 50
-      Y: 40
-      Z: 10
+      Y: 80
+      Z: 30
     }
   }
   ParentId: 18262213127301190048
@@ -678,6 +584,35 @@ Objects {
     TemplateAsset {
       Id: 7013148133446455782
     }
+  }
+}
+Objects {
+  Id: 16823215997364931718
+  Name: "Outer Walls"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Outer Walls"
   }
 }
 Objects {

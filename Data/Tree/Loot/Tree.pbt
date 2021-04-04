@@ -116,6 +116,150 @@ Objects {
   }
 }
 Objects {
+  Id: 13991810903934273909
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: -20848.7617
+      Y: 35100.1797
+      Z: 4600
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 9114008037851693504
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3
+            Y: 3
+            Z: 3
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6599.9585
+            Y: 6649.86963
+            Z: 200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 6.83018516e-06
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 6563370858691209034
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: -20848.7461
+      Y: 35100.1953
+      Z: 4600
+    }
+    Rotation {
+      Yaw: -179.999969
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 9114008037851693504
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3
+            Y: 3
+            Z: 3
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6349.88818
+            Y: 7149.69
+            Z: 200
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 2.73207461e-05
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
   Id: 1855047906176769247
   Name: "Fantasy Clay Pots - Group 01 Template"
   Transform {
@@ -201,9 +345,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 6849.89844
-            Y: 449.998108
-            Z: -900
+            X: 6848.76709
+            Y: 7149.82275
+            Z: 200
           }
         }
         Overrides {
