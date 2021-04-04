@@ -268,8 +268,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 6985
-      Y: 5385
+      X: 8224.97656
+      Y: 5770.84375
       Z: -69.000061
     }
     Rotation {

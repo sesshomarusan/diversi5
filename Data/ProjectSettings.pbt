@@ -1,1 +1,1 @@
-MaxPlayers: 10
+MaxPlayers: 6

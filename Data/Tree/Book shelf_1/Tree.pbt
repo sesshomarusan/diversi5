@@ -1,77 +1,12 @@
 Name: "Book shelf_1"
 RootId: 11383985482502549644
 Objects {
-  Id: 2335204540237079452
-  Name: "Cube"
-  Transform {
-    Location {
-      X: 109.263428
-      Y: 48.2226563
-      Z: 130
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.8
-      Y: 0.7
-      Z: 0.6
-    }
-  }
-  ParentId: 11383985482502549644
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 12912690389659346107
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 12742886907833475306
-    SubobjectId: 1430720065360865468
-    InstanceId: 8554667029130191985
-    TemplateId: 17518057868905220446
-  }
-}
-Objects {
   Id: 7742125969580800830
   Name: "Cube"
   Transform {
     Location {
-      X: 104
-      Y: 48.2226563
+      X: 103.969193
+      Y: 44.5455322
       Z: 130
     }
     Rotation {

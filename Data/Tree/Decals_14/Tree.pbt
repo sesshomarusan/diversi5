@@ -257,13 +257,13 @@ Objects {
   Name: "Decal Soil Cracks Big 01"
   Transform {
     Location {
-      X: -1180
-      Y: 1902.03662
-      Z: 340.040436
+      X: -1158.50684
+      Y: 1967.08057
+      Z: 340.040039
     }
     Rotation {
-      Yaw: -90.0000076
-      Roll: 89.9999924
+      Yaw: 91
+      Roll: 90
     }
     Scale {
       X: 1

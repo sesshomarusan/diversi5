@@ -44,15 +44,6 @@ Assets {
   }
 }
 Assets {
-  Id: 13549539976900896759
-  Name: "Edgeline Wavy Object Fade Advanced"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_add_edgeline_local"
-  }
-}
-Assets {
   Id: 12789658363081938200
   Name: "Plasmafield Doublesided"
   PlatformAssetType: 2

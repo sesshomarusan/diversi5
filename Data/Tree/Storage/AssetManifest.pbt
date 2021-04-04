@@ -44,15 +44,6 @@ Assets {
   }
 }
 Assets {
-  Id: 10457055295305168447
-  Name: "Chest Small Closed"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_chest_001"
-  }
-}
-Assets {
   Id: 10333000717486619107
   Name: "Small Open Crate"
   PlatformAssetType: 1

@@ -5,7 +5,9 @@ Objects {
   Name: "Carpet Tile 02"
   Transform {
     Location {
-      X: 2100
+      X: 2098.91309
+      Y: -0.00050042005
+      Z: 9.52515221
     }
     Rotation {
     }
@@ -46,7 +48,9 @@ Objects {
   Name: "Carpet Tile 02"
   Transform {
     Location {
-      X: 700
+      X: 699.999756
+      Y: -0.000166892991
+      Z: 9.52515221
     }
     Rotation {
     }
@@ -87,7 +91,9 @@ Objects {
   Name: "Carpet Tile 02"
   Transform {
     Location {
-      X: 1400
+      X: 1399.99951
+      Y: -0.000333785982
+      Z: 9.52515221
     }
     Rotation {
     }
@@ -128,6 +134,7 @@ Objects {
   Name: "Carpet Tile 02"
   Transform {
     Location {
+      Z: 9.52515221
     }
     Rotation {
     }

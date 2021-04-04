@@ -1,55 +1,6 @@
 Name: "Book shelf_27"
 RootId: 14100912551037560793
 Objects {
-  Id: 2135677916647377112
-  Name: "Candle Group Melted 02"
-  Transform {
-    Location {
-      X: 164.662155
-      Y: 82.45784
-      Z: 169.95459
-    }
-    Rotation {
-      Yaw: 115.207474
-    }
-    Scale {
-      X: 0.7
-      Y: 0.7
-      Z: 0.1
-    }
-  }
-  ParentId: 14100912551037560793
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 16112374843727261573
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 2135677916647377112
-    SubobjectId: 17677386391309150754
-    InstanceId: 7144858532380263164
-    TemplateId: 6777761933385266638
-  }
-}
-Objects {
   Id: 1067711211137578904
   Name: "Bottle 01"
   Transform {

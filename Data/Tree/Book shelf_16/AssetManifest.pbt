@@ -1,22 +1,4 @@
 Assets {
-  Id: 18300597072120582980
-  Name: "Bone Human Skull 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_skull_01_ref"
-  }
-}
-Assets {
-  Id: 16112374843727261573
-  Name: "Candle Group Melted 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prop_fantasy_candles_melted_001"
-  }
-}
-Assets {
   Id: 13927126014220789258
   Name: "Gel Opaque"
   PlatformAssetType: 2
