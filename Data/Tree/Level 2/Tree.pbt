@@ -1,11 +1,57 @@
 Name: "Level 2"
 RootId: 10680076438754699651
 Objects {
+  Id: 12529679561123477755
+  Name: "Floor"
+  Transform {
+    Location {
+      X: 12199.9941
+      Y: -6399.99902
+      Z: -25
+    }
+    Rotation {
+      Yaw: 179.999985
+    }
+    Scale {
+      X: 14
+      Y: 15
+      Z: 1
+    }
+  }
+  ParentId: 10680076438754699651
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2873598925796447064
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 9114008037851693504
   Name: "Loot"
   Transform {
     Location {
-      Z: 900
+      X: 3399.82446
+      Y: 9249.78418
+      Z: -2750
     }
     Rotation {
     }
@@ -115,9 +161,8 @@ Objects {
   Name: "NPC Camp - Skeletons"
   Transform {
     Location {
-      X: 7349.15723
-      Y: 3399.57837
-      Z: 500
+      X: 7349.1416
+      Y: 3399.57056
     }
     Rotation {
     }
@@ -158,7 +203,6 @@ Objects {
   Name: "SpawnPoints"
   Transform {
     Location {
-      Z: -400
     }
     Rotation {
     }
@@ -194,8 +238,8 @@ Objects {
   Name: "Swordsman"
   Transform {
     Location {
-      X: -2399.97925
-      Y: 700.000305
+      X: -0.00119196612
+      Y: -4999.4668
     }
     Rotation {
     }
@@ -240,16 +284,16 @@ Objects {
   Name: "OutsideTrigger"
   Transform {
     Location {
-      X: -0.000989300082
-      Y: -4149.42383
-      Z: -450
+      X: -699.145203
+      Y: -3799.13062
+      Z: 5150
     }
     Rotation {
     }
     Scale {
-      X: 100
-      Y: 100
-      Z: 10
+      X: 110
+      Y: 110
+      Z: 110
     }
   }
   ParentId: 18262213127301190048
@@ -283,16 +327,16 @@ Objects {
   Name: "InsideTrigger"
   Transform {
     Location {
-      X: -0.000989297288
-      Y: -4149.41211
-      Z: 950
+      X: -849.130615
+      Y: -9298.91406
+      Z: 850
     }
     Rotation {
     }
     Scale {
-      X: 50
-      Y: 80
-      Z: 30
+      X: 111
+      Y: 5
+      Z: 20
     }
   }
   ParentId: 18262213127301190048
@@ -351,11 +395,11 @@ Objects {
     }
     Overrides {
       Name: "cs:RespawnCooldown"
-      Float: 5
+      Float: 15
     }
     Overrides {
       Name: "cs:DespawnDelay"
-      Float: 10
+      Float: 3
     }
     Overrides {
       Name: "cs:ResetOnRoundStart"
@@ -584,35 +628,6 @@ Objects {
     TemplateAsset {
       Id: 7013148133446455782
     }
-  }
-}
-Objects {
-  Id: 16823215997364931718
-  Name: "Outer Walls"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10680076438754699651
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Outer Walls"
   }
 }
 Objects {
