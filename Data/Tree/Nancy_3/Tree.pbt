@@ -378,7 +378,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Platform_1"
+    FilePartitionName: "Platform_2"
   }
 }
 Objects {

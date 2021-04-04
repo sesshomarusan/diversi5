@@ -23133,6 +23133,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Platform"
+    FilePartitionName: "Platform_1"
   }
 }

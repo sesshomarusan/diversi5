@@ -1,6 +1,106 @@
 Name: "Archs"
 RootId: 15275281446114906431
 Objects {
+  Id: 4488816498056180728
+  Name: "Fantasy Castle Pillar 01 Top"
+  Transform {
+    Location {
+      X: -2590
+      Y: -1158
+      Z: -255.421143
+    }
+    Rotation {
+      Pitch: 9.99999714
+      Yaw: 90
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 2.5
+    }
+  }
+  ParentId: 15275281446114906431
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13304908840312358092
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 1017128798511502424
+    SubobjectId: 14835767324587043220
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
+  Id: 2804453301555608718
+  Name: "Fantasy Castle Pillar 01 Top"
+  Transform {
+    Location {
+      X: -3256.41357
+      Y: 372
+      Z: -255.421143
+    }
+    Rotation {
+      Pitch: 10
+      Yaw: 90
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 2.5
+    }
+  }
+  ParentId: 15275281446114906431
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13304908840312358092
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 1017128798511502424
+    SubobjectId: 14835767324587043220
+    InstanceId: 11403885893614742151
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
   Id: 15998558957369963466
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
@@ -1397,7 +1497,7 @@ Objects {
     Location {
       X: -83.9209
       Y: -6896.74414
-      Z: 1240.38184
+      Z: 1241.62109
     }
     Rotation {
       Yaw: 89.9999542

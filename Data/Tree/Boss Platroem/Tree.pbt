@@ -1,6 +1,98 @@
 Name: "Boss Platroem"
 RootId: 1147258153146898845
 Objects {
+  Id: 18152076226224149851
+  Name: "Fantasy Castle Pillar 01 Mid"
+  Transform {
+    Location {
+      X: 1320
+      Y: 552
+      Z: -150
+    }
+    Rotation {
+      Pitch: -12.1156311
+      Yaw: 153.774109
+      Roll: 67.7203064
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
+    }
+  }
+  ParentId: 1147258153146898845
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7822473577673662489
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 9778031961472807850
+  Name: "Fantasy Castle Pillar 01 Mid"
+  Transform {
+    Location {
+      X: -3750
+      Y: -683.462891
+      Z: -510
+    }
+    Rotation {
+      Pitch: -21.8897095
+      Yaw: 160.948334
+      Roll: 43.6053314
+    }
+    Scale {
+      X: 1.5
+      Y: 1.5
+      Z: 1.5
+    }
+  }
+  ParentId: 1147258153146898845
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 7822473577673662489
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 17500161570052586388
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
