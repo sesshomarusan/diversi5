@@ -675,7 +675,7 @@ Objects {
     Location {
       X: -14000
       Y: 42250
-      Z: 8650
+      Z: 4800
     }
     Rotation {
       Yaw: 180

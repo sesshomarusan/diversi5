@@ -23,10 +23,10 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "Coins"
+          StringVar: "Foobar"
         }
         SimpleValue {
-          IntVar: 50
+          IntVar: 1
         }
       }
       Entries {
@@ -39,10 +39,42 @@ Entries {
       }
       Entries {
         Key {
+          StringVar: "GateKey"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Foobar!"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
           StringVar: "KeyToCastleGate"
         }
         SimpleValue {
-          IntVar: 2
+          IntVar: 5
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Gate Key"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 70
         }
       }
     }
