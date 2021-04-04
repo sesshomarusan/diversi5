@@ -1,10 +1,10 @@
 Assets {
-  Id: 14278001520392012115
-  Name: "Sign Font 1: 0"
-  PlatformAssetType: 1
+  Id: 12966539631011709363
+  Name: "Food Fruit 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "CollegeInset_01_Text_026_ref"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_food_generic_apple_001_uv"
   }
 }
 Assets {
@@ -26,20 +26,11 @@ Assets {
   }
 }
 Assets {
-  Id: 8836016301785564057
-  Name: "Sign Font 1: X"
-  PlatformAssetType: 1
+  Id: 3908766552658389863
+  Name: "Food Watermelon 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "CollegeInset_01_Text_023_ref"
-  }
-}
-Assets {
-  Id: 7162400262826238564
-  Name: "Text 02: *"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "Text_044"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_food_generic_watermelon_001_uv1"
   }
 }

@@ -1,26 +1,25 @@
 Entries {
   Key {
-    StringVar: "equipment"
+    StringVar: "resources"
   }
   SimpleValue {
     Table {
       Entries {
         Key {
-          StringVar: "right_prop"
+          StringVar: "KeyToCastleGate"
         }
         SimpleValue {
-          StringVar: "B35B740BE2E9D803"
+          IntVar: 5
         }
       }
-    }
-  }
-}
-Entries {
-  Key {
-    StringVar: "resources"
-  }
-  SimpleValue {
-    Table {
+      Entries {
+        Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 80
+        }
+      }
       Entries {
         Key {
           StringVar: "Foobar"
@@ -39,26 +38,10 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "GateKey"
-        }
-        SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
           StringVar: "Foobar!"
         }
         SimpleValue {
           IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "KeyToCastleGate"
-        }
-        SimpleValue {
-          IntVar: 5
         }
       }
       Entries {
@@ -71,10 +54,27 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Coins"
+          StringVar: "GateKey"
         }
         SimpleValue {
-          IntVar: 70
+          IntVar: 2
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
+    StringVar: "equipment"
+  }
+  SimpleValue {
+    Table {
+      Entries {
+        Key {
+          StringVar: "right_prop"
+        }
+        SimpleValue {
+          StringVar: "B35B740BE2E9D803"
         }
       }
     }
