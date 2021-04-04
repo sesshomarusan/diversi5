@@ -1,6 +1,35 @@
 Name: "Nancy_1"
 RootId: 9906611747175012798
 Objects {
+  Id: 4503249155138913773
+  Name: "Archs"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9906611747175012798
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Archs"
+  }
+}
+Objects {
   Id: 16760391958898429160
   Name: "Rocks"
   Transform {
@@ -23072,7 +23101,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Archs"
+    FilePartitionName: "Archs_1"
   }
 }
 Objects {

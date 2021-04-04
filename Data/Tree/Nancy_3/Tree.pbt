@@ -84,7 +84,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Archs_1"
+    FilePartitionName: "Archs_2"
   }
 }
 Objects {

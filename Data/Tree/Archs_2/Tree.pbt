@@ -1,14 +1,18 @@
-Name: "Walls_3"
-RootId: 8515320692023668415
+Name: "Archs_2"
+RootId: 16022447241991079606
 Objects {
-  Id: 8654333316203119871
-  Name: "Whitebox Wall 01 Corner"
+  Id: 12083143177109245365
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 5600
+      X: -2512.72461
+      Y: 6864.02441
+      Z: -63
     }
     Rotation {
-      Yaw: 89.9999542
+      Pitch: 40.5695953
+      Yaw: -57.4714355
+      Roll: -77.7793579
     }
     Scale {
       X: 1
@@ -16,7 +20,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -24,32 +28,37 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17525083072546193994
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 3194271795523311858
-  Name: "Whitebox Wall 01 Corner"
+  Id: 3192535534117525367
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 6425
+      X: -2648.05664
+      Y: 6945
+      Z: -63
     }
     Rotation {
-      Yaw: 89.9999771
+      Pitch: 35.7054863
+      Yaw: -25.6155701
+      Roll: -58.8830566
     }
     Scale {
       X: 1
@@ -57,7 +66,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -65,33 +74,37 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17525083072546193994
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 10916372257172525521
-  Name: "Whitebox Wall 01 Corner"
+  Id: 904951341171960451
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 6425
-      Y: 775
+      X: -2541
+      Y: 6618
+      Z: -63
     }
     Rotation {
-      Yaw: 89.9999542
+      Pitch: 51.198822
+      Yaw: 172.436264
+      Roll: -72.5609436
     }
     Scale {
       X: 1
@@ -99,7 +112,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -107,33 +120,37 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17525083072546193994
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 16971644572114133204
-  Name: "Whitebox Wall 01"
+  Id: 17267753391341120709
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 6400
-      Y: 800
+      X: -2578.29492
+      Y: 6745
+      Z: -63
     }
     Rotation {
-      Yaw: -179.999939
+      Pitch: 40.5695648
+      Yaw: -72.4713745
+      Roll: -77.7794495
     }
     Scale {
       X: 1
@@ -141,7 +158,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -149,33 +166,37 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 14905098098869111770
-  Name: "Whitebox Wall 01"
+  Id: 4758868759914642614
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 7200
-      Y: 2400
+      X: -2755.16016
+      Y: 6826.31494
+      Z: -63
     }
     Rotation {
-      Yaw: -179.999939
+      Pitch: 35.7058601
+      Yaw: -55.615448
+      Roll: -58.8840637
     }
     Scale {
       X: 1
@@ -183,7 +204,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -191,41 +212,45 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 10430207154980164412
-  Name: "Whitebox Wall 01"
+  Id: 462919233842829042
+  Name: "Trim Crenellated 4m 02"
   Transform {
     Location {
-      X: 8000
-      Y: 2400.00049
+      X: -3562
+      Y: 5759
+      Z: -126
     }
     Rotation {
-      Yaw: -179.999939
+      Pitch: -13.7193604
+      Yaw: -43.9597473
+      Roll: -20.7010803
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 2
+      Y: 2
+      Z: 2.75
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -233,41 +258,45 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 2513489216558839073
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 3177833993990605322
-  Name: "Whitebox Wall 01"
+  Id: 18218125663324114332
+  Name: "Trim Crenellated 4m 02"
   Transform {
     Location {
-      X: 8800
-      Y: 2399.99976
+      X: -3234
+      Y: 7131
+      Z: -110
     }
     Rotation {
-      Yaw: -179.999939
+      Pitch: 0.0379621908
+      Yaw: -81.350647
+      Roll: -30.3754883
     }
     Scale {
-      X: 1
-      Y: 1
-      Z: 1
+      X: 2
+      Y: 2
+      Z: 2.75
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -275,33 +304,37 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 2513489216558839073
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 11300693623261810898
-  Name: "Whitebox Wall 01"
+  Id: 1480236016082210204
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 9600
-      Y: 2400
+      X: 5927
+      Y: 7785
+      Z: -63
     }
     Rotation {
-      Yaw: -179.999939
+      Pitch: 30.4556751
+      Yaw: -147.843674
+      Roll: -43.2507935
     }
     Scale {
       X: 1
@@ -309,7 +342,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -317,33 +350,37 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 2797051448004831854
-  Name: "Whitebox Wall 01"
+  Id: 1173758259376423912
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 9600.00195
-      Y: 1599.99976
+      X: 5658
+      Y: 7655
+      Z: -63
     }
     Rotation {
-      Yaw: 90.0000153
+      Pitch: 35.7059441
+      Yaw: 14.3844719
+      Roll: -58.8844
     }
     Scale {
       X: 1
@@ -351,7 +388,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -359,33 +396,36 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 15017083298510877808
-  Name: "Whitebox Wall 01"
+  Id: 16602947494688741338
+  Name: "Stone Wall End Corner 2m 001"
   Transform {
     Location {
-      X: 9600.00195
-      Y: 800
+      X: 5774
+      Y: 7801
+      Z: -63
     }
     Rotation {
-      Yaw: 90.0000153
+      Pitch: 44.9999886
+      Yaw: 124.999992
     }
     Scale {
       X: 1
@@ -393,7 +433,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -401,40 +441,45 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 13263895099928006297
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 15557013633258858673
-  Name: "Whitebox Wall 01"
+  Id: 17664536952635635859
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 9600.00098
+      X: 6851
+      Y: 4814
+      Z: 147
     }
     Rotation {
-      Yaw: 90.0000153
+      Pitch: 3.40485597
+      Yaw: -70.2802124
+      Roll: -9.40805054
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -442,41 +487,45 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 10690927144099298655
-  Name: "Whitebox Wall 01"
+  Id: 349064632871054298
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 9600
-      Y: -800
+      X: 6990
+      Y: 6009
+      Z: -135
     }
     Rotation {
-      Yaw: 90.0000153
+      Pitch: -25.6390381
+      Yaw: -61.3608398
+      Roll: 18.1053867
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -484,41 +533,42 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 8507917678251459097
-  Name: "Whitebox Wall 01"
+  Id: 7311302334214239880
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 8000
-      Y: -800
+      X: 4571
+      Y: 6044
+      Z: 305
     }
     Rotation {
-      Yaw: 4.09811182e-05
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -526,41 +576,42 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 7103456469096908476
-  Name: "Whitebox Wall 01"
+  Id: 538421059452483363
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 8800
-      Y: -800.000488
+      X: 4571
+      Y: 6421
+      Z: 305
     }
     Rotation {
-      Yaw: 4.09811182e-05
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -568,41 +619,43 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 212129075694819933
-  Name: "Whitebox Wall 01"
+  Id: 4626078850199453527
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 7200
-      Y: -800
+      X: 5081
+      Y: 5569
+      Z: 305
     }
     Rotation {
-      Yaw: 4.09811182e-05
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -610,41 +663,42 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 13734262367238805854
-  Name: "Whitebox Wall 01"
+  Id: 7571855743607388829
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 6400
-      Y: -800
+      X: 5447
+      Y: 6079
+      Z: 305
     }
     Rotation {
-      Yaw: 4.09811182e-05
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -652,41 +706,43 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 5012107616344553444
-  Name: "Whitebox Wall 01"
+  Id: 2541099538807420439
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 6399.99951
-      Y: 1600
+      X: 5367
+      Y: 5721
+      Z: 305
     }
     Rotation {
-      Yaw: -89.999939
+      Yaw: -24.999979
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -694,41 +750,42 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 8160189294643273016
-  Name: "Whitebox Wall 01"
+  Id: 15932720874044358043
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 6400
-      Y: 2400
+      X: 5447
+      Y: 6456
+      Z: 305
     }
     Rotation {
-      Yaw: -89.999939
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -736,40 +793,42 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 12158910854441825970
-  Name: "Whitebox Wall 01"
+  Id: 13805638447223729835
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 6400
+      X: 5014
+      Y: 6786
+      Z: 305
     }
     Rotation {
-      Yaw: -89.999939
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -777,41 +836,43 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 16994770764243072673
-  Name: "Whitebox Wall 01"
+  Id: 13260529663775717234
+  Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
-      X: 5600
-      Y: 0.000244140625
+      X: 4772
+      Y: 6570
+      Z: 305
     }
     Rotation {
-      Yaw: -6.10351563e-05
+      Yaw: -89.9999924
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 1.25
       Z: 1
     }
   }
-  ParentId: 8515320692023668415
+  ParentId: 16022447241991079606
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -819,19 +880,20 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   CoreMesh {
     MeshAsset {
-      Id: 17600359723065005811
+      Id: 1747602873247320667
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
-    InteractWithTriggers: true
     StaticMesh {
       Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
   }
