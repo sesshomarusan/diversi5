@@ -3052,7 +3052,7 @@ Objects {
       Z: -230.84668
     }
     Rotation {
-      Yaw: -91.0591202
+      Yaw: -91.0591125
     }
     Scale {
       X: 1.5
