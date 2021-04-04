@@ -23,14 +23,6 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "KeyToCastleGate"
-        }
-        SimpleValue {
-          IntVar: 2
-        }
-      }
-      Entries {
-        Key {
           StringVar: "Coins"
         }
         SimpleValue {
@@ -43,6 +35,14 @@ Entries {
         }
         SimpleValue {
           IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "KeyToCastleGate"
+        }
+        SimpleValue {
+          IntVar: 2
         }
       }
     }
