@@ -1167,9 +1167,9 @@ Objects {
   Name: "Wooden Barrel"
   Transform {
     Location {
-      X: 31.5849609
-      Y: -1465.74377
-      Z: 0.353729248
+      X: 25
+      Y: -1465.74219
+      Z: 0.353515625
     }
     Rotation {
       Yaw: -117.756638
@@ -1386,12 +1386,12 @@ Objects {
   Name: "Wooden Barrel"
   Transform {
     Location {
-      X: 31.5849609
-      Y: -1371.5752
-      Z: 0.353729248
+      X: 26
+      Y: -1371.57422
+      Z: 0.353515625
     }
     Rotation {
-      Yaw: -117.756676
+      Yaw: -117.756683
     }
     Scale {
       X: 1
@@ -1614,9 +1614,8 @@ Objects {
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
-      X: 9.15161133
-      Y: -1589.4834
-      Z: 0.000244140625
+      X: -8
+      Y: -1589.48438
     }
     Rotation {
       Yaw: -90.0460205
