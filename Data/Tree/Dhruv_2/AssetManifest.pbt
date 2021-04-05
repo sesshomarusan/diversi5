@@ -530,6 +530,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12986531984542689187
+  Name: "Bricks Mismatched Stone 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_mismatch_001"
+  }
+}
+Assets {
   Id: 12912690389659346107
   Name: "Book Shelf 01"
   PlatformAssetType: 2
@@ -1220,15 +1229,6 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "dirt_001"
-  }
-}
-Assets {
-  Id: 5771844425491559774
-  Name: "Terrain Grid Glow"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_terrain_grid+emissive-paint_001"
   }
 }
 Assets {
