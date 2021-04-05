@@ -5,8 +5,9 @@ Objects {
   Name: "BuildingFive"
   Transform {
     Location {
-      X: 150
-      Y: 1649.98816
+      X: 150.007935
+      Y: 1558.73608
+      Z: -97.9729
     }
     Rotation {
       Yaw: -64.4013062
@@ -43,12 +44,12 @@ Objects {
   Name: "BuildingFour"
   Transform {
     Location {
-      X: 2050.00024
-      Y: 3349.98779
-      Z: 31.4484863
+      X: 2050.00781
+      Y: 3349.98047
+      Z: -92.0878906
     }
     Rotation {
-      Yaw: -48.199585
+      Yaw: -48.1995544
     }
     Scale {
       X: 1
