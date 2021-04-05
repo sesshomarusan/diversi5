@@ -1,4 +1,13 @@
 Assets {
+  Id: 17401089374895468673
+  Name: "Bottle 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_004"
+  }
+}
+Assets {
   Id: 15232117782909759583
   Name: "Bottle 03"
   PlatformAssetType: 1
@@ -68,6 +77,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_bottle_005"
+  }
+}
+Assets {
+  Id: 4972671222061568135
+  Name: "Edgeline Wavy Object Fade Advanced"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_add_edgeline_local"
   }
 }
 Assets {

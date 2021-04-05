@@ -282,6 +282,70 @@ Objects {
   }
 }
 Objects {
+  Id: 16560510806630023127
+  Name: "Bottle 02"
+  Transform {
+    Location {
+      X: 45.6330109
+      Y: 81.410614
+      Z: 170
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7574633172908981567
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        G: 0.566556334
+        B: 0.590000033
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 18280303351516875622
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15177054442487712282
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 16560510806630023127
+    SubobjectId: 12073310395608418251
+    InstanceId: 2987707465574892288
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
   Id: 5874157714605461664
   Name: "Cube"
   Transform {
@@ -470,6 +534,72 @@ Objects {
   InstanceHistory {
     SelfId: 10201721033619564097
     SubobjectId: 14973351908648951389
+    InstanceId: 2987707465574892288
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
+  Id: 4622139990949657350
+  Name: "Bottle 04"
+  Transform {
+    Location {
+      X: 38.2190475
+      Y: 106.408562
+      Z: 170
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.6
+      Y: 0.6
+      Z: 0.6
+    }
+  }
+  ParentId: 7574633172908981567
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 0.0331065543
+        G: 0.0541085
+        B: 0.661458313
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        B: 0.0885416642
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8238583930569634834
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 4622139990949657350
+    SubobjectId: 178702340933026586
     InstanceId: 2987707465574892288
     TemplateId: 6777761933385266638
   }

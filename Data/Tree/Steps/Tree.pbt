@@ -268,8 +268,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 8224.97656
-      Y: 5770.84375
+      X: 6985
+      Y: 5385
       Z: -69.000061
     }
     Rotation {
@@ -324,7 +324,7 @@ Objects {
     Location {
       X: 2010
       Y: 6790
-      Z: 40
+      Z: -10
     }
     Rotation {
       Pitch: -7.77035522
@@ -332,9 +332,9 @@ Objects {
       Roll: -90.3026733
     }
     Scale {
-      X: 2.29999971
+      X: 1
       Y: 1.5
-      Z: 4.20000029
+      Z: 4.25000048
     }
   }
   ParentId: 16787535566305772942

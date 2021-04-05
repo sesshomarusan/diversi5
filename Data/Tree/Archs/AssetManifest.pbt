@@ -1,18 +1,27 @@
 Assets {
-  Id: 13304908840312358092
-  Name: "Fantasy Castle Pillar 01 Top"
+  Id: 13263895099928006297
+  Name: "Stone Wall End Corner 2m 001"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_001_top"
+    AssetId: "sm_stone-edge_corner_2m_001"
   }
 }
 Assets {
-  Id: 10073283002455226988
-  Name: "Arch Fancy 3m"
+  Id: 2513489216558839073
+  Name: "Trim Crenellated 4m 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_arch_fancy_3m_001"
+    AssetId: "sm_trim_crenellated_6m_003"
+  }
+}
+Assets {
+  Id: 1747602873247320667
+  Name: "Stone Arch (doorway) 001"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_stone_doorway_001"
   }
 }

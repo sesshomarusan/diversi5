@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16112374843727261573
+  Name: "Candle Group Melted 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_candles_melted_001"
+  }
+}
+Assets {
   Id: 15177054442487712282
   Name: "Bottle 02"
   PlatformAssetType: 1

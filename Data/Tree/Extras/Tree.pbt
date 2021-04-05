@@ -1,58 +1,12 @@
 Name: "Extras"
 RootId: 15061574032092557602
 Objects {
-  Id: 10256228370811153254
-  Name: "Fantasy Castle Accessory Tower 01 - 12m"
-  Transform {
-    Location {
-      X: -5809.18164
-      Y: 5309.39063
-      Z: -198.563232
-    }
-    Rotation {
-      Pitch: -23.5687256
-      Yaw: -150.264099
-      Roll: -60.0962524
-    }
-    Scale {
-      X: 0.85
-      Y: 0.85
-      Z: 0.85
-    }
-  }
-  ParentId: 15061574032092557602
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 96830975959193207
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
   Id: 120520239061216507
   Name: "Fantasy Castle Accessory Tower 01 - 12m"
   Transform {
     Location {
       X: 6688
-      Y: 8293.40625
+      Y: 8452
       Z: -28
     }
     Rotation {
@@ -97,14 +51,14 @@ Objects {
   Name: "Fantasy Castle Accessory Tower 01 - 12m"
   Transform {
     Location {
-      X: -4386.24414
+      X: -3476
       Y: 7733
       Z: -75
     }
     Rotation {
-      Pitch: -26.1512756
+      Pitch: -26.1512699
       Yaw: 14.0364475
-      Roll: -57.468811
+      Roll: -57.4688263
     }
     Scale {
       X: 0.75
@@ -143,8 +97,8 @@ Objects {
   Name: "Fantasy Castle Stairs 01 - 150cm"
   Transform {
     Location {
-      X: -4040.86914
-      Y: 5538.40625
+      X: -2262
+      Y: 5869
       Z: -84
     }
     Rotation {
@@ -189,8 +143,8 @@ Objects {
   Name: "Stair Bannister - Mid"
   Transform {
     Location {
-      X: -4034.86914
-      Y: 5570.40625
+      X: -2256
+      Y: 5901
       Z: -60
     }
     Rotation {

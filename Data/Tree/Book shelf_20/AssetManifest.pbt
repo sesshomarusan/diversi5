@@ -1,10 +1,28 @@
 Assets {
+  Id: 18280303351516875622
+  Name: "Emissive Container Liquid"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxmi_emissive_cutoff_liquid"
+  }
+}
+Assets {
   Id: 16538944796220617190
   Name: "Gel Transparent"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "fxmi_gel"
+  }
+}
+Assets {
+  Id: 15177054442487712282
+  Name: "Bottle 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_002"
   }
 }
 Assets {
@@ -41,6 +59,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_bottle_001"
+  }
+}
+Assets {
+  Id: 8238583930569634834
+  Name: "Bottle 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_bottle_004"
   }
 }
 Assets {

@@ -484,6 +484,62 @@ Objects {
   }
 }
 Objects {
+  Id: 12297871081590443381
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 56.5347557
+      Y: 47.5997314
+      Z: 60
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.8
+      Y: 0.7
+      Z: 0.6
+    }
+  }
+  ParentId: 1310920057087449051
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11738235425455831500
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 12297871081590443381
+    SubobjectId: 10654041117555285901
+    InstanceId: 10805985950735274341
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
   Id: 17779113325268208805
   Name: "Bottle 03"
   Transform {

@@ -1,7 +1,7 @@
 Name: "NavMesh"
-RootId: 5355256868101983653
+RootId: 6052477552364043076
 Objects {
-  Id: 15686755705709514287
+  Id: 5684838134343259902
   Name: "ServerContext"
   Transform {
     Location {
@@ -14,8 +14,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5355256868101983653
-  ChildIds: 13990539638583964333
+  ParentId: 6052477552364043076
+  ChildIds: 12046231422412153826
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -30,7 +30,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13990539638583964333
+  Id: 12046231422412153826
   Name: "NAVMESH_FOLDER"
   Transform {
     Location {
@@ -43,7 +43,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15686755705709514287
+  ParentId: 5684838134343259902
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -59,7 +59,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1732719908973263726
+  Id: 6370680467075625742
   Name: "NavMesh"
   Transform {
     Location {
@@ -72,7 +72,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5355256868101983653
+  ParentId: 6052477552364043076
   UnregisteredParameters {
     Overrides {
       Name: "cs:NavMeshGenerator"
@@ -83,7 +83,7 @@ Objects {
     Overrides {
       Name: "cs:NAVMESH_FOLDER"
       ObjectReference {
-        SelfId: 13990539638583964333
+        SelfId: 12046231422412153826
       }
     }
   }

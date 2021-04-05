@@ -1,6 +1,54 @@
 Name: "Book shelf_24"
 RootId: 17881362034030172764
 Objects {
+  Id: 3838923915002382877
+  Name: "Bottle 01"
+  Transform {
+    Location {
+      X: 93.9258804
+      Y: 64.6862488
+      Z: 170
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.3
+      Y: 0.3
+      Z: 0.3
+    }
+  }
+  ParentId: 17881362034030172764
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10761768979513085968
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 3838923915002382877
+    SubobjectId: 16582402592318494050
+    InstanceId: 17640915849254936506
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
   Id: 17024419959275714300
   Name: "Bottle 01"
   Transform {
@@ -156,6 +204,143 @@ Objects {
   InstanceHistory {
     SelfId: 8606997768706519072
     SubobjectId: 11823124831933951839
+    InstanceId: 17640915849254936506
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
+  Id: 17630375741243436910
+  Name: "Bottle 04"
+  Transform {
+    Location {
+      X: 59.1580849
+      Y: 65.0458679
+      Z: 170
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.6
+      Y: 0.6
+      Z: 0.6
+    }
+  }
+  ParentId: 17881362034030172764
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail1:color"
+      Color {
+        R: 1
+        G: 0.149999976
+        B: 0.453973532
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        R: 0.470000029
+        G: 2.24113478e-07
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 13549539976900896759
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8238583930569634834
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 17630375741243436910
+    SubobjectId: 2868145252670877713
+    InstanceId: 17640915849254936506
+    TemplateId: 6777761933385266638
+  }
+}
+Objects {
+  Id: 8424858780349782196
+  Name: "Bottle 02"
+  Transform {
+    Location {
+      X: 46.3896637
+      Y: 38.1169128
+      Z: 170
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17881362034030172764
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail2:color"
+      Color {
+        G: 0.566556334
+        B: 0.590000033
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail2:id"
+      AssetReference {
+        Id: 18280303351516875622
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15177054442487712282
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 8424858780349782196
+    SubobjectId: 12073310395608418251
     InstanceId: 17640915849254936506
     TemplateId: 6777761933385266638
   }
