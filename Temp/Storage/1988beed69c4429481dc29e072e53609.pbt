@@ -6,6 +6,14 @@ Entries {
     Table {
       Entries {
         Key {
+          StringVar: "GateKey"
+        }
+        SimpleValue {
+          IntVar: 2
+        }
+      }
+      Entries {
+        Key {
           StringVar: "KeyToCastleGate"
         }
         SimpleValue {
@@ -18,6 +26,14 @@ Entries {
         }
         SimpleValue {
           IntVar: 80
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Gate Key"
+        }
+        SimpleValue {
+          IntVar: 1
         }
       }
       Entries {
@@ -42,22 +58,6 @@ Entries {
         }
         SimpleValue {
           IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Gate Key"
-        }
-        SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "GateKey"
-        }
-        SimpleValue {
-          IntVar: 2
         }
       }
     }
