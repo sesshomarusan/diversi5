@@ -785,7 +785,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NavMesh"
+    FilePartitionName: "NavMesh_1"
   }
 }
 Objects {

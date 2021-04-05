@@ -5,9 +5,9 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral Wall 01 - Straight"
   Transform {
     Location {
-      X: 6673.3125
-      Y: -7340.03125
-      Z: 2044.63257
+      X: 6613.3125
+      Y: -7370.03125
+      Z: 2044.63281
     }
     Rotation {
       Roll: 90

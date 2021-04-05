@@ -1,6 +1,63 @@
 Name: "Floor"
 RootId: 12684395984717529983
 Objects {
+  Id: 2004704127107310547
+  Name: "Waterfall 90 Outer Corner"
+  Transform {
+    Location {
+      X: -7780
+      Y: 9282
+      Z: 60
+    }
+    Rotation {
+      Yaw: 113.2826
+    }
+    Scale {
+      X: 4.20000029
+      Y: 9.5
+      Z: 14.2000017
+    }
+  }
+  ParentId: 12684395984717529983
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:waterfall:id"
+      AssetReference {
+        Id: 14144021433405950050
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12410262130268726400
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+  InstanceHistory {
+    SelfId: 13278293968613324993
+    SubobjectId: 1385688960737538966
+    InstanceId: 17841092763739688647
+    TemplateId: 1278681269302827017
+  }
+}
+Objects {
   Id: 15811458653016604808
   Name: "Cube"
   Transform {
@@ -160728,9 +160785,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -4929.23828
-      Y: -6122.3623
-      Z: -225.022522
+      X: -4989.23828
+      Y: -6152.36328
+      Z: -225.022461
     }
     Rotation {
     }
@@ -162540,9 +162597,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -4929.23828
-      Y: -6595.22266
-      Z: -225.022522
+      X: -4989.23828
+      Y: -6625.22266
+      Z: -225.022461
     }
     Rotation {
     }
@@ -162958,9 +163015,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -4929.23828
-      Y: -6884.38672
-      Z: -164.35553
+      X: -4989.23828
+      Y: -6914.38672
+      Z: -164.355469
     }
     Rotation {
       Pitch: 16.2171841
@@ -163012,9 +163069,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -4466.62109
-      Y: -6937.81836
-      Z: -218.008667
+      X: -4526.62109
+      Y: -6967.82031
+      Z: -218.008789
     }
     Rotation {
       Yaw: 44.5878601

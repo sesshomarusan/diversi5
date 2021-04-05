@@ -2,19 +2,19 @@ Name: "Grid_1"
 RootId: 16614584770063210878
 Objects {
   Id: 11315928108038407436
-  Name: "Whitebox Floor 01 4m x 4m"
+  Name: "Lava"
   Transform {
     Location {
       X: -17700
       Y: 16030
-      Z: -50.0004883
+      Z: -280
     }
     Rotation {
     }
     Scale {
       X: 262.4
-      Y: 84.2000122
-      Z: 1
+      Y: 84.2000046
+      Z: 10
     }
   }
   ParentId: 16614584770063210878

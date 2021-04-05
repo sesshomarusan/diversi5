@@ -297,7 +297,7 @@ Objects {
   Name: "Stepswith lava"
   Transform {
     Location {
-      Z: -76
+      Z: -80
     }
     Rotation {
     }

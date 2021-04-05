@@ -611,6 +611,9 @@ Objects {
   Name: "Boss Level"
   Transform {
     Location {
+      X: 23940
+      Y: 46820
+      Z: 8110
     }
     Rotation {
     }

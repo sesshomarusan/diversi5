@@ -444,9 +444,9 @@ Objects {
   Name: "Spawn Point Boss"
   Transform {
     Location {
-      X: 12150
+      X: 17180
       Y: 33900
-      Z: 9000
+      Z: 8860
     }
     Rotation {
     }
@@ -579,7 +579,7 @@ Objects {
       Z: 2000
     }
     Rotation {
-      Yaw: 235
+      Yaw: -125
     }
     Scale {
       X: 1

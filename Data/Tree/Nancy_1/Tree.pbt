@@ -23000,16 +23000,16 @@ Objects {
   Name: "Cylinder - Bottom-Aligned"
   Transform {
     Location {
-      X: 121.52417
-      Y: -2290.92969
-      Z: -75.0993652
+      X: -2820
+      Y: -8128
+      Z: -130
     }
     Rotation {
     }
     Scale {
-      X: 167.402115
-      Y: 195.507858
-      Z: 0.750000179
+      X: 315.9
+      Y: 369.000061
+      Z: 1.49999988
     }
   }
   ParentId: 9906611747175012798

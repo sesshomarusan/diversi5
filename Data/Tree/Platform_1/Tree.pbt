@@ -1,6 +1,57 @@
 Name: "Platform_1"
 RootId: 4451328267923618837
 Objects {
+  Id: 9485369117259109735
+  Name: "Cube"
+  Transform {
+    Location {
+      X: -10900
+      Y: -2504.82813
+      Z: 991.52832
+    }
+    Rotation {
+    }
+    Scale {
+      X: 23.8000011
+      Y: 7.70000029
+      Z: 5
+    }
+  }
+  ParentId: 4451328267923618837
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 14276748686261659610
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5109129970559468393
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 7875711092029607527
   Name: "Cube"
   Transform {
@@ -3128,14 +3179,14 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -5980
+      X: -6210
       Y: -2504.82813
-      Z: 376.061401
+      Z: 376.061523
     }
     Rotation {
     }
     Scale {
-      X: 23.8000069
+      X: 26.8999958
       Y: 27.2
       Z: 5
     }
