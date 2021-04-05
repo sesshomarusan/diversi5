@@ -1,9 +1,9 @@
 Assets {
-  Id: 11876435710545393649
-  Name: "Urban Fence Cable Clamp"
+  Id: 3533190463953898497
+  Name: "Fantasy Chest Treasure Pile 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_mil_fence_wire_loop_01"
+    AssetId: "sm_fantasy_chest_treasure_pile_001_ref"
   }
 }

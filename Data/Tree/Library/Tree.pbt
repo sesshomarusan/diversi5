@@ -1,6 +1,94 @@
 Name: "Library"
 RootId: 13466067503881721510
 Objects {
+  Id: 6829117200066858144
+  Name: "Fantasy Book Pile 03"
+  Transform {
+    Location {
+      X: 10820
+      Y: -1158
+      Z: 983.711914
+    }
+    Rotation {
+      Yaw: -38.2854919
+    }
+    Scale {
+      X: 1.43004119
+      Y: 1.43004119
+      Z: 1.43004119
+    }
+  }
+  ParentId: 13466067503881721510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5918385775283973959
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 14479104525355093072
+  Name: "Fantasy Book Pile 02"
+  Transform {
+    Location {
+      X: 10834.4336
+      Y: -1149.41016
+      Z: 863.001953
+    }
+    Rotation {
+      Yaw: 48.7179604
+    }
+    Scale {
+      X: 1.55006289
+      Y: 1.55006289
+      Z: 1.55006289
+    }
+  }
+  ParentId: 13466067503881721510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8791636194819117557
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 10235728658827311552
   Name: "Craftsman End Table"
   Transform {

@@ -1,7 +1,7 @@
 Name: "BoxGroup_9"
-RootId: 13202460656258715224
+RootId: 6124286002245634801
 Objects {
-  Id: 14278564037198628565
+  Id: 3354280998145029805
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13202460656258715224
+  ParentId: 6124286002245634801
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -85,7 +85,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9725087334233545872
+  Id: 9371801167534290897
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13202460656258715224
+  ParentId: 6124286002245634801
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -151,14 +151,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            Y: 40
+            X: 8.62643242
+            Y: 15.9368534
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -5.00000238
+            Yaw: -24.2145386
           }
         }
       }
@@ -169,7 +170,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11353641532509102477
+  Id: 12738730369091080154
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -186,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13202460656258715224
+  ParentId: 6124286002245634801
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -254,7 +255,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10681366234362396402
+  Id: 7972903053258090723
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -271,7 +272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13202460656258715224
+  ParentId: 6124286002245634801
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -335,8 +336,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -100
-            Y: -60
+            X: -127.778229
+            Y: -62.8299866
             Z: 65
           }
         }

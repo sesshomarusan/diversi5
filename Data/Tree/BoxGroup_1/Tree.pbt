@@ -1,7 +1,7 @@
 Name: "BoxGroup_1"
-RootId: 2342759644539908400
+RootId: 12643605449501319345
 Objects {
-  Id: 13131232940736856161
+  Id: 13860191433882117094
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2342759644539908400
+  ParentId: 12643605449501319345
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -85,7 +85,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14309345464345529208
+  Id: 16242082830248365729
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2342759644539908400
+  ParentId: 12643605449501319345
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -170,7 +170,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6015613277060250633
+  Id: 17397800201630702039
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -187,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2342759644539908400
+  ParentId: 12643605449501319345
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -255,7 +255,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18122677854399746758
+  Id: 12643963110370885234
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -272,7 +272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2342759644539908400
+  ParentId: 12643605449501319345
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

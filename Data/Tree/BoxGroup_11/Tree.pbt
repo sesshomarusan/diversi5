@@ -1,7 +1,7 @@
 Name: "BoxGroup_11"
-RootId: 16877570089538460322
+RootId: 13202460656258715224
 Objects {
-  Id: 4734632850917089546
+  Id: 14278564037198628565
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 13202460656258715224
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -85,7 +85,7 @@ Objects {
   }
 }
 Objects {
-  Id: 41899801911207219
+  Id: 9725087334233545872
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 13202460656258715224
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -169,7 +169,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12826258902217860555
+  Id: 11353641532509102477
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -186,7 +186,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 13202460656258715224
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -235,8 +235,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 22.2950573
-            Y: 16.7775478
+            X: 25
+            Y: 65
             Z: 65
           }
         }
@@ -254,7 +254,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15094179741603590685
+  Id: 10681366234362396402
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -271,7 +271,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 13202460656258715224
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -335,8 +335,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -102.705391
-            Y: -108.221848
+            X: -100
+            Y: -60
             Z: 65
           }
         }

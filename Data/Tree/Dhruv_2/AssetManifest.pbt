@@ -458,6 +458,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14168145723829607898
+  Name: "Fantasy Clay Pot 03 Damaged 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_clay_pot_broken_006_ref"
+  }
+}
+Assets {
   Id: 14023144080669477239
   Name: "Hill 02"
   PlatformAssetType: 1
@@ -1007,15 +1016,6 @@ Assets {
   }
 }
 Assets {
-  Id: 8577916611928249881
-  Name: "Generic Water"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_parameter_driven_water_manual"
-  }
-}
-Assets {
   Id: 8485402463291709248
   Name: "Craftsman Wall Interior 02 Corner"
   PlatformAssetType: 1
@@ -1049,6 +1049,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_femur_01_ref"
+  }
+}
+Assets {
+  Id: 8371469125708039404
+  Name: "Decal Stone Cracks Variants 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_stone_cracks_001"
   }
 }
 Assets {
@@ -1286,6 +1295,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5077890242058173313
+  Name: "Fantasy Clay Pot 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fantasy_clay_pot_003_ref"
+  }
+}
+Assets {
   Id: 4848432830553094634
   Name: "Asphalt 01"
   PlatformAssetType: 2
@@ -1391,6 +1409,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_candle_holder_table_002"
+  }
+}
+Assets {
+  Id: 4227364594964539825
+  Name: "Rock Flat 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_004"
   }
 }
 Assets {

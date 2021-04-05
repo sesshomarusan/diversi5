@@ -1,802 +1,779 @@
 Name: "Dhruv_2"
 RootId: 13237809934491936166
 Objects {
-  Id: 7029641601360142326
-  Name: "Loot Bag 10"
+  Id: 9481041662491212266
+  Name: "Rock Pile 002"
   Transform {
     Location {
-      X: 6536.11914
-      Y: 33029.0039
-      Z: 9068.78613
+      X: 9548
+      Y: -4320
+      Z: 957
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2838056851597702523
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 11446.373
-            Y: 2919.39453
-            Z: 1062.57227
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 8849032075803816915
-  Name: "Loot Bag 10"
+  Id: 17130962866224560869
+  Name: "Rock Pile 002"
   Transform {
     Location {
-      X: 1959.60449
-      Y: 32629.4688
-      Z: 9068.78613
+      X: 9548
+      Y: -4422
+      Z: 916
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2838056851597702523
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 11219.6387
-            Y: -234.996094
-            Z: 866.786133
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 5146841455877325398
-  Name: "Loot Bag 10"
+  Id: 4913764173819092590
+  Name: "Rock Pile 002"
   Transform {
     Location {
-      X: 4160.9375
-      Y: 33316.6289
-      Z: 9068.78613
+      X: 9548
+      Y: -4269
+      Z: 916
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 0.7
+      Y: 0.7
+      Z: 0.7
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 2838056851597702523
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 6598.60449
-            Y: -634.53125
-            Z: 866.786133
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 11837917875567963404
-  Name: "Loot Bag 10"
+  Id: 11246447107718316586
+  Name: "Rock Pile 001"
   Transform {
     Location {
-      X: 4160.9375
-      Y: 34884.4805
-      Z: 9071.73633
+      X: 6086
+      Y: 766
+      Z: 874
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10835155324150586940
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 8799.9375
-            Y: 52.6289063
-            Z: 866.786133
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 7397523851717769723
-  Name: "Loot Bag 10"
+  Id: 18008334732625389099
+  Name: "Decal Stone Cracks Variants 01"
   Transform {
     Location {
-      X: -6225.03369
-      Y: 37839.2227
-      Z: 8217.13574
+      X: 13101
+      Y: -4421
+      Z: 1137
     }
     Rotation {
-      Yaw: -179.999954
+      Pitch: 0.851239622
+      Yaw: 88.2253418
+      Roll: 90.9701309
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 0.900000036
+      Y: 0.900000036
+      Z: 0.900000036
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 8371469125708039404
+    }
+    TeamSettings {
+    }
+    DecalBP {
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:medium"
+  }
+}
+Objects {
+  Id: 1295436556040839118
+  Name: "Fantasy Clay Pot 03"
+  Transform {
+    Location {
+      X: 9398.27051
+      Y: -3419.75586
+      Z: 875
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13237809934491936166
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
       }
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 8799.9375
-            Y: 1620.48047
-            Z: 869.736328
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 5077890242058173313
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 10938705274370922917
-  Name: "Loot Bag 10"
+  Id: 437668813109121330
+  Name: "Fantasy Clay Pot 03 Damaged 02"
   Transform {
     Location {
-      X: -6574.25391
-      Y: 30111.2461
-      Z: 8217.13574
+      X: 9482.91211
+      Y: -3389.06641
+      Z: 875
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14168145723829607898
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1586.03369
-            Y: 4575.22266
-            Z: 15.1357422
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 8482394292181833717
-  Name: "Loot Bag 10"
+  Id: 6194549288467978118
+  Name: "Fantasy Clay Pot 02"
   Transform {
     Location {
-      X: 4135.49414
-      Y: 32236.9844
-      Z: 11210.8848
+      X: 9306.5752
+      Y: -3376.93164
+      Z: 873.59375
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8985846431173858098
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1935.25391
-            Y: -3152.75391
-            Z: 15.1357422
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 14515479836282919890
-  Name: "Loot Bag 10"
+  Id: 9412124021478909202
+  Name: "Rock Pile 001"
   Transform {
     Location {
-      X: 9862.33691
-      Y: 30816.8086
-      Z: 9221.0625
+      X: 9582.02148
+      Y: -3272.47656
+      Z: 920.356445
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 0.816237867
-      Y: 0.816237867
-      Z: 0.816237867
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 10835155324150586940
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 8774.49414
-            Y: -1027.01563
-            Z: 3008.88477
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 5
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 5
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 10283482059962598124
-  Name: "Loot Bag 10"
+  Id: 13890595995881294991
+  Name: "Rock Pile 002"
   Transform {
     Location {
-      X: 4803.74512
-      Y: 28874.8184
-      Z: 9197.38281
+      X: 9731.6582
+      Y: -3145.79883
+      Z: 871.938477
     }
     Rotation {
-      Yaw: -179.999954
     }
     Scale {
-      X: 1.05289268
-      Y: 1.05289268
-      Z: 1.05289268
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
-      }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.816237867
-            Y: 0.816237867
-            Z: 0.816237867
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 14501.3369
-            Y: -2447.19141
-            Z: 1019.0625
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 10
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 10
-        }
-      }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
 Objects {
-  Id: 4976701182865523129
-  Name: "Loot Bag 10"
+  Id: 11758600904836533317
+  Name: "Rock Pile 002"
   Transform {
     Location {
-      X: -19449.6133
-      Y: 31500.1094
-      Z: 6000
+      X: 9408.56641
+      Y: -3207.58594
+      Z: 875
     }
     Rotation {
-      Yaw: -179.999985
     }
     Scale {
-      X: 3
-      Y: 3
-      Z: 3
+      X: 1
+      Y: 1
+      Z: 1
     }
   }
   ParentId: 13237809934491936166
-  WantsNetworking: true
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12502386380600736671
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "Lo00ot!"
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3377721323622766709
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
       }
     }
-    ParameterOverrideMap {
-      key: 15899876106654065371
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Clay pot 10"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.05289268
-            Y: 1.05289268
-            Z: 1.05289268
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9442.74512
-            Y: -4389.18164
-            Z: 995.382813
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999954
-          }
-        }
-        Overrides {
-          Name: "cs:ResourceMin"
-          Int: 10
-        }
-        Overrides {
-          Name: "cs:ResourceMax"
-          Int: 10
-        }
+  }
+}
+Objects {
+  Id: 9908965963458029659
+  Name: "Rock Flat 01"
+  Transform {
+    Location {
+      X: 9553.85938
+      Y: -3000.5293
+      Z: 921.151367
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.745518804
+      Y: 0.745518804
+      Z: 0.745518804
+    }
+  }
+  ParentId: 13237809934491936166
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
       }
     }
-    TemplateAsset {
-      Id: 7456704952079329111
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 4227364594964539825
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 598685648554939
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 9380.25586
+      Y: -3079.9707
+      Z: 948.130859
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.624304235
+      Y: 0.624304235
+      Z: 0.624304235
+    }
+  }
+  ParentId: 13237809934491936166
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18244274405329183209
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 7002059696497156820
+  Name: "Reinforced Crate 150cm"
+  Transform {
+    Location {
+      X: 6853.12695
+      Y: -481.1875
+      Z: 1024
+    }
+    Rotation {
+      Yaw: 69.7157822
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13237809934491936166
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 705806923722962045
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 3998821742975686350
+  Name: "Reinforced Crate 150cm"
+  Transform {
+    Location {
+      X: 6456.71777
+      Y: -643.472656
+      Z: 1027
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13237809934491936166
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 705806923722962045
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
+  Id: 1831309103829572551
+  Name: "Reinforced Crate 150cm"
+  Transform {
+    Location {
+      X: 6306.2666
+      Y: -583.71875
+      Z: 1027
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13237809934491936166
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 705806923722962045
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
     }
   }
 }
@@ -838,6 +815,1365 @@ Objects {
     InstanceId: 15399173672151515967
     TemplateId: 18287723048499715465
     WasRoot: true
+  }
+}
+Objects {
+  Id: 7247345541180938804
+  Name: "Loot"
+  Transform {
+    Location {
+      X: 15396
+      Y: 872
+      Z: 901
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.32675445
+      Y: 1.32675445
+      Z: 1.32675445
+    }
+  }
+  ParentId: 13237809934491936166
+  ChildIds: 4976701182865523129
+  ChildIds: 10283482059962598124
+  ChildIds: 14515479836282919890
+  ChildIds: 8482394292181833717
+  ChildIds: 10938705274370922917
+  ChildIds: 7397523851717769723
+  ChildIds: 11837917875567963404
+  ChildIds: 5146841455877325398
+  ChildIds: 8849032075803816915
+  ChildIds: 7029641601360142326
+  ChildIds: 9365377410014704761
+  ChildIds: 11071754718551566487
+  ChildIds: 7787305771298286863
+  ChildIds: 6093419836019787273
+  ChildIds: 3064417924611392759
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
+  Id: 3064417924611392759
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 4574
+      Y: 34289
+      Z: 10269
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4013502212269835665
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1.66039526
+            Y: -28.7400284
+            Z: 66.8811569
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2472.9519
+            Y: -1494.62476
+            Z: 64.8198318
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 6093419836019787273
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 9862.33691
+      Y: 30816.8086
+      Z: 9221.0625
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237926
+      Y: 0.816237926
+      Z: 0.816237926
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1.5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13041028942332969253
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 28.5500526
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.731290221
+            Y: 0.731290221
+            Z: 0.731290221
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1002.60083
+            Y: -1985.68884
+            Z: -19.2868137
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 7787305771298286863
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 6583.99
+      Y: 34740.75
+      Z: 9626.10449
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4013502212269835665
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1.66039526
+            Y: -28.7400284
+            Z: 66.8811569
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4660.24463
+            Y: 115.319
+            Z: 878.836304
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 11071754718551566487
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 6583.99
+      Y: 34740.75
+      Z: 9626.10449
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14491843285731747378
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 0.0107740406
+            Y: 0.732705951
+            Z: 43.9298859
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.771492183
+            Y: 0.771492183
+            Z: 0.771492183
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4358.00293
+            Y: -2930.45947
+            Z: 47.4842949
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 9365377410014704761
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 6580.63867
+      Y: 33029.0039
+      Z: 9068.78613
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3145.27661
+            Y: 455.811554
+            Z: 394.273773
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 7029641601360142326
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 6536.11914
+      Y: 33029.0039
+      Z: 9068.78613
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2976.90869
+            Y: 1543.16016
+            Z: 121.780083
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 8849032075803816915
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 1959.60449
+      Y: 32629.4688
+      Z: 9068.78613
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3147.80273
+            Y: -834.363953
+            Z: -25.7876415
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 5146841455877325398
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 4160.9375
+      Y: 33316.6289
+      Z: 9068.78613
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -6630.76367
+            Y: -1135.50122
+            Z: -25.7876415
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 11837917875567963404
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 4160.9375
+      Y: 34884.4805
+      Z: 9071.73633
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1.5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4971.57764
+            Y: -617.575562
+            Z: -25.7876415
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 7397523851717769723
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: -6225.03369
+      Y: 37839.2227
+      Z: 8217.13574
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1.5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4971.57764
+            Y: 564.143921
+            Z: -23.5640221
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 10938705274370922917
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: -6574.25391
+      Y: 30111.2461
+      Z: 8217.13574
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12799.6807
+            Y: 2791.18921
+            Z: -667.692688
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 8482394292181833717
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 4135.49414
+      Y: 32236.9844
+      Z: 11210.8848
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -13062.8945
+            Y: -3033.53345
+            Z: -667.692688
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 14515479836282919890
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 9862.33691
+      Y: 30816.8086
+      Z: 9221.0625
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 0.816237867
+      Y: 0.816237867
+      Z: 0.816237867
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.7
+            Y: 0.7
+            Z: 0.7
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 207.27272
+            Y: 2639.52393
+            Z: -21.1041317
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 10283482059962598124
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: 4803.74512
+      Y: 28874.8184
+      Z: 9197.38281
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 1.05289268
+      Y: 1.05289268
+      Z: 1.05289268
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1.5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.615214
+            Y: 0.615214
+            Z: 0.615214
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -674.324524
+            Y: -2501.73755
+            Z: 88.9859467
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 5
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 5
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
+  }
+}
+Objects {
+  Id: 4976701182865523129
+  Name: "Loot Bag 10"
+  Transform {
+    Location {
+      X: -19449.6133
+      Y: 31500.1094
+      Z: 6000
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 3
+      Y: 3
+      Z: 3
+    }
+  }
+  ParentId: 7247345541180938804
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4045421149144476280
+      value {
+        Overrides {
+          Name: "Intensity"
+          Float: 1.5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12502386380600736671
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Lo00ot!"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15899876106654065371
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Clay pot 10"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.900000036
+            Y: 0.900000036
+            Z: 0.900000036
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4402.47217
+            Y: -3947.22632
+            Z: 45.2231369
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.999954
+          }
+        }
+        Overrides {
+          Name: "cs:ResourceMin"
+          Int: 10
+        }
+        Overrides {
+          Name: "cs:ResourceMax"
+          Int: 10
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7456704952079329111
+    }
   }
 }
 Objects {
@@ -29550,6 +30886,127 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 237358744497943852
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3847847994801853070
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3979719716522786270
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4087516913431096842
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5208739266944964028
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5828622190360235249
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6650004369411420427
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7831203878042436526
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8945068085742057787
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9656736158628170927
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11336455630402122531
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 11817576672060305986
       value {
         Overrides {
@@ -29580,6 +31037,17 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 11874441209765123272
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 12227336780154480329
       value {
         Overrides {
@@ -29596,6 +31064,138 @@ Objects {
             X: 1.2
             Y: 1.2
             Z: 0.8
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12655685079818426899
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12663465402900736979
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12805832841678762766
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13494946026388768417
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14166151613279057375
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14641953947062633986
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15011893902452645782
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15549557973319826627
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15714250014057802127
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17100167995312798213
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17209451671649357152
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18074276665773344221
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
           }
         }
       }
@@ -29640,6 +31240,39 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   TemplateInstance {
+    ParameterOverrideMap {
+      key: 2808243052359412824
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13795397558698589872
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17734202497618047841
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 16354317593366277883
+          }
+        }
+      }
+    }
     ParameterOverrideMap {
       key: 18373512628809793478
       value {
@@ -29718,6 +31351,11 @@ Objects {
   ChildIds: 2342759644539908400
   ChildIds: 12643605449501319345
   ChildIds: 4339046069718583344
+  ChildIds: 16460468837932085289
+  ChildIds: 72063583308512239
+  ChildIds: 10759475389746869743
+  ChildIds: 2330612891306679502
+  ChildIds: 293126937215072910
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -29729,6 +31367,171 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 293126937215072910
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: -1022.23218
+      Y: 2575.45459
+      Z: 6.63964844
+    }
+    Rotation {
+      Yaw: 141.723465
+    }
+    Scale {
+      X: 1.05957186
+      Y: 1.05957186
+      Z: 1.05957186
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_6"
+  }
+}
+Objects {
+  Id: 2330612891306679502
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 4038.10986
+      Y: -4895.86816
+      Z: 3.51464844
+    }
+    Rotation {
+      Yaw: 20
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_17"
+  }
+}
+Objects {
+  Id: 10759475389746869743
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: -1758.03528
+      Y: 262.883728
+      Z: 9.13867188
+    }
+    Rotation {
+      Yaw: 93.0679855
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_8"
+  }
+}
+Objects {
+  Id: 72063583308512239
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: -3086.54248
+      Y: 3022.62817
+      Z: -0.485351563
+    }
+    Rotation {
+      Yaw: -33
+    }
+    Scale {
+      X: 1.1
+      Y: 1.1
+      Z: 1.1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_22"
+  }
+}
+Objects {
+  Id: 16460468837932085289
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 1048.50708
+      Y: 2782.63916
+      Z: 2.51464844
+    }
+    Rotation {
+      Yaw: 176.789063
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_13"
   }
 }
 Objects {
@@ -29761,7 +31564,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_8"
+    FilePartitionName: "BoxGroup"
   }
 }
 Objects {
@@ -29794,7 +31597,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup"
+    FilePartitionName: "BoxGroup_1"
   }
 }
 Objects {
@@ -29827,7 +31630,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_1"
+    FilePartitionName: "BoxGroup_2"
   }
 }
 Objects {
@@ -29860,7 +31663,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_2"
+    FilePartitionName: "BoxGroup_3"
   }
 }
 Objects {
@@ -29926,7 +31729,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_3"
+    FilePartitionName: "BoxGroup_4"
   }
 }
 Objects {
@@ -29959,7 +31762,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_4"
+    FilePartitionName: "BoxGroup_5"
   }
 }
 Objects {
@@ -29992,7 +31795,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_5"
+    FilePartitionName: "BoxGroup_9"
   }
 }
 Objects {
@@ -30025,7 +31828,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_6"
+    FilePartitionName: "BoxGroup_10"
   }
 }
 Objects {
@@ -30058,7 +31861,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_9"
+    FilePartitionName: "BoxGroup_11"
   }
 }
 Objects {
@@ -30091,7 +31894,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_10"
+    FilePartitionName: "BoxGroup_12"
   }
 }
 Objects {
@@ -30124,7 +31927,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_13"
+    FilePartitionName: "BoxGroup_14"
   }
 }
 Objects {
@@ -30157,7 +31960,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_14"
+    FilePartitionName: "BoxGroup_15"
   }
 }
 Objects {
@@ -30190,7 +31993,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_15"
+    FilePartitionName: "BoxGroup_16"
   }
 }
 Objects {
@@ -30222,7 +32025,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_11"
+    FilePartitionName: "BoxGroup_18"
   }
 }
 Objects {
@@ -30255,7 +32058,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_12"
+    FilePartitionName: "BoxGroup_19"
   }
 }
 Objects {
@@ -30288,7 +32091,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_16"
+    FilePartitionName: "BoxGroup_20"
   }
 }
 Objects {
@@ -30296,8 +32099,8 @@ Objects {
   Name: "BoxGroup"
   Transform {
     Location {
-      X: 3895.61963
-      Y: -4616.26855
+      X: 3748.7749
+      Y: -4608.03027
       Z: 3.51464844
     }
     Rotation {
@@ -30321,7 +32124,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_17"
+    FilePartitionName: "BoxGroup_21"
   }
 }
 Objects {
@@ -30354,7 +32157,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_18"
+    FilePartitionName: "BoxGroup_23"
   }
 }
 Objects {
@@ -30387,7 +32190,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_19"
+    FilePartitionName: "BoxGroup_24"
   }
 }
 Objects {
@@ -30418,7 +32221,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_20"
+    FilePartitionName: "BoxGroup_25"
   }
 }
 Objects {
@@ -30451,7 +32254,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_21"
+    FilePartitionName: "BoxGroup_26"
   }
 }
 Objects {
@@ -30482,7 +32285,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_22"
+    FilePartitionName: "BoxGroup_27"
   }
 }
 Objects {
@@ -30512,7 +32315,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "BoxGroup_23"
+    FilePartitionName: "BoxGroup_28"
   }
 }
 Objects {
@@ -34029,11 +35832,12 @@ Objects {
   Name: "Simple Crate 150cm"
   Transform {
     Location {
-      X: -74.9999466
-      Y: 83.0713959
-      Z: 0.253936768
+      X: -75
+      Y: -98.0175781
+      Z: -91.4804688
     }
     Rotation {
+      Roll: 33
     }
     Scale {
       X: 1
@@ -34080,13 +35884,13 @@ Objects {
   Transform {
     Location {
       X: 49.1132813
-      Y: 53.5466309
-      Z: 0.253921509
+      Y: -122.78125
+      Z: -75.4023438
     }
     Rotation {
-      Pitch: 12.5781889
-      Yaw: 54.9029655
-      Roll: -4.37384159e-07
+      Pitch: -14.6116333
+      Yaw: 54.5548019
+      Roll: 18.8819256
     }
     Scale {
       X: 1
@@ -44693,7 +46497,7 @@ Objects {
     Location {
       X: 6828.72803
       Y: -444.222656
-      Z: 1017.76953
+      Z: 1169
     }
     Rotation {
     }
@@ -48788,6 +50592,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -48841,6 +50653,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -48944,6 +50764,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -48997,6 +50825,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -49034,9 +50870,9 @@ Objects {
   Name: "Bone Human Femur 01"
   Transform {
     Location {
-      X: -43.3437958
-      Y: -57.4461517
-      Z: 26.8957138
+      X: -43.3438148
+      Y: -61.560009
+      Z: 26.8958874
     }
     Rotation {
       Pitch: 12.8809986
@@ -49050,6 +50886,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -49101,6 +50945,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -49153,6 +51005,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -49204,6 +51064,14 @@ Objects {
     }
   }
   ParentId: 13431329231714409469
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -51867,7 +53735,6 @@ Objects {
   ChildIds: 4162076556716471901
   ChildIds: 6431411496055074640
   ChildIds: 3247728276845013856
-  ChildIds: 6457331188672299587
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -51879,210 +53746,6 @@ Objects {
   }
   Folder {
     IsGroup: true
-  }
-}
-Objects {
-  Id: 6457331188672299587
-  Name: "golem "
-  Transform {
-    Location {
-      X: 6535
-      Y: 12530
-      Z: 1035
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15931507398721003875
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1896913588698007612
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 841534158063459245
-          }
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:color"
-          Color {
-            R: 0.8125
-            G: 0.8125
-            B: 0.8125
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 2655917952008681052
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 3049582816370861706
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 3953216259470327951
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 4055328281248737861
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5172689593063570833
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6199480089762278989
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6809344530157969453
-      value {
-        Overrides {
-          Name: "Name"
-          String: "golem "
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 66.6666565
-            Y: 266.666626
-            Z: -23.3331
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 90
-            Yaw: -85.9143753
-            Roll: 94.0855789
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.666666687
-            Y: 0.666666687
-            Z: 0.666666687
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7542684260582974413
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 23.3443298
-            Y: -6.04177094
-            Z: 0.140167236
-          }
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10626697769994719233
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 36.9974365
-            Y: 59.8675575
-            Z: 343.991394
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Roll: 45.7380676
-          }
-        }
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 13696562774885898867
-      value {
-        Overrides {
-          Name: "ma:Shared_BaseMaterial:id"
-          AssetReference {
-            Id: 8577916611928249881
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 3013419146727990230
-    }
   }
 }
 Objects {
@@ -55315,6 +56978,14 @@ Objects {
     }
   }
   ParentId: 713346335213001391
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -55366,6 +57037,14 @@ Objects {
     }
   }
   ParentId: 713346335213001391
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 16354317593366277883
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -57476,7 +59155,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 11196080481278781977
+        Id: 16354317593366277883
       }
     }
   }
@@ -57536,7 +59215,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 11196080481278781977
+        Id: 16354317593366277883
       }
     }
   }
@@ -59295,7 +60974,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 11196080481278781977
+        Id: 16354317593366277883
       }
     }
   }

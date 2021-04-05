@@ -1,7 +1,7 @@
 Name: "BoxGroup_4"
-RootId: 5134356477666325023
+RootId: 7985243644797309084
 Objects {
-  Id: 11411825393511875272
+  Id: 3518701244483492292
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5134356477666325023
+  ParentId: 7985243644797309084
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -85,7 +85,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18144522769918580290
+  Id: 14830244039098363823
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5134356477666325023
+  ParentId: 7985243644797309084
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -170,7 +170,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13435520750125242713
+  Id: 1997747364955123860
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -187,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5134356477666325023
+  ParentId: 7985243644797309084
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -255,7 +255,7 @@ Objects {
   }
 }
 Objects {
-  Id: 358429255696767286
+  Id: 11244891966099407409
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -272,7 +272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5134356477666325023
+  ParentId: 7985243644797309084
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -312,6 +312,11 @@ Objects {
             A: 1
           }
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -336,15 +341,17 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -127.778229
-            Y: -62.8299866
-            Z: 65
+            X: -154.866501
+            Y: -110.926163
+            Z: 145.013672
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 50.0000114
+            Pitch: -36.7050171
+            Yaw: 82.9956055
+            Roll: -31.3017578
           }
         }
       }
