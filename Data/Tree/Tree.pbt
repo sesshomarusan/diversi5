@@ -22,6 +22,7 @@ Objects {
   ChildIds: 10680076438754699651
   ChildIds: 6002287883041365082
   ChildIds: 4658613548534488732
+  ChildIds: 3666790014357555004
   ChildIds: 14814857204544419984
   ChildIds: 12657443587902675875
   ChildIds: 14719502264376208710
@@ -604,6 +605,39 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Starting Tavern"
+  }
+}
+Objects {
+  Id: 3666790014357555004
+  Name: "Level Music"
+  Transform {
+    Location {
+      X: -27150
+      Y: 91870
+      Z: -1569.99707
+    }
+    Rotation {
+      Yaw: -89.9999924
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Level Music"
   }
 }
 Objects {
