@@ -719,15 +719,6 @@ Assets {
   }
 }
 Assets {
-  Id: 10914354925542967262
-  Name: "Fantasy Castle Pillar 02 - Mid"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_pillar_002_mid"
-  }
-}
-Assets {
   Id: 10835155324150586940
   Name: "Rock Pile 001"
   PlatformAssetType: 1
@@ -863,15 +854,6 @@ Assets {
   }
 }
 Assets {
-  Id: 9516289436104143949
-  Name: "Metal Iron 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_001"
-  }
-}
-Assets {
   Id: 9199751096616988864
   Name: "Candle Flame VFX"
   PlatformAssetType: 1
@@ -950,15 +932,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_candle_004"
-  }
-}
-Assets {
-  Id: 8903186465984483261
-  Name: "Pyramid - 4-Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pyramid_001"
   }
 }
 Assets {
@@ -1571,6 +1544,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_floor_001_8m"
+  }
+}
+Assets {
+  Id: 2838056851597702523
+  Name: "Gold Treasure 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_gold_treasure_002"
   }
 }
 Assets {

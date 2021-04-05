@@ -964,11 +964,12 @@ Objects {
   Name: "Fantasy Book Pile 03"
   Transform {
     Location {
-      X: 10661.292
-      Y: 9.046875
+      X: 10674.6719
+      Y: -47.3085938
       Z: 983.711914
     }
     Rotation {
+      Yaw: -149.285583
     }
     Scale {
       X: 1.43004119
@@ -1007,12 +1008,12 @@ Objects {
   Name: "Fantasy Book Pile 02"
   Transform {
     Location {
-      X: 10667.3057
-      Y: 24.7304688
+      X: 10677.5176
+      Y: -63.859375
       Z: 863.001953
     }
     Rotation {
-      Yaw: 87.0034485
+      Yaw: -62.2820435
     }
     Scale {
       X: 1.55006289

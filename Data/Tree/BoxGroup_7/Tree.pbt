@@ -1,7 +1,127 @@
 Name: "BoxGroup_7"
-RootId: 16877570089538460322
+RootId: 12595688314880450665
 Objects {
-  Id: 4734632850917089546
+  Id: 11733582334365295079
+  Name: "DestructibleBarrel"
+  Transform {
+    Location {
+      X: 8956.28516
+      Y: 35394.0313
+      Z: 9066.33301
+    }
+    Rotation {
+      Yaw: -127.665764
+    }
+    Scale {
+      X: 1.04518855
+      Y: 1.04518855
+      Z: 1.04518855
+    }
+  }
+  ParentId: 12595688314880450665
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3909470211396568186
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -78.064682
+            Y: -93.7054901
+          }
+        }
+        Overrides {
+          Name: "StaticMesh"
+          AssetReference {
+            Id: 13949647182894972053
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -55
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.8
+            Y: 1.6
+            Z: 3.90000033
+          }
+        }
+        Overrides {
+          Name: "ma:Prop_Top:color"
+          Color {
+            R: 0.00802319311
+            G: 0.00182116195
+            B: 0.00303527
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 18373175587053938746
+          }
+        }
+        Overrides {
+          Name: "ma:Prop_Top:id"
+          AssetReference {
+            Id: 16032239911781621480
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18013155490129251080
+      value {
+        Overrides {
+          Name: "Name"
+          String: "DestructibleBarrel"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.04518855
+            Y: 1.04518855
+            Z: 1.04518855
+          }
+        }
+        Overrides {
+          Name: "cs:LootId"
+          String: "Nothing"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -278.127808
+            Y: 38.9378967
+            Z: -106.009766
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -65.8262863
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14404379499092769970
+    }
+  }
+}
+Objects {
+  Id: 10043708711928051980
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +137,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 12595688314880450665
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -85,7 +205,7 @@ Objects {
   }
 }
 Objects {
-  Id: 41899801911207219
+  Id: 17574932408085683580
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -102,7 +222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 12595688314880450665
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -169,7 +289,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12826258902217860555
+  Id: 14044282715836952564
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -186,7 +306,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 12595688314880450665
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -254,7 +374,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15094179741603590685
+  Id: 17565116773889345830
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -271,7 +391,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16877570089538460322
+  ParentId: 12595688314880450665
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -299,7 +419,16 @@ Objects {
         Overrides {
           Name: "ma:Shared_BaseMaterial:id"
           AssetReference {
-            Id: 5771844425491559774
+            Id: 841534158063459245
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
           }
         }
       }

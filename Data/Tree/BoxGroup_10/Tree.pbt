@@ -299,7 +299,16 @@ Objects {
         Overrides {
           Name: "ma:Shared_BaseMaterial:id"
           AssetReference {
-            Id: 5771844425491559774
+            Id: 841534158063459245
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
           }
         }
       }
@@ -326,15 +335,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 25
-            Y: 65
+            X: -63.0698242
+            Y: 139.964844
             Z: 65
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 24.999979
+            Yaw: 36.2474518
           }
         }
       }

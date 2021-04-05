@@ -165,15 +165,15 @@ Objects {
   Name: "Bottle 01"
   Transform {
     Location {
-      X: 126.303528
-      Y: 47.2452087
+      X: 117.243134
+      Y: 47.7203827
       Z: 170
     }
     Rotation {
     }
     Scale {
-      X: 0.3
-      Y: 0.3
+      X: 0.311392039
+      Y: 0.29998979
       Z: 0.3
     }
   }
@@ -221,15 +221,15 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 99.8306122
-      Y: 48.2231941
+      X: 90.7702255
+      Y: 48.6980286
       Z: 60
     }
     Rotation {
     }
     Scale {
-      X: 1.8
-      Y: 0.7
+      X: 1.86835182
+      Y: 0.699976087
       Z: 0.6
     }
   }
@@ -277,12 +277,14 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
+      X: -9.06032
+      Y: 0.474831402
     }
     Rotation {
     }
     Scale {
-      X: 2
-      Y: 0.7
+      X: 2.07594705
+      Y: 0.699976087
       Z: 2
     }
   }

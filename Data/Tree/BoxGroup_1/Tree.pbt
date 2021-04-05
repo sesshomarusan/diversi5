@@ -1,7 +1,7 @@
 Name: "BoxGroup_1"
-RootId: 13930068097204299458
+RootId: 2342759644539908400
 Objects {
-  Id: 9034143194558959200
+  Id: 13131232940736856161
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13930068097204299458
+  ParentId: 2342759644539908400
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -42,11 +42,6 @@ Objects {
             Id: 17001123347469898316
           }
         }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
       }
     }
     ParameterOverrideMap {
@@ -59,9 +54,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.1
-            Y: 1.1
-            Z: 1.1
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         Overrides {
@@ -71,15 +66,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -139.442963
-            Y: -114.077431
+            X: -175
+            Y: -60
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 13
+            Yaw: -39.9999847
           }
         }
       }
@@ -90,7 +85,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14394871886982302977
+  Id: 14309345464345529208
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -107,7 +102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13930068097204299458
+  ParentId: 2342759644539908400
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -122,8 +117,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9.9999218
-            Y: 20.0014133
+            X: 10
+            Y: 20
           }
         }
         Overrides {
@@ -144,9 +139,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1.1
-            Y: 1.1
-            Z: 1.1
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         Overrides {
@@ -156,15 +151,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -8.81424618
-            Y: 56.1988335
+            X: 8.62643242
+            Y: 15.9368534
             Z: -85
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -5
+            Yaw: -24.2145386
           }
         }
       }
@@ -175,7 +170,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9995543974424171724
+  Id: 6015613277060250633
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -192,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13930068097204299458
+  ParentId: 2342759644539908400
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -241,9 +236,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 41.244545
-            Y: 11.1307526
-            Z: 84
+            X: 29.7381535
+            Y: -18.9232273
+            Z: 65
           }
         }
         Overrides {
@@ -260,7 +255,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13731813952875962709
+  Id: 18122677854399746758
   Name: "DestructibleBarrel"
   Transform {
     Location {
@@ -277,7 +272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13930068097204299458
+  ParentId: 2342759644539908400
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -305,17 +300,16 @@ Objects {
         Overrides {
           Name: "ma:Shared_BaseMaterial:id"
           AssetReference {
-            Id: 5771844425491559774
+            Id: 841534158063459245
           }
         }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17379918311934367126
-      value {
         Overrides {
-          Name: "Position"
-          Vector {
+          Name: "ma:Shared_BaseMaterial:color"
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
           }
         }
       }
@@ -342,9 +336,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -93.3475494
-            Y: -110.051071
-            Z: 82
+            X: -128.409622
+            Y: -113.972382
+            Z: 65
           }
         }
         Overrides {

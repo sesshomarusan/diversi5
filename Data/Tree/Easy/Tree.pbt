@@ -322,16 +322,16 @@ Objects {
   }
 }
 Objects {
-  Id: 5038128419039192485
+  Id: 16448635199693289011
   Name: "Fantasy Chest Base 3 - interactable"
   Transform {
     Location {
-      X: 4908
-      Y: 28898
-      Z: 9094
+      X: 1747
+      Y: 36673
+      Z: 9076
     }
     Rotation {
-      Yaw: 91
+      Yaw: -43.0000076
     }
     Scale {
       X: 1
@@ -358,15 +358,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 9496
-            Y: -3009
+            X: 15672
+            Y: 4340
             Z: 874
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: 89
           }
         }
         Overrides {
@@ -460,20 +460,20 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Fantasy Chest Base 3 - interactable"
+          String: "Second Easy Key"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 6386
-            Y: 3409
+            X: 6357.49219
+            Y: 3433.35547
             Z: 874
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -43.0000076
+            Yaw: -43
           }
         }
         Overrides {
@@ -536,16 +536,16 @@ Objects {
   }
 }
 Objects {
-  Id: 16448635199693289011
+  Id: 5038128419039192485
   Name: "Fantasy Chest Base 3 - interactable"
   Transform {
     Location {
-      X: 1747
-      Y: 36673
-      Z: 9076
+      X: 4908
+      Y: 28898
+      Z: 9094
     }
     Rotation {
-      Yaw: -43.0000076
+      Yaw: 91
     }
     Scale {
       X: 1
@@ -567,20 +567,20 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Fantasy Chest Base 3 - interactable"
+          String: "First Easy Key"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 15672
-            Y: 4340
+            X: 9496
+            Y: -3009
             Z: 874
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 89
+            Yaw: -179.999985
           }
         }
         Overrides {

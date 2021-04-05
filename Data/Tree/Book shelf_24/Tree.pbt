@@ -5,8 +5,8 @@ Objects {
   Name: "Bottle 01"
   Transform {
     Location {
-      X: 85.7367096
-      Y: 59.6756973
+      X: 84.1524353
+      Y: 59.7032661
       Z: 170
     }
     Rotation {
@@ -53,8 +53,8 @@ Objects {
   Name: "Bottle 01"
   Transform {
     Location {
-      X: 126.303528
-      Y: 47.2452087
+      X: 124.719009
+      Y: 47.2729263
       Z: 170
     }
     Rotation {
@@ -109,8 +109,8 @@ Objects {
   Name: "Bottle 01"
   Transform {
     Location {
-      X: 132.784241
-      Y: 49.9909515
+      X: 131.19957
+      Y: 50.0186386
       Z: 170
     }
     Rotation {
@@ -165,8 +165,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 99.8306122
-      Y: 48.2231941
+      X: 98.2476883
+      Y: 48.2509384
       Z: 130
     }
     Rotation {
@@ -230,6 +230,8 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
+      X: -1.58374286
+      Y: 0.0276443958
     }
     Rotation {
     }
