@@ -1,7 +1,7 @@
 Name: "Stair_3"
-RootId: 18420720146324525909
+RootId: 18235933153281807284
 Objects {
-  Id: 13866628052043125505
+  Id: 8030117421164590099
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -96,7 +96,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12959192973283492575
+  Id: 8028070756375116146
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -113,7 +113,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -189,7 +189,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4686392090076692022
+  Id: 5879365269992019662
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -206,7 +206,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -282,7 +282,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1028687818303687828
+  Id: 14276629861240169628
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -299,7 +299,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -375,7 +375,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10069852335973502822
+  Id: 13075669782714010449
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -392,7 +392,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -468,7 +468,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6790274246667305633
+  Id: 11757278187558312205
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -485,7 +485,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -561,7 +561,7 @@ Objects {
   }
 }
 Objects {
-  Id: 788713780624078055
+  Id: 13381905017823362802
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -578,7 +578,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -654,7 +654,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15322876666497281222
+  Id: 4939404429771242463
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -671,7 +671,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -747,7 +747,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18149322451590557769
+  Id: 6530950389833870355
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -764,7 +764,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -840,7 +840,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11880575865771693778
+  Id: 3147200708450907183
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -857,7 +857,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -933,7 +933,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1059163392693063759
+  Id: 3159211370605551453
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -950,7 +950,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1026,7 +1026,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8883705427207971559
+  Id: 5154866620996249301
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1043,7 +1043,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1119,7 +1119,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2836277194120746381
+  Id: 6193631806745879883
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1136,7 +1136,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1212,7 +1212,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16295641614430963263
+  Id: 17806233032672568488
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1229,7 +1229,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1305,7 +1305,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8669610535583857023
+  Id: 10733905774827805325
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1322,7 +1322,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1398,7 +1398,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17176980968215022314
+  Id: 10611485036052878823
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1415,7 +1415,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1491,7 +1491,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11039628773695101000
+  Id: 4378658305302033220
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1508,7 +1508,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1584,7 +1584,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3473905484613121930
+  Id: 8199187616408920356
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1601,7 +1601,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1677,7 +1677,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6301705382158199857
+  Id: 12096076267729601853
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1694,7 +1694,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1770,7 +1770,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13522527545877385038
+  Id: 454723532690036379
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1787,7 +1787,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1863,7 +1863,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4399444402083569484
+  Id: 16224368701670923034
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1880,7 +1880,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 18420720146324525909
+  ParentId: 18235933153281807284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
