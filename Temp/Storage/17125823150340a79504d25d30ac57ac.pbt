@@ -6,7 +6,15 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "XP"
+          StringVar: "GateKey"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Coins"
         }
         SimpleValue {
           IntVar: 10
@@ -18,6 +26,14 @@ Entries {
         }
         SimpleValue {
           IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "XP"
+        }
+        SimpleValue {
+          IntVar: 10
         }
       }
     }
