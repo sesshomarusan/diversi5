@@ -1,9 +1,9 @@
 Assets {
-  Id: 1367565729547875542
-  Name: "Fantasy Castle Wall 01"
+  Id: 17001123347469898316
+  Name: "Simple Crate 150cm"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_wall_001"
+    AssetId: "sm_crate_simple_150cm_001"
   }
 }

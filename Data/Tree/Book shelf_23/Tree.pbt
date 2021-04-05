@@ -209,79 +209,6 @@ Objects {
   }
 }
 Objects {
-  Id: 15854168864314206412
-  Name: "Bottle 04"
-  Transform {
-    Location {
-      X: 59.1580849
-      Y: 65.0458679
-      Z: 170
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.6
-      Y: 0.6
-      Z: 0.6
-    }
-  }
-  ParentId: 15026721682054012414
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 1
-        G: 0.149999976
-        B: 0.453973532
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.470000029
-        G: 2.24113478e-07
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 4972671222061568135
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17401089374895468673
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 15854168864314206412
-    SubobjectId: 2868145252670877713
-    InstanceId: 228022072826716284
-    TemplateId: 17518057868905220446
-  }
-}
-Objects {
   Id: 16218085332831025370
   Name: "Bottle 05"
   Transform {
@@ -423,8 +350,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 111.551682
-      Y: 48.2232285
+      X: 94.2614288
+      Y: 48.8270111
       Z: 130
     }
     Rotation {
@@ -488,8 +415,8 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 111.551682
-      Y: 48.2232285
+      X: 94.2614288
+      Y: 48.8270111
       Z: 60
     }
     Rotation {

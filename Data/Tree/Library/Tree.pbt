@@ -1,6 +1,50 @@
 Name: "Library"
 RootId: 13466067503881721510
 Objects {
+  Id: 10235728658827311552
+  Name: "Craftsman End Table"
+  Transform {
+    Location {
+      X: 10862
+      Y: 2322
+      Z: 1426
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 1.83236408
+      Y: 3.70216846
+      Z: 1.17349684
+    }
+  }
+  ParentId: 13466067503881721510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11573800874559868299
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 10582550457597907934
   Name: "Craftsman End Table"
   Transform {
@@ -920,11 +964,12 @@ Objects {
   Name: "Fantasy Book Pile 03"
   Transform {
     Location {
-      X: 10661.292
-      Y: 9.046875
+      X: 10674.6719
+      Y: -47.3085938
       Z: 983.711914
     }
     Rotation {
+      Yaw: -149.285583
     }
     Scale {
       X: 1.43004119
@@ -963,12 +1008,12 @@ Objects {
   Name: "Fantasy Book Pile 02"
   Transform {
     Location {
-      X: 10667.3057
-      Y: 24.7304688
+      X: 10677.5176
+      Y: -63.859375
       Z: 863.001953
     }
     Rotation {
-      Yaw: 87.0034485
+      Yaw: -62.2820435
     }
     Scale {
       X: 1.55006289

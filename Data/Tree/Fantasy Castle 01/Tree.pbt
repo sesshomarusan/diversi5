@@ -1128,12 +1128,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00904107094
+      Y: 66
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1177,12 +1177,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 7.86781129e-06
+      Y: 66
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1226,12 +1226,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 0.000984431244
+      Y: 66.0078125
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1465,12 +1465,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 1.14440891e-05
+      Y: 96
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1704,12 +1704,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00782012939
+      Y: 90.9999924
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1753,12 +1753,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 7.62939453e-06
+      Y: 71
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1802,12 +1802,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 7.62939453e-06
+      Y: 41
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -1992,12 +1992,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00978088379
+      Y: 81
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2041,12 +2041,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 7.62939453e-06
+      Y: 71
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2090,12 +2090,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 7.62939453e-06
+      Y: 41
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2139,12 +2139,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
-      Z: 550
+      X: 3.81469727e-06
+      Y: 50.9999962
+      Z: 588
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2280,12 +2280,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00911473855
+      Y: 113.999969
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2329,12 +2329,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 6.00814747e-05
+      Y: 83.9999695
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2378,12 +2378,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 0.00102233863
+      Y: 63.9999847
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2427,12 +2427,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
-      Z: 550
+      X: 0.00102233863
+      Y: 63.9999847
+      Z: 588
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2568,12 +2568,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00909328088
+      Y: 83.9999695
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2617,12 +2617,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 4.57763635e-05
+      Y: 63.9999847
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2666,12 +2666,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 0.00102233863
+      Y: 63.9999847
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2856,12 +2856,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00979614258
+      Y: 59.0004883
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2905,12 +2905,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 2.67028809e-05
+      Y: 49.0004845
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -2954,12 +2954,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 0.00197982788
+      Y: 49.0004845
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -24607,8 +24607,8 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: -1825.00024
-      Y: -2400
+      X: -1806
+      Y: -2424
     }
     Rotation {
       Yaw: 179.999954
@@ -27997,12 +27997,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.0090331994
-      Y: -0.0224609394
+      X: 0.00789642334
+      Y: 78.9921799
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -28046,12 +28046,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Top"
   Transform {
     Location {
-      X: -3.7252903e-09
-      Y: -0.025390625
+      X: 8.39233398e-05
+      Y: 78.9892502
       Z: 1200
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -28095,12 +28095,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Mid"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 8.39233398e-05
+      Y: 79.0004883
       Z: 600
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -28144,12 +28144,12 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Cap"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
+      X: 8.39233398e-05
+      Y: 79.0004883
       Z: 550
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -28193,12 +28193,11 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Base"
   Transform {
     Location {
-      X: 0.000976558775
-      Y: -0.0141601553
-      Z: 0.00048828125
+      X: 8.39233398e-05
+      Y: 79.0004883
     }
     Rotation {
-      Yaw: -3.07358459e-05
+      Yaw: -3.05175781e-05
     }
     Scale {
       X: 1
@@ -30227,13 +30226,14 @@ Objects {
   Name: "Fantasy Castle Trim - Battlement 01"
   Transform {
     Location {
-      Y: 1600
+      X: 0.000366210938
+      Y: 1599.99939
     }
     Rotation {
       Yaw: 89.9999542
     }
     Scale {
-      X: 1
+      X: 0.8
       Y: 1
       Z: 1
     }
@@ -30368,13 +30368,14 @@ Objects {
   Name: "Fantasy Castle Trim - Battlement 01"
   Transform {
     Location {
-      Y: -1600
+      X: -0.000244140625
+      Y: -1448.99316
     }
     Rotation {
       Yaw: 89.9999542
     }
     Scale {
-      X: 1
+      X: 0.900000036
       Y: 1
       Z: 1
     }
@@ -32589,13 +32590,14 @@ Objects {
   Name: "Fantasy Castle Trim - Battlement 01"
   Transform {
     Location {
-      Y: -1600
+      X: -0.00158691406
+      Y: -1470.99915
     }
     Rotation {
       Yaw: 89.9999542
     }
     Scale {
-      X: 1
+      X: 0.900000036
       Y: 1
       Z: 1
     }
@@ -34968,7 +34970,7 @@ Objects {
       Yaw: -6.10351563e-05
     }
     Scale {
-      X: 1
+      X: 0.7
       Y: 1
       Z: 1
     }
@@ -36678,13 +36680,14 @@ Objects {
   Name: "Fantasy Castle Trim - Battlement 01"
   Transform {
     Location {
-      Y: 1600
+      X: -0.000175475143
+      Y: 1599.99951
     }
     Rotation {
       Yaw: 89.9999542
     }
     Scale {
-      X: 1
+      X: 0.8
       Y: 1
       Z: 1
     }
@@ -37236,7 +37239,7 @@ Objects {
       Yaw: 89.9999542
     }
     Scale {
-      X: 1
+      X: 0.8
       Y: 1
       Z: 1
     }

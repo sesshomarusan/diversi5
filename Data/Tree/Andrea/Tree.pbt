@@ -28,7 +28,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 28.1606522
           }
         }
         Overrides {
@@ -42,9 +41,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 15519.9678
-            Y: -300
-            Z: 2824.38184
+            X: 5368.99219
+            Y: 4999.98
+            Z: 2969.99707
           }
         }
       }
@@ -55,14 +54,9 @@ Objects {
   }
 }
 Objects {
-  Id: 7056296621094960627
-  Name: "Fexel\'s Common Buildings"
+  Id: 18006361901452875998
+  Name: "Inn"
   Transform {
-    Location {
-      X: 13469.9521
-      Y: -3599.99609
-      Z: 2417.97
-    }
     Scale {
       X: 1
       Y: 1
@@ -76,18 +70,91 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CameraCollidable {
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10651413661825486779
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Inn"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 17319.9824
+            Y: -2500
+            Z: 2819.99707
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13204456275407892849
+    }
+  }
+}
+Objects {
+  Id: 6355999027544167057
+  Name: "Guild"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9790741704839884266
+  Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Fexel\'s Common Buildings"
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  InstanceHistory {
-    SelfId: 7056296621094960627
-    SubobjectId: 2377547974466604381
-    InstanceId: 3219916152311627565
-    TemplateId: 17960831428959534297
-    WasRoot: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17074648214138742224
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Guild"
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9969.99902
+            Z: 2769.99707
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8459387587401832697
+    }
   }
 }

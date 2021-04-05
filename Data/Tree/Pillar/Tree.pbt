@@ -5,8 +5,8 @@ Objects {
   Name: "Stone Wall Divider 6m"
   Transform {
     Location {
-      X: 5476
-      Y: 4697
+      X: 6715.97656
+      Y: 5082.84375
       Z: 118
     }
     Rotation {
@@ -50,8 +50,8 @@ Objects {
   Name: "Stone Wall Divider 6m"
   Transform {
     Location {
-      X: 6269
-      Y: 3538
+      X: 7508.97656
+      Y: 3923.84375
       Z: -74
     }
     Rotation {
@@ -95,8 +95,8 @@ Objects {
   Name: "Stone Wall Divider 6m"
   Transform {
     Location {
-      X: 7221
-      Y: 5956
+      X: 8460.97656
+      Y: 6341.84375
       Z: 353
     }
     Rotation {
@@ -180,7 +180,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2891
+            X: -3801.24414
             Y: 7226
             Z: -95
           }
@@ -243,7 +243,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2719
+            X: -3629.24414
             Y: 7714
             Z: -150
           }
