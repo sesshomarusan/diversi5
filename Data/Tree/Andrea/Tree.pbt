@@ -1,6 +1,35 @@
 Name: "Andrea"
 RootId: 9790741704839884266
 Objects {
+  Id: 4001738895961160123
+  Name: "VillagePotions"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9790741704839884266
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "VillagePotions"
+  }
+}
+Objects {
   Id: 16316396934361444565
   Name: "Fexel\'s Common Buildings"
   Transform {
