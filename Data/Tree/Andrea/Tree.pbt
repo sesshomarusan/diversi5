@@ -1,6 +1,46 @@
 Name: "Andrea"
 RootId: 9790741704839884266
 Objects {
+  Id: 6947644138994123737
+  Name: "Fexel\'s Common Buildings"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 9790741704839884266
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2377547974466604381
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fexel\'s Common Buildings"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17960831428959534297
+    }
+  }
+}
+Objects {
   Id: 4825371554483539964
   Name: "Fexel\'s Magnificent Tavern"
   Transform {
@@ -50,111 +90,6 @@ Objects {
     }
     TemplateAsset {
       Id: 18177759283540717892
-    }
-  }
-}
-Objects {
-  Id: 18006361901452875998
-  Name: "Inn"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9790741704839884266
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10651413661825486779
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Inn"
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 17319.9824
-            Y: -2500
-            Z: 2819.99707
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 13204456275407892849
-    }
-  }
-}
-Objects {
-  Id: 6355999027544167057
-  Name: "Guild"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9790741704839884266
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17074648214138742224
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Guild"
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9969.99902
-            Z: 2769.99707
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8459387587401832697
     }
   }
 }
