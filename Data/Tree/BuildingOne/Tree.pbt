@@ -1,6 +1,44 @@
 Name: "BuildingOne"
 RootId: 16073676650194074727
 Objects {
+  Id: 17141671107609824608
+  Name: "waterbarriers"
+  Transform {
+    Location {
+      X: -1925
+      Y: -900
+      Z: 500
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16073676650194074727
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "waterbarriers_3"
+  }
+  InstanceHistory {
+    SelfId: 17141671107609824608
+    SubobjectId: 3418989492407890152
+    InstanceId: 6947644138994123737
+    TemplateId: 17960831428959534297
+  }
+}
+Objects {
   Id: 13028756528299920460
   Name: "StaircaseDuplicateBottom"
   Transform {
@@ -2992,44 +3030,6 @@ Objects {
   }
 }
 Objects {
-  Id: 17141671107609824608
-  Name: "waterbarriers"
-  Transform {
-    Location {
-      X: -1925
-      Y: -900
-      Z: 500
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16073676650194074727
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "waterbarriers_3"
-  }
-  InstanceHistory {
-    SelfId: 17141671107609824608
-    SubobjectId: 3418989492407890152
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
   Id: 165505686411744523
   Name: "Stair"
   Transform {
@@ -3058,7 +3058,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Stair_3"
+    FilePartitionName: "Stair_5"
   }
   InstanceHistory {
     SelfId: 165505686411744523

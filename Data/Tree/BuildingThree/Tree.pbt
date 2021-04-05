@@ -1,6 +1,37 @@
 Name: "BuildingThree"
 RootId: 15303593113222604755
 Objects {
+  Id: 7489243227291991026
+  Name: "SmallStaircase"
+  Transform {
+    Location {
+      X: -190.567429
+      Y: 444.151947
+      Z: 46.6679611
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15303593113222604755
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
   Id: 12082613553651607597
   Name: "Lighting"
   Transform {

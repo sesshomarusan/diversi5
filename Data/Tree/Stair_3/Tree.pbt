@@ -1,7 +1,7 @@
 Name: "Stair_3"
-RootId: 165505686411744523
+RootId: 18420720146324525909
 Objects {
-  Id: 5554288246093002338
+  Id: 13866628052043125505
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -96,7 +96,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14434537453009003995
+  Id: 12959192973283492575
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -113,7 +113,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -189,7 +189,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17210066449507432746
+  Id: 4686392090076692022
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -206,7 +206,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -282,7 +282,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12881437125063352569
+  Id: 1028687818303687828
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -299,7 +299,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -375,569 +375,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17918964874410769169
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -684.284912
-      Y: 180.286377
-      Z: -6.32792664
-    }
-    Rotation {
-      Pitch: -44.9999695
-      Yaw: 129.039658
-      Roll: -90
-    }
-    Scale {
-      X: 0.540916085
-      Y: 1.00000095
-      Z: 0.513314247
-    }
-  }
-  ParentId: 165505686411744523
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11300782378805735584
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.696126342
-        G: 0.89288938
-        B: 0.947916687
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.25250053
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 2.81272697
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 2723232960546970913
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.701101899
-        G: 0.896269321
-        B: 0.955973327
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12373573087861332218
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 17918964874410769169
-    SubobjectId: 4196563497227536025
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
-  Id: 6717291021834018091
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -565.798
-      Y: 276.371094
-      Z: -6.32793427
-    }
-    Rotation {
-      Pitch: -44.9999695
-      Yaw: 129.039673
-      Roll: -90
-    }
-    Scale {
-      X: 0.540916085
-      Y: 1.00000095
-      Z: 0.513314247
-    }
-  }
-  ParentId: 165505686411744523
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11300782378805735584
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.696126342
-        G: 0.89288938
-        B: 0.947916687
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.25250053
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 2.81272697
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 2723232960546970913
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.701101899
-        G: 0.896269321
-        B: 0.955973327
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12373573087861332218
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 6717291021834018091
-    SubobjectId: 11504831457369301155
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
-  Id: 12915246488661040083
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -693.613281
-      Y: 209.972656
-      Z: -33.8772964
-    }
-    Rotation {
-      Yaw: 39.0400772
-    }
-    Scale {
-      X: 0.477170914
-      Y: 1.00000083
-      Z: 0.513314724
-    }
-  }
-  ParentId: 165505686411744523
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11300782378805735584
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.696126342
-        G: 0.89288938
-        B: 0.947916687
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.25250053
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 2.81272697
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 2723232960546970913
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.701101899
-        G: 0.896269321
-        B: 0.955973327
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12373573087861332218
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 12915246488661040083
-    SubobjectId: 8191466739933537883
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
-  Id: 8484115880581060321
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -708.756
-      Y: 228.645752
-      Z: -55.2266617
-    }
-    Rotation {
-      Yaw: 39.039917
-    }
-    Scale {
-      X: 0.477170914
-      Y: 1.00000083
-      Z: 0.513314724
-    }
-  }
-  ParentId: 165505686411744523
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11300782378805735584
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.696126342
-        G: 0.89288938
-        B: 0.947916687
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.25250053
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 2.81272697
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 2723232960546970913
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.701101899
-        G: 0.896269321
-        B: 0.955973327
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12373573087861332218
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 8484115880581060321
-    SubobjectId: 13199031982889249641
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
-  Id: 3809556243914825943
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -721.340576
-      Y: 244.163818
-      Z: -78.3005753
-    }
-    Rotation {
-      Yaw: 39.0399742
-    }
-    Scale {
-      X: 0.477170914
-      Y: 1.00000083
-      Z: 0.513314724
-    }
-  }
-  ParentId: 165505686411744523
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11300782378805735584
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.696126342
-        G: 0.89288938
-        B: 0.947916687
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.25250053
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 2.81272697
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 2723232960546970913
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.701101899
-        G: 0.896269321
-        B: 0.955973327
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12373573087861332218
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 3809556243914825943
-    SubobjectId: 17748546361118219615
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
-  Id: 1529479374879838863
-  Name: "Wood 2x4 4m"
-  Transform {
-    Location {
-      X: -735.758057
-      Y: 261.942383
-      Z: -101.621376
-    }
-    Rotation {
-      Yaw: 39.0400047
-    }
-    Scale {
-      X: 0.477170914
-      Y: 1.00000083
-      Z: 0.513314724
-    }
-  }
-  ParentId: 165505686411744523
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 11300782378805735584
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:smart"
-      Bool: false
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.696126342
-        G: 0.89288938
-        B: 0.947916687
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:utile"
-      Float: 4.25250053
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:vtile"
-      Float: 2.81272697
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 2723232960546970913
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.701101899
-        G: 0.896269321
-        B: 0.955973327
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12373573087861332218
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-  InstanceHistory {
-    SelfId: 1529479374879838863
-    SubobjectId: 15539686707050131207
-    InstanceId: 6947644138994123737
-    TemplateId: 17960831428959534297
-  }
-}
-Objects {
-  Id: 9046742398578120542
+  Id: 10069852335973502822
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -954,7 +392,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1030,7 +468,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9716192491547070024
+  Id: 6790274246667305633
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1047,7 +485,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1123,7 +561,7 @@ Objects {
   }
 }
 Objects {
-  Id: 18437061080908326017
+  Id: 788713780624078055
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1140,7 +578,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1216,7 +654,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9558211728226922764
+  Id: 15322876666497281222
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1233,7 +671,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1309,7 +747,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16426981820931075735
+  Id: 18149322451590557769
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1326,7 +764,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1402,7 +840,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10079780862343562809
+  Id: 11880575865771693778
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1419,7 +857,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1495,7 +933,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10929788209592656140
+  Id: 1059163392693063759
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1512,7 +950,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1588,7 +1026,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2201139704263885657
+  Id: 8883705427207971559
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1605,7 +1043,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1681,7 +1119,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10723449112941848437
+  Id: 2836277194120746381
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1698,7 +1136,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1774,7 +1212,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8364020593572667874
+  Id: 16295641614430963263
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1791,7 +1229,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1867,7 +1305,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10454620410014906053
+  Id: 8669610535583857023
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1884,7 +1322,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1960,7 +1398,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3899134475224895155
+  Id: 17176980968215022314
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -1977,7 +1415,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2053,7 +1491,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3546158668179649253
+  Id: 11039628773695101000
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -2070,7 +1508,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2146,7 +1584,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13888733937487650814
+  Id: 3473905484613121930
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -2163,7 +1601,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2239,7 +1677,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7277717931595513388
+  Id: 6301705382158199857
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -2256,7 +1694,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2332,7 +1770,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16358494222895083262
+  Id: 13522527545877385038
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -2349,7 +1787,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2425,7 +1863,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14131359907329467464
+  Id: 4399444402083569484
   Name: "Wood 2x4 4m"
   Transform {
     Location {
@@ -2442,7 +1880,7 @@ Objects {
       Z: 0.513314724
     }
   }
-  ParentId: 165505686411744523
+  ParentId: 18420720146324525909
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
