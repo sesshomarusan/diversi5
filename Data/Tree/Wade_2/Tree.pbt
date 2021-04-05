@@ -1,8 +1,8 @@
 Name: "Wade_2"
 RootId: 8692248943897606178
 Objects {
-  Id: 6085767331542653235
-  Name: "Destructibles"
+  Id: 5407706851579540341
+  Name: "Colliders"
   Transform {
     Location {
     }
@@ -19,14 +19,14 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceoff"
   }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Destructibles"
+    FilePartitionName: "Colliders"
   }
 }
 Objects {
@@ -5978,7 +5978,7 @@ Objects {
     Location {
       X: -250
       Y: -100
-      Z: -1225
+      Z: -802
     }
     Rotation {
       Yaw: -179.999954
@@ -23462,7 +23462,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "NewFolder"
+    FilePartitionName: "NewFolder_1"
   }
 }
 Objects {

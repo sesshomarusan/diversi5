@@ -1,10 +1,19 @@
 Assets {
-  Id: 13629958479359906438
-  Name: "Cylinder - Rounded Bottom-Aligned"
+  Id: 14702429642618024506
+  Name: "Main Street Foundation 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_rounded_001"
+    AssetId: "sm_ts_urb_dtn_mst_foundation_001_ref"
+  }
+}
+Assets {
+  Id: 14612498637166225861
+  Name: "Craftsman Stairs 01 Base"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_stairs_001"
   }
 }
 Assets {
@@ -17,20 +26,20 @@ Assets {
   }
 }
 Assets {
-  Id: 10184847056121543272
-  Name: "Basic Material"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_basic_pbr_material_001"
-  }
-}
-Assets {
-  Id: 5836430349218932838
-  Name: "Pipe - Thin"
+  Id: 10567192068688216948
+  Name: "Craftsman Stairs 01 L"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_003"
+    AssetId: "sm_urb_sub_craftsman_stairs_001_L"
+  }
+}
+Assets {
+  Id: 2873598925796447064
+  Name: "Fantasy Castle Floor 01 - 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_floor_001_8m"
   }
 }

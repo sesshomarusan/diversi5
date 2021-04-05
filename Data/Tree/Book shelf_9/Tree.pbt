@@ -194,7 +194,7 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
-      X: 505.869873
+      X: 510.888672
       Y: 747.892578
     }
     Rotation {
@@ -274,7 +274,7 @@ Objects {
   Name: "Counter - Drawers"
   Transform {
     Location {
-      X: 704.502441
+      X: 708.388672
       Y: 945.796875
     }
     Rotation {
@@ -354,7 +354,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 603.063
+      X: 606.949219
       Y: 897.056641
       Z: 202.227539
     }
@@ -420,7 +420,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 603.063
+      X: 606.949219
       Y: 897.056641
       Z: 130
     }
@@ -486,7 +486,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: 605.060059
+      X: 608.946289
       Y: 897.064453
       Z: 60
     }

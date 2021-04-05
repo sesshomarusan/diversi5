@@ -1,6 +1,50 @@
 Name: "Library"
 RootId: 13466067503881721510
 Objects {
+  Id: 10235728658827311552
+  Name: "Craftsman End Table"
+  Transform {
+    Location {
+      X: 10862
+      Y: 2322
+      Z: 1426
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 1.83236408
+      Y: 3.70216846
+      Z: 1.17349684
+    }
+  }
+  ParentId: 13466067503881721510
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 11573800874559868299
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+    }
+  }
+}
+Objects {
   Id: 10582550457597907934
   Name: "Craftsman End Table"
   Transform {
