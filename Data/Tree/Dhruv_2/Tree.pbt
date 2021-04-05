@@ -28904,6 +28904,12 @@ Objects {
   ChildIds: 13930068097204299458
   ChildIds: 2986724365749798381
   ChildIds: 16877570089538460322
+  ChildIds: 5769461454077019543
+  ChildIds: 16791340466920317690
+  ChildIds: 2818568546091280971
+  ChildIds: 6623243935676963933
+  ChildIds: 17045446781554750860
+  ChildIds: 12114489002582964491
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -28915,6 +28921,204 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 12114489002582964491
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 11396.0186
+      Y: -6067.83936
+      Z: -852.485352
+    }
+    Rotation {
+      Yaw: 176.789063
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_10"
+  }
+}
+Objects {
+  Id: 17045446781554750860
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 12788.9434
+      Y: 193.970581
+      Z: -862.485352
+    }
+    Rotation {
+      Yaw: 176.789063
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_12"
+  }
+}
+Objects {
+  Id: 6623243935676963933
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 12872.54
+      Y: -101.175293
+      Z: -862.485352
+    }
+    Rotation {
+      Yaw: 176.789063
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_11"
+  }
+}
+Objects {
+  Id: 2818568546091280971
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 12234.9883
+      Y: 1567.15454
+      Z: -862.485352
+    }
+    Rotation {
+      Yaw: 176.789063
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_13"
+  }
+}
+Objects {
+  Id: 16791340466920317690
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 13468.1582
+      Y: -3409.7312
+      Z: 347.514648
+    }
+    Rotation {
+      Yaw: -88.2109222
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_14"
+  }
+}
+Objects {
+  Id: 5769461454077019543
+  Name: "BoxGroup"
+  Transform {
+    Location {
+      X: 13607.8945
+      Y: -1454.4884
+      Z: 347.514648
+    }
+    Rotation {
+      Yaw: 176.789063
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5882467125940748265
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "BoxGroup_15"
   }
 }
 Objects {
@@ -39809,7 +40013,7 @@ Objects {
     Location {
       X: 4344.90039
       Y: 979.695313
-      Z: 2161.29102
+      Z: 2073
     }
     Rotation {
     }
@@ -39852,7 +40056,7 @@ Objects {
     Location {
       X: 4343.99268
       Y: 1123.87109
-      Z: 2160.07324
+      Z: 2108.43555
     }
     Rotation {
     }
@@ -39895,7 +40099,7 @@ Objects {
     Location {
       X: 4330.48682
       Y: 1119.42578
-      Z: 2116.6377
+      Z: 2065
     }
     Rotation {
     }
