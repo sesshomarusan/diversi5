@@ -5,11 +5,11 @@ Objects {
   Name: "BuildingFive"
   Transform {
     Location {
-      X: -2949.99951
-      Y: 2799.99951
+      X: 150
+      Y: 1649.98816
     }
     Rotation {
-      Yaw: 116.29805
+      Yaw: -64.4013062
     }
     Scale {
       X: 1
@@ -43,12 +43,12 @@ Objects {
   Name: "BuildingFour"
   Transform {
     Location {
-      X: -1209.27332
-      Y: 2349.99976
+      X: 2050.00024
+      Y: 3349.98779
       Z: 31.4484863
     }
     Rotation {
-      Yaw: -179.999893
+      Yaw: -48.199585
     }
     Scale {
       X: 1
@@ -114,8 +114,8 @@ Objects {
   Name: "BuildingTwo"
   Transform {
     Location {
-      X: -1209.27344
-      Y: -2194.10156
+      X: -1950
+      Y: -2450.01123
       Z: 31.4484863
     }
     Rotation {
@@ -153,8 +153,8 @@ Objects {
   Name: "BuildingOne"
   Transform {
     Location {
-      X: 795.589844
-      Y: 1309.24316
+      X: 50.0001221
+      Y: 1399.98804
       Z: 13.5183105
     }
     Rotation {

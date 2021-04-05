@@ -28,6 +28,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -6.2113719
           }
         }
         Overrides {
@@ -41,9 +42,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 16019.9902
-            Y: -249.96582
-            Z: 3523.73779
+            X: 16019.9922
+            Y: -249.960938
+            Z: 2819.86646
           }
         }
       }
@@ -58,9 +59,9 @@ Objects {
   Name: "Fexel\'s Common Buildings"
   Transform {
     Location {
-      X: 13069.999
-      Y: -3300
-      Z: 3369.99707
+      X: 13070.0078
+      Y: -3299.98828
+      Z: 2316.84131
     }
     Scale {
       X: 1
