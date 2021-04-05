@@ -185,7 +185,6 @@ Objects {
       FlipOnMultiJump: true
       CanMoveUp: true
       CanMoveDown: true
-      IsMountEnabled: true
       MaxHitpoints: 100
     }
   }
@@ -1013,7 +1012,7 @@ Objects {
     RespawnSettings {
       RespawnDelay: 3
       RespawnMode_v2 {
-        Value: "mc:erespawnmode:roundrobin"
+        Value: "mc:erespawnmode:atclosestspawnpoint"
       }
     }
   }
@@ -1047,7 +1046,7 @@ Objects {
   Settings {
     TeamSettings {
       TeamMode_v2 {
-        Value: "mc:eteammode:teamsvs"
+        Value: "mc:eteammode:friendly"
       }
     }
   }
@@ -1086,6 +1085,7 @@ Objects {
       }
       ChatSettings {
         ChatMode {
+          Value: "mc:echatmode:allonly"
         }
         ChatPosition {
           X: 40

@@ -110,6 +110,18 @@ Objects {
             A: 1
           }
         }
+        Overrides {
+          Name: "ma:Building_LowerTrimOuter:id"
+          AssetReference {
+            Id: 5771844425491559774
+          }
+        }
+        Overrides {
+          Name: "ma:Building_WallOuter:id"
+          AssetReference {
+            Id: 5771844425491559774
+          }
+        }
       }
     }
     ParameterOverrideMap {

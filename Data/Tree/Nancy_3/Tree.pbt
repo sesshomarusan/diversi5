@@ -26,7 +26,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Walls"
+    FilePartitionName: "Walls_1"
   }
 }
 Objects {
@@ -84,7 +84,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Archs"
+    FilePartitionName: "Archs_2"
   }
 }
 Objects {
@@ -142,7 +142,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Rocks"
+    FilePartitionName: "Rocks_1"
   }
 }
 Objects {
@@ -297,7 +297,7 @@ Objects {
   Name: "Stepswith lava"
   Transform {
     Location {
-      Z: -76
+      Z: -80
     }
     Rotation {
     }
@@ -378,7 +378,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Platform"
+    FilePartitionName: "Platform_2"
   }
 }
 Objects {
@@ -407,6 +407,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Grid"
+    FilePartitionName: "Grid_1"
   }
 }
