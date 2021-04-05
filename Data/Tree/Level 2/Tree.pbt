@@ -475,6 +475,8 @@ Objects {
   }
   ParentId: 18262213127301190048
   ChildIds: 14992945767499586817
+  ChildIds: 5322170657613569577
+  ChildIds: 4131706463768571132
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -495,12 +497,106 @@ Objects {
   }
 }
 Objects {
-  Id: 14992945767499586817
-  Name: "Swordsman"
+  Id: 4131706463768571132
+  Name: "Swordsman C"
   Transform {
     Location {
-      X: -0.00119196612
-      Y: -4999.4668
+      X: -1699.12695
+      Y: -4199.47803
+    }
+    Rotation {
+      Yaw: 2.73207461e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16357872349440537279
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:NPC"
+      AssetReference {
+        Id: 18416574560789436901
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 13043298331982480779
+    }
+  }
+  InstanceHistory {
+    SelfId: 14226489024020690528
+    SubobjectId: 15875901479348693684
+    InstanceId: 6922697643248069676
+    TemplateId: 17510640320964350980
+  }
+}
+Objects {
+  Id: 5322170657613569577
+  Name: "Swordsman W"
+  Transform {
+    Location {
+      X: 3950.66528
+      Y: -3049.51172
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16357872349440537279
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:NPC"
+      AssetReference {
+        Id: 18416574560789436901
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 13043298331982480779
+    }
+  }
+  InstanceHistory {
+    SelfId: 14226489024020690528
+    SubobjectId: 15875901479348693684
+    InstanceId: 6922697643248069676
+    TemplateId: 17510640320964350980
+  }
+}
+Objects {
+  Id: 14992945767499586817
+  Name: "Swordsman E"
+  Transform {
+    Location {
+      X: -4899.1084
+      Y: -4999.18066
     }
     Rotation {
     }
@@ -829,9 +925,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3849.95947
-            Y: 2199.99805
-            Z: 50
+            X: 11349.9805
+            Y: -1949.93921
           }
         }
         Overrides {
@@ -842,9 +937,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 3
+            Y: 3
+            Z: 3
           }
         }
       }
@@ -886,9 +981,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 3799.54346
-            Y: 2449.99805
-            Z: 100
+            X: 1749.97278
+            Y: 4799.88428
           }
         }
         Overrides {
@@ -909,9 +1003,9 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 3
+            Y: 3
+            Z: 3
           }
         }
       }
@@ -955,9 +1049,8 @@ Objects {
   Name: "Game Pieces"
   Transform {
     Location {
-      X: 2799.93262
+      X: 2799.92871
       Y: -300.000549
-      Z: 1950
     }
     Rotation {
     }
