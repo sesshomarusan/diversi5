@@ -1,9 +1,17 @@
 Name: "Andrea"
 RootId: 9790741704839884266
 Objects {
-  Id: 6947644138994123737
+  Id: 16316396934361444565
   Name: "Fexel\'s Common Buildings"
   Transform {
+    Location {
+      X: 5870
+      Y: 3949.99951
+      Z: 3419.99707
+    }
+    Rotation {
+      Yaw: 27.9955597
+    }
     Scale {
       X: 1
       Y: 1
@@ -17,92 +25,19 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1652973911011596891
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 883.492188
-            Y: 1342.36328
-            Z: -699.269653
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.999939
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 2125954219149361647
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 882.351563
-            Y: 2192.35938
-            Z: -822.423279
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -20.9265137
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 2377547974466604381
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fexel\'s Common Buildings"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 14369.998
-            Y: -1600.00098
-            Z: 3119.99707
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 27.9955597
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 5614833568372641020
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1433.96216
-            Y: -993.102417
-            Z: -707.237061
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17960831428959534297
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Fexel\'s Common Buildings"
+  }
+  InstanceHistory {
+    SelfId: 16316396934361444565
+    SubobjectId: 2377547974466604381
+    InstanceId: 6947644138994123737
+    TemplateId: 17960831428959534297
+    WasRoot: true
   }
 }
 Objects {
@@ -133,6 +68,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: 19.9999733
           }
         }
         Overrides {
@@ -146,9 +82,30 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 16819.9922
-            Y: 2749.96094
-            Z: 2900.01636
+            X: 7169.96875
+            Y: 7749.92871
+            Z: 3118.41968
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3265067289593198905
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 11112.4844
+            Y: 4074.98828
+            Z: -30.4177856
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.442677885
+            Y: 0.442677885
+            Z: 0.442677885
           }
         }
       }

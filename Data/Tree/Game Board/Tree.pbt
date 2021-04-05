@@ -120,7 +120,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Inner Walls"
+    FilePartitionName: "Inner Walls_4"
   }
 }
 Objects {
