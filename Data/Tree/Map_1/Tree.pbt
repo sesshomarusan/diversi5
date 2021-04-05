@@ -476,9 +476,9 @@ Objects {
   Name: "Spawn Point Castle"
   Transform {
     Location {
-      X: -9500
-      Y: 33900
-      Z: 9000
+      X: -1750
+      Y: 34100
+      Z: 9550
     }
     Rotation {
     }
@@ -509,8 +509,8 @@ Objects {
   Transform {
     Location {
       X: -21000
-      Y: 51200
-      Z: 3250
+      Y: 44600
+      Z: 5800
     }
     Rotation {
       Yaw: -90
