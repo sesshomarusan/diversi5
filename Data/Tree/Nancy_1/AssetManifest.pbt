@@ -17,6 +17,24 @@ Assets {
   }
 }
 Assets {
+  Id: 17246754151924769898
+  Name: "Fantasy Castle Floor 03 4m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_floor_003_4m_ref"
+  }
+}
+Assets {
+  Id: 16956732760613111471
+  Name: "Fantasy Castle Bannister 01 - Straight"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_straight"
+  }
+}
+Assets {
   Id: 16586908890029824577
   Name: "Cube - Rounded"
   PlatformAssetType: 1
@@ -44,12 +62,39 @@ Assets {
   }
 }
 Assets {
+  Id: 14452616722762075696
+  Name: "Fantasy Castle Pillar 01 Base"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_pillar_001_base"
+  }
+}
+Assets {
+  Id: 13734388303926040827
+  Name: "Fantasy Castle Bannister 01 - Post"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_bannister_001_post"
+  }
+}
+Assets {
   Id: 12410262130268726400
   Name: "Waterfall 90 Outer Corner"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "waterfall_90oc"
+  }
+}
+Assets {
+  Id: 12054598002716578462
+  Name: "Trim Large Brick 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_trim_brick_6m_001"
   }
 }
 Assets {
@@ -89,12 +134,30 @@ Assets {
   }
 }
 Assets {
+  Id: 9842143421296066252
+  Name: "Fantasy Castle Stairs 01 - 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_stairs_001_150cm"
+  }
+}
+Assets {
   Id: 9242571079105582533
   Name: "Pipe - 90-Degree Long"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pipe_curve90_002"
+  }
+}
+Assets {
+  Id: 7822473577673662489
+  Name: "Fantasy Castle Pillar 01 Mid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_pillar_001_mid"
   }
 }
 Assets {
@@ -113,6 +176,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cone_001"
+  }
+}
+Assets {
+  Id: 6540365535476751920
+  Name: "Rock 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_001"
+  }
+}
+Assets {
+  Id: 5001748803505888629
+  Name: "Fantasy Castle Pillar Wall 01 Arch"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_pillar_wall_001_arch_01"
   }
 }
 Assets {
