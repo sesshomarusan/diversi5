@@ -29,7 +29,6 @@ Objects {
   ChildIds: 7181425472249426306
   ChildIds: 10725040015112168232
   ChildIds: 9985627717938864875
-  ChildIds: 15330471791324995434
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -42,36 +41,6 @@ Objects {
     Value: "mc:ecollisionsetting:forceon"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 15330471791324995434
-  Name: "EnterTriggerKillPlayer"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 16040506569882406920
-    }
   }
 }
 Objects {
