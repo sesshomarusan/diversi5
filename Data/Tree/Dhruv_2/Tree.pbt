@@ -31737,8 +31737,8 @@ Objects {
   Name: "Destructible boxes"
   Transform {
     Location {
-      X: 10657
-      Y: -944
+      X: 10676.209
+      Y: -830.712524
       Z: 960.485352
     }
     Rotation {
@@ -32523,8 +32523,8 @@ Objects {
   Name: "BoxGroup"
   Transform {
     Location {
-      X: 3748.7749
-      Y: -4608.03027
+      X: 3784.93262
+      Y: -4610.05664
       Z: 3.51464844
     }
     Rotation {
