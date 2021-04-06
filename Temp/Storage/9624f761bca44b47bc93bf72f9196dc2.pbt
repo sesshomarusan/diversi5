@@ -23,7 +23,7 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "Level"
+          StringVar: "GateKey"
         }
         SimpleValue {
           IntVar: 1
@@ -35,6 +35,14 @@ Entries {
         }
         SimpleValue {
           IntVar: 15
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Level"
+        }
+        SimpleValue {
+          IntVar: 1
         }
       }
     }
