@@ -14,10 +14,10 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Coins"
+          StringVar: "KeyToCastleGate"
         }
         SimpleValue {
-          IntVar: 80
+          IntVar: 5
         }
       }
       Entries {
@@ -30,10 +30,18 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Foobar!"
+          StringVar: "Foobar"
         }
         SimpleValue {
           IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 80
         }
       }
       Entries {
@@ -46,18 +54,10 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Foobar"
+          StringVar: "Foobar!"
         }
         SimpleValue {
           IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "KeyToCastleGate"
-        }
-        SimpleValue {
-          IntVar: 5
         }
       }
     }

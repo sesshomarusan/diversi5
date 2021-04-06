@@ -638,6 +638,31 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 14069191944433971661
+      value {
+        Overrides {
+          Name: "cs:DamageToPlayers"
+          Int: 20
+        }
+        Overrides {
+          Name: "cs:DamageToNPCs"
+          Float: 100
+        }
+        Overrides {
+          Name: "cs:ProjectileSpeed"
+          Float: 900
+        }
+        Overrides {
+          Name: "cs:ProjectileLifeSpan"
+          Float: 2.1
+        }
+        Overrides {
+          Name: "cs:ProjectileGravity"
+          Float: 0.9
+        }
+      }
+    }
     TemplateAsset {
       Id: 6550508617388138889
     }
