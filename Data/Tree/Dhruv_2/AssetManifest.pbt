@@ -134,6 +134,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17457212742554981748
+  Name: "Fantasy Shield 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_shield_003"
+  }
+}
+Assets {
   Id: 17329716952275971373
   Name: "Torch Fire VFX"
   PlatformAssetType: 8
@@ -620,6 +629,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12138369718070439129
+  Name: "Reinforced Crate 150cm"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crate_reinforced_150cm_001"
+  }
+}
+Assets {
   Id: 12134312456753117730
   Name: "Fantasy Castle Wall 03 - Arch 01"
   PlatformAssetType: 1
@@ -872,6 +890,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9215428823646886952
+  Name: "Fantasy Book Pile 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_fan_book_pile_001_ref"
+  }
+}
+Assets {
   Id: 9199751096616988864
   Name: "Candle Flame VFX"
   PlatformAssetType: 1
@@ -986,6 +1013,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_broken_03"
+  }
+}
+Assets {
+  Id: 8714166755530639330
+  Name: "Chest Small Closed"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_chest_001"
   }
 }
 Assets {
