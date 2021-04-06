@@ -12,6 +12,14 @@ Entries {
           IntVar: 1
         }
       }
+      Entries {
+        Key {
+          StringVar: "XP"
+        }
+        SimpleValue {
+          IntVar: 15
+        }
+      }
     }
   }
 }
