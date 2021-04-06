@@ -6,14 +6,6 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "Foobar!"
-        }
-        SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
           StringVar: "Gate Key"
         }
         SimpleValue {
@@ -30,26 +22,18 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Foobar"
-        }
-        SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
           StringVar: "GateKey"
         }
         SimpleValue {
-          IntVar: 2
+          IntVar: 15
         }
       }
       Entries {
         Key {
-          StringVar: "KeyToCastleGate"
+          StringVar: "Foobar!"
         }
         SimpleValue {
-          IntVar: 5
+          IntVar: 1
         }
       }
       Entries {
@@ -58,6 +42,22 @@ Entries {
         }
         SimpleValue {
           IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Foobar"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "KeyToCastleGate"
+        }
+        SimpleValue {
+          IntVar: 5
         }
       }
     }
