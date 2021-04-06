@@ -1,23 +1,44 @@
 Name: "Inner Walls"
-RootId: 2652466796716109368
+RootId: 13787210946821708027
 Objects {
-  Id: 9671405788428370880
-  Name: "Wall SW"
+  Id: 5027658291971048543
+  Name: "Fantasy Castle Stairs Spiral Wall 01 - Straight"
   Transform {
     Location {
-      X: 4799.99854
-      Y: -5999.99512
+      X: 411.977509
+      Y: -324.446747
     }
     Rotation {
-      Yaw: 89.9999542
+      Yaw: 38.6340256
     }
     Scale {
-      X: 0.5
-      Y: 40
-      Z: 3
+      X: 0.454818964
+      Y: 0.324996
+      Z: 1.12975061
     }
   }
-  ParentId: 2652466796716109368
+  ParentId: 13787210946821708027
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail3:id"
+      AssetReference {
+        Id: 11810460077310693005
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_Detail3:smart"
+      Bool: true
+    }
+    Overrides {
+      Name: "ma:Shared_Detail3:color"
+      Color {
+        R: 0.567708313
+        G: 0.567708313
+        B: 0.567708313
+        A: 1
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -25,84 +46,62 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceon"
   }
   CoreMesh {
     MeshAsset {
-      Id: 8546474113687245702
+      Id: 13535313465359548891
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    InteractWithTriggers: true
     StaticMesh {
       Physics {
-        Mass: 100
-        LinearDamping: 0.01
       }
     }
   }
 }
 Objects {
-  Id: 7895445400287575625
-  Name: "Wall SE"
+  Id: 1337430015698392686
+  Name: "Fantasy Castle Stairs Spiral Wall 01 - Straight"
   Transform {
     Location {
-      X: 0.00442886166
-      Y: -5999.99414
+      X: 83.6112747
+      Y: 86.3909302
     }
     Rotation {
-      Yaw: 89.9999771
+      Yaw: 38.6341
     }
     Scale {
-      X: 0.5
-      Y: 40
-      Z: 3
+      X: 0.442972481
+      Y: 0.324994445
+      Z: 1.12975061
     }
   }
-  ParentId: 2652466796716109368
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8546474113687245702
+  ParentId: 13787210946821708027
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_Detail3:id"
+      AssetReference {
+        Id: 11810460077310693005
+      }
     }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
+    Overrides {
+      Name: "ma:Shared_Detail3:smart"
+      Bool: true
     }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
+    Overrides {
+      Name: "ma:Shared_Detail3:color"
+      Color {
+        R: 0.567708313
+        G: 0.567708313
+        B: 0.567708313
+        A: 1
       }
     }
   }
-}
-Objects {
-  Id: 4922486210470662393
-  Name: "Wall West"
-  Transform {
-    Location {
-      X: -1199.99622
-      Y: -2399.99878
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 140
-      Z: 3
-    }
-  }
-  ParentId: 2652466796716109368
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -110,148 +109,19 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceon"
   }
   CoreMesh {
     MeshAsset {
-      Id: 8546474113687245702
+      Id: 13535313465359548891
     }
     Teams {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    InteractWithTriggers: true
     StaticMesh {
       Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
-  Id: 5376835526760445159
-  Name: "Wall East"
-  Transform {
-    Location {
-      X: 5599.99951
-      Y: -2399.99634
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.5
-      Y: 140
-      Z: 3
-    }
-  }
-  ParentId: 2652466796716109368
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8546474113687245702
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
-  Id: 13235605304405595030
-  Name: "Wall NE"
-  Transform {
-    Location {
-      X: 0.004096983
-      Y: 799.999512
-    }
-    Rotation {
-      Yaw: 89.9999542
-    }
-    Scale {
-      X: 0.5
-      Y: 40
-      Z: 3
-    }
-  }
-  ParentId: 2652466796716109368
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8546474113687245702
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-    }
-  }
-}
-Objects {
-  Id: 8860865384744555590
-  Name: "Wall NW"
-  Transform {
-    Location {
-      X: 4800
-      Y: 799.998352
-    }
-    Rotation {
-      Yaw: 89.999939
-    }
-    Scale {
-      X: 0.5
-      Y: 40
-      Z: 3
-    }
-  }
-  ParentId: 2652466796716109368
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8546474113687245702
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
       }
     }
   }

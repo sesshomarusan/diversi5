@@ -91915,7 +91915,7 @@ Objects {
   Name: "Fantasy Castle Wall Interior 01"
   Transform {
     Location {
-      X: 400
+      X: 392.52832
       Y: 1200
     }
     Rotation {
