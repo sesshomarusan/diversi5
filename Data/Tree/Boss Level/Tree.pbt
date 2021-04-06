@@ -636,6 +636,47 @@ Objects {
             Z: 3
           }
         }
+        Overrides {
+          Name: "cs:CurrentHealth"
+          Float: 10
+        }
+        Overrides {
+          Name: "cs:MoveSpeed"
+          Float: 500
+        }
+        Overrides {
+          Name: "cs:VisionHalfAngle"
+          Float: 180
+        }
+        Overrides {
+          Name: "cs:AttackCooldown"
+          Float: 5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14069191944433971661
+      value {
+        Overrides {
+          Name: "cs:DamageToPlayers"
+          Int: 20
+        }
+        Overrides {
+          Name: "cs:DamageToNPCs"
+          Float: 100
+        }
+        Overrides {
+          Name: "cs:ProjectileSpeed"
+          Float: 900
+        }
+        Overrides {
+          Name: "cs:ProjectileLifeSpan"
+          Float: 2.1
+        }
+        Overrides {
+          Name: "cs:ProjectileGravity"
+          Float: 0.9
+        }
       }
     }
     TemplateAsset {
