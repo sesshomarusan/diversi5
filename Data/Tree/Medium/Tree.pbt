@@ -269,6 +269,22 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 14467269702278334415
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Roll: -89.9999695
+          }
+        }
+      }
+    }
     TemplateAsset {
       Id: 7966596086855802137
     }

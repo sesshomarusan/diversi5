@@ -1,6 +1,39 @@
 Name: "Inner Shelves"
 RootId: 14651180757874350625
 Objects {
+  Id: 4563064666012609567
+  Name: "Outer shelves"
+  Transform {
+    Location {
+      X: 2887.05957
+      Y: 414.088898
+      Z: 1783.39746
+    }
+    Rotation {
+      Yaw: -87.5470123
+    }
+    Scale {
+      X: 2.74625015
+      Y: 3.10474133
+      Z: 0.836733043
+    }
+  }
+  ParentId: 14651180757874350625
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Outer shelves"
+  }
+}
+Objects {
   Id: 1680810364904925269
   Name: "Stone Block Long"
   Transform {

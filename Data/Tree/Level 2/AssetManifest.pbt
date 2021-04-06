@@ -1,4 +1,13 @@
 Assets {
+  Id: 16709968254195406331
+  Name: "Stone Block Long"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_block_03"
+  }
+}
+Assets {
   Id: 14702429642618024506
   Name: "Main Street Foundation 01"
   PlatformAssetType: 1
