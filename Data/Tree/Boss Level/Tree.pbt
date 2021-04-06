@@ -636,6 +636,22 @@ Objects {
             Z: 3
           }
         }
+        Overrides {
+          Name: "cs:CurrentHealth"
+          Float: 10
+        }
+        Overrides {
+          Name: "cs:MoveSpeed"
+          Float: 500
+        }
+        Overrides {
+          Name: "cs:VisionHalfAngle"
+          Float: 180
+        }
+        Overrides {
+          Name: "cs:AttackCooldown"
+          Float: 5
+        }
       }
     }
     ParameterOverrideMap {
