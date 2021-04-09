@@ -11304,6 +11304,6 @@ Assets {
   Marketplace {
     Description: "An evil themed chandelier. Can be used for halloween, or dark dungeons and damp castles.\r\n\r\n\r\n***** Fixed skeleton hand which had the wrong material applied."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

@@ -2,7 +2,7 @@ Assets {
   Id: 2972008503113603271
   Name: "Custom Base Material from Manticore Logo"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 1130235276120030660
     ParameterOverrides {

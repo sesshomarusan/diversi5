@@ -2,7 +2,7 @@ Assets {
   Id: 12589978870878048234
   Name: "Loot Bag Carpet Material"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 15682903248876058593
     ParameterOverrides {

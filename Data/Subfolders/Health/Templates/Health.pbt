@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Health\r\n======\r\n\r\nA bubbling potion to heal your players (with scripts)..\r\n\r\n- Health Potion\r\n- Restores 25% Health\r\n- Adds XP 5+\r\n\r\nCollectable Health Potion.. add them all over your map to heal your players during combat."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

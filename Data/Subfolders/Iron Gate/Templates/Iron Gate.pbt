@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Hopefully this can be useful for someone. Great for spooky maps."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

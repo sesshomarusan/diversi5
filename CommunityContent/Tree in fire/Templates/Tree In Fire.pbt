@@ -173,6 +173,6 @@ Assets {
   Marketplace {
     Description: "Just a tree in fire."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

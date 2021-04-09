@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Red Demon Statue"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

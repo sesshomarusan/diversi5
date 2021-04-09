@@ -2,7 +2,7 @@ Assets {
   Id: 16393284789049092499
   Name: "Dungeon Floor"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 7687208556770029235
     ParameterOverrides {

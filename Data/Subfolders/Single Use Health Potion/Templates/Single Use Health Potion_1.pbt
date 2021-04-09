@@ -143,7 +143,7 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         CoreMesh {
           MeshAsset {
@@ -298,6 +298,6 @@ Assets {
   Marketplace {
     Description: "Updated version of Hani\'s Health potion template. after each use, the item detaches and destroys itself. Working on 2x use and 3x use as well."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

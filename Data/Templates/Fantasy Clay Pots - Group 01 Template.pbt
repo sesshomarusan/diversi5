@@ -308,5 +308,5 @@ Assets {
       AssetId: "Fantasy_Clay_Pots_-_Group_01_Template"
     }
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

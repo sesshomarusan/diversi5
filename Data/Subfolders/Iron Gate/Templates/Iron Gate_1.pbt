@@ -3843,6 +3843,6 @@ Assets {
   Marketplace {
     Description: "Hopefully this can be useful for someone. Great for spooky maps."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

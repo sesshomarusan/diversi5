@@ -51,5 +51,5 @@ Assets {
     Version: "1.0.0"
     Description: "A graveyard"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

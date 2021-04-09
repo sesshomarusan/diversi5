@@ -40,5 +40,5 @@ Assets {
     Version: "1.0.0"
     Description: "Medieval Knight\342\200\231s Armor"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

@@ -2,7 +2,7 @@ Assets {
   Id: 11379823184636081404
   Name: "PortalPanel"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 9460578048477700985
     ParameterOverrides {

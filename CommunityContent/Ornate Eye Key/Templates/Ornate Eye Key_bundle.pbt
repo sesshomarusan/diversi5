@@ -49,5 +49,5 @@ Assets {
     Version: "1.5.0"
     Description: "Ornate Eye Key"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

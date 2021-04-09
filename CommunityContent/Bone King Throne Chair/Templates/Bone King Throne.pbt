@@ -1507,6 +1507,6 @@ Assets {
   Marketplace {
     Description: "Bone King Throne for Dungeon"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

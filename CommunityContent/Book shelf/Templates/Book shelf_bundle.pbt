@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Potions and books\r\n\r\n\r\n-Ahega0"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

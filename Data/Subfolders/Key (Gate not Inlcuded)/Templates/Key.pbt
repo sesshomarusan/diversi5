@@ -668,6 +668,6 @@ Assets {
   Marketplace {
     Description: "Key object to be used with gate (check out my other assets!)"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }
