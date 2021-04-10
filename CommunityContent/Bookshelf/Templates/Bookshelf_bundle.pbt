@@ -49,5 +49,5 @@ Assets {
     Version: "1.0.0"
     Description: "Bookshelf with customizable book colors"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

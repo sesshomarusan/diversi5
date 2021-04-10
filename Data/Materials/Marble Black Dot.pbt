@@ -2,7 +2,7 @@ Assets {
   Id: 8588693582113836498
   Name: "Marble Black Dot"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 9473864492472762108
     ParameterOverrides {

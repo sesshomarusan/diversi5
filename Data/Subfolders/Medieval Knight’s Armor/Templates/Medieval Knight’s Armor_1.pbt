@@ -11870,6 +11870,6 @@ Assets {
   Marketplace {
     Description: "Medieval Knight\342\200\231s Armor"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

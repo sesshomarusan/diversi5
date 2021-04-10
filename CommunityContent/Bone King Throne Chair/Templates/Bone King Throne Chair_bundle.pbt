@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Bone King Throne for Dungeon"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

@@ -158,6 +158,6 @@ Assets {
   Marketplace {
     Description: "Bookshelf with customizable book colors"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

@@ -96,5 +96,5 @@ Assets {
     Version: "1.0.0"
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

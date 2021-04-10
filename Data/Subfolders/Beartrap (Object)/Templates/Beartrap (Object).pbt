@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Simple rusty Beartrap. No animation. When moving/rotating/scaling make sure to have the rounded parts selected last to not mess up the \"Teeth\"."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

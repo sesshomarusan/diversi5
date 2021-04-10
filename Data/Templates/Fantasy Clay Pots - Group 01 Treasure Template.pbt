@@ -408,7 +408,7 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         CoreMesh {
           MeshAsset {
@@ -667,5 +667,5 @@ Assets {
       AssetId: "Fantasy_Clay_Pots_-_Group_01_Treasure_Template"
     }
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

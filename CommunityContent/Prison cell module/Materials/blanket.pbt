@@ -2,7 +2,7 @@ Assets {
   Id: 11815209735275812298
   Name: "blanket"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 16667263422842403497
     ParameterOverrides {

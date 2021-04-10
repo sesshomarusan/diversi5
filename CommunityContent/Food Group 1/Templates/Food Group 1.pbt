@@ -1053,6 +1053,6 @@ Assets {
   Marketplace {
     Description: "Haunch of Meat, Meat Drumstick, Potato, Carrots ... meal fit for a King!"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

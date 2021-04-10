@@ -187,5 +187,5 @@ Assets {
       AssetId: "Fantasy_Castle_Stair_Bannister_-_300cm_Template"
     }
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

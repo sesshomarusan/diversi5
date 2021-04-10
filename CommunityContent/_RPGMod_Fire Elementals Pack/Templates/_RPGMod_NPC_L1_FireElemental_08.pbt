@@ -515,7 +515,7 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         NetworkContext {
         }
@@ -869,7 +869,7 @@ Assets {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
+          Value: "mc:ecollisionsetting:forceoff"
         }
         CoreMesh {
           MeshAsset {
@@ -5226,6 +5226,6 @@ Assets {
   Marketplace {
     Description: "ATTRIBUTIONS: \r\n- Costume Models from Mergelandia pack\r\n- Scripts: Dungeon Framework / NPC AI Kit / Combat Dependencies \r\n- RPGMod Custom: projectiles, skins, balance, etc\r\n\r\nBALANCE: Pre-alpha for RPGMod pack L1-50. Stats can easily be customised to create bosses or mini-bosses.\r\n\r\nElemental 01+02  -- Two levels of NPCs with fiery ranged fireball attacks\r\nElementals 03-05 -- Three levels of NPCs with devastating melee attacks\r\nElemental 06-9 -- Bosses; Ranged boss type attacks\r\n\r\nTo Do:\r\n-- Add additional special attacks / combos\r\n-- Balance ranged, melee and special\r\n-- Add GIANT elemental versions\r\n-- Combine CC NPCs like the Lava Golem"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

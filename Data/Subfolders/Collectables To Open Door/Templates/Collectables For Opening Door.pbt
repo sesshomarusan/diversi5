@@ -1135,6 +1135,6 @@ Assets {
   Marketplace {
     Description: "Collectables (Manticoins) that when collected allow you to open the door"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

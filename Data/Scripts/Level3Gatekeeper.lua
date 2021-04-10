@@ -12,4 +12,5 @@ function Tick()
 		-- Open gate to boss
 		-- if boss gate is not open, then open it
 	end
+end
 	

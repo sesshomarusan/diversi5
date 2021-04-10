@@ -91759,6 +91759,6 @@ Assets {
   Marketplace {
     Description: "Boss Room for AphrimCreates."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

@@ -2,7 +2,7 @@ Assets {
   Id: 1756855768500783941
   Name: "Lute String"
   PlatformAssetType: 13
-  SerializationVersion: 78
+  SerializationVersion: 81
   CustomMaterialAsset {
     BaseMaterialId: 11043567031825086696
     ParameterOverrides {

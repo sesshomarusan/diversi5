@@ -49,5 +49,5 @@ Assets {
     Version: "1.0.0"
     Description: "Core Content\'s standart chest props made Interactable. \r\nCan be opened and closed."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

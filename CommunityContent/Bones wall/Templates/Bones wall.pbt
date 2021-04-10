@@ -750,6 +750,6 @@ Assets {
   Marketplace {
     Description: "a perfect bones wall for gothic map !"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
   DirectlyPublished: true
 }

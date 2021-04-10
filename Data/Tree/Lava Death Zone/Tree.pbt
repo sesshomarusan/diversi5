@@ -1,5 +1,38 @@
-Name: "Grid_1"
+Name: "Lava Death Zone"
 RootId: 16614584770063210878
+Objects {
+  Id: 8300171659959671232
+  Name: "Group"
+  Transform {
+    Location {
+      Z: -320
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 16614584770063210878
+  ChildIds: 16105069923072790797
+  ChildIds: 11315928108038407436
+  ChildIds: 10319275238376500212
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
 Objects {
   Id: 10319275238376500212
   Name: "Trigger"
@@ -7,7 +40,7 @@ Objects {
     Location {
       X: 35030
       Y: -780
-      Z: -100
+      Z: 160
     }
     Rotation {
     }
@@ -17,8 +50,9 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 16614584770063210878
+  ParentId: 8300171659959671232
   ChildIds: 1337737800250514291
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -53,6 +87,7 @@ Objects {
     }
   }
   ParentId: 10319275238376500212
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -75,7 +110,6 @@ Objects {
     Location {
       X: -17700
       Y: 16030
-      Z: -280
     }
     Rotation {
     }
@@ -85,7 +119,7 @@ Objects {
       Z: 10
     }
   }
-  ParentId: 16614584770063210878
+  ParentId: 8300171659959671232
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -94,6 +128,7 @@ Objects {
       }
     }
   }
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -116,6 +151,39 @@ Objects {
         Mass: 100
         LinearDamping: 0.01
       }
+    }
+  }
+}
+Objects {
+  Id: 16105069923072790797
+  Name: "MoveParentSinWaveZ"
+  Transform {
+    Location {
+      X: -17700
+      Y: 16030
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8300171659959671232
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 7620221609991248609
     }
   }
 }

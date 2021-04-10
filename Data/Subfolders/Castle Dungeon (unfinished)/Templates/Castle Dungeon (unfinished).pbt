@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Decided to upload this dungeon I scrapped just incase someone wanted to finish it or had better ideas for it."
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }

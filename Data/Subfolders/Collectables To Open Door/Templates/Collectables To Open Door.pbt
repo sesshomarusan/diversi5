@@ -49,5 +49,5 @@ Assets {
     Version: "1.0.0"
     Description: "Collectables (Manticoins) that when collected allow you to open the door"
   }
-  SerializationVersion: 78
+  SerializationVersion: 81
 }
