@@ -263,11 +263,11 @@ Objects {
 }
 Objects {
   Id: 2334011183346773140
-  Name: "Fake"
+  Name: "Woods"
   Transform {
     Location {
       X: 10828.1719
-      Z: 67
+      Z: 39.6016159
     }
     Rotation {
     }
@@ -289,7 +289,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Fake"
+    FilePartitionName: "Woods"
   }
 }
 Objects {
@@ -383,7 +383,7 @@ Objects {
 }
 Objects {
   Id: 16614584770063210878
-  Name: "Grid"
+  Name: "Lava Death Zone"
   Transform {
     Location {
     }
@@ -396,6 +396,7 @@ Objects {
     }
   }
   ParentId: 1719997790152050639
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -407,6 +408,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Grid_1"
+    FilePartitionName: "Lava Death Zone"
   }
 }
