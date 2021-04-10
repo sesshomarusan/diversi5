@@ -508,8 +508,8 @@ Objects {
   Name: "Spawn Point Garden"
   Transform {
     Location {
-      X: -21000
-      Y: 44600
+      X: -21250
+      Y: 48100
       Z: 5800
     }
     Rotation {

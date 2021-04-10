@@ -23,10 +23,10 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "GateKey"
+          StringVar: "KeyToCastleGate"
         }
         SimpleValue {
-          IntVar: 15
+          IntVar: 5
         }
       }
       Entries {
@@ -39,23 +39,15 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "KeyToCastleGate"
+          StringVar: "Coins"
         }
         SimpleValue {
-          IntVar: 5
+          IntVar: 100
         }
       }
       Entries {
         Key {
           StringVar: "Foobar"
-        }
-        SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Foobar!"
         }
         SimpleValue {
           IntVar: 1
@@ -71,7 +63,7 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Level"
+          StringVar: "Foobar!"
         }
         SimpleValue {
           IntVar: 1
@@ -79,10 +71,18 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Coins"
+          StringVar: "GateKey"
         }
         SimpleValue {
-          IntVar: 80
+          IntVar: 15
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Level"
+        }
+        SimpleValue {
+          IntVar: 1
         }
       }
     }

@@ -1,5 +1,5 @@
-Name: "Loot"
-RootId: 9114008037851693504
+Name: "Winners Loot"
+RootId: 9505322019025756776
 Objects {
   Id: 746999133520660909
   Name: "Key"
@@ -10,7 +10,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9114008037851693504
+  ParentId: 9505322019025756776
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -82,6 +82,11 @@ Objects {
           Vector {
           }
         }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
       }
     }
     ParameterOverrideMap {
@@ -130,7 +135,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 9114008037851693504
+  ParentId: 9505322019025756776
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -166,14 +171,14 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -500
+            X: -499.999756
             Y: 0.000119209275
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 6.83018516e-06
+            Yaw: 6.83018243e-06
           }
         }
       }
@@ -201,7 +206,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 9114008037851693504
+  ParentId: 9505322019025756776
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -238,59 +243,19 @@ Objects {
           Name: "Position"
           Vector {
             X: 499.999634
-            Y: -500
+            Y: -499.999878
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 2.73207461e-05
+            Yaw: 2.73207334e-05
           }
         }
       }
     }
     TemplateAsset {
       Id: 7456704952079329111
-    }
-  }
-}
-Objects {
-  Id: 1855047906176769247
-  Name: "Fantasy Clay Pots - Group 01 Template"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 9114008037851693504
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12042344226635957956
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fantasy Clay Pots - Group 01 Template"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1852960957821822182
     }
   }
 }
@@ -304,7 +269,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9114008037851693504
+  ParentId: 9505322019025756776
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -341,7 +306,7 @@ Objects {
           Name: "Position"
           Vector {
             X: 499.999878
-            Y: 500
+            Y: 499.999634
           }
         }
         Overrides {
