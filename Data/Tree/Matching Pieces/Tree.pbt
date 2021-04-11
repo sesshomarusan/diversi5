@@ -1,14 +1,15 @@
-Name: "Game Board"
-RootId: 16054865319965896536
+Name: "Matching Pieces"
+RootId: 5609146642854631953
 Objects {
-  Id: 5609146642854631953
-  Name: "Matching Pieces"
+  Id: 3509923293640771324
+  Name: "Line X 3"
   Transform {
     Location {
-      X: -0.000190734834
-      Y: -799.999512
+      X: -13749.9375
+      Y: 28099.875
     }
     Rotation {
+      Yaw: 2.73207461e-05
     }
     Scale {
       X: 1
@@ -16,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16054865319965896536
+  ParentId: 5609146642854631953
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -28,18 +29,19 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Matching Pieces"
+    FilePartitionName: "Line X 3"
   }
 }
 Objects {
-  Id: 12775277438002744396
-  Name: "Finish Line"
+  Id: 13358879550383279782
+  Name: "Line X 2"
   Transform {
     Location {
-      X: 6200
-      Y: 1200
+      X: -13749.9688
+      Y: 28099.9375
     }
     Rotation {
+      Yaw: 6.83018516e-06
     }
     Scale {
       X: 1
@@ -47,7 +49,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16054865319965896536
+  ParentId: 5609146642854631953
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -59,18 +61,19 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Finish Line"
+    FilePartitionName: "Line X 2"
   }
 }
 Objects {
-  Id: 944487436511659260
-  Name: "Starting Line"
+  Id: 12338743187522899477
+  Name: "Line O 2"
   Transform {
     Location {
-      X: 6200
-      Y: -6000
+      X: -12649.9688
+      Y: 28049.9375
     }
     Rotation {
+      Yaw: 6.83018516e-06
     }
     Scale {
       X: 1
@@ -78,7 +81,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16054865319965896536
+  ParentId: 5609146642854631953
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -90,15 +93,16 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Starting Line"
+    FilePartitionName: "Line O 2"
   }
 }
 Objects {
-  Id: 7163975842816591346
-  Name: "Tile Floor"
+  Id: 15985478272328059331
+  Name: "Line O 1"
   Transform {
     Location {
-      X: 4850
+      X: -12650
+      Y: 28050
     }
     Rotation {
     }
@@ -108,7 +112,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16054865319965896536
+  ParentId: 5609146642854631953
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -120,16 +124,16 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Tile Floor"
+    FilePartitionName: "Line O 1"
   }
 }
 Objects {
-  Id: 2652466796716109368
-  Name: "Inner Walls"
+  Id: 6338233621585910142
+  Name: "Line X 1"
   Transform {
     Location {
-      X: 4849.99609
-      Y: -0.00115632953
+      X: -13750
+      Y: 28100
     }
     Rotation {
     }
@@ -139,7 +143,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16054865319965896536
+  ParentId: 5609146642854631953
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -151,35 +155,6 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Inner Walls_4"
-  }
-}
-Objects {
-  Id: 16823215997364931718
-  Name: "Outer Walls"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16054865319965896536
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Outer Walls"
+    FilePartitionName: "Line X 1"
   }
 }

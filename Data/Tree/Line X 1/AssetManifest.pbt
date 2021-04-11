@@ -1,0 +1,18 @@
+Assets {
+  Id: 18117065952612289824
+  Name: "Sign Font 1 Bulbs: X"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "CollegeBulb_01_Text_023"
+  }
+}
+Assets {
+  Id: 17284347407666156446
+  Name: "Sign Font 1: X"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "CollegeInset_01_Text_023_ref"
+  }
+}

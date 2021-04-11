@@ -14,7 +14,7 @@ Objects {
     Scale {
       X: 0.5
       Y: 240
-      Z: 10
+      Z: 3
     }
   }
   ParentId: 16823215997364931718
@@ -57,7 +57,7 @@ Objects {
     Scale {
       X: 0.5
       Y: 90
-      Z: 10
+      Z: 3
     }
   }
   ParentId: 16823215997364931718
