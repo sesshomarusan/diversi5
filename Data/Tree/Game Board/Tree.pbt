@@ -2,11 +2,12 @@ Name: "Game Board"
 RootId: 16054865319965896536
 Objects {
   Id: 5609146642854631953
-  Name: "Matching Pieces"
+  Name: "Matching Tiles"
   Transform {
     Location {
       X: -0.000190734834
       Y: -799.999512
+      Z: -20
     }
     Rotation {
     }

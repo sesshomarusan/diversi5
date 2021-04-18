@@ -165,9 +165,9 @@ Objects {
   Name: "NW"
   Transform {
     Location {
-      X: 9750
-      Y: 750
-      Z: 400
+      X: 9749.95313
+      Y: 750.001343
+      Z: 150
     }
     Rotation {
     }

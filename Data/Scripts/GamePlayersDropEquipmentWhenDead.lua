@@ -18,7 +18,7 @@ function DropToGround(equipment)
     local hitResult = World.Raycast(rayStart, rayEnd, {ignorePlayers = true})
 
     if hitResult then
-        local dropPos = hitResult:GetImpactPosition() + Vector3.UP * 40
+        local dropPos = hitResult:GetImpactPosition() + Vector3.UP * 80
         equipment:SetWorldPosition(dropPos)
     end
 end

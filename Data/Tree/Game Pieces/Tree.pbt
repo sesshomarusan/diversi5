@@ -18,6 +18,7 @@ Objects {
     }
   }
   ParentId: 1691041862192861569
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -50,6 +51,7 @@ Objects {
     }
   }
   ParentId: 1691041862192861569
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -82,6 +84,7 @@ Objects {
     }
   }
   ParentId: 1691041862192861569
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -114,6 +117,7 @@ Objects {
     }
   }
   ParentId: 1691041862192861569
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -146,6 +150,7 @@ Objects {
     }
   }
   ParentId: 1691041862192861569
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -178,6 +183,7 @@ Objects {
     }
   }
   ParentId: 1691041862192861569
+  WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -190,5 +196,38 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "NW"
+  }
+}
+Objects {
+  Id: 13447714771088593459
+  Name: "Templates"
+  Transform {
+    Location {
+      X: 6599.99414
+      Y: 949.997925
+      Z: 750
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1691041862192861569
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Templates"
   }
 }

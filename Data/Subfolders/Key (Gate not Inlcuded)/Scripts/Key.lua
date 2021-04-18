@@ -26,8 +26,8 @@ function OnBeginOverlap(trigger, col)
 	--if object is player...
 	if col and col:IsA("Player") then
 		--do something
-		player:AddResource("GateKey", 1)
-		print(player:GetResource("GateKey"))
+		player:AddResource("Castle Gate Key", 1)
+		print(player:GetResource("Castle Gate Key"))
 		--play audio
 		sfx:Play()
 		--destroy trigger and mesh
