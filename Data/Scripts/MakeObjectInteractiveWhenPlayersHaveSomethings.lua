@@ -34,6 +34,8 @@
 -- Note:
 -- This script needs to be in the server's context (and networked).
 -------------------------------------------------------------------------------
+-- STATES & RELATIVES ---------------------------------------------------------
+-------------------------------------------------------------------------------
 -- Find my parent object and its parent
 local myParent = script.parent
 local myGrandparent = myParent.parent
@@ -43,6 +45,10 @@ local mySiblingsList = myParent:GetChildren()
 local initialObjectsFound = 0
 -- The state of the object collection (default false)
 local allObjectsAreFound = false
+-- The state of having cleared resources
+local playerResourcesHaveBeenCleared = false
+-------------------------------------------------------------------------------
+-- PARAMATERIZATION -----------------------------------------------------------
 -------------------------------------------------------------------------------
 -- The name of the desired object ("InsertKeyHere")
 local propDesiredObjectName = script:GetCustomProperty("DesiredObjectName")
@@ -53,6 +59,22 @@ local propMessageToPlayersForMatch = script:GetCustomProperty("messageToPlayersF
 -- Add references to the trigger(s) and disable their interactivity
 local propTrigger1 = script:GetCustomProperty("Trigger1"):WaitForObject()
 local propTrigger2 = script:GetCustomProperty("Trigger2"):WaitForObject()
+-- Preferences
+local propResetResourcesAtGameStart = script:GetCustomProperty("ResetResourcesAtGameStart")
+-------------------------------------------------------------------------------
+-- Initialization
+-------------------------------------------------------------------------------
+-- Remove all of the desired Resource from players?
+if (propResetResourcesAtGameStart) then
+  print("Clearing desired Resource from all players...")
+  -- Check every player and remove all of their resources
+  for _, p in pairs(Game.GetPlayers()) do
+    print("Clearing " .. propDesiredObjectName .. " from player " .. p.name)
+    p:SetResource(propDesiredObjectName, 0)
+    -- p:RemoveResource(propDesiredObjectName, 999999)
+    print("Player " .. p.name .. " has " .. p:GetResource(propDesiredObjectName) .. " " .. propDesiredObjectName .. "(s)")
+  end
+end
 -- Make trigger(s) interactive, assuming they are defined
 propTrigger1.isInteractable = false
 propTrigger2.isInteractable = false
@@ -62,13 +84,34 @@ local objectsFound = 0
 -- Every tick, check to see if players (collectively) have got at least the
 -- minimum number of the desired objects
 function Tick()
+
+  -- NOTE: SUPER IMPORTANT!
+  -- The following clearing of resources works ONLY in the context of this Tick()
+  -- function.  Cleariong of Resources beforehand makes absolutely no difference.
+
+  if (playerResourcesHaveBeenCleared == false and propResetResourcesAtGameStart) then
+    print("Clearing desired Resource from all players...")
+    -- Check every player and remove all of their resources
+    for _, p in pairs(Game.GetPlayers()) do
+      print("Clearing " .. propDesiredObjectName .. " from player " .. p.name)
+      p:SetResource(propDesiredObjectName, 0)
+      -- p:RemoveResource(propDesiredObjectName, 999999)
+      print("Player " .. p.name .. " has " .. p:GetResource(propDesiredObjectName) .. " " .. propDesiredObjectName .. "(s)")
+    end
+    playerResourcesHaveBeenCleared = true
+  end
+
   -- Reset the number of objects found
   objectsFound = 0
   -- If players do not have all desired objects, then just look around you :P
   if (allObjectsAreFound == false) then
+    print("Waiting 3 seconds...")
+    Task.Wait(3)
     -- Find out how many desired objects the players have, all together
     for _, p in pairs(Game.GetPlayers()) do
       -- Check the player's resources for the desired object by name
+      -- DEBUG
+      print("Checking player " .. p.name .. " with " .. p:GetResource(propDesiredObjectName) .. " apparent matches...")
       if (p:GetResource(propDesiredObjectName) > 0) then
         -- Count the object into the total
         objectsFound = objectsFound + p:GetResource(propDesiredObjectName)

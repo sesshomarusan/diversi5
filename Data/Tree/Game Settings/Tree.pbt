@@ -911,6 +911,72 @@ Objects {
   }
 }
 Objects {
+  Id: 5121141995771591727
+  Name: "RemoveAllResourcesFromPlayers"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2654916338316290302
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:ResetResourcesAtGameStart"
+      Bool: true
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 7736737340907114836
+    }
+  }
+}
+Objects {
+  Id: 221990104738999854
+  Name: "ResourcePersisterServer"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2654916338316290302
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 13451820863796807922
+    }
+  }
+}
+Objects {
   Id: 15407832777865811246
   Name: "EquipmentPersisterStarterServer"
   Transform {
@@ -949,36 +1015,6 @@ Objects {
   Script {
     ScriptAsset {
       Id: 1948933349828726524
-    }
-  }
-}
-Objects {
-  Id: 221990104738999854
-  Name: "ResourcePersisterServer"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2654916338316290302
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 13451820863796807922
     }
   }
 }

@@ -382,7 +382,7 @@ Objects {
     }
     Overrides {
       Name: "cs:ResetOnRoundStart"
-      Bool: true
+      Bool: false
     }
     Overrides {
       Name: "cs:AutoOpen:tooltip"
@@ -1174,24 +1174,32 @@ Objects {
   ParentId: 3168730262597856551
   UnregisteredParameters {
     Overrides {
+      Name: "cs:DesiredObjectName"
+      String: "Castle Gate Key"
+    }
+    Overrides {
+      Name: "cs:MinimumObjectsToFind"
+      Int: 1
+    }
+    Overrides {
       Name: "cs:messageToPlayersForMatch"
       String: "Oh, snap!  Let\'s get outta here!"
     }
     Overrides {
       Name: "cs:Trigger1"
       ObjectReference {
-        SelfId: 16043533327271278409
+        SelfId: 14231488065520504296
       }
     }
     Overrides {
       Name: "cs:Trigger2"
       ObjectReference {
-        SelfId: 119155750771896645
+        SelfId: 101376795055487881
       }
     }
     Overrides {
-      Name: "cs:DesiredObjectName"
-      String: "DesiredObjectName"
+      Name: "cs:ResetResourcesAtGameStart"
+      Bool: true
     }
   }
   Collidable_v2 {
