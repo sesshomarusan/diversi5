@@ -3738,3 +3738,81 @@ Objects {
     }
   }
 }
+Objects {
+  Id: 17686946937730671141
+  Name: "MakePrizeInteractableWhenObjectsVisible"
+  Transform {
+    Location {
+      X: 5449.76904
+      Y: 6149.39697
+      Z: 20
+    }
+    Rotation {
+      Yaw: -90.0000305
+    }
+    Scale {
+      X: 6
+      Y: 6
+      Z: 6
+    }
+  }
+  ParentId: 5609146642854631953
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:GamePieceAName"
+      String: "X"
+    }
+    Overrides {
+      Name: "cs:GamePieceBName"
+      String: "O"
+    }
+    Overrides {
+      Name: "cs:GamePieceVisiblePartName"
+      String: "Bulbs"
+    }
+    Overrides {
+      Name: "cs:MinimumMatchesRequired"
+      Int: 1
+    }
+    Overrides {
+      Name: "cs:MakeLootAppear"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:LootObject"
+      ObjectReference {
+        SelfId: 9505322019025756776
+      }
+    }
+    Overrides {
+      Name: "cs:MakeTriggersInteractive"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:TriggerA"
+      ObjectReference {
+        SelfId: 14231488065520504296
+      }
+    }
+    Overrides {
+      Name: "cs:TriggerB"
+      ObjectReference {
+        SelfId: 101376795055487881
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 7852478840285949971
+    }
+  }
+}

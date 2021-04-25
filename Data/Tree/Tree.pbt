@@ -576,7 +576,7 @@ Objects {
 }
 Objects {
   Id: 14814857204544419984
-  Name: "Starting Tavern"
+  Name: "Fexel Town"
   Transform {
     Location {
       X: -27150
@@ -604,7 +604,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Starting Tavern"
+    FilePartitionName: "Fexel Town"
   }
 }
 Objects {
