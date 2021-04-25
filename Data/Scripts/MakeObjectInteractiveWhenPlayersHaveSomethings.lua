@@ -48,7 +48,7 @@ local allObjectsAreFound = false
 -- The state of having cleared resources
 local playerResourcesHaveBeenCleared = false
 -------------------------------------------------------------------------------
--- PARAMATERIZATION -----------------------------------------------------------
+-- PARAMETERIZATION -----------------------------------------------------------
 -------------------------------------------------------------------------------
 -- The name of the desired object ("InsertKeyHere")
 local propDesiredObjectName = script:GetCustomProperty("DesiredObjectName")
@@ -75,9 +75,9 @@ if (propResetResourcesAtGameStart) then
     print("Player " .. p.name .. " has " .. p:GetResource(propDesiredObjectName) .. " " .. propDesiredObjectName .. "(s)")
   end
 end
--- Make trigger(s) interactive, assuming they are defined
-propTrigger1.isInteractable = false
-propTrigger2.isInteractable = false
+-- Make trigger(s) interactive if they are defined
+if (propTrigger1) then propTrigger1.isInteractable = false end
+if (propTrigger2) then propTrigger2.isInteractable = false end
 -- Keep track of the objects found
 local objectsFound = 0
 -------------------------------------------------------------------------------
@@ -87,8 +87,7 @@ function Tick()
 
   -- NOTE: SUPER IMPORTANT!
   -- The following clearing of resources works ONLY in the context of this Tick()
-  -- function.  Cleariong of Resources beforehand makes absolutely no difference.
-
+  -- function.  Modifying Resources outside of this Tick() makes no difference.
   if (playerResourcesHaveBeenCleared == false and propResetResourcesAtGameStart) then
     print("Clearing desired Resource from all players...")
     -- Check every player and remove all of their resources
@@ -120,15 +119,15 @@ function Tick()
       end
     end
     -- Check to see if players have at least the minimum number of objects, and
-    -- if so, finish the job
+    -- if so, finish the job, by making the trigger(s) interactable
     if (objectsFound >= propMinimumObjectsToFind) then
       -- DEBUG
       print(objectsFound .. " of " .. propMinimumObjectsToFind .. " " .. propDesiredObjectName .. "(s) minimum found:  Triggers will be made interactable!")
       -- Players have the required number of desired objects
       allObjectsAreFound = true
       -- Make trigger(s) interactive, assuming they are defined
-      if (propTrigger1) then propTrigger1.isInteractable  = true end
-      if (propTrigger2) then propTrigger2.isInteractable  = true end
+      if (propTrigger1) then propTrigger1.isInteractable = true end
+      if (propTrigger2) then propTrigger2.isInteractable = true end
       -- TODO Send a message to all players
       -- DEBUG
       print("Message to players:  " .. propMessageToPlayersForMatch)

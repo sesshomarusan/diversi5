@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17244731375696479666
+  Name: "Mechanical Gears Squeaky 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_mechanical_gears_squeaky_01_Cue_ref"
+  }
+}
+Assets {
   Id: 16563829183567904255
   Name: "Fantasy Castle Wall 02 - Curved Doorway"
   PlatformAssetType: 1
@@ -518,5 +527,14 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_false_window_001"
+  }
+}
+Assets {
+  Id: 142821667836297939
+  Name: "Car Crash Heavy Metal Impact 01 SFX"
+  PlatformAssetType: 7
+  PrimaryAsset {
+    AssetType: "AudioAssetRef"
+    AssetId: "sfx_car_crash_heavy_metal_impact_01a_Cue_ref"
   }
 }

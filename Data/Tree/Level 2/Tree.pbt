@@ -1135,7 +1135,6 @@ Objects {
   ChildIds: 3355942611287282050
   ChildIds: 16043533327271278409
   ChildIds: 119155750771896645
-  ChildIds: 13584123162833390607
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1155,66 +1154,6 @@ Objects {
     SubobjectId: 1185105455409806894
     InstanceId: 6933523662944059459
     TemplateId: 1216660669670385720
-  }
-}
-Objects {
-  Id: 13584123162833390607
-  Name: "MakeObjectInteractiveWhenPlayersHaveSomethings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3168730262597856551
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:DesiredObjectName"
-      String: "Castle Gate Key"
-    }
-    Overrides {
-      Name: "cs:MinimumObjectsToFind"
-      Int: 1
-    }
-    Overrides {
-      Name: "cs:messageToPlayersForMatch"
-      String: "Oh, snap!  Let\'s get outta here!"
-    }
-    Overrides {
-      Name: "cs:Trigger1"
-      ObjectReference {
-        SelfId: 14231488065520504296
-      }
-    }
-    Overrides {
-      Name: "cs:Trigger2"
-      ObjectReference {
-        SelfId: 101376795055487881
-      }
-    }
-    Overrides {
-      Name: "cs:ResetResourcesAtGameStart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 8054880232517315043
-    }
   }
 }
 Objects {

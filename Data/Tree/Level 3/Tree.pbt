@@ -174,36 +174,3 @@ Objects {
     FilePartitionName: "Wade_2"
   }
 }
-Objects {
-  Id: 15420218149903038881
-  Name: "Level3Gatekeeper"
-  Transform {
-    Location {
-      X: 4639
-      Y: -33264
-      Z: -8202
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 6002287883041365082
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 4932388911216273133
-    }
-  }
-}
