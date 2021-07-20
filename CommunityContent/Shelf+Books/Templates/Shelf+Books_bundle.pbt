@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Simple shelf and books"
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

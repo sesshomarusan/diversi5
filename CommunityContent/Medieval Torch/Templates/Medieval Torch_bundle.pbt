@@ -49,5 +49,5 @@ Assets {
     Version: "1.0.0"
     Description: "A medieval torch with lights and sound."
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

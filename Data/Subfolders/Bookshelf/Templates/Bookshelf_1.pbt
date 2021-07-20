@@ -73,6 +73,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -128,6 +129,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -158,6 +160,6 @@ Assets {
   Marketplace {
     Description: "Bookshelf with customizable book colors"
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
   DirectlyPublished: true
 }

@@ -71,6 +71,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -113,6 +114,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -157,6 +159,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -265,6 +268,6 @@ Assets {
   Marketplace {
     Description: "Core Content\'s standart chest props made Interactable. \r\nCan be opened and closed."
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
   DirectlyPublished: true
 }

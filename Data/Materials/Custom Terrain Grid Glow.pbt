@@ -2,7 +2,7 @@ Assets {
   Id: 11712062042158846242
   Name: "Custom Terrain Grid Glow"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 5771844425491559774
     ParameterOverrides {

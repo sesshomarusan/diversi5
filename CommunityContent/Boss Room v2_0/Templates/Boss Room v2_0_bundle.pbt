@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Boss Room for AphrimCreates."
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

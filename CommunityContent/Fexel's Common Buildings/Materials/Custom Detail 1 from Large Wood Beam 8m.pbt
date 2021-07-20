@@ -2,7 +2,7 @@ Assets {
   Id: 8028003301283877588
   Name: "Custom Detail 1 from Large Wood Beam 8m"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 3621022527487275131
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 13109225730957806910
   Name: "Gray Box Material"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 4934385586437146638
     ParameterOverrides {

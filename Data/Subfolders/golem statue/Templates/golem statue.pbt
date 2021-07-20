@@ -49,5 +49,5 @@ Assets {
     Version: "1.0.0"
     Description: "wanted to make an animatable charechter but i couldnt but i thought t would be a cool statue instead"
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

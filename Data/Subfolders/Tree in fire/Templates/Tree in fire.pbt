@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Just a tree in fire."
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

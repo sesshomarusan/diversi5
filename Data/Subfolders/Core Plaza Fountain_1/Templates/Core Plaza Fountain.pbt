@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "The lovely fountain from the center of Core Plaza."
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

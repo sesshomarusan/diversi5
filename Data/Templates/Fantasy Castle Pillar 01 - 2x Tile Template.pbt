@@ -68,6 +68,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -108,6 +109,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -148,6 +150,7 @@ Assets {
           StaticMesh {
             Physics {
             }
+            BoundsScale: 1
           }
         }
       }
@@ -184,5 +187,5 @@ Assets {
       AssetId: "Fantasy_Castle_Pillar_01_-_2x_Tile_Template"
     }
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

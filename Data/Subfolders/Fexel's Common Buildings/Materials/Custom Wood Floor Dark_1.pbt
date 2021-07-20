@@ -2,7 +2,7 @@ Assets {
   Id: 11300782378805735584
   Name: "Custom Wood Floor Dark_1"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 4003861933673378181
     ParameterOverrides {

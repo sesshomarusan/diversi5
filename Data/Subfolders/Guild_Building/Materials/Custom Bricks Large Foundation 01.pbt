@@ -2,7 +2,7 @@ Assets {
   Id: 15850249616430817997
   Name: "Custom Bricks Large Foundation 01"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 1128836251417067212
     ParameterOverrides {

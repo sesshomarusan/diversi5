@@ -2,7 +2,7 @@ Assets {
   Id: 4874017915255442710
   Name: "top foor materials"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 2548465216284997828
     ParameterOverrides {

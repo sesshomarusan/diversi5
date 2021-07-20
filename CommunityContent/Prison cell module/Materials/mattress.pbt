@@ -2,7 +2,7 @@ Assets {
   Id: 12970272546877651221
   Name: "mattress"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 16667263422842403497
     ParameterOverrides {

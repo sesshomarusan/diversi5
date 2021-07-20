@@ -180,6 +180,7 @@ Assets {
             }
           }
           Canvas {
+            Opacity: 1
           }
           AnchorLayout {
             SelfAnchor {
@@ -233,6 +234,7 @@ Assets {
             }
           }
           Panel {
+            Opacity: 1
           }
           AnchorLayout {
             SelfAnchor {
@@ -385,5 +387,5 @@ Assets {
       AssetId: "Cast_Bar"
     }
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

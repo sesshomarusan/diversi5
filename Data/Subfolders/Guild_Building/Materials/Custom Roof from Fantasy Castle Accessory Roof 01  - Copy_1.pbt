@@ -2,7 +2,7 @@ Assets {
   Id: 3259534130526104587
   Name: "Custom Roof from Fantasy Castle Accessory Roof 01  - Copy_1"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 12535566776571076111
     ParameterOverrides {

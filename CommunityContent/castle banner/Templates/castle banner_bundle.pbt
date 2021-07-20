@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "fantasy banner model"
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

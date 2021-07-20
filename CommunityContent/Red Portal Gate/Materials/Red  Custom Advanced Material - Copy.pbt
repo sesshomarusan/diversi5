@@ -2,7 +2,7 @@ Assets {
   Id: 5760435750435619408
   Name: "Red  Custom Advanced Material - Copy"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 4934385586437146638
     ParameterOverrides {

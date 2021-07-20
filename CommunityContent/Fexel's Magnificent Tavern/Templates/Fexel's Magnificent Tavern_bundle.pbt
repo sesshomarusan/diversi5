@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Probably the best Tavern I\'ve ever put together. \r\nFully functional interior, detailed and realistic. (Includes a potty!)\r\nMany said they really enjoyed this area, and I\'d love to see others benefit from the work I\'ve contributed to CORE with.\r\n\r\n - Fexel"
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

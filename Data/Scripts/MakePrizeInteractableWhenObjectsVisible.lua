@@ -69,9 +69,10 @@ if (makeTriggersInteractive) then
   end
 end
 
--- LOOT -----------------------------------------------------------------------
--- Whether to make an object containing loot appear, or not (boolean)
 -------------------------------------------------------------------------------
+-- LOOT -----------------------------------------------------------------------
+-------------------------------------------------------------------------------
+-- Whether to make an object containing loot appear, or not (boolean)
 -- TODO Template default:  Off
 local makeLootAppear = script:GetCustomProperty("MakeLootAppear")
 -- The loot object reference

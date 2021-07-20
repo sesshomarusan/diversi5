@@ -2,7 +2,7 @@ Assets {
   Id: 4198873822545377361
   Name: "Grid Basic Invert"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 7025298449303844466
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 12259462510164582816
   Name: "Custom Terrain - Grass_4"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 7581977289155741997
     ParameterOverrides {

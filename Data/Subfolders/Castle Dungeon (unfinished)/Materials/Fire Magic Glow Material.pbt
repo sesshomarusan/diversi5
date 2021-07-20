@@ -2,7 +2,7 @@ Assets {
   Id: 9642174748945658282
   Name: "Fire Magic Glow Material"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 3702191406046426907
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 9804273613047355924
   Name: "Basic Flat"
   PlatformAssetType: 13
-  SerializationVersion: 81
+  SerializationVersion: 92
   CustomMaterialAsset {
     BaseMaterialId: 10184847056121543272
     ParameterOverrides {

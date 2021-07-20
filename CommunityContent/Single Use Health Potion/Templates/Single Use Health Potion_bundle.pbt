@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Updated version of Hani\'s Health potion template. after each use, the item detaches and destroys itself. Working on 2x use and 3x use as well."
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }

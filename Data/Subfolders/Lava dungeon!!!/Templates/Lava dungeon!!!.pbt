@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "This is a lava dungeon. It can be use in any MMO games and RPG games ;)"
   }
-  SerializationVersion: 81
+  SerializationVersion: 92
 }
