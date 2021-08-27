@@ -1233,7 +1233,7 @@ Assets {
         Transform {
           Location {
             X: 30.3337402
-            Y: -0.00805664063
+            Y: -0.00805664062
             Z: 7.77267456
           }
           Rotation {
@@ -8113,7 +8113,7 @@ Assets {
         Name: "Fantasy Shield Strap 01"
         Transform {
           Location {
-            X: 37.0507813
+            X: 37.0507812
             Y: 2.89709473
             Z: 0.428710938
           }
@@ -10156,7 +10156,7 @@ Assets {
         Transform {
           Location {
             X: 215.804504
-            Y: 255.164063
+            Y: 255.164062
             Z: 81.437561
           }
           Rotation {
@@ -13453,7 +13453,7 @@ Assets {
         Transform {
           Location {
             X: 70
-            Y: 6.10351563e-05
+            Y: 6.10351562e-05
             Z: -20
           }
           Rotation {
@@ -18884,7 +18884,7 @@ Assets {
         Name: "Pipe - 90-Degree Long"
         Transform {
           Location {
-            X: 5.50976563
+            X: 5.50976562
             Y: 12.5779419
             Z: 6.29370117
           }
@@ -20826,6 +20826,6 @@ Assets {
   Marketplace {
     Description: "German Panther Tank (Prop)\r\n\r\nupdate: -reworked (again) to be MORE hisortically accurate\r\n-reworked to be more hisortically accurate\r\n-adjusted pivot points for turret, gun, and hatch"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

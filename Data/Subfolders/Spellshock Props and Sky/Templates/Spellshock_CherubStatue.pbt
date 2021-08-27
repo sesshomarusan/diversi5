@@ -468,7 +468,7 @@ Assets {
         Name: "Sphere"
         Transform {
           Location {
-            X: -7.97070313
+            X: -7.97070312
             Y: 8.375
             Z: 18.4782486
           }
@@ -3199,7 +3199,7 @@ Assets {
         Name: "Sphere"
         Transform {
           Location {
-            X: -23.0976563
+            X: -23.0976562
             Y: -16.3172
             Z: 19.3521423
           }
@@ -5396,6 +5396,6 @@ Assets {
   Marketplace {
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

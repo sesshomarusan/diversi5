@@ -904,7 +904,7 @@ Assets {
           Location {
             X: -263.249756
             Y: -449.686523
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: 122.797943
@@ -3513,10 +3513,10 @@ Assets {
           Location {
             X: -296.01413
             Y: 2.49716187
-            Z: 2.47851563
+            Z: 2.47851562
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -89.999939
             Roll: 5.85597409e-05
           }
@@ -3813,7 +3813,7 @@ Assets {
             Z: -1.17661475e-05
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: 59.999958
             Roll: -90
           }
@@ -4501,6 +4501,6 @@ Assets {
   Marketplace {
     Description: "The lovely fountain from the center of Core Plaza."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

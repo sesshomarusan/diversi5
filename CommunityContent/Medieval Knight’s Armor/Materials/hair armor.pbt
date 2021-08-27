@@ -2,7 +2,7 @@ Assets {
   Id: 2111263949357795316
   Name: "hair armor"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 6395223170355223048
     ParameterOverrides {

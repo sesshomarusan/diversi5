@@ -2,7 +2,7 @@ Assets {
   Id: 583147968610104112
   Name: "Dungeon wall"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 10633922864131216250
     ParameterOverrides {

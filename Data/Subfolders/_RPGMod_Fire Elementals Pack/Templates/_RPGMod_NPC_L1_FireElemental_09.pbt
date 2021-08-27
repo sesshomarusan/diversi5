@@ -2571,7 +2571,7 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: 9.90039063
+            X: 9.90039062
             Y: -83.5531158
             Z: 41.3736115
           }
@@ -3006,7 +3006,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -28.3632813
+            X: -28.3632812
             Y: 60.4119415
             Z: 9.71598816
           }
@@ -3596,7 +3596,7 @@ Assets {
         Name: "Magma"
         Transform {
           Location {
-            X: -4.26757813
+            X: -4.26757812
             Y: 25.4479828
             Z: -7.3596344
           }
@@ -4494,6 +4494,6 @@ Assets {
   Marketplace {
     Description: "ATTRIBUTIONS: \r\n- Costume Models from Mergelandia pack\r\n- Scripts: Dungeon Framework / NPC AI Kit / Combat Dependencies \r\n- RPGMod Custom: projectiles, skins, balance, etc\r\n\r\nBALANCE: Pre-alpha for RPGMod pack L1-50. Stats can easily be customised to create bosses or mini-bosses.\r\n\r\nElemental 01+02  -- Two levels of NPCs with fiery ranged fireball attacks\r\nElementals 03-05 -- Three levels of NPCs with devastating melee attacks\r\nElemental 06-9 -- Bosses; Ranged boss type attacks\r\n\r\nTo Do:\r\n-- Add additional special attacks / combos\r\n-- Balance ranged, melee and special\r\n-- Add GIANT elemental versions\r\n-- Combine CC NPCs like the Lava Golem"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

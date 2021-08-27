@@ -2,7 +2,7 @@ Assets {
   Id: 5253216396340863821
   Name: "Custom Wall - Inner 2 from Whitebox Wall 01"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 16691752083219776432
     ParameterOverrides {

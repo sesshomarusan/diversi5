@@ -5954,9 +5954,9 @@ Assets {
         Name: "Chest Big Opened"
         Transform {
           Location {
-            X: 977.789063
+            X: 977.789062
             Y: 129.404297
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -6281,7 +6281,7 @@ Assets {
           Location {
             X: -1137.6875
             Y: 670.811523
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -91.2978516
@@ -6327,7 +6327,7 @@ Assets {
           Location {
             X: -1132.35693
             Y: 434.054688
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -95.8747253
@@ -6625,7 +6625,7 @@ Assets {
         Transform {
           Location {
             X: -463.786621
-            Y: 726.601563
+            Y: 726.601562
             Z: 25.2539368
           }
           Rotation {
@@ -8377,7 +8377,7 @@ Assets {
         Transform {
           Location {
             X: -54.3730469
-            Y: 1139.89063
+            Y: 1139.89062
             Z: 99.8913574
           }
           Rotation {
@@ -9078,7 +9078,7 @@ Assets {
         Transform {
           Location {
             X: 782.797852
-            Y: 2886.32813
+            Y: 2886.32812
             Z: 31.045929
           }
           Rotation {
@@ -10400,7 +10400,7 @@ Assets {
           Location {
             X: -935.093262
             Y: 505.197266
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -10800,7 +10800,7 @@ Assets {
         Transform {
           Location {
             X: -908.124
-            Y: 114.726563
+            Y: 114.726562
             Z: 25.2536926
           }
           Rotation {
@@ -11079,7 +11079,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 948.320313
+            X: 948.320312
             Y: 1289.21
             Z: -124.746155
           }
@@ -13480,6 +13480,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

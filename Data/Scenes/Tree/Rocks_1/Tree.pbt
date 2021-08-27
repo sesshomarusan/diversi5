@@ -1143,7 +1143,7 @@ Objects {
       Z: -22
     }
     Rotation {
-      Pitch: -29.8164063
+      Pitch: -29.8164062
       Yaw: 5.78770113
       Roll: -93.3220825
     }
@@ -1608,7 +1608,7 @@ Objects {
   Name: "Rock Block 02"
   Transform {
     Location {
-      X: 6864.70313
+      X: 6864.70312
       Y: 5362.80615
       Z: 126.51091
     }
@@ -2162,7 +2162,7 @@ Objects {
   Name: "Rock 01"
   Transform {
     Location {
-      X: -469.507813
+      X: -469.507812
       Y: 4730
       Z: 6.00012207
     }

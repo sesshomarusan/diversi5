@@ -2,7 +2,7 @@ Assets {
   Id: 5369171991893656043
   Name: "Custom Roof Round Shingles"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 8767217224493461261
     ParameterOverrides {

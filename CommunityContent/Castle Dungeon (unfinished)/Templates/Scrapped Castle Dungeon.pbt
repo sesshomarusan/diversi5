@@ -1144,7 +1144,7 @@ Assets {
         Transform {
           Location {
             X: 113.882874
-            Y: 374.570313
+            Y: 374.570312
             Z: 334.337891
           }
           Rotation {
@@ -5879,7 +5879,7 @@ Assets {
         Transform {
           Location {
             X: 4395.38086
-            Y: 945.476563
+            Y: 945.476562
             Z: 3510.36694
           }
           Rotation {
@@ -8121,7 +8121,7 @@ Assets {
         Transform {
           Location {
             X: 3030.28076
-            Y: 245.601563
+            Y: 245.601562
             Z: 28.7294922
           }
           Rotation {
@@ -8673,7 +8673,7 @@ Assets {
         Transform {
           Location {
             X: 2980.28076
-            Y: 14.6132813
+            Y: 14.6132812
             Z: 1778.72949
           }
           Rotation {
@@ -9205,7 +9205,7 @@ Assets {
         Transform {
           Location {
             X: 1464.79749
-            Y: -1496.70313
+            Y: -1496.70312
             Z: 1778.72949
           }
           Rotation {
@@ -9258,7 +9258,7 @@ Assets {
         Transform {
           Location {
             X: 1464.79749
-            Y: -1496.70313
+            Y: -1496.70312
             Z: 2101.19434
           }
           Rotation {
@@ -9311,7 +9311,7 @@ Assets {
         Transform {
           Location {
             X: 2979.78784
-            Y: -1496.70313
+            Y: -1496.70312
             Z: 2101.19434
           }
           Rotation {
@@ -9364,7 +9364,7 @@ Assets {
         Transform {
           Location {
             X: 2979.32837
-            Y: -1496.70313
+            Y: -1496.70312
             Z: 1778.72949
           }
           Rotation {
@@ -9487,7 +9487,7 @@ Assets {
         Transform {
           Location {
             X: 1732.09375
-            Y: -1696.70313
+            Y: -1696.70312
             Z: 78.7294922
           }
           Rotation {
@@ -18155,7 +18155,7 @@ Assets {
         Transform {
           Location {
             X: 1761.052
-            Y: -1551.70313
+            Y: -1551.70312
             Z: 81.2294922
           }
           Rotation {
@@ -21614,8 +21614,8 @@ Assets {
         Name: "Arch Fancy Peaked 6m"
         Transform {
           Location {
-            X: -291.945313
-            Y: -47.9257813
+            X: -291.945312
+            Y: -47.9257812
             Z: 79.2988281
           }
           Rotation {
@@ -21660,7 +21660,7 @@ Assets {
         Name: "Arch Fancy Peaked 6m"
         Transform {
           Location {
-            X: -1.36914063
+            X: -1.36914062
             Y: -291.750488
             Z: 79.2988281
           }
@@ -22012,7 +22012,7 @@ Assets {
           Location {
             X: -9988.74512
             Y: 2376.18262
-            Z: -1967.64063
+            Z: -1967.64062
           }
           Rotation {
           }
@@ -22048,7 +22048,7 @@ Assets {
         Transform {
           Location {
             X: -856.003906
-            Y: -0.766601563
+            Y: -0.766601562
             Z: 1406.271
           }
           Rotation {
@@ -23215,7 +23215,7 @@ Assets {
         Transform {
           Location {
             X: -3022.71484
-            Y: -0.766601563
+            Y: -0.766601562
             Z: 2860.48828
           }
           Rotation {
@@ -25145,7 +25145,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -102.882813
+            X: -102.882812
             Y: 25.5756836
             Z: 81.027832
           }
@@ -25979,7 +25979,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -93.1132813
+            X: -93.1132812
             Y: 999.021
             Z: 33.0581055
           }
@@ -28096,7 +28096,7 @@ Assets {
         Transform {
           Location {
             X: 656.970703
-            Y: -1375.82813
+            Y: -1375.82812
             Z: 272.72998
           }
           Rotation {
@@ -28356,7 +28356,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: 6.61132813
+            X: 6.61132812
             Y: -1342.17822
             Z: 472.930176
           }
@@ -28836,7 +28836,7 @@ Assets {
         Transform {
           Location {
             X: -747.467773
-            Y: -946.101563
+            Y: -946.101562
             Z: 406.130371
           }
           Rotation {
@@ -29619,7 +29619,7 @@ Assets {
         Transform {
           Location {
             X: -1068.73633
-            Y: 238.382813
+            Y: 238.382812
             Z: 356.282227
           }
           Rotation {
@@ -30355,7 +30355,7 @@ Assets {
         Transform {
           Location {
             X: -253.894531
-            Y: 1202.57813
+            Y: 1202.57812
             Z: 382.853516
           }
           Rotation {
@@ -31052,7 +31052,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: 696.882813
+            X: 696.882812
             Y: 1292.00537
           }
           Rotation {
@@ -31840,7 +31840,7 @@ Assets {
         Name: "Chain"
         Transform {
           Location {
-            X: 12.4414063
+            X: 12.4414062
             Y: 728.743164
             Z: 1496.36914
           }
@@ -32716,7 +32716,7 @@ Assets {
           Location {
             X: 164.291016
             Y: -817.422852
-            Z: 2.32226563
+            Z: 2.32226562
           }
           Rotation {
             Pitch: -71.1178894
@@ -32896,7 +32896,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: -207.601563
+            X: -207.601562
             Y: -173.357422
             Z: 478.365234
           }
@@ -35480,7 +35480,7 @@ Assets {
         Name: "Chain"
         Transform {
           Location {
-            X: 12.4414063
+            X: 12.4414062
             Y: 728.743164
             Z: 1496.36914
           }
@@ -36656,7 +36656,7 @@ Assets {
           Location {
             X: 164.291016
             Y: -817.422852
-            Z: 2.32226563
+            Z: 2.32226562
           }
           Rotation {
             Pitch: -71.1178818
@@ -36836,7 +36836,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: -207.601563
+            X: -207.601562
             Y: -173.357422
             Z: 478.365234
           }
@@ -37133,7 +37133,7 @@ Assets {
         Transform {
           Location {
             X: -49.4599609
-            Y: 467.570313
+            Y: 467.570312
             Z: 70.1899414
           }
           Rotation {
@@ -37479,7 +37479,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -102.882813
+            X: -102.882812
             Y: 25.5756836
             Z: 81.027832
           }
@@ -39948,7 +39948,7 @@ Assets {
         Transform {
           Location {
             X: -49.4599609
-            Y: 467.570313
+            Y: 467.570312
             Z: 70.1899414
           }
           Rotation {
@@ -40294,7 +40294,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -102.882813
+            X: -102.882812
             Y: 25.5756836
             Z: 81.027832
           }
@@ -41040,7 +41040,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -93.1132813
+            X: -93.1132812
             Y: 999.021
             Z: 33.0581055
           }
@@ -41324,7 +41324,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -7.16601563
+            X: -7.16601562
             Y: 723.959961
             Z: 196.804443
           }
@@ -42947,7 +42947,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -7.16601563
+            X: -7.16601562
             Y: 723.959961
             Z: 196.804443
           }
@@ -44268,7 +44268,7 @@ Assets {
         Name: "Rock Chain Mount"
         Transform {
           Location {
-            X: -6588.64063
+            X: -6588.64062
             Y: 1501.2666
             Z: -850.130859
           }
@@ -44316,7 +44316,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -171.914063
+            X: -171.914062
             Y: -113.606445
             Z: 137.931152
           }
@@ -46554,7 +46554,7 @@ Assets {
           Location {
             X: 5596.53418
             Y: -1243.33777
-            Z: 2.32226563
+            Z: 2.32226562
           }
           Rotation {
             Pitch: -71.1176147
@@ -46598,7 +46598,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: 5583.57813
+            X: 5583.57812
             Y: -1703.9248
             Z: 3359.82861
           }
@@ -47569,7 +47569,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -171.914063
+            X: -171.914062
             Y: -113.606445
             Z: 137.931152
           }
@@ -48374,7 +48374,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -171.914063
+            X: -171.914062
             Y: -113.606445
             Z: 137.931152
           }
@@ -49179,7 +49179,7 @@ Assets {
         Name: "Rock 01"
         Transform {
           Location {
-            X: -171.914063
+            X: -171.914062
             Y: -113.606445
             Z: 137.931152
           }
@@ -50448,7 +50448,7 @@ Assets {
         Transform {
           Location {
             X: 217.272583
-            Y: -2862.39063
+            Y: -2862.39062
             Z: 1933.72266
           }
           Rotation {
@@ -52147,7 +52147,7 @@ Assets {
         Transform {
           Location {
             X: -564.738281
-            Y: 414.726563
+            Y: 414.726562
             Z: 1334.27295
           }
           Rotation {
@@ -52677,7 +52677,7 @@ Assets {
         Transform {
           Location {
             X: -292.222656
-            Y: 2030.95313
+            Y: 2030.95312
             Z: 1401.06934
           }
           Rotation {
@@ -52895,7 +52895,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: -148.601563
+            X: -148.601562
             Y: 1038.43604
             Z: 1419.09033
           }
@@ -52941,7 +52941,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: -148.601563
+            X: -148.601562
             Y: 1355.68457
             Z: 1419.09033
           }
@@ -55674,7 +55674,7 @@ Assets {
           Location {
             X: 6005.64111
             Y: 6812.62598
-            Z: 2.32226563
+            Z: 2.32226562
           }
           Rotation {
             Pitch: -71.1152649
@@ -58554,6 +58554,6 @@ Assets {
   Marketplace {
     Description: "Decided to upload this dungeon I scrapped just incase someone wanted to finish it or had better ideas for it."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

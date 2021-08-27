@@ -3075,7 +3075,7 @@ Assets {
           Location {
             X: -400
             Y: 1200
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
           }
@@ -3579,7 +3579,7 @@ Assets {
           Location {
             X: 400
             Y: -400
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: -179.999969
@@ -3813,7 +3813,7 @@ Assets {
         Name: "Cube"
         Transform {
           Location {
-            Y: 22.5351563
+            Y: 22.5351562
             Z: 458.5271
           }
           Rotation {
@@ -6449,7 +6449,7 @@ Assets {
         Name: "Cube"
         Transform {
           Location {
-            Y: 22.5351563
+            Y: 22.5351562
             Z: 458.5271
           }
           Rotation {
@@ -9065,7 +9065,7 @@ Assets {
         Name: "Cube"
         Transform {
           Location {
-            Y: 22.5351563
+            Y: 22.5351562
             Z: 458.5271
           }
           Rotation {
@@ -15655,7 +15655,7 @@ Assets {
         Name: "Rock Block 02"
         Transform {
           Location {
-            X: 726.882813
+            X: 726.882812
             Y: 1737.04895
             Z: -559.925293
           }
@@ -15708,8 +15708,8 @@ Assets {
         Name: "Rock Block 02"
         Transform {
           Location {
-            X: 726.882813
-            Y: 2548.07813
+            X: 726.882812
+            Y: 2548.07812
             Z: -559.925293
           }
           Rotation {
@@ -16085,7 +16085,7 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 1037.70313
+            X: 1037.70312
             Y: 3032.80542
             Z: -543.451416
           }
@@ -17063,7 +17063,7 @@ Assets {
         Name: "Shield 03"
         Transform {
           Location {
-            X: 5.11914063
+            X: 5.11914062
             Y: 1556.09937
             Z: 43.5123901
           }
@@ -19159,6 +19159,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

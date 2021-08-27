@@ -3684,7 +3684,7 @@ Assets {
         Transform {
           Location {
             X: -38.4895782
-            Y: 1.22851563
+            Y: 1.22851562
             Z: 17.2687378
           }
           Rotation {
@@ -3903,6 +3903,6 @@ Assets {
   Marketplace {
     Description: "Hopefully this can be useful for someone. Great for spooky maps."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

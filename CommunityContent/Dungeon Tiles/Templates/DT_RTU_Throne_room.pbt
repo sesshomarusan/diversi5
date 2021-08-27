@@ -14979,7 +14979,7 @@ Assets {
         Transform {
           Location {
             X: -1746.91113
-            Y: 2476.82813
+            Y: 2476.82812
             Z: 51.6999359
           }
           Rotation {
@@ -17208,7 +17208,7 @@ Assets {
           Location {
             X: 1125.21887
             Y: 2471.08838
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 60.6076736
@@ -18849,7 +18849,7 @@ Assets {
           Location {
             X: -1078.42236
             Y: 2550.8623
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20281,7 +20281,7 @@ Assets {
           Location {
             X: -1452.42725
             Y: 2574.625
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20321,7 +20321,7 @@ Assets {
           Location {
             X: -1722.6167
             Y: 3749.50488
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20361,7 +20361,7 @@ Assets {
           Location {
             X: -828.464355
             Y: 3564.65039
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20401,7 +20401,7 @@ Assets {
           Location {
             X: 710.645
             Y: 2479.52295
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -21450,6 +21450,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

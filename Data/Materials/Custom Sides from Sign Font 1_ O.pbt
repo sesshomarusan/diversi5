@@ -2,7 +2,7 @@ Assets {
   Id: 12317882810657919395
   Name: "Custom Sides from Sign Font 1: O"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 2136603939003491027
     ParameterOverrides {

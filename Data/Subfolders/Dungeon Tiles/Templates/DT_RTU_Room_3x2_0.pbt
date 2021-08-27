@@ -1465,7 +1465,7 @@ Assets {
         Transform {
           Location {
             X: 1199.9989
-            Y: 0.000122070313
+            Y: 0.000122070312
           }
           Rotation {
             Yaw: -90
@@ -2295,7 +2295,7 @@ Assets {
           Location {
             X: -650.537598
             Y: 88.3173828
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 83.531395
@@ -3217,7 +3217,7 @@ Assets {
         Name: "Stone Block Standard"
         Transform {
           Location {
-            X: -954.382813
+            X: -954.382812
             Y: 1357.88623
             Z: 67.1452332
           }
@@ -3703,7 +3703,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: 792.820313
+            X: 792.820312
             Y: 1500.99707
             Z: 64.479126
           }
@@ -4453,7 +4453,7 @@ Assets {
         Transform {
           Location {
             X: -85
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
             Z: 160
           }
           Rotation {
@@ -5093,7 +5093,7 @@ Assets {
           Location {
             X: -623.756836
             Y: 1165.36621
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 99.3213348
@@ -5613,7 +5613,7 @@ Assets {
           Location {
             X: 668.705566
             Y: 1449.00928
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 10.5139856
@@ -6305,7 +6305,7 @@ Assets {
           Location {
             X: 800.895
             Y: 620.267578
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 31.7169514
@@ -6951,6 +6951,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

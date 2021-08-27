@@ -2,7 +2,7 @@ Assets {
   Id: 12002412833787805577
   Name: "Health"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 7272567060581409317
     ParameterOverrides {

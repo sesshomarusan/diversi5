@@ -899,7 +899,7 @@ Objects {
       Z: 76.3615265
     }
     Rotation {
-      Pitch: -6.10351563e-05
+      Pitch: -6.10351562e-05
       Yaw: -0.000335693359
       Roll: 0.000116753712
     }
@@ -2349,7 +2349,7 @@ Objects {
     Rotation {
       Pitch: 90
       Yaw: -90
-      Roll: -0.00122070313
+      Roll: -0.00122070312
     }
     Scale {
       X: 0.388877422
@@ -2410,7 +2410,7 @@ Objects {
       Z: 184.04541
     }
     Rotation {
-      Pitch: -6.10351563e-05
+      Pitch: -6.10351562e-05
       Yaw: 89.9997101
     }
     Scale {
@@ -3077,7 +3077,7 @@ Objects {
       Z: 100.176941
     }
     Rotation {
-      Yaw: -0.000122070313
+      Yaw: -0.000122070312
       Roll: 9.15527417e-05
     }
     Scale {
@@ -3296,7 +3296,7 @@ Objects {
     }
     Rotation {
       Pitch: -3.05175781e-05
-      Yaw: -0.000122070313
+      Yaw: -0.000122070312
       Roll: -179.999802
     }
     Scale {

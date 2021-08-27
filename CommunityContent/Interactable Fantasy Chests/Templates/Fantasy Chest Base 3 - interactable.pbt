@@ -287,6 +287,6 @@ Assets {
   Marketplace {
     Description: "Core Content\'s standart chest props made Interactable. \r\nCan be opened and closed."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

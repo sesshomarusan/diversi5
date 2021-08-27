@@ -1316,7 +1316,7 @@ Assets {
         Name: "Pipe - Half Thick"
         Transform {
           Location {
-            X: -0.106445313
+            X: -0.106445312
             Y: -0.557617188
             Z: 4.59967041
           }
@@ -1373,7 +1373,7 @@ Assets {
         Name: "Pipe - Half Thick"
         Transform {
           Location {
-            X: -0.106445313
+            X: -0.106445312
             Y: 0.512207031
             Z: 4.59967041
           }
@@ -1826,5 +1826,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

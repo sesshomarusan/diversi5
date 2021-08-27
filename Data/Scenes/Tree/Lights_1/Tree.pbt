@@ -4235,7 +4235,7 @@ Objects {
   Name: "Fantasy Candle Lit - Chandelier 01 (Prop)"
   Transform {
     Location {
-      X: 0.477539063
+      X: 0.477539062
       Y: -1440.84021
       Z: 391
     }
@@ -5383,7 +5383,7 @@ Objects {
   Name: "Chain Tile 01"
   Transform {
     Location {
-      X: 0.477539063
+      X: 0.477539062
       Y: -1440.84021
       Z: 479.540039
     }

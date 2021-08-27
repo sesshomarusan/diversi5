@@ -8515,7 +8515,7 @@ Assets {
         Name: "Torch"
         Transform {
           Location {
-            X: 1.08007813
+            X: 1.08007812
             Y: 2505.7937
             Z: 260.286377
           }
@@ -9047,7 +9047,7 @@ Assets {
         Name: "Torch"
         Transform {
           Location {
-            X: -799.882813
+            X: -799.882812
             Y: 1706.16394
             Z: 260.286377
           }
@@ -9810,7 +9810,7 @@ Assets {
           Location {
             X: -12.2705078
             Y: 1497.86108
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 89.9999847
@@ -10080,7 +10080,7 @@ Assets {
         Transform {
           Location {
             X: -85
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
             Z: 160
           }
           Rotation {
@@ -10809,7 +10809,7 @@ Assets {
         Transform {
           Location {
             X: -85
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
             Z: 160
           }
           Rotation {
@@ -11258,7 +11258,7 @@ Assets {
         Transform {
           Location {
             X: -85
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
             Z: 160
           }
           Rotation {
@@ -12401,7 +12401,7 @@ Assets {
           Location {
             X: -12.2705078
             Y: 2040.11938
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 89.9999924
@@ -17953,7 +17953,7 @@ Assets {
           Location {
             X: -763.614746
             Y: 909.506836
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -33.2828217
@@ -22447,7 +22447,7 @@ Assets {
         Name: "Fantasy Book Open 01"
         Transform {
           Location {
-            X: -42.4726563
+            X: -42.4726562
             Y: 2140.62817
             Z: 161.676178
           }
@@ -22694,7 +22694,7 @@ Assets {
         Name: "Fantasy Book Pile 01"
         Transform {
           Location {
-            X: -24.9570313
+            X: -24.9570312
             Y: 1497.14648
             Z: 162.000397
           }
@@ -22742,7 +22742,7 @@ Assets {
           Location {
             X: 98.59375
             Y: 1878.45825
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -22831,7 +22831,7 @@ Assets {
         Name: "Candle Group Melted 02"
         Transform {
           Location {
-            X: 31.9882813
+            X: 31.9882812
             Y: 1712.71826
             Z: 161.676132
           }
@@ -24006,7 +24006,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 197.070313
+            X: 197.070312
             Y: 2362.57031
             Z: 25.2537231
           }
@@ -24326,7 +24326,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 866.664063
+            X: 866.664062
             Y: 645.861084
             Z: 25.2538147
           }
@@ -25442,7 +25442,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: 296.976563
+            X: 296.976562
             Y: 2774.36353
             Z: 25.2537842
           }
@@ -25525,7 +25525,7 @@ Assets {
           Location {
             X: 14.1767578
             Y: 263.926758
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -179.999985
@@ -25606,7 +25606,7 @@ Assets {
           Location {
             X: -992.624
             Y: 2593.57324
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -25766,7 +25766,7 @@ Assets {
           Location {
             X: 825.419922
             Y: 545.223
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -25926,7 +25926,7 @@ Assets {
           Location {
             X: -537.742188
             Y: 759.847595
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -27447,6 +27447,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

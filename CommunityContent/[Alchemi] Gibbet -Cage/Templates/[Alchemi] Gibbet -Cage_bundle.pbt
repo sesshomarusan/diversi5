@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Fate all Pirates and doers of bad things & stuff!\r\nSuspend your villains in here and strike fear into \r\nyour enemies. "
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

@@ -301,6 +301,6 @@ Assets {
   Marketplace {
     Description: "fantasy banner model"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

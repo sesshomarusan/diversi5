@@ -38,7 +38,7 @@ Objects {
   Name: "BuildingThree"
   Transform {
     Location {
-      X: 578.382813
+      X: 578.382812
       Y: 768.425781
       Z: -1136.52148
     }
@@ -77,7 +77,7 @@ Objects {
   Name: "BuildingTwo"
   Transform {
     Location {
-      X: -1739.07813
+      X: -1739.07812
       Y: -1567.03906
       Z: -999.10437
     }

@@ -66537,7 +66537,7 @@ Assets {
         Name: "Hill 01"
         Transform {
           Location {
-            X: 1002.76563
+            X: 1002.76562
             Y: 2950.01318
             Z: 25.2538757
           }
@@ -66593,7 +66593,7 @@ Assets {
           Location {
             X: 634.964355
             Y: 2529.84424
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -72.0942917
@@ -68891,7 +68891,7 @@ Assets {
           Location {
             X: -749.143066
             Y: 270.674316
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 30.9317665
@@ -68981,7 +68981,7 @@ Assets {
         Name: "Bone Human Scattered 01"
         Transform {
           Location {
-            X: 852.476563
+            X: 852.476562
             Y: 2569.98242
             Z: 25.2538452
           }
@@ -69635,7 +69635,7 @@ Assets {
         Transform {
           Location {
             X: -670.004395
-            Y: 2572.32813
+            Y: 2572.32812
             Z: 38.8985062
           }
           Rotation {
@@ -69798,7 +69798,7 @@ Assets {
         Name: "Stone Block Long"
         Transform {
           Location {
-            X: 932.257813
+            X: 932.257812
             Y: 722.645
             Z: 38.6330795
           }
@@ -71188,7 +71188,7 @@ Assets {
         Name: "KillZoneServer"
         Transform {
           Location {
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -71595,7 +71595,7 @@ Assets {
         Transform {
           Location {
             X: -306.635742
-            Y: 423.257813
+            Y: 423.257812
             Z: 25.2538452
           }
           Rotation {
@@ -71714,9 +71714,9 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: -416.382813
+            X: -416.382812
             Y: 2674.78857
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -72799,7 +72799,7 @@ Assets {
           Location {
             X: 888.436035
             Y: 493.798096
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -72839,7 +72839,7 @@ Assets {
           Location {
             X: 645.706543
             Y: 235.344971
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -72879,7 +72879,7 @@ Assets {
           Location {
             X: -113.146484
             Y: 625.602051
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -72919,7 +72919,7 @@ Assets {
           Location {
             X: -719.716309
             Y: 238.936768
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -72959,7 +72959,7 @@ Assets {
           Location {
             X: -771.973145
             Y: 557.48291
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -72999,7 +72999,7 @@ Assets {
           Location {
             X: -909.764648
             Y: 2588.19092
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -73039,7 +73039,7 @@ Assets {
           Location {
             X: -877.724609
             Y: 2886.43701
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -74263,6 +74263,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

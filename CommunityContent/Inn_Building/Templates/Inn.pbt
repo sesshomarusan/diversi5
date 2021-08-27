@@ -240,7 +240,7 @@ Assets {
           Location {
             X: -39.1413574
             Y: -345.364258
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -415,7 +415,7 @@ Assets {
         Transform {
           Location {
             X: 9.34985352
-            Y: -39.2070313
+            Y: -39.2070312
             Z: 3.20993042
           }
           Rotation {
@@ -766,7 +766,7 @@ Assets {
           Location {
             X: 19.8647461
             Y: -175.042847
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -884,7 +884,7 @@ Assets {
           Location {
             X: -72.7827148
             Y: -175.042847
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -1250,7 +1250,7 @@ Assets {
           Location {
             X: -641.079
             Y: -3090.09863
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -1748,7 +1748,7 @@ Assets {
           Location {
             X: -4.66870117
             Y: -2224.01953
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -1799,7 +1799,7 @@ Assets {
           Location {
             X: -4.66870117
             Y: -2069.60547
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -2105,7 +2105,7 @@ Assets {
           Location {
             X: -7.4440918
             Y: -2617.62
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -2192,7 +2192,7 @@ Assets {
           Location {
             X: 20.7856445
             Y: -2730.45825
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: 20.1436634
@@ -2281,7 +2281,7 @@ Assets {
           Location {
             X: 10.4250488
             Y: -641.060303
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -2786,7 +2786,7 @@ Assets {
         Transform {
           Location {
             X: 9.34985352
-            Y: -39.2070313
+            Y: -39.2070312
             Z: 3.20993042
           }
           Rotation {
@@ -3169,7 +3169,7 @@ Assets {
         Transform {
           Location {
             X: 9.34985352
-            Y: -39.2070313
+            Y: -39.2070312
             Z: 3.20993042
           }
           Rotation {
@@ -3943,7 +3943,7 @@ Assets {
           }
           Rotation {
             Pitch: -42.9992676
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: 0.000139797907
           }
           Scale {
@@ -4664,7 +4664,7 @@ Assets {
           Location {
             X: -73.7546387
             Y: -2761.08789
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: 20.1436462
@@ -4942,7 +4942,7 @@ Assets {
           Location {
             X: 10.4250488
             Y: -752.729309
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -5097,7 +5097,7 @@ Assets {
           Location {
             X: 235.097168
             Y: -142.558105
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: 89.9999313
@@ -5378,7 +5378,7 @@ Assets {
           Location {
             X: -566.878418
             Y: -142.558105
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: 89.9999313
@@ -7991,7 +7991,7 @@ Assets {
           Location {
             X: 1047.99438
             Y: -142.558105
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: 89.9999313
@@ -50093,6 +50093,6 @@ Assets {
   Marketplace {
     Description: "Inn just for eating and drinking"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

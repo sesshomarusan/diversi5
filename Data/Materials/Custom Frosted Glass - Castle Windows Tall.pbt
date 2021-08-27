@@ -2,7 +2,7 @@ Assets {
   Id: 101697734561938786
   Name: "Custom Frosted Glass - Castle Windows Tall"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 16630259605395466384
     ParameterOverrides {

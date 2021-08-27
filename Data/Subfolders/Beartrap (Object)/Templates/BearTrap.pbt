@@ -1617,6 +1617,6 @@ Assets {
   Marketplace {
     Description: "Simple rusty Beartrap. No animation. When moving/rotating/scaling make sure to have the rounded parts selected last to not mess up the \"Teeth\"."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

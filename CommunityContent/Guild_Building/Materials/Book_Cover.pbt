@@ -2,7 +2,7 @@ Assets {
   Id: 5496252648241423590
   Name: "Book_Cover"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 14015653909529972684
     ParameterOverrides {

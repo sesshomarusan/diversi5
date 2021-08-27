@@ -635,7 +635,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -532.757813
+      X: -532.757812
       Y: 6895
       Z: 278.855377
     }
@@ -1107,7 +1107,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -249.132813
+      X: -249.132812
       Y: 6046.74121
       Z: 278.855377
     }
@@ -1213,7 +1213,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -346.570313
+      X: -346.570312
       Y: 5950.22559
       Z: 278.855377
     }
@@ -1793,7 +1793,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -532.757813
+      X: -532.757812
       Y: 5876.60938
       Z: 278.855377
     }
@@ -2159,7 +2159,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -880.445313
+      X: -880.445312
       Y: 5632.41113
       Z: 278.855377
     }
@@ -2421,7 +2421,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -880.445313
+      X: -880.445312
       Y: 5719.31738
       Z: 278.855377
     }
@@ -2682,7 +2682,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -683.539063
+      X: -683.539062
       Y: 6096.12158
       Z: 278.855377
     }
@@ -2787,7 +2787,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -683.539063
+      X: -683.539062
       Y: 5997.35547
       Z: 278.855377
     }
@@ -2892,7 +2892,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -880.445313
+      X: -880.445312
       Y: 6096.59082
       Z: 278.855377
     }
@@ -3206,7 +3206,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -683.539063
+      X: -683.539062
       Y: 5902.36377
       Z: 278.855377
     }
@@ -3364,7 +3364,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -880.445313
+      X: -880.445312
       Y: 5804.96338
       Z: 278.855377
     }
@@ -3416,7 +3416,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -1046.70313
+      X: -1046.70312
       Y: 6264.91309
       Z: 278.855377
     }
@@ -3627,7 +3627,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -346.570313
+      X: -346.570312
       Y: 7061.24658
       Z: 278.855377
     }
@@ -3839,7 +3839,7 @@ Objects {
   Transform {
     Location {
       X: -251.800781
-      Y: 6691.70313
+      Y: 6691.70312
       Z: 278.855377
     }
     Rotation {
@@ -4049,7 +4049,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -532.757813
+      X: -532.757812
       Y: 6987.63037
       Z: 278.855377
     }
@@ -4207,7 +4207,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -344.195313
+      X: -344.195312
       Y: 6134.14258
       Z: 278.855377
     }
@@ -4470,7 +4470,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -344.195313
+      X: -344.195312
       Y: 6221.04883
       Z: 278.855377
     }
@@ -4733,7 +4733,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -925.851563
+      X: -925.851562
       Y: 6502.31885
       Z: 278.855377
     }
@@ -4890,7 +4890,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -836.195313
+      X: -836.195312
       Y: 6502.83105
       Z: 278.855377
     }
@@ -5416,7 +5416,7 @@ Objects {
   Transform {
     Location {
       X: -823.023438
-      Y: 6287.07813
+      Y: 6287.07812
       Z: 278.855377
     }
     Rotation {
@@ -5468,7 +5468,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -741.632813
+      X: -741.632812
       Y: 6234.17188
       Z: 278.855377
     }
@@ -5520,7 +5520,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -838.226563
+      X: -838.226562
       Y: 6193.18262
       Z: 278.855377
     }
@@ -5941,7 +5941,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -344.195313
+      X: -344.195312
       Y: 6598.32227
       Z: 278.855377
     }
@@ -6204,7 +6204,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -539.664063
+      X: -539.664062
       Y: 6404.09521
       Z: 278.855377
     }
@@ -6415,7 +6415,7 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -344.195313
+      X: -344.195312
       Y: 6306.69482
       Z: 278.855377
     }

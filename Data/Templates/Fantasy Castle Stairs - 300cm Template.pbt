@@ -191,7 +191,7 @@ Assets {
         Name: "Stair Bannister - Mid"
         Transform {
           Location {
-            X: -6.10351563e-05
+            X: -6.10351562e-05
             Y: -100
             Z: 150
           }
@@ -348,7 +348,7 @@ Assets {
         Name: "Stair Bannister - Mid"
         Transform {
           Location {
-            X: -6.10351563e-05
+            X: -6.10351562e-05
             Y: -100
             Z: 150
           }
@@ -470,5 +470,5 @@ Assets {
       AssetId: "Fantasy_Castle_Stairs_-_300cm_Template"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

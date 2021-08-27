@@ -3119,7 +3119,7 @@ Assets {
           Location {
             X: 877.173828
             Y: 292.076904
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 114.416512
@@ -6475,7 +6475,7 @@ Assets {
           Location {
             X: 967.368652
             Y: 1320.24219
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -7763,7 +7763,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: -952.726563
+            X: -952.726562
             Y: 346.833984
             Z: 21.8079834
           }
@@ -7844,9 +7844,9 @@ Assets {
         Name: "Decal Stains Top 01"
         Transform {
           Location {
-            X: -29.7070313
+            X: -29.7070312
             Y: 255.705811
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -7964,7 +7964,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: -412.414063
+            X: -412.414062
             Y: 217.234863
             Z: 18.8824158
           }
@@ -8796,6 +8796,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

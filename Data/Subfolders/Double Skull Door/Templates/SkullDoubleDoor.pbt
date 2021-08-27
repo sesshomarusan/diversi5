@@ -1638,7 +1638,7 @@ Assets {
           }
           Rotation {
             Pitch: 90
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: 179.999664
           }
           Scale {
@@ -2054,6 +2054,6 @@ Assets {
   Marketplace {
     Description: "A scary set of double doors!"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

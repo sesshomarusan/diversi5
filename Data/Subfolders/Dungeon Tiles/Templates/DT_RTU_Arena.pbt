@@ -1609,7 +1609,7 @@ Assets {
           Location {
             X: 1200
             Y: 1600
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -2666,7 +2666,7 @@ Assets {
           Location {
             X: -1600
             Y: 1600
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -16525,7 +16525,7 @@ Assets {
           Location {
             X: 1344.18457
             Y: 2603.51514
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -121.639473
@@ -18668,7 +18668,7 @@ Assets {
         Name: "Stone Block Small Broken"
         Transform {
           Location {
-            X: 1098.89063
+            X: 1098.89062
             Y: 1730.16504
             Z: -24.9727669
           }
@@ -18777,7 +18777,7 @@ Assets {
         Transform {
           Location {
             X: 1505.35547
-            Y: 2125.51563
+            Y: 2125.51562
             Z: 58.9337234
           }
           Rotation {
@@ -20022,7 +20022,7 @@ Assets {
         Name: "Stone Block Standard"
         Transform {
           Location {
-            X: 456.726563
+            X: 456.726562
             Y: 91.71875
             Z: 42.4102974
           }
@@ -20186,7 +20186,7 @@ Assets {
         Name: "Stone Block Big Broken"
         Transform {
           Location {
-            X: 380.289063
+            X: 380.289062
             Y: 1206.33301
             Z: -80.2101517
           }
@@ -20674,7 +20674,7 @@ Assets {
         Transform {
           Location {
             X: 1185.59766
-            Y: 236.257813
+            Y: 236.257812
             Z: 29.0699577
           }
           Rotation {
@@ -20726,7 +20726,7 @@ Assets {
         Name: "Stone Block Long"
         Transform {
           Location {
-            X: -772.445313
+            X: -772.445312
             Y: 2557.27197
             Z: -66.6359863
           }
@@ -21058,7 +21058,7 @@ Assets {
         Name: "Bone Human Scattered 02"
         Transform {
           Location {
-            X: -487.570313
+            X: -487.570312
             Y: 727.665039
             Z: -124.746155
           }
@@ -22260,7 +22260,7 @@ Assets {
           Location {
             X: -830.454102
             Y: 231.144531
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -22305,7 +22305,7 @@ Assets {
           Location {
             X: -1419.5459
             Y: 492.922852
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 60.7894936
@@ -23144,7 +23144,7 @@ Assets {
           Location {
             X: -648.889648
             Y: 3041.07959
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -23189,7 +23189,7 @@ Assets {
           Location {
             X: 230.737305
             Y: 2909.85449
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -155.82399
@@ -26355,7 +26355,7 @@ Assets {
         Name: "Fantasy Shield 03"
         Transform {
           Location {
-            X: -985.976563
+            X: -985.976562
             Y: 669.071289
             Z: -65.8169098
           }
@@ -27141,7 +27141,7 @@ Assets {
         Transform {
           Location {
             X: 1563.90332
-            Y: 1113.76563
+            Y: 1113.76562
             Z: 614.349304
           }
           Rotation {
@@ -27233,7 +27233,7 @@ Assets {
         Transform {
           Location {
             X: -1564.85547
-            Y: 1113.76563
+            Y: 1113.76562
             Z: 614.349304
           }
           Rotation {
@@ -27739,7 +27739,7 @@ Assets {
         Transform {
           Location {
             X: -964.344727
-            Y: 276.632813
+            Y: 276.632812
             Z: 25.2538757
           }
           Rotation {
@@ -28258,7 +28258,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: 135.351563
+            X: 135.351562
             Y: 2126.34082
             Z: -124.746094
           }
@@ -28666,7 +28666,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 825.882813
+            X: 825.882812
             Y: 3072.94385
             Z: 25.2539978
           }
@@ -30785,7 +30785,7 @@ Assets {
         Transform {
           Location {
             X: -375
-            Y: 1787.89063
+            Y: 1787.89062
             Z: -394.905365
           }
           Rotation {
@@ -31069,7 +31069,7 @@ Assets {
         Name: "KillZoneServer"
         Transform {
           Location {
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -31805,6 +31805,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

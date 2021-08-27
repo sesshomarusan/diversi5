@@ -607,6 +607,6 @@ Assets {
   Marketplace {
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

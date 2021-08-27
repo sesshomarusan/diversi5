@@ -304,6 +304,6 @@ Assets {
   Marketplace {
     Description: "A medieval torch with lights and sound."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

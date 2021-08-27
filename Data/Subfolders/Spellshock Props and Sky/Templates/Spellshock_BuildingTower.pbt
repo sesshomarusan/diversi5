@@ -146,7 +146,7 @@ Assets {
         Name: "Sphere - Half Thick"
         Transform {
           Location {
-            X: 0.00219726563
+            X: 0.00219726562
             Y: 0.0009765625
             Z: 40
           }
@@ -206,7 +206,7 @@ Assets {
         Name: "Sphere - Half Thick"
         Transform {
           Location {
-            X: 0.00219726563
+            X: 0.00219726562
             Y: 0.0009765625
             Z: -5
           }
@@ -257,7 +257,7 @@ Assets {
         Name: "Sphere - Half Thick"
         Transform {
           Location {
-            X: 0.00219726563
+            X: 0.00219726562
             Y: 0.0009765625
             Z: 85
           }
@@ -758,7 +758,7 @@ Assets {
             Z: 1549.49438
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -1112,7 +1112,7 @@ Assets {
             Z: 1549.49438
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -1466,7 +1466,7 @@ Assets {
             Z: 1549.49438
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -1820,7 +1820,7 @@ Assets {
             Z: 1549.49438
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -2173,7 +2173,7 @@ Assets {
             Z: 1549.49438
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -2526,7 +2526,7 @@ Assets {
             Z: 1549.49438
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -3038,7 +3038,7 @@ Assets {
         Name: "Whitebox Window Insert - Arch Top"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: -505
           }
           Rotation {
@@ -6984,7 +6984,7 @@ Assets {
         Name: "FancyArchDoor"
         Transform {
           Location {
-            X: -5.65820313
+            X: -5.65820312
             Y: -468.09375
           }
           Rotation {
@@ -7923,7 +7923,7 @@ Assets {
         Name: "FancyArchDoor"
         Transform {
           Location {
-            X: -6.10351563e-05
+            X: -6.10351562e-05
             Y: 539.999939
           }
           Rotation {
@@ -8407,7 +8407,7 @@ Assets {
         Name: "Decorations"
         Transform {
           Location {
-            X: 9.33789063
+            X: 9.33789062
             Y: 2.0078125
             Z: 65
           }
@@ -8603,7 +8603,7 @@ Assets {
         Transform {
           Location {
             X: -194.996094
-            Y: -447.007813
+            Y: -447.007812
             Z: 155
           }
           Rotation {
@@ -9353,7 +9353,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -9762,7 +9762,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -10305,7 +10305,7 @@ Assets {
             Z: 198.749512
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -179.999893
             Roll: -179.999893
           }
@@ -10903,7 +10903,7 @@ Assets {
             Z: 198.749512
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -179.999893
             Roll: -179.999893
           }
@@ -11586,6 +11586,6 @@ Assets {
   Marketplace {
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

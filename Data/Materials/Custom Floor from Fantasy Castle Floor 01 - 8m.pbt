@@ -2,7 +2,7 @@ Assets {
   Id: 17664119706470576901
   Name: "Custom Floor from Fantasy Castle Floor 01 - 8m"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 6442023443399809576
     ParameterOverrides {

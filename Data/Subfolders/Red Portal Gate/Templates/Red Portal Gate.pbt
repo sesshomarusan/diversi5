@@ -49,5 +49,5 @@ Assets {
     Version: "1.0.0"
     Description: "It\'s a portal! And it spins.\r\n\r\n(Note: this has not been tested much in multiplayer. You may need to change around the contexts and script.)"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

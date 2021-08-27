@@ -222,7 +222,7 @@ Assets {
           Location {
             X: -26.7279587
             Y: -99.054306
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Pitch: -19.0531311
@@ -675,5 +675,5 @@ Assets {
       AssetId: "Fantasy_Clay_Pots_-_Group_01_Treasure_Template"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

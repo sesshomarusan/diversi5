@@ -1585,7 +1585,7 @@ Assets {
           Location {
             X: 734.771484
             Y: 260.515381
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -2346,7 +2346,7 @@ Assets {
         Name: "Stone Block Small"
         Transform {
           Location {
-            X: -71.2695313
+            X: -71.2695312
             Y: 1508.56787
             Z: 64.7594376
           }
@@ -4270,7 +4270,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: 44.1132813
+            X: 44.1132812
             Y: -8.03222656
             Z: -1.42671204
           }
@@ -4438,7 +4438,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -37.7539063
+            X: -37.7539062
             Y: -30.6074219
             Z: 1.32317734
           }
@@ -8093,7 +8093,7 @@ Assets {
           Location {
             X: -394.68457
             Y: 1046.96533
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8251,7 +8251,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: 1.04882813
+            X: 1.04882812
             Y: 402.849365
             Z: 25.2539368
           }
@@ -8293,7 +8293,7 @@ Assets {
           Location {
             X: -452.979492
             Y: 371.77124
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8333,7 +8333,7 @@ Assets {
           Location {
             X: -393.866211
             Y: 520.946289
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8373,7 +8373,7 @@ Assets {
           Location {
             X: -314.75
             Y: 265.036621
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8572,7 +8572,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 554.476563
+            X: 554.476562
             Y: 1312.55908
             Z: 25.2539368
           }
@@ -8615,7 +8615,7 @@ Assets {
           Location {
             X: -586.703125
             Y: 1205.49268
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -130.074829
@@ -8697,7 +8697,7 @@ Assets {
           Location {
             X: -613.262695
             Y: 795.741699
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -130.074829
@@ -8738,7 +8738,7 @@ Assets {
           Location {
             X: 561.112305
             Y: 376.773682
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8778,7 +8778,7 @@ Assets {
           Location {
             X: -341.560547
             Y: 360.236084
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8818,7 +8818,7 @@ Assets {
           Location {
             X: -641.671875
             Y: 885.047852
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8856,7 +8856,7 @@ Assets {
         Name: "Decal Stone Cracks Variants 01"
         Transform {
           Location {
-            X: 273.507813
+            X: 273.507812
             Y: 327.995361
             Z: 25.2538757
           }
@@ -10059,6 +10059,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

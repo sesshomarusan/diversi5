@@ -1078,6 +1078,6 @@ Assets {
   Marketplace {
     Description: "A silver spear"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

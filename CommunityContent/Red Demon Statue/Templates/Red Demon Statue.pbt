@@ -1246,7 +1246,7 @@ Assets {
             Z: 24.3615189
           }
           Rotation {
-            Pitch: -26.5195313
+            Pitch: -26.5195312
             Yaw: -127.681061
             Roll: -49.837677
           }
@@ -4255,7 +4255,7 @@ Assets {
           Location {
             X: -155.382385
             Y: -84.3770142
-            Z: 1047.70313
+            Z: 1047.70312
           }
           Rotation {
             Pitch: 31.8780422
@@ -4509,6 +4509,6 @@ Assets {
   Marketplace {
     Description: "Red Demon Statue"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

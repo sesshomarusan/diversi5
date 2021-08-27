@@ -1207,7 +1207,7 @@ Assets {
         Transform {
           Location {
             X: -15.1980743
-            Y: 98.8632813
+            Y: 98.8632812
             Z: 9.51778793
           }
           Rotation {
@@ -2223,7 +2223,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: 2.93945313
+            X: 2.93945312
             Y: 26.138916
             Z: 10.7721252
           }
@@ -3075,7 +3075,7 @@ Assets {
           }
           Rotation {
             Pitch: -37.6845093
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 0.47561118
@@ -3141,7 +3141,7 @@ Assets {
           }
           Rotation {
             Pitch: -37.6844788
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: 5.11174569e-08
           }
           Scale {
@@ -4623,5 +4623,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

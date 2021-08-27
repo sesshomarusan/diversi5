@@ -1585,7 +1585,7 @@ Assets {
           Location {
             X: -262.473633
             Y: 281.776855
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -2116,7 +2116,7 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: 249.226563
+            X: 249.226562
             Y: 339.931641
             Z: 34.1646423
           }
@@ -2279,7 +2279,7 @@ Assets {
           Location {
             X: -323.506836
             Y: 1117.32935
-            Z: -270.507813
+            Z: -270.507812
           }
           Rotation {
             Yaw: -73.3234329
@@ -2604,7 +2604,7 @@ Assets {
         Name: "Waterfall Straight"
         Transform {
           Location {
-            X: 56.6289063
+            X: 56.6289062
             Y: 1708.26807
             Z: 342.798889
           }
@@ -4192,7 +4192,7 @@ Assets {
         Name: "Decal Moss Patch"
         Transform {
           Location {
-            X: -321.976563
+            X: -321.976562
             Y: 1580
             Z: 405.04187
           }
@@ -4277,7 +4277,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 54.0195313
+            X: 54.0195312
             Y: 269.225952
             Z: 25.2538605
           }
@@ -5474,6 +5474,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

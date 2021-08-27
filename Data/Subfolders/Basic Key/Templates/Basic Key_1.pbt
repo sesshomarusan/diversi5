@@ -452,6 +452,6 @@ Assets {
   Marketplace {
     Description: "Basic Key"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

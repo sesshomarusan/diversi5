@@ -919,7 +919,7 @@ Assets {
         Transform {
           Location {
             X: -1070.30176
-            Y: 448.570313
+            Y: 448.570312
             Z: 1097.80847
           }
           Rotation {
@@ -1810,7 +1810,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -606.914063
+            X: -606.914062
             Y: 245.871338
             Z: 1858.33911
           }
@@ -2797,7 +2797,7 @@ Assets {
           }
           Rotation {
             Yaw: -51.3643799
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.657687545
@@ -3193,7 +3193,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -179.476563
+            X: -179.476562
             Y: -437.614502
             Z: 1653.51172
           }
@@ -7760,7 +7760,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000122943398
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989136
           }
           Scale {
@@ -11395,7 +11395,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.00011611321
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -12390,7 +12390,7 @@ Assets {
           Location {
             X: 223.787598
             Y: -282.547363
-            Z: 324.726563
+            Z: 324.726562
           }
           Rotation {
             Pitch: 4.09811328e-05
@@ -13760,7 +13760,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -13811,7 +13811,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -14962,7 +14962,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -15013,7 +15013,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -16164,7 +16164,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -16215,7 +16215,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -19052,7 +19052,7 @@ Assets {
             Z: 305.066467
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -50.9608765
             Roll: -23.7410889
           }
@@ -20278,7 +20278,7 @@ Assets {
         Transform {
           Location {
             X: -1070.30176
-            Y: 448.570313
+            Y: 448.570312
             Z: 1097.80847
           }
           Rotation {
@@ -21169,7 +21169,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -606.914063
+            X: -606.914062
             Y: 245.871277
             Z: 1858.28223
           }
@@ -21305,7 +21305,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -460.007813
+            X: -460.007812
             Y: -392.19043
             Z: 1570.66577
           }
@@ -21963,7 +21963,7 @@ Assets {
           }
           Rotation {
             Yaw: -51.3643799
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.657687545
@@ -22359,7 +22359,7 @@ Assets {
         Name: "Large Wood Beam 8m"
         Transform {
           Location {
-            X: -179.476563
+            X: -179.476562
             Y: -437.614502
             Z: 1653.51172
           }
@@ -22568,7 +22568,7 @@ Assets {
             Z: 1570.66577
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -51.3654175
             Roll: 89.999939
           }
@@ -22840,7 +22840,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000245886797
-            Yaw: 128.632813
+            Yaw: 128.632812
             Roll: -23.8454895
           }
           Scale {
@@ -28453,7 +28453,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000122943398
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989136
           }
           Scale {
@@ -32309,7 +32309,7 @@ Assets {
           Location {
             X: 223.787598
             Y: -282.547363
-            Z: 324.726563
+            Z: 324.726562
           }
           Rotation {
             Pitch: 4.09811328e-05
@@ -33760,7 +33760,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -33811,7 +33811,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -34962,7 +34962,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -35013,7 +35013,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -36164,7 +36164,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -36215,7 +36215,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -37366,7 +37366,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -37417,7 +37417,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -38568,7 +38568,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -38619,7 +38619,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -40216,7 +40216,7 @@ Assets {
             Z: 305.066467
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -50.9608765
             Roll: -23.7410889
           }
@@ -44203,7 +44203,7 @@ Assets {
         Transform {
           Location {
             X: -1070.30176
-            Y: 448.570313
+            Y: 448.570312
             Z: 1097.80847
           }
           Rotation {
@@ -48995,7 +48995,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000122943398
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989136
           }
           Scale {
@@ -52026,7 +52026,7 @@ Assets {
           }
           Rotation {
             Pitch: -3.05175781e-05
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -179.999802
           }
           Scale {
@@ -52226,7 +52226,7 @@ Assets {
             Z: 100.176941
           }
           Rotation {
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: 9.15527417e-05
           }
           Scale {
@@ -52834,7 +52834,7 @@ Assets {
             Z: 184.04541
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: 89.9997101
           }
           Scale {
@@ -52901,7 +52901,7 @@ Assets {
           Rotation {
             Pitch: 90
             Yaw: -90
-            Roll: -0.00122070313
+            Roll: -0.00122070312
           }
           Scale {
             X: 0.388877422
@@ -54217,7 +54217,7 @@ Assets {
             Z: 76.3615265
           }
           Rotation {
-            Pitch: -6.10351563e-05
+            Pitch: -6.10351562e-05
             Yaw: -0.000335693359
             Roll: 0.000116753712
           }
@@ -57631,7 +57631,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000109283021
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6990356
           }
           Scale {
@@ -57698,7 +57698,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000109283021
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6990356
           }
           Scale {
@@ -57765,7 +57765,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.00011611321
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -57899,7 +57899,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.00011611321
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -57966,7 +57966,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.00011611321
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -58100,7 +58100,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000129773587
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -58167,7 +58167,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000129773587
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -58368,7 +58368,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.00011611321
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -58435,7 +58435,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.00011611321
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6989746
           }
           Scale {
@@ -59971,7 +59971,7 @@ Assets {
           Location {
             X: 223.787598
             Y: -282.547363
-            Z: 324.726563
+            Z: 324.726562
           }
           Rotation {
             Pitch: 4.09811328e-05
@@ -61785,7 +61785,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -61836,7 +61836,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -62193,7 +62193,7 @@ Assets {
           }
           Rotation {
             Pitch: 2.04905664e-05
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 0.672382951
@@ -65335,7 +65335,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -65386,7 +65386,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -66537,7 +66537,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -66588,7 +66588,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -69943,6 +69943,6 @@ Assets {
   Marketplace {
     Description: "Three very neat buildigns without interior. \r\nAll in medium detail and functional design. These can be fittet to whatever need you might have. \r\nThey support dynamic terrain very well and can be used in almost any setting. (although they\'re made for a fantasy setting)."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

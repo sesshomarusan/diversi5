@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Inn just for eating and drinking"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

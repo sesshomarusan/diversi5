@@ -229,6 +229,6 @@ Assets {
   Marketplace {
     Description: "Health\r\n======\r\n\r\nA bubbling potion to heal your players (with scripts)..\r\n\r\n- Health Potion\r\n- Restores 25% Health\r\n- Adds XP 5+\r\n\r\nCollectable Health Potion.. add them all over your map to heal your players during combat."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

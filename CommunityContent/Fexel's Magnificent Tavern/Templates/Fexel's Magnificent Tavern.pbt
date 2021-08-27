@@ -406,7 +406,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.19726563
+            X: 1.19726562
             Y: 0.0185546875
             Z: 6.9316864
           }
@@ -510,7 +510,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.81445313
+            X: 1.81445312
             Y: 0.0185546875
           }
           Rotation {
@@ -561,7 +561,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.77539063
+            X: 1.77539062
             Y: -0.078125
             Z: 17.24263
           }
@@ -702,7 +702,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.19726563
+            X: 1.19726562
             Y: 0.0185546875
             Z: 6.9316864
           }
@@ -806,7 +806,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.81445313
+            X: 1.81445312
             Y: 0.0185546875
           }
           Rotation {
@@ -857,7 +857,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.77539063
+            X: 1.77539062
             Y: -0.078125
             Z: 17.24263
           }
@@ -998,7 +998,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.19726563
+            X: 1.19726562
             Y: 0.0185546875
             Z: 6.9316864
           }
@@ -1102,7 +1102,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.81445313
+            X: 1.81445312
             Y: 0.0185546875
           }
           Rotation {
@@ -1153,7 +1153,7 @@ Assets {
         Name: "Cone - Bullet"
         Transform {
           Location {
-            X: 1.77539063
+            X: 1.77539062
             Y: -0.078125
             Z: 17.24263
           }
@@ -4678,7 +4678,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000122943398
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -71.6992188
           }
           Scale {
@@ -6085,7 +6085,7 @@ Assets {
           }
           Rotation {
             Pitch: 9.56226431e-05
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -71.6991
           }
           Scale {
@@ -6219,7 +6219,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000122943398
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -71.6990356
           }
           Scale {
@@ -6353,7 +6353,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000102452832
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -71.6990356
           }
           Scale {
@@ -6550,7 +6550,7 @@ Assets {
           Location {
             X: 377.375122
             Y: 3.69122458
-            Z: 746.882813
+            Z: 746.882812
           }
           Rotation {
             Pitch: 0.000102452832
@@ -7404,7 +7404,7 @@ Assets {
           }
           Rotation {
             Pitch: 0.000122943398
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -71.6990356
           }
           Scale {
@@ -17650,7 +17650,7 @@ Assets {
         Transform {
           Location {
             X: 1023.73926
-            Y: 707.851563
+            Y: 707.851562
             Z: 560.677246
           }
           Rotation {
@@ -17717,7 +17717,7 @@ Assets {
         Transform {
           Location {
             X: 1023.77051
-            Y: 707.914063
+            Y: 707.914062
             Z: 594.680542
           }
           Rotation {
@@ -18855,7 +18855,7 @@ Assets {
         Name: "Large Wood Board 8m"
         Transform {
           Location {
-            X: 36.3945313
+            X: 36.3945312
             Y: 10.9042969
             Z: 709.746155
           }
@@ -21722,7 +21722,7 @@ Assets {
           Rotation {
             Pitch: -90
             Yaw: -90
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.101096869
@@ -27777,7 +27777,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -27901,7 +27901,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -28262,7 +28262,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -28386,7 +28386,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -28747,7 +28747,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -28871,7 +28871,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -29232,7 +29232,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -29356,7 +29356,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -32217,7 +32217,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -32341,7 +32341,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -32702,7 +32702,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -32826,7 +32826,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -33187,7 +33187,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -33311,7 +33311,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -35547,7 +35547,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -35671,7 +35671,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -36946,7 +36946,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -37070,7 +37070,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -37431,7 +37431,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -37555,7 +37555,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -37916,7 +37916,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -38040,7 +38040,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -39026,7 +39026,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: -28.3789063
+            Y: -28.3789062
           }
           Rotation {
           }
@@ -39150,7 +39150,7 @@ Assets {
         Name: "Craftsman Part - Stair Rail"
         Transform {
           Location {
-            Y: 28.3789063
+            Y: 28.3789062
           }
           Rotation {
             Roll: -179.999954
@@ -42660,7 +42660,7 @@ Assets {
         Name: "Wooden Bucket"
         Transform {
           Location {
-            X: 2.60351563
+            X: 2.60351562
             Y: -27.3876953
           }
           Rotation {
@@ -42746,7 +42746,7 @@ Assets {
         Name: "Cone - Truncated Wide"
         Transform {
           Location {
-            X: 2.47851563
+            X: 2.47851562
             Y: -27.3876953
             Z: 34.9677658
           }
@@ -84038,7 +84038,7 @@ Assets {
             Z: 83.9820099
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: 5.34157856e-08
           }
           Scale {
@@ -84704,7 +84704,7 @@ Assets {
             Z: 83.9820099
           }
           Rotation {
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: 5.34157856e-08
           }
           Scale {
@@ -89949,7 +89949,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -90000,7 +90000,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -91150,7 +91150,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -91201,7 +91201,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -92351,7 +92351,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -92402,7 +92402,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -93552,7 +93552,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -93603,7 +93603,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -94751,7 +94751,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -94802,7 +94802,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -95951,7 +95951,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -96002,7 +96002,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -97151,7 +97151,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -97202,7 +97202,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -98614,7 +98614,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -98665,7 +98665,7 @@ Assets {
         Transform {
           Location {
             X: 11.2890625
-            Y: 0.250976563
+            Y: 0.250976562
             Z: -10.612854
           }
           Rotation {
@@ -100319,7 +100319,7 @@ Assets {
         Name: "Carpet Tile 01"
         Transform {
           Location {
-            X: -28.2226563
+            X: -28.2226562
             Y: -57.6318359
           }
           Rotation {
@@ -103539,7 +103539,7 @@ Assets {
         Name: "Wedge - Concave"
         Transform {
           Location {
-            X: -48.8476563
+            X: -48.8476562
             Y: 74.8398438
           }
           Rotation {
@@ -103596,7 +103596,7 @@ Assets {
         Name: "Wedge - Concave"
         Transform {
           Location {
-            X: 48.8476563
+            X: 48.8476562
             Y: -74.8408203
             Z: 7.62939453e-06
           }
@@ -103654,7 +103654,7 @@ Assets {
         Transform {
           Location {
             X: 48.8554688
-            Y: 74.9414063
+            Y: 74.9414062
             Z: 7.62939453e-06
           }
           Rotation {
@@ -104183,7 +104183,7 @@ Assets {
             Z: 95
           }
           Rotation {
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
           }
           Scale {
             X: 1
@@ -110876,7 +110876,7 @@ Assets {
           Rotation {
             Pitch: 90
             Yaw: -90
-            Roll: -0.000122070313
+            Roll: -0.000122070312
           }
           Scale {
             X: 0.0418655314
@@ -117726,7 +117726,7 @@ Assets {
         Transform {
           Location {
             X: 0.352050781
-            Y: -24.5195313
+            Y: -24.5195312
             Z: 56.8613281
           }
           Rotation {
@@ -118072,7 +118072,7 @@ Assets {
           }
           Rotation {
             Pitch: 85.4489441
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
             Roll: -179.999817
           }
           Scale {
@@ -120228,7 +120228,7 @@ Assets {
         Transform {
           Location {
             X: 0.352050781
-            Y: -24.5195313
+            Y: -24.5195312
             Z: 56.8613281
           }
           Rotation {
@@ -120459,7 +120459,7 @@ Assets {
         Transform {
           Location {
             X: 0.352050781
-            Y: -24.5195313
+            Y: -24.5195312
             Z: 56.8613281
           }
           Rotation {
@@ -120746,7 +120746,7 @@ Assets {
         Transform {
           Location {
             X: -28615.8945
-            Y: -16185.0313
+            Y: -16185.0312
             Z: 467.182983
           }
           Rotation {
@@ -121190,8 +121190,8 @@ Assets {
         Name: "Pipe"
         Transform {
           Location {
-            X: -17.3320313
-            Y: -6.10351563e-05
+            X: -17.3320312
+            Y: -6.10351562e-05
           }
           Rotation {
             Pitch: 90
@@ -121258,7 +121258,7 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
           }
           Rotation {
             Pitch: 90
@@ -121376,8 +121376,8 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: 0.000122070313
-            Z: 6.10351563e-05
+            Y: 0.000122070312
+            Z: 6.10351562e-05
           }
           Rotation {
             Roll: -45.0001488
@@ -121653,7 +121653,7 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
             Roll: 134.999863
@@ -121855,7 +121855,7 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Roll: -135.000122
@@ -122057,8 +122057,8 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: 0.000122070313
-            Z: -6.10351563e-05
+            Y: 0.000122070312
+            Z: -6.10351562e-05
           }
           Rotation {
             Roll: 44.9999733
@@ -122259,8 +122259,8 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: 6.10351563e-05
-            Z: 0.000122070313
+            Y: 6.10351562e-05
+            Z: 0.000122070312
           }
           Rotation {
             Roll: -90.0001144
@@ -122460,8 +122460,8 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: 6.10351563e-05
-            Z: -0.000122070313
+            Y: 6.10351562e-05
+            Z: -0.000122070312
           }
           Rotation {
             Roll: 89.9999542
@@ -122662,7 +122662,7 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
           }
           Rotation {
             Roll: 179.999893
@@ -122735,7 +122735,7 @@ Assets {
         Transform {
           Location {
             X: -17.3859863
-            Y: -6.10351563e-05
+            Y: -6.10351562e-05
             Z: 115.482056
           }
           Rotation {
@@ -125984,7 +125984,7 @@ Assets {
           Rotation {
             Pitch: 4.09811328e-05
             Yaw: 2.7320717e-05
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.18511638
@@ -126313,7 +126313,7 @@ Assets {
           Rotation {
             Pitch: 5.46415104e-05
             Yaw: 2.7214e-05
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.18511638
@@ -127150,7 +127150,7 @@ Assets {
     }
     Assets {
       Id: 16884155995964102364
-      Name: "Wood Planks Dark"
+      Name: "Wood Planks"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
@@ -128209,6 +128209,6 @@ Assets {
   Marketplace {
     Description: "Probably the best Tavern I\'ve ever put together. \r\nFully functional interior, detailed and realistic. (Includes a potty!)\r\nMany said they really enjoyed this area, and I\'d love to see others benefit from the work I\'ve contributed to CORE with.\r\n\r\n - Fexel"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

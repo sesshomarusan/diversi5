@@ -906,7 +906,7 @@ Assets {
     }
     Assets {
       Id: 17512224971663288789
-      Name: "Dragon Mob"
+      Name: "Whelp Mob"
       PlatformAssetType: 17
       PrimaryAsset {
         AssetType: "AnimatedMeshAssetRef"
@@ -918,5 +918,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

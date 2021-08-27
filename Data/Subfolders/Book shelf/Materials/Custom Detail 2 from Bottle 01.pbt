@@ -2,7 +2,7 @@ Assets {
   Id: 4790866392585850045
   Name: "Custom Detail 2 from Bottle 01"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 10847835421484940811
     ParameterOverrides {

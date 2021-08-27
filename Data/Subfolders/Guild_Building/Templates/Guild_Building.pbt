@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A guild for adventurers"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

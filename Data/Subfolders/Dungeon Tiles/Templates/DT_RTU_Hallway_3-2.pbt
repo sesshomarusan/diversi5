@@ -3018,7 +3018,7 @@ Assets {
           Location {
             X: 909.498047
             Y: 979.662109
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -25.1811295
@@ -5002,7 +5002,7 @@ Assets {
           Location {
             X: 1499.01855
             Y: 1047.16895
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 111.017792
@@ -5093,7 +5093,7 @@ Assets {
           Location {
             X: 161.657227
             Y: 316.095703
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -158.484543
@@ -5285,8 +5285,8 @@ Assets {
         Transform {
           Location {
             X: 2239.33789
-            Y: 247.945313
-            Z: 25.2539063
+            Y: 247.945312
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -14.9771309
@@ -6700,6 +6700,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

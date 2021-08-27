@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A bubbling cauldron of lava and magma in this lost world of fire and ice.\r\n\r\nMy name is Richard, working alongside John, helping him to bring his creations to life.\r\n\r\nPlease feel free to dowload this inferno but don\'t get your fingers burnt! Enjoy."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

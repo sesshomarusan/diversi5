@@ -4319,7 +4319,7 @@ Assets {
         Transform {
           Location {
             X: 103.047852
-            Y: 1297.51563
+            Y: 1297.51562
             Z: -124.746727
           }
           Rotation {
@@ -4919,7 +4919,7 @@ Assets {
           Location {
             X: 1111.58008
             Y: 1139.24023
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 89.9999924
@@ -5192,7 +5192,7 @@ Assets {
           Location {
             X: -1118.05371
             Y: 160.047852
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -5515,7 +5515,7 @@ Assets {
           Location {
             X: 1016.02148
             Y: 2315.9541
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 82.0747375
@@ -5783,7 +5783,7 @@ Assets {
           Location {
             X: -1159.4082
             Y: 2272.06201
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -7805,7 +7805,7 @@ Assets {
         Transform {
           Location {
             X: 537.866211
-            Y: 94.0820313
+            Y: 94.0820312
             Z: 25.2538757
           }
           Rotation {
@@ -7896,7 +7896,7 @@ Assets {
           Location {
             X: -1097.79199
             Y: 576.546875
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -8802,7 +8802,7 @@ Assets {
         Transform {
           Location {
             X: 502.177734
-            Y: 625.539063
+            Y: 625.539062
             Z: -124.746765
           }
           Rotation {
@@ -9826,7 +9826,7 @@ Assets {
         Transform {
           Location {
             X: -1180
-            Y: 261.882813
+            Y: 261.882812
             Z: 376.469482
           }
           Rotation {
@@ -10440,6 +10440,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

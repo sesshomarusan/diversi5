@@ -2,7 +2,7 @@ Assets {
   Id: 10871128592263773879
   Name: "Custom Edge Stripe from Street Sign - Round"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 2741839464876315469
     ParameterOverrides {

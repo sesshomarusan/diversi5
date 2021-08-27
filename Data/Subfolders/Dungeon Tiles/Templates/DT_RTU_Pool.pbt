@@ -11429,7 +11429,7 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: -1040.45313
+            X: -1040.45312
             Y: 2279.11694
             Z: 628.248
           }
@@ -12579,7 +12579,7 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 981.289063
+            X: 981.289062
             Y: 2510.63965
             Z: 25.2538738
           }
@@ -13705,7 +13705,7 @@ Assets {
         Transform {
           Location {
             X: 494.802734
-            Y: 1948.64063
+            Y: 1948.64062
             Z: -168.126602
           }
           Rotation {
@@ -15188,7 +15188,7 @@ Assets {
         Name: "Stone Block Big Broken"
         Transform {
           Location {
-            X: 18.7070313
+            X: 18.7070312
             Y: 1681.9541
             Z: 629.442383
           }
@@ -17198,7 +17198,7 @@ Assets {
           Location {
             X: 1110.11719
             Y: 2044.31177
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -93.6701
@@ -17427,7 +17427,7 @@ Assets {
           Location {
             X: 1018.60352
             Y: 197.482422
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Roll: -29.0567303
@@ -17516,7 +17516,7 @@ Assets {
         Name: "Bone Human Scattered 02"
         Transform {
           Location {
-            X: -812.820313
+            X: -812.820312
             Y: 2813.38623
             Z: 25.2538147
           }
@@ -17563,7 +17563,7 @@ Assets {
           Location {
             X: 1075.65723
             Y: 2893.4834
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -17745,7 +17745,7 @@ Assets {
           Location {
             X: 916.663086
             Y: 2296.99902
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 26.935173
@@ -18065,7 +18065,7 @@ Assets {
           Location {
             X: -750.545898
             Y: 881.112793
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20282,7 +20282,7 @@ Assets {
         Transform {
           Location {
             Y: 2129.86694
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -21078,7 +21078,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: -81.9726563
+            X: -81.9726562
             Y: 2380.37231
             Z: 626.897095
           }
@@ -22290,7 +22290,7 @@ Assets {
           Location {
             X: -1058.44531
             Y: 1812.00269
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -178.236298
@@ -26262,6 +26262,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

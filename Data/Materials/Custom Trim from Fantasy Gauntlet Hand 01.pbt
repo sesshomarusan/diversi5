@@ -2,7 +2,7 @@ Assets {
   Id: 6614952168733288138
   Name: "Custom Trim from Fantasy Gauntlet Hand 01"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 2659112280212203380
     ParameterOverrides {

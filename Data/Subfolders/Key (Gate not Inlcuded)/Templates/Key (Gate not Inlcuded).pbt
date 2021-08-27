@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Key object to be used with gate (check out my other assets!)"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

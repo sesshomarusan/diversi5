@@ -1615,7 +1615,7 @@ Assets {
         Name: "Arch Fancy Peaked 2m"
         Transform {
           Location {
-            X: -11.1132813
+            X: -11.1132812
             Y: -4.20483398
             Z: 123.445068
           }
@@ -1732,7 +1732,7 @@ Assets {
         Transform {
           Location {
             X: -11.3095703
-            Y: -6.70507813
+            Y: -6.70507812
             Z: 116.380798
           }
           Rotation {
@@ -4321,7 +4321,7 @@ Assets {
         Transform {
           Location {
             X: -10.2276611
-            Y: -45.9257813
+            Y: -45.9257812
             Z: 117.147705
           }
           Rotation {
@@ -5510,7 +5510,7 @@ Assets {
         Transform {
           Location {
             X: -10.199585
-            Y: 6.94726563
+            Y: 6.94726562
             Z: 23.5269775
           }
           Rotation {
@@ -6025,8 +6025,8 @@ Assets {
         Name: "Arch Fancy Peaked 2m"
         Transform {
           Location {
-            X: -11.1132813
-            Y: 4.20507813
+            X: -11.1132812
+            Y: 4.20507812
             Z: 123.445068
           }
           Rotation {
@@ -6574,7 +6574,7 @@ Assets {
         Transform {
           Location {
             X: -15.8979492
-            Y: 47.5507813
+            Y: 47.5507812
             Z: 148.706421
           }
           Rotation {
@@ -10748,7 +10748,7 @@ Assets {
           Location {
             X: -8.15942383
             Y: -0.112792969
-            Z: 184.695313
+            Z: 184.695312
           }
           Rotation {
             Pitch: -16.1005249
@@ -12061,6 +12061,6 @@ Assets {
   Marketplace {
     Description: "Medieval Knight\342\200\231s Armor"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

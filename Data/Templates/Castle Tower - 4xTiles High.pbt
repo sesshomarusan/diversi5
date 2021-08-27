@@ -1534,7 +1534,7 @@ Assets {
         Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 399.999969
             Z: 2140
           }
@@ -1831,5 +1831,5 @@ Assets {
       AssetId: "Castle_Tower_-_4xTiles_High"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

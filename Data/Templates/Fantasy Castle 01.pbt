@@ -6895,7 +6895,7 @@ Assets {
           Location {
             X: -4800
             Y: -400
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: 179.999939
@@ -6939,7 +6939,7 @@ Assets {
           Location {
             X: -4800
             Y: 400
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: -9.15527344e-05
@@ -13723,7 +13723,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -13810,7 +13810,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -13941,7 +13941,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -14028,7 +14028,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -14739,7 +14739,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -14783,7 +14783,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -14923,7 +14923,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -14967,7 +14967,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -15011,7 +15011,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -15151,7 +15151,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -15195,7 +15195,7 @@ Assets {
             Z: 650
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -15335,7 +15335,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -15892,7 +15892,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -15979,7 +15979,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -16154,7 +16154,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -16241,7 +16241,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -17888,7 +17888,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -17975,7 +17975,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -18150,7 +18150,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -18237,7 +18237,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -24756,7 +24756,7 @@ Assets {
           }
           Rotation {
             Pitch: 4.09811328e-05
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -89.9998779
           }
           Scale {
@@ -34246,7 +34246,7 @@ Assets {
             Z: 1450
           }
           Rotation {
-            Yaw: -0.000122070313
+            Yaw: -0.000122070312
           }
           Scale {
             X: 1
@@ -35905,7 +35905,7 @@ Assets {
         Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 399.999969
             Z: 2140
           }
@@ -37651,7 +37651,7 @@ Assets {
         Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 399.999969
             Z: 2140
           }
@@ -39398,7 +39398,7 @@ Assets {
         Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 399.999969
             Z: 2140
           }
@@ -41145,7 +41145,7 @@ Assets {
         Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 399.999969
             Z: 2140
           }
@@ -43996,5 +43996,5 @@ Assets {
       AssetId: "Fantasy_Castle_01"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

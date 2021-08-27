@@ -1984,6 +1984,6 @@ Assets {
   Marketplace {
     Description: "Ornate Eye Key"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

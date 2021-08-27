@@ -1172,6 +1172,6 @@ Assets {
   Marketplace {
     Description: "Potions and books\r\n\r\n\r\n-Ahega0"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

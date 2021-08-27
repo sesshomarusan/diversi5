@@ -49,5 +49,5 @@ Assets {
     Version: "1.2.0"
     Description: "Basic key"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

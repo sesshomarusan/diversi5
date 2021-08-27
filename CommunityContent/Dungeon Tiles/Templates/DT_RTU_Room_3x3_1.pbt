@@ -4292,7 +4292,7 @@ Assets {
         Name: "Hill 04"
         Transform {
           Location {
-            X: -998.164063
+            X: -998.164062
             Y: 94.8452148
             Z: 25.2538147
           }
@@ -4348,7 +4348,7 @@ Assets {
           Location {
             X: -858.230469
             Y: 1114.03271
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -4669,7 +4669,7 @@ Assets {
           Location {
             X: 695.072266
             Y: 71.0600586
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -103.765762
@@ -4768,7 +4768,7 @@ Assets {
         Transform {
           Location {
             X: 1129.07227
-            Y: 1671.32813
+            Y: 1671.32812
             Z: 25.2538452
           }
           Rotation {
@@ -4860,7 +4860,7 @@ Assets {
         Transform {
           Location {
             X: -1123.85352
-            Y: 1671.32813
+            Y: 1671.32812
             Z: 25.2538452
           }
           Rotation {
@@ -7435,7 +7435,7 @@ Assets {
         Transform {
           Location {
             X: 708.400391
-            Y: 419.914063
+            Y: 419.914062
             Z: 36.4353714
           }
           Rotation {
@@ -9520,7 +9520,7 @@ Assets {
         Name: "Decal Stains Top 01"
         Transform {
           Location {
-            X: 1.59570313
+            X: 1.59570312
             Y: 247.652832
             Z: 25.2539368
           }
@@ -9881,7 +9881,7 @@ Assets {
         Transform {
           Location {
             X: 466.887695
-            Y: 245.226563
+            Y: 245.226562
             Z: 25.2537231
           }
           Rotation {
@@ -10408,7 +10408,7 @@ Assets {
           Location {
             X: -516.584961
             Y: 1489.18848
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -63.5992279
@@ -11288,6 +11288,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

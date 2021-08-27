@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "a perfect bones wall for gothic map !"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

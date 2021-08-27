@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A silver spear"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

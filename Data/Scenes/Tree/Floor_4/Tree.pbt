@@ -11663,7 +11663,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -34879,7 +34879,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -58095,7 +58095,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -81311,7 +81311,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -104527,7 +104527,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -127743,7 +127743,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -150959,7 +150959,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }
@@ -164312,7 +164312,7 @@ Objects {
   Transform {
     Location {
       X: -4425.00684
-      Y: 1577.76563
+      Y: 1577.76562
       Z: -128.952637
     }
     Rotation {
@@ -164364,7 +164364,7 @@ Objects {
   Transform {
     Location {
       X: 46.9338379
-      Y: 1577.76563
+      Y: 1577.76562
       Z: -141.703369
     }
     Rotation {
@@ -164578,7 +164578,7 @@ Objects {
   Transform {
     Location {
       X: -398.873047
-      Y: -6464.64063
+      Y: -6464.64062
       Z: -191.839905
     }
     Rotation {

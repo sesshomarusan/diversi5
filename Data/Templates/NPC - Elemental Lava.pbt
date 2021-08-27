@@ -2571,7 +2571,7 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: 9.90039063
+            X: 9.90039062
             Y: -83.5531158
             Z: 41.3736115
           }
@@ -3006,7 +3006,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -28.3632813
+            X: -28.3632812
             Y: 60.4119415
             Z: 9.71598816
           }
@@ -3596,7 +3596,7 @@ Assets {
         Name: "Magma"
         Transform {
           Location {
-            X: -4.26757813
+            X: -4.26757812
             Y: 25.4479828
             Z: -7.3596344
           }
@@ -4491,5 +4491,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

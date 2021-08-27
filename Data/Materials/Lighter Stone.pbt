@@ -2,7 +2,7 @@ Assets {
   Id: 17788049385273474619
   Name: "Lighter Stone"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 11919595077235858953
     ParameterOverrides {

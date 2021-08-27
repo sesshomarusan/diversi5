@@ -12078,7 +12078,7 @@ Assets {
         Name: "Gargbody"
         Transform {
           Location {
-            X: -9.72070313
+            X: -9.72070312
             Y: -75.4657
             Z: -130.431885
           }
@@ -40107,7 +40107,7 @@ Assets {
         Name: "Gargbody"
         Transform {
           Location {
-            X: -9.72070313
+            X: -9.72070312
             Y: -75.4657
             Z: -130.431885
           }
@@ -61239,7 +61239,7 @@ Assets {
         Name: "Gargbody"
         Transform {
           Location {
-            X: -9.72070313
+            X: -9.72070312
             Y: -75.4657
             Z: -130.431885
           }
@@ -82423,7 +82423,7 @@ Assets {
         Name: "Gargbody"
         Transform {
           Location {
-            X: -9.72070313
+            X: -9.72070312
             Y: -75.4657
             Z: -130.431885
           }
@@ -93120,6 +93120,6 @@ Assets {
   Marketplace {
     Description: "Boss Room for AphrimCreates."
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

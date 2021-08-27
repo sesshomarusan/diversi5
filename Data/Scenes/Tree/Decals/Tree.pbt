@@ -617,7 +617,7 @@ Objects {
   Transform {
     Location {
       X: -1180
-      Y: 244.632813
+      Y: 244.632812
       Z: 326.99
     }
     Rotation {
@@ -2679,7 +2679,7 @@ Objects {
   Name: "Decal Dirt Patch"
   Transform {
     Location {
-      X: -1147.26563
+      X: -1147.26562
       Y: 833.228333
       Z: 25.2537231
     }

@@ -1409,7 +1409,7 @@ Assets {
         Name: "Stone Block Long"
         Transform {
           Location {
-            X: -591.976563
+            X: -591.976562
             Y: 296.165771
             Z: -3.82664108
           }
@@ -2850,6 +2850,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

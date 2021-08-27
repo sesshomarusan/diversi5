@@ -255,7 +255,7 @@ Assets {
         Name: "FencePostOrb"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 141.190063
           }
           Rotation {
@@ -536,7 +536,7 @@ Assets {
         Name: "FencePostOrb"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 141.190063
           }
           Rotation {
@@ -819,7 +819,7 @@ Assets {
         Name: "FencePostOrb"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 141.190063
           }
           Rotation {
@@ -885,7 +885,7 @@ Assets {
         Name: "Torch Fire VFX"
         Transform {
           Location {
-            X: 6.10351563e-05
+            X: 6.10351562e-05
             Z: 134.742737
           }
           Rotation {
@@ -2354,7 +2354,7 @@ Assets {
         Transform {
           Location {
             X: -150
-            Z: 115.601563
+            Z: 115.601562
           }
           Rotation {
             Pitch: -3
@@ -5962,7 +5962,7 @@ Assets {
         Name: "FencePostOrb"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 141.190063
           }
           Rotation {
@@ -6245,7 +6245,7 @@ Assets {
         Name: "FencePostOrb"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 141.190063
           }
           Rotation {
@@ -6311,7 +6311,7 @@ Assets {
         Name: "Torch Fire VFX"
         Transform {
           Location {
-            X: 6.10351563e-05
+            X: 6.10351562e-05
             Z: 134.742737
           }
           Rotation {
@@ -7498,7 +7498,7 @@ Assets {
         Name: "FencePostOrb"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 141.190063
           }
           Rotation {
@@ -8161,7 +8161,7 @@ Assets {
         Transform {
           Location {
             X: -150
-            Z: 115.601563
+            Z: 115.601562
           }
           Rotation {
             Pitch: -3
@@ -10404,7 +10404,7 @@ Assets {
     }
     Assets {
       Id: 724764779177295059
-      Name: "Wood Planks Dark"
+      Name: "Wood Planks"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
@@ -10464,6 +10464,6 @@ Assets {
   Marketplace {
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

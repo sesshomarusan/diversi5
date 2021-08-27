@@ -239,7 +239,7 @@ Assets {
         Name: "NPC Waypoint - main"
         Transform {
           Location {
-            X: 137.695313
+            X: 137.695312
             Y: -54.0048828
             Z: 3.9519043
           }
@@ -567,5 +567,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

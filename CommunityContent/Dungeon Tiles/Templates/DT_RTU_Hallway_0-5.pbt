@@ -2012,7 +2012,7 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 4675.89063
+            X: 4675.89062
             Y: 928.011719
             Z: -256.34137
           }
@@ -2119,7 +2119,7 @@ Assets {
         Name: "Rock Pile 002"
         Transform {
           Location {
-            X: 4663.64063
+            X: 4663.64062
             Y: 620.846924
             Z: -193.458069
           }
@@ -3036,6 +3036,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

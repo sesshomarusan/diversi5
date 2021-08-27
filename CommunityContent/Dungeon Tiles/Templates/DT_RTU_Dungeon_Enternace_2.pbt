@@ -1297,7 +1297,7 @@ Assets {
           Location {
             X: 700
             Y: 450
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: 89.9999924
@@ -1366,7 +1366,7 @@ Assets {
           Location {
             X: 700
             Y: 50
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: 89.9999771
@@ -1435,7 +1435,7 @@ Assets {
           Location {
             X: 700
             Y: -350
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: 89.9999542
@@ -1504,7 +1504,7 @@ Assets {
           Location {
             X: 700
             Y: -750
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: 89.9999542
@@ -4209,7 +4209,7 @@ Assets {
           Location {
             X: 700
             Y: 850
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -4268,7 +4268,7 @@ Assets {
           Location {
             X: 700
             Y: -750
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: -179.999985
@@ -4328,7 +4328,7 @@ Assets {
           Location {
             X: -50
             Y: -750
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Yaw: -179.999954
@@ -4388,7 +4388,7 @@ Assets {
           Location {
             X: -50
             Y: 850
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
           }
@@ -5184,7 +5184,7 @@ Assets {
           Location {
             X: 1000.08447
             Y: 1222.30713
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -5229,7 +5229,7 @@ Assets {
           Location {
             X: 1000.08447
             Y: -127.692871
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Yaw: 15.00002
@@ -5275,7 +5275,7 @@ Assets {
           Location {
             X: 1750.08447
             Y: -177.692871
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
           }
@@ -5556,7 +5556,7 @@ Assets {
           }
           Rotation {
             Pitch: 82.5910263
-            Yaw: -78.8945313
+            Yaw: -78.8945312
           }
           Scale {
             X: 0.770974
@@ -6102,7 +6102,7 @@ Assets {
           Location {
             X: 861.615234
             Y: 1221.74084
-            Z: 71.4101563
+            Z: 71.4101562
           }
           Rotation {
             Yaw: 1.61426985
@@ -8764,6 +8764,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

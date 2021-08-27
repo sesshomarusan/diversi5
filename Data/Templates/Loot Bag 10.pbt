@@ -553,7 +553,7 @@ Assets {
             Y: -32.9839249
           }
           Rotation {
-            Pitch: -44.5351563
+            Pitch: -44.5351562
             Yaw: -3.05175781e-05
             Roll: 3.67557295e-05
           }
@@ -1937,5 +1937,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

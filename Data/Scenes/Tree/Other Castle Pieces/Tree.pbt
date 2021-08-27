@@ -414,7 +414,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: 0.000122070313
+      X: 0.000122070312
       Y: 399.999969
       Z: 2140
     }

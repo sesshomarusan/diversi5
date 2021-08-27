@@ -2657,7 +2657,7 @@ Assets {
           Location {
             X: -343.207275
             Y: 293.267578
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 126.55381
@@ -2842,7 +2842,7 @@ Assets {
           Location {
             X: -917.883789
             Y: 1115.9917
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -61.5122414
@@ -3090,7 +3090,7 @@ Assets {
         Transform {
           Location {
             X: -1048.49023
-            Y: -288.601563
+            Y: -288.601562
             Z: 96.6640244
           }
           Rotation {
@@ -3318,7 +3318,7 @@ Assets {
         Name: "Fantasy Shield 02"
         Transform {
           Location {
-            X: -773.539063
+            X: -773.539062
             Y: 276.893555
             Z: 68.2750778
           }
@@ -3865,7 +3865,7 @@ Assets {
           Location {
             X: -490.229
             Y: -12.1176758
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -4267,6 +4267,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

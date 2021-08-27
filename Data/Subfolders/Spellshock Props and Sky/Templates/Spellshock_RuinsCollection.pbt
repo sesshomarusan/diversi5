@@ -9109,7 +9109,7 @@ Assets {
         Name: "Column Base 02"
         Transform {
           Location {
-            X: -1.66601563
+            X: -1.66601562
             Y: 1.44140625
             Z: 1660.20984
           }
@@ -9527,7 +9527,7 @@ Assets {
         Name: "Column Base 02"
         Transform {
           Location {
-            X: -1.66601563
+            X: -1.66601562
             Y: 1.44140625
             Z: 1660.20984
           }
@@ -12784,7 +12784,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -13193,7 +13193,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -16287,7 +16287,7 @@ Assets {
             Z: 1537.55103
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -16360,7 +16360,7 @@ Assets {
             Z: 1617.38293
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -18061,7 +18061,7 @@ Assets {
             Z: 1537.55103
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -18134,7 +18134,7 @@ Assets {
             Z: 1617.38293
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -19551,7 +19551,7 @@ Assets {
           Location {
             X: 44.4206543
             Y: 40.5529785
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Roll: -89.999939
@@ -19603,7 +19603,7 @@ Assets {
           Location {
             X: -48.8354492
             Y: 40.5529785
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Roll: -89.999939
@@ -20562,7 +20562,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 71.7286072
           }
           Rotation {
@@ -20633,7 +20633,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 8.16149902
           }
           Rotation {
@@ -20705,7 +20705,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -20778,7 +20778,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -20852,7 +20852,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
           }
           Rotation {
             Pitch: 90
@@ -20923,7 +20923,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 66.0353699
           }
           Rotation {
@@ -21032,7 +21032,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 71.7286072
           }
           Rotation {
@@ -21103,7 +21103,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 8.16149902
           }
           Rotation {
@@ -21175,7 +21175,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -21248,7 +21248,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -21322,7 +21322,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
           }
           Rotation {
             Pitch: 90
@@ -21393,7 +21393,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 66.0353699
           }
           Rotation {
@@ -22209,7 +22209,7 @@ Assets {
           Location {
             X: 44.4206543
             Y: 40.5529785
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Roll: -89.999939
@@ -22261,7 +22261,7 @@ Assets {
           Location {
             X: -48.8354492
             Y: 40.5529785
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Roll: -89.999939
@@ -22650,7 +22650,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -22908,7 +22908,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -26588,7 +26588,7 @@ Assets {
             Z: 1537.55103
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -26661,7 +26661,7 @@ Assets {
             Z: 1617.38293
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -28163,7 +28163,7 @@ Assets {
             Z: 1537.55103
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -28236,7 +28236,7 @@ Assets {
             Z: 1617.38293
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -29746,7 +29746,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 71.7286072
           }
           Rotation {
@@ -29817,7 +29817,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 8.16149902
           }
           Rotation {
@@ -29889,7 +29889,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -29962,7 +29962,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -30036,7 +30036,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
           }
           Rotation {
             Pitch: 90
@@ -30107,7 +30107,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 66.0353699
           }
           Rotation {
@@ -31944,7 +31944,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -33298,7 +33298,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -33826,7 +33826,7 @@ Assets {
         Transform {
           Location {
             X: 44.9998779
-            Y: 0.000122070313
+            Y: 0.000122070312
             Z: 60
           }
           Rotation {
@@ -35439,7 +35439,7 @@ Assets {
             Z: 50
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 6.68553912e-05
             Roll: -89.9998779
           }
@@ -36049,7 +36049,7 @@ Assets {
           }
           Rotation {
             Pitch: 1.36603776e-05
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -89.999939
           }
           Scale {
@@ -36105,7 +36105,7 @@ Assets {
             Z: 647.617859
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
           }
           Scale {
             X: 0.925798774
@@ -36714,7 +36714,7 @@ Assets {
         Name: "Large Wood Beam 6m"
         Transform {
           Location {
-            X: 345.257813
+            X: 345.257812
             Y: 267.396484
             Z: 205.004257
           }
@@ -39567,7 +39567,7 @@ Assets {
         Transform {
           Location {
             Y: 2.18847656
-            Z: 44.1445313
+            Z: 44.1445312
           }
           Rotation {
           }
@@ -41725,7 +41725,7 @@ Assets {
         Transform {
           Location {
             Y: 2.18847656
-            Z: 44.1445313
+            Z: 44.1445312
           }
           Rotation {
           }
@@ -43883,7 +43883,7 @@ Assets {
         Transform {
           Location {
             Y: 2.18847656
-            Z: 44.1445313
+            Z: 44.1445312
           }
           Rotation {
           }
@@ -46041,7 +46041,7 @@ Assets {
         Transform {
           Location {
             Y: 2.18847656
-            Z: 44.1445313
+            Z: 44.1445312
           }
           Rotation {
           }
@@ -48126,7 +48126,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -48535,7 +48535,7 @@ Assets {
           Location {
             X: 0.119140625
             Y: -10.7702637
-            Z: 9.50976563
+            Z: 9.50976562
           }
           Rotation {
             Roll: 18.2099609
@@ -51627,7 +51627,7 @@ Assets {
             Z: 1537.55103
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -51700,7 +51700,7 @@ Assets {
             Z: 1617.38293
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -53401,7 +53401,7 @@ Assets {
             Z: 1537.55103
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -53474,7 +53474,7 @@ Assets {
             Z: 1617.38293
           }
           Rotation {
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -179.999954
           }
           Scale {
@@ -54889,7 +54889,7 @@ Assets {
           Location {
             X: 44.4206543
             Y: 40.5529785
-            Z: 0.000122070313
+            Z: 0.000122070312
           }
           Rotation {
             Roll: -89.999939
@@ -54941,7 +54941,7 @@ Assets {
           Location {
             X: -48.8354492
             Y: 40.5529785
-            Z: -0.000122070313
+            Z: -0.000122070312
           }
           Rotation {
             Roll: -89.999939
@@ -55900,7 +55900,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 71.7286072
           }
           Rotation {
@@ -55971,7 +55971,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 8.16149902
           }
           Rotation {
@@ -56043,7 +56043,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -56116,7 +56116,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -56190,7 +56190,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
           }
           Rotation {
             Pitch: 90
@@ -56261,7 +56261,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 66.0353699
           }
           Rotation {
@@ -56370,7 +56370,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 71.7286072
           }
           Rotation {
@@ -56441,7 +56441,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 8.16149902
           }
           Rotation {
@@ -56513,7 +56513,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -56586,7 +56586,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 65.0505066
           }
           Rotation {
@@ -56660,7 +56660,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
           }
           Rotation {
             Pitch: 90
@@ -56731,7 +56731,7 @@ Assets {
         Name: "Thorn"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Z: 66.0353699
           }
           Rotation {
@@ -57265,7 +57265,7 @@ Assets {
         Transform {
           Location {
             Y: 2.18847656
-            Z: 44.1445313
+            Z: 44.1445312
           }
           Rotation {
           }
@@ -59422,7 +59422,7 @@ Assets {
         Transform {
           Location {
             Y: 2.18847656
-            Z: 44.1445313
+            Z: 44.1445312
           }
           Rotation {
           }
@@ -67934,7 +67934,7 @@ Assets {
         Name: "Rock Block 01"
         Transform {
           Location {
-            X: 6.83789063
+            X: 6.83789062
             Y: 15.2946777
             Z: 308.448975
           }
@@ -68193,7 +68193,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -70415,7 +70415,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -72698,7 +72698,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -74884,7 +74884,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -77105,7 +77105,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -79390,7 +79390,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -80856,7 +80856,7 @@ Assets {
         Name: "Rock Block 01"
         Transform {
           Location {
-            X: 6.83789063
+            X: 6.83789062
             Y: 15.2946777
             Z: 308.448975
           }
@@ -81115,7 +81115,7 @@ Assets {
             Z: 418.989868
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 179.919022
             Roll: 0.000332545664
           }
@@ -83488,6 +83488,6 @@ Assets {
   Marketplace {
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

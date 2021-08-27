@@ -2,7 +2,7 @@ Assets {
   Id: 1194152222056053507
   Name: "Dark Steel"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 1329351575637904310
     ParameterOverrides {

@@ -165,7 +165,7 @@ Objects {
   Name: "NW"
   Transform {
     Location {
-      X: 9749.95313
+      X: 9749.95312
       Y: 750.001343
       Z: 150
     }

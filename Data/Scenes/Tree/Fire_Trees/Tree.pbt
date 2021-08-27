@@ -200,7 +200,7 @@ Objects {
   Transform {
     Location {
       X: -19401
-      Y: 67353.4063
+      Y: 67353.4062
       Z: 425
     }
     Rotation {
@@ -242,7 +242,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 5954.20313
+            X: 5954.20312
             Y: 5752.16797
             Z: -75.2119751
           }
@@ -505,7 +505,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -1937.14063
+            X: -1937.14062
             Y: 6930.90625
             Z: -25
           }

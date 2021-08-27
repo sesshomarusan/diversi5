@@ -340,7 +340,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Pitch: -4.14257813
+            Pitch: -4.14257812
             Yaw: 34.6353531
             Roll: 19.0593243
           }

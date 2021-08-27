@@ -1391,8 +1391,8 @@ Assets {
           }
           Rotation {
             Pitch: 89.4807281
-            Yaw: -0.000610351563
-            Roll: -0.000610351563
+            Yaw: -0.000610351562
+            Roll: -0.000610351562
           }
           Scale {
             X: 0.721626461
@@ -1430,7 +1430,7 @@ Assets {
             Z: 14.3759623
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 1.570569e-06
             Roll: 89.9997864
           }
@@ -1754,7 +1754,7 @@ Assets {
             Z: 14.3759117
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 4.56209864e-06
             Roll: 89.999794
           }
@@ -3894,7 +3894,7 @@ Assets {
             Z: 14.3759623
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 1.570569e-06
             Roll: 89.9997864
           }
@@ -4498,13 +4498,13 @@ Assets {
         Name: "BeamRopes"
         Transform {
           Location {
-            X: 551.164063
+            X: 551.164062
             Y: 13.5444546
             Z: -5.61704254
           }
           Rotation {
             Pitch: 88.2624512
-            Yaw: -6.10351563e-05
+            Yaw: -6.10351562e-05
             Roll: -0.000152587891
           }
           Scale {
@@ -4542,7 +4542,7 @@ Assets {
             Z: 14.3759117
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 4.56209864e-06
             Roll: 89.999794
           }
@@ -5739,7 +5739,7 @@ Assets {
             Z: 14.3759117
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 4.56209864e-06
             Roll: 89.999794
           }
@@ -5990,7 +5990,7 @@ Assets {
             Z: 14.3759117
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 4.56209864e-06
             Roll: 89.999794
           }
@@ -6241,7 +6241,7 @@ Assets {
             Z: 14.3759117
           }
           Rotation {
-            Pitch: -0.000122070313
+            Pitch: -0.000122070312
             Yaw: 4.56209864e-06
             Roll: 89.999794
           }
@@ -6717,7 +6717,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -6963,7 +6963,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -7209,7 +7209,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -7455,7 +7455,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -7701,7 +7701,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -7947,7 +7947,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -8457,7 +8457,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -8704,7 +8704,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -8951,7 +8951,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -9637,7 +9637,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -9883,7 +9883,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -10129,7 +10129,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -10375,7 +10375,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -10621,7 +10621,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -10867,7 +10867,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -11378,7 +11378,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -11625,7 +11625,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -11872,7 +11872,7 @@ Assets {
         Name: "Peak"
         Transform {
           Location {
-            X: 0.500976563
+            X: 0.500976562
             Y: -105.925781
             Z: 510.919678
           }
@@ -12423,7 +12423,7 @@ Assets {
         Name: "Horn"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 14.3483887
             Z: 10
           }
@@ -12478,7 +12478,7 @@ Assets {
         Name: "Ropes"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 34.2235107
             Z: 326.318909
           }
@@ -12602,7 +12602,7 @@ Assets {
           Rotation {
             Pitch: -18.995575
             Yaw: 2.37847144e-05
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.67328459
@@ -13995,7 +13995,7 @@ Assets {
         Name: "Horn"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 14.3483887
             Z: 10
           }
@@ -14050,7 +14050,7 @@ Assets {
         Name: "Ropes"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 34.2235107
             Z: 326.318909
           }
@@ -14174,7 +14174,7 @@ Assets {
           Rotation {
             Pitch: -18.995575
             Yaw: 2.37847144e-05
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.67328459
@@ -15567,7 +15567,7 @@ Assets {
         Name: "Horn"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 14.3483887
             Z: 10
           }
@@ -15622,7 +15622,7 @@ Assets {
         Name: "Ropes"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 34.2235107
             Z: 326.318909
           }
@@ -15746,7 +15746,7 @@ Assets {
           Rotation {
             Pitch: -18.995575
             Yaw: 2.37847144e-05
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.67328459
@@ -17139,7 +17139,7 @@ Assets {
         Name: "Horn"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 14.3483887
             Z: 10
           }
@@ -17194,7 +17194,7 @@ Assets {
         Name: "Ropes"
         Transform {
           Location {
-            X: -0.965820313
+            X: -0.965820312
             Y: 34.2235107
             Z: 326.318909
           }
@@ -17318,7 +17318,7 @@ Assets {
           Rotation {
             Pitch: -18.995575
             Yaw: 2.37847144e-05
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 0.67328459
@@ -18925,7 +18925,7 @@ Assets {
     }
     Assets {
       Id: 10634098119816284342
-      Name: "Wood Planks Dark"
+      Name: "Wood Planks"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
@@ -19057,6 +19057,6 @@ Assets {
   Marketplace {
     Description: "Collection of Spellshock visual assets including most  props, atmospherics, and buildings"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

@@ -2235,7 +2235,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
-      X: -0.000122070313
+      X: -0.000122070312
       Y: -200
     }
     Rotation {
@@ -2278,7 +2278,7 @@ Objects {
   Name: "Fantasy Castle Stairs Spiral 01 - Small 150cm"
   Transform {
     Location {
-      X: -0.000122070313
+      X: -0.000122070312
       Y: -200
       Z: 150
     }
@@ -2511,7 +2511,7 @@ Objects {
       Z: -575
     }
     Rotation {
-      Yaw: -6.10351563e-05
+      Yaw: -6.10351562e-05
     }
     Scale {
       X: 1
@@ -2955,7 +2955,7 @@ Objects {
       Z: -572.942871
     }
     Rotation {
-      Yaw: -6.10351563e-05
+      Yaw: -6.10351562e-05
     }
     Scale {
       X: 1
@@ -5575,7 +5575,7 @@ Objects {
     Location {
       X: 450.000366
       Y: -350
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: 179.999969
@@ -5836,7 +5836,7 @@ Objects {
     Location {
       X: -350
       Y: 449.999512
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
     }
@@ -5879,7 +5879,7 @@ Objects {
     Location {
       X: -600
       Y: 1150
-      Z: -6.10351563e-05
+      Z: -6.10351562e-05
     }
     Rotation {
     }
@@ -5928,7 +5928,7 @@ Objects {
     Location {
       X: -200
       Y: -375
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: 89.9999313
@@ -6104,7 +6104,7 @@ Objects {
     Location {
       X: 550
       Y: 425
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: -90
@@ -6173,7 +6173,7 @@ Objects {
     Location {
       X: 600
       Y: 450
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: -90
@@ -6305,7 +6305,7 @@ Objects {
     Location {
       X: -200
       Y: 400
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
     }
@@ -6373,7 +6373,7 @@ Objects {
     Location {
       X: -200
       Y: 450
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
     }
@@ -6459,7 +6459,7 @@ Objects {
     Location {
       X: -200.000488
       Y: -350.000488
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: -179.999924
@@ -6503,7 +6503,7 @@ Objects {
     Location {
       X: -600.000488
       Y: 49.9993896
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: 90.0000229
@@ -6635,7 +6635,7 @@ Objects {
     Location {
       X: 599.999634
       Y: -350
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: -90
@@ -8066,7 +8066,7 @@ Objects {
       Z: 25
     }
     Rotation {
-      Yaw: -6.10351563e-05
+      Yaw: -6.10351562e-05
     }
     Scale {
       X: 1
@@ -8110,7 +8110,7 @@ Objects {
       Z: 25
     }
     Rotation {
-      Yaw: -6.10351563e-05
+      Yaw: -6.10351562e-05
     }
     Scale {
       X: 1
@@ -8154,7 +8154,7 @@ Objects {
       Z: 25
     }
     Rotation {
-      Yaw: -6.10351563e-05
+      Yaw: -6.10351562e-05
     }
     Scale {
       X: 1

@@ -2,7 +2,7 @@ Assets {
   Id: 4458938309585607910
   Name: "Weapon - Hex Pulse Red Orange"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 3837738088711724917
     ParameterOverrides {

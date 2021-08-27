@@ -897,7 +897,7 @@ Objects {
   Name: "Grass Short"
   Transform {
     Location {
-      X: 2816.64063
+      X: 2816.64062
       Y: -1116.93066
       Z: 20
     }
@@ -4303,7 +4303,7 @@ Objects {
     Location {
       X: -263.249756
       Y: -449.686523
-      Z: 6.10351563e-05
+      Z: 6.10351562e-05
     }
     Rotation {
       Yaw: 122.797943

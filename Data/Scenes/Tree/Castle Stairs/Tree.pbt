@@ -1068,7 +1068,7 @@ Objects {
   Transform {
     Location {
       X: 400
-      Y: 0.000122070313
+      Y: 0.000122070312
       Z: 600
     }
     Rotation {
@@ -1112,7 +1112,7 @@ Objects {
   Transform {
     Location {
       X: 800
-      Y: 0.000122070313
+      Y: 0.000122070312
       Z: 600
     }
     Rotation {
@@ -1715,7 +1715,7 @@ Objects {
   Name: "Stair Bannister - Mid"
   Transform {
     Location {
-      X: -6.10351563e-05
+      X: -6.10351562e-05
       Y: -100
       Z: 150
     }
@@ -1871,7 +1871,7 @@ Objects {
   Name: "Stair Bannister - Mid"
   Transform {
     Location {
-      X: -6.10351563e-05
+      X: -6.10351562e-05
       Y: -100
       Z: 150
     }

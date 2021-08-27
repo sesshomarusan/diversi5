@@ -1840,7 +1840,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: 0.000122070313
+      X: 0.000122070312
       Y: 399.999969
       Z: 2140
     }
@@ -2719,7 +2719,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: 0.000122070313
+      X: 0.000122070312
       Y: 399.999969
       Z: 2140
     }
@@ -3600,7 +3600,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: 0.000122070313
+      X: 0.000122070312
       Y: 399.999969
       Z: 2140
     }
@@ -4579,7 +4579,7 @@ Objects {
   Name: "Fantasy Castle Floor 01 - Curved 4m Inverted"
   Transform {
     Location {
-      X: 0.000122070313
+      X: 0.000122070312
       Y: 399.999969
       Z: 2140
     }
@@ -10317,7 +10317,7 @@ Objects {
   Transform {
     Location {
       X: 8089
-      Y: 2253.39063
+      Y: 2253.39062
       Z: 578
     }
     Rotation {
@@ -10483,7 +10483,7 @@ Objects {
   Transform {
     Location {
       X: 8089
-      Y: 3053.39063
+      Y: 3053.39062
       Z: 578
     }
     Rotation {
@@ -10649,7 +10649,7 @@ Objects {
   Transform {
     Location {
       X: 8089
-      Y: 3823.39063
+      Y: 3823.39062
       Z: 578
     }
     Rotation {
@@ -20831,7 +20831,7 @@ Objects {
   Name: "Fantasy Castle Wall Foundation 01"
   Transform {
     Location {
-      X: 4409.01563
+      X: 4409.01562
       Y: 8645
       Z: -900
     }
@@ -23346,7 +23346,7 @@ Objects {
   Transform {
     Location {
       X: 4129
-      Y: 5425.01563
+      Y: 5425.01562
       Z: 598
     }
     Rotation {
@@ -24240,7 +24240,7 @@ Objects {
   Transform {
     Location {
       X: 1929
-      Y: 5425.01563
+      Y: 5425.01562
       Z: 598
     }
     Rotation {
@@ -31449,7 +31449,7 @@ Objects {
   Name: "Fantasy Castle Wall Foundation 01"
   Transform {
     Location {
-      X: 7599.01563
+      X: 7599.01562
       Y: -2489.99805
       Z: -900
     }
@@ -32581,7 +32581,7 @@ Objects {
   Name: "Fantasy Castle Wall Foundation 01"
   Transform {
     Location {
-      X: 4409.01563
+      X: 4409.01562
       Y: -2489.99805
       Z: -900
     }

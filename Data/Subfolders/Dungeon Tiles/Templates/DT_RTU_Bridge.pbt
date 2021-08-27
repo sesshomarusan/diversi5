@@ -16344,7 +16344,7 @@ Assets {
           Location {
             X: 223.666382
             Y: 685.037109
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -18429,7 +18429,7 @@ Assets {
         Transform {
           Location {
             X: 1488.25903
-            Y: 2618.70313
+            Y: 2618.70312
             Z: 25.2538795
           }
           Rotation {
@@ -19370,7 +19370,7 @@ Assets {
           Location {
             X: -1140.02869
             Y: 108.72998
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -19830,7 +19830,7 @@ Assets {
           Location {
             X: -590.684082
             Y: 3034.96924
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20244,7 +20244,7 @@ Assets {
           Location {
             X: -1415.73645
             Y: 230.785645
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -50.4053497
@@ -20951,7 +20951,7 @@ Assets {
           Location {
             X: -1258.67932
             Y: 338.566162
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -20991,7 +20991,7 @@ Assets {
           Location {
             X: -839.184082
             Y: 359.913818
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -21031,7 +21031,7 @@ Assets {
           Location {
             X: 8.15893555
             Y: 490.610352
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -21071,7 +21071,7 @@ Assets {
           Location {
             X: 579.404297
             Y: 423.111328
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -21111,7 +21111,7 @@ Assets {
           Location {
             X: 1087.53735
             Y: 433.92627
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -22123,7 +22123,7 @@ Assets {
           Location {
             X: 1356.9856
             Y: 2801.2583
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -22570,7 +22570,7 @@ Assets {
         Transform {
           Location {
             X: -564.943359
-            Y: 225.445313
+            Y: 225.445312
             Z: 25.2540283
           }
           Rotation {
@@ -22773,7 +22773,7 @@ Assets {
           Location {
             X: -1323.00525
             Y: 2675.49414
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -23795,6 +23795,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

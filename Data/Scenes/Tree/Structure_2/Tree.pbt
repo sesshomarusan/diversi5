@@ -1214,7 +1214,7 @@ Objects {
     }
     Rotation {
       Pitch: 0.000245886797
-      Yaw: 128.632813
+      Yaw: 128.632812
       Roll: -23.8454895
     }
     Scale {
@@ -1527,7 +1527,7 @@ Objects {
       Z: 1570.66577
     }
     Rotation {
-      Pitch: -6.10351563e-05
+      Pitch: -6.10351562e-05
       Yaw: -51.3654175
       Roll: 89.999939
     }
@@ -1744,7 +1744,7 @@ Objects {
   Name: "Large Wood Beam 8m"
   Transform {
     Location {
-      X: -179.476563
+      X: -179.476562
       Y: -437.614502
       Z: 1653.51172
     }
@@ -2119,7 +2119,7 @@ Objects {
     }
     Rotation {
       Yaw: -51.3643799
-      Roll: -6.10351563e-05
+      Roll: -6.10351562e-05
     }
     Scale {
       X: 0.657687545
@@ -2819,7 +2819,7 @@ Objects {
   Name: "Large Wood Beam 8m"
   Transform {
     Location {
-      X: -460.007813
+      X: -460.007812
       Y: -392.19043
       Z: 1570.66577
     }
@@ -2967,7 +2967,7 @@ Objects {
   Name: "Large Wood Beam 8m"
   Transform {
     Location {
-      X: -606.914063
+      X: -606.914062
       Y: 245.871277
       Z: 1858.28223
     }
@@ -3938,7 +3938,7 @@ Objects {
   Transform {
     Location {
       X: -1070.30176
-      Y: 448.570313
+      Y: 448.570312
       Z: 1097.80847
     }
     Rotation {

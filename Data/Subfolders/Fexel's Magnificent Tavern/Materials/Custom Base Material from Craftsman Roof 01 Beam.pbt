@@ -2,7 +2,7 @@ Assets {
   Id: 3139708512361178392
   Name: "Custom Base Material from Craftsman Roof 01 Beam"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 17070386763905826616
     ParameterOverrides {

@@ -463,6 +463,6 @@ Assets {
   Marketplace {
     Description: "Simple shelf and books"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

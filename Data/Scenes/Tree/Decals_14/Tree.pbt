@@ -1536,7 +1536,7 @@ Objects {
   Name: "Decal Dirt Patch"
   Transform {
     Location {
-      X: -1147.26563
+      X: -1147.26562
       Y: 833.228333
       Z: 25.2537231
     }

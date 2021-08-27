@@ -6246,7 +6246,7 @@ Assets {
         Transform {
           Location {
             X: -231.648315
-            Y: -740.351563
+            Y: -740.351562
             Z: 63.246067
           }
           Rotation {
@@ -6766,7 +6766,7 @@ Assets {
         Name: "Bush Leafy Low 01"
         Transform {
           Location {
-            X: 684.632813
+            X: 684.632812
             Y: 29.3095703
             Z: 96.8781738
           }
@@ -6911,7 +6911,7 @@ Assets {
           Location {
             X: 161.420654
             Y: 802.996094
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
           }
@@ -6956,7 +6956,7 @@ Assets {
           Location {
             X: -761.214355
             Y: -198.22168
-            Z: 6.10351563e-05
+            Z: 6.10351562e-05
           }
           Rotation {
             Yaw: -53.9826927
@@ -8995,6 +8995,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

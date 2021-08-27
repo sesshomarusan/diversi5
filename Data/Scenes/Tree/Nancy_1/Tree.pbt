@@ -660,7 +660,7 @@ Objects {
   Transform {
     Location {
       X: -7156.06055
-      Y: -812.320313
+      Y: -812.320312
       Z: -336.129395
     }
     Rotation {
@@ -842,7 +842,7 @@ Objects {
   Name: "Fantasy Castle Pillar 01 Base"
   Transform {
     Location {
-      X: -7652.70313
+      X: -7652.70312
       Y: 106
       Z: -137.196289
     }
@@ -18326,7 +18326,7 @@ Objects {
   Name: "Gargbody"
   Transform {
     Location {
-      X: -9.72070313
+      X: -9.72070312
       Y: -75.4657
       Z: -130.431885
     }

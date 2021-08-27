@@ -519,7 +519,7 @@ Assets {
         Transform {
           Location {
             X: -800
-            Y: -0.000122070313
+            Y: -0.000122070312
             Z: 600.000488
           }
           Rotation {
@@ -2776,7 +2776,7 @@ Assets {
         Name: "Stone Block BIg"
         Transform {
           Location {
-            X: -1518.26563
+            X: -1518.26562
             Y: -207.870117
             Z: 350.980865
           }
@@ -3215,7 +3215,7 @@ Assets {
         Transform {
           Location {
             X: -883.804199
-            Y: 281.445313
+            Y: 281.445312
             Z: 325.254395
           }
           Rotation {
@@ -3595,7 +3595,7 @@ Assets {
           Location {
             X: -297.920898
             Y: 333.161133
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -145.653809
@@ -3991,7 +3991,7 @@ Assets {
         Transform {
           Location {
             X: -1057.56787
-            Y: 390.226563
+            Y: 390.226562
             Z: 328.017578
           }
           Rotation {
@@ -5407,6 +5407,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

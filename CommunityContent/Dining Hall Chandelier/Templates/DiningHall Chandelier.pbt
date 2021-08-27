@@ -966,7 +966,7 @@ Assets {
         Transform {
           Location {
             X: 13.5639648
-            Y: 0.317382813
+            Y: 0.317382812
             Z: 100.563156
           }
           Rotation {
@@ -3820,7 +3820,7 @@ Assets {
         Transform {
           Location {
             X: -13.0844727
-            Y: 15.3945313
+            Y: 15.3945312
             Z: 140.199875
           }
           Rotation {
@@ -3874,7 +3874,7 @@ Assets {
         Transform {
           Location {
             X: -13.0844727
-            Y: 15.3945313
+            Y: 15.3945312
             Z: 140.199875
           }
           Rotation {
@@ -5216,7 +5216,7 @@ Assets {
         Name: "Diamond - Polished"
         Transform {
           Location {
-            X: -9.16601563
+            X: -9.16601562
             Y: 1.02124023
             Z: 61.2433434
           }
@@ -5337,7 +5337,7 @@ Assets {
         Name: "Cone - Truncated Hollow"
         Transform {
           Location {
-            X: 49.3320313
+            X: 49.3320312
             Y: 1.16625977
             Z: 160.049698
           }
@@ -5826,7 +5826,7 @@ Assets {
         Transform {
           Location {
             X: -65.331543
-            Y: 57.0039063
+            Y: 57.0039062
             Z: 100.556015
           }
           Rotation {
@@ -8025,6 +8025,6 @@ Assets {
   Marketplace {
     Description: "Made for GSTQ"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

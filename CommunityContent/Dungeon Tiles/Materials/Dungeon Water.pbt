@@ -2,7 +2,7 @@ Assets {
   Id: 13267711475741370784
   Name: "Dungeon Water"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 6187397451650949457
     ParameterOverrides {

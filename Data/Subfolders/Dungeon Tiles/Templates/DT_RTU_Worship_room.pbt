@@ -4030,7 +4030,7 @@ Assets {
           Location {
             X: -800
             Y: 2200
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
             Yaw: -179.999954
@@ -4099,7 +4099,7 @@ Assets {
           Location {
             X: 800
             Y: 2200
-            Z: -6.10351563e-05
+            Z: -6.10351562e-05
           }
           Rotation {
             Yaw: -179.999954
@@ -7258,7 +7258,7 @@ Assets {
           Location {
             X: 1138.54395
             Y: 2034.24316
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -7416,7 +7416,7 @@ Assets {
         Name: "Hill 03"
         Transform {
           Location {
-            X: -948.070313
+            X: -948.070312
             Y: 2702.19531
             Z: 175.254089
           }
@@ -8491,7 +8491,7 @@ Assets {
         Transform {
           Location {
             X: 529.362305
-            Y: 529.289063
+            Y: 529.289062
             Z: 25.2538795
           }
           Rotation {
@@ -9849,7 +9849,7 @@ Assets {
         Transform {
           Location {
             X: -713.625
-            Y: 2878.45313
+            Y: 2878.45312
             Z: 191.504425
           }
           Rotation {
@@ -12914,7 +12914,7 @@ Assets {
         Name: "Decal Stains Bottom 01"
         Transform {
           Location {
-            X: -43.1289063
+            X: -43.1289062
             Y: 241.676758
             Z: 25.2538452
           }
@@ -13281,7 +13281,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: 927.882813
+            X: 927.882812
             Y: 185.282715
             Z: 25.2539368
           }
@@ -13363,7 +13363,7 @@ Assets {
           Location {
             X: 332.946289
             Y: 506.197266
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13403,7 +13403,7 @@ Assets {
           Location {
             X: -345.035156
             Y: 447.237793
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13483,7 +13483,7 @@ Assets {
           Location {
             X: -313.979492
             Y: 1318.75146
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13522,7 +13522,7 @@ Assets {
         Transform {
           Location {
             X: -534.829102
-            Y: 1233.01563
+            Y: 1233.01562
             Z: 25.2538757
           }
           Rotation {
@@ -13563,7 +13563,7 @@ Assets {
           Location {
             X: -1052.18066
             Y: 1096.24854
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13603,7 +13603,7 @@ Assets {
           Location {
             X: -789.619141
             Y: 709.413086
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13643,7 +13643,7 @@ Assets {
           Location {
             X: -973.688477
             Y: 404.341309
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13683,7 +13683,7 @@ Assets {
           Location {
             X: -981.378906
             Y: 1881.2583
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13723,7 +13723,7 @@ Assets {
           Location {
             X: -749.825195
             Y: 2122.90088
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13803,7 +13803,7 @@ Assets {
           Location {
             X: 513.21875
             Y: 1240.43164
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -14242,7 +14242,7 @@ Assets {
         Transform {
           Location {
             X: 421.28418
-            Y: 556.664063
+            Y: 556.664062
             Z: 25.2538452
           }
           Rotation {
@@ -14526,7 +14526,7 @@ Assets {
         Name: "Decal Rubble Concrete 02"
         Transform {
           Location {
-            X: -859.539063
+            X: -859.539062
             Y: 2918.2937
             Z: 175.254211
           }
@@ -15990,6 +15990,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

@@ -79,7 +79,7 @@ Objects {
   Name: "Large Wood Beam 8m"
   Transform {
     Location {
-      X: -179.476563
+      X: -179.476562
       Y: -437.614502
       Z: 1653.51172
     }
@@ -535,7 +535,7 @@ Objects {
     }
     Rotation {
       Yaw: -51.3643799
-      Roll: -6.10351563e-05
+      Roll: -6.10351562e-05
     }
     Scale {
       X: 0.657687545
@@ -1593,7 +1593,7 @@ Objects {
   Name: "Large Wood Beam 8m"
   Transform {
     Location {
-      X: -606.914063
+      X: -606.914062
       Y: 245.871338
       Z: 1858.33911
     }
@@ -2564,7 +2564,7 @@ Objects {
   Transform {
     Location {
       X: -1070.30176
-      Y: 448.570313
+      Y: 448.570312
       Z: 1097.80847
     }
     Rotation {

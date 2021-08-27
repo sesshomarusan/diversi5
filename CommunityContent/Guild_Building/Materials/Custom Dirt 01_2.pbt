@@ -2,7 +2,7 @@ Assets {
   Id: 9424686717867573619
   Name: "Custom Dirt 01_2"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 14643090495247569259
     ParameterOverrides {

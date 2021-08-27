@@ -1920,7 +1920,7 @@ Assets {
         Name: "Support top"
         Transform {
           Location {
-            Y: 0.000122070313
+            Y: 0.000122070312
             Z: 100
           }
           Rotation {
@@ -1973,7 +1973,7 @@ Assets {
         Name: "Support top"
         Transform {
           Location {
-            Y: 0.000122070313
+            Y: 0.000122070312
           }
           Rotation {
             Yaw: -89.9999771
@@ -2129,7 +2129,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            Y: 0.000122070313
+            Y: 0.000122070312
             Z: 50
           }
           Rotation {
@@ -2323,8 +2323,8 @@ Assets {
         Name: "Support bottom"
         Transform {
           Location {
-            X: 0.000122070313
-            Y: 0.000122070313
+            X: 0.000122070312
+            Y: 0.000122070312
             Z: 100
           }
           Rotation {
@@ -2377,8 +2377,8 @@ Assets {
         Name: "Support bottom"
         Transform {
           Location {
-            X: 0.000122070313
-            Y: 0.000122070313
+            X: 0.000122070312
+            Y: 0.000122070312
           }
           Rotation {
             Yaw: -89.9999542
@@ -2430,7 +2430,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 50.0001221
             Z: 50
           }
@@ -2483,7 +2483,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 100.000122
             Z: 50
           }
@@ -2536,8 +2536,8 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
-            Y: 0.000122070313
+            X: 0.000122070312
+            Y: 0.000122070312
             Z: 50
           }
           Rotation {
@@ -2589,7 +2589,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: -49.9998779
             Z: 50
           }
@@ -2642,7 +2642,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: -99.9998779
             Z: 50
           }
@@ -4284,8 +4284,8 @@ Assets {
         Name: "Support bottom"
         Transform {
           Location {
-            X: 0.000122070313
-            Y: 0.000122070313
+            X: 0.000122070312
+            Y: 0.000122070312
             Z: 100
           }
           Rotation {
@@ -4338,8 +4338,8 @@ Assets {
         Name: "Support bottom"
         Transform {
           Location {
-            X: 0.000122070313
-            Y: 0.000122070313
+            X: 0.000122070312
+            Y: 0.000122070312
           }
           Rotation {
             Yaw: -89.9999542
@@ -4391,7 +4391,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 100.000122
             Z: 50
           }
@@ -4444,7 +4444,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: 50.0001221
             Z: 50
           }
@@ -4497,8 +4497,8 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
-            Y: 0.000122070313
+            X: 0.000122070312
+            Y: 0.000122070312
             Z: 50
           }
           Rotation {
@@ -4550,7 +4550,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: -49.9998779
             Z: 50
           }
@@ -4603,7 +4603,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            X: 0.000122070313
+            X: 0.000122070312
             Y: -99.9998779
             Z: 50
           }
@@ -4693,7 +4693,7 @@ Assets {
         Name: "Support top"
         Transform {
           Location {
-            Y: 0.000122070313
+            Y: 0.000122070312
           }
           Rotation {
             Yaw: -89.9999771
@@ -4745,7 +4745,7 @@ Assets {
         Name: "Support top"
         Transform {
           Location {
-            Y: 0.000122070313
+            Y: 0.000122070312
             Z: 100
           }
           Rotation {
@@ -4902,7 +4902,7 @@ Assets {
         Name: "Cylinder"
         Transform {
           Location {
-            Y: 0.000122070313
+            Y: 0.000122070312
             Z: 50
           }
           Rotation {
@@ -9777,6 +9777,6 @@ Assets {
   Marketplace {
     Description: "A simple module of a prison cell.\r\n(you can open the door by rotanting the \"Door\" group)"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

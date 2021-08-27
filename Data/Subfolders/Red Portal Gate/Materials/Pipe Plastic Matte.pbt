@@ -2,7 +2,7 @@ Assets {
   Id: 9610379719191406452
   Name: "Pipe Plastic Matte"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 132672053610873933
     ParameterOverrides {

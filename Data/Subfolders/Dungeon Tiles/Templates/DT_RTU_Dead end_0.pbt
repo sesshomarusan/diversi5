@@ -1163,7 +1163,7 @@ Assets {
         Name: "Shield 02"
         Transform {
           Location {
-            X: -205.445313
+            X: -205.445312
             Y: 1580
             Z: 376.994873
           }
@@ -2774,7 +2774,7 @@ Assets {
         Transform {
           Location {
             Y: 421.124878
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -3663,7 +3663,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: 9.73632813
+            X: 9.73632812
             Y: 1288.65967
             Z: 26.1200256
           }
@@ -3703,7 +3703,7 @@ Assets {
         Name: "Decal Stains Round 01"
         Transform {
           Location {
-            X: 9.73632813
+            X: 9.73632812
             Y: 265.444092
             Z: 27.4287109
           }
@@ -4796,6 +4796,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

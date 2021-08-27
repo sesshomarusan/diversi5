@@ -2,7 +2,7 @@ Assets {
   Id: 14396435161288651699
   Name: "Custom Wood Floor Weave Light"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 14515444781492069787
     ParameterOverrides {

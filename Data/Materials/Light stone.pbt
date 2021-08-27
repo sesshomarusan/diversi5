@@ -2,7 +2,7 @@ Assets {
   Id: 2584439780359399316
   Name: "Light stone"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 10533466498330009389
     ParameterOverrides {

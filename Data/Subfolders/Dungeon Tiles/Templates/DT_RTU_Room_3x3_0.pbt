@@ -3989,7 +3989,7 @@ Assets {
         Transform {
           Location {
             X: -1156.00488
-            Y: 57.9570313
+            Y: 57.9570312
             Z: 84.3458252
           }
           Rotation {
@@ -5761,7 +5761,7 @@ Assets {
         Name: "Rock Pile 001"
         Transform {
           Location {
-            X: -322.039063
+            X: -322.039062
             Y: 1437.80469
             Z: 25.2538815
           }
@@ -7466,7 +7466,7 @@ Assets {
           Location {
             X: 547.012695
             Y: 2318.71289
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -7735,7 +7735,7 @@ Assets {
         Name: "Decal Stains Bottom 01"
         Transform {
           Location {
-            X: 1.74414063
+            X: 1.74414062
             Y: 248.360596
             Z: 25.2538452
           }
@@ -8176,7 +8176,7 @@ Assets {
         Name: "Decal Dirt Patch"
         Transform {
           Location {
-            X: -743.382813
+            X: -743.382812
             Y: 993.437256
             Z: 25.2539368
           }
@@ -8340,7 +8340,7 @@ Assets {
           Location {
             X: 805.727539
             Y: 1415.98853
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -25.3765945
@@ -8583,7 +8583,7 @@ Assets {
           Location {
             X: 943.40918
             Y: 2120.92529
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -9102,6 +9102,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

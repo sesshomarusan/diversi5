@@ -3419,7 +3419,7 @@ Assets {
           Location {
             X: 789.502441
             Y: 1214.98193
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -3633,7 +3633,7 @@ Assets {
         Transform {
           Location {
             X: -971.295898
-            Y: 123.226563
+            Y: 123.226562
             Z: 25.2538795
           }
           Rotation {
@@ -4540,7 +4540,7 @@ Assets {
         Name: "Stone Block Long Broken"
         Transform {
           Location {
-            X: 943.601563
+            X: 943.601562
             Y: 2056.91211
             Z: 38.5557632
           }
@@ -6974,7 +6974,7 @@ Assets {
           Rotation {
             Pitch: 90
             Yaw: -0.000163924531
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -7898,7 +7898,7 @@ Assets {
           Rotation {
             Pitch: 90
             Yaw: -0.000163924531
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -9978,7 +9978,7 @@ Assets {
           Rotation {
             Pitch: 90
             Yaw: -0.000152587891
-            Roll: -6.10351563e-05
+            Roll: -6.10351562e-05
           }
           Scale {
             X: 1
@@ -11004,7 +11004,7 @@ Assets {
           Location {
             X: 84.1855469
             Y: 1091.54346
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -11049,7 +11049,7 @@ Assets {
           Location {
             X: -68.4477539
             Y: 1091.54346
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -92.0183334
@@ -11095,7 +11095,7 @@ Assets {
           Location {
             X: 51.5625
             Y: 928.343262
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -92.0183334
@@ -11462,7 +11462,7 @@ Assets {
           Location {
             X: 853.857422
             Y: 542.053955
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 11.6885366
@@ -11508,7 +11508,7 @@ Assets {
           Location {
             X: 934.468262
             Y: 480.378418
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -148.058044
@@ -12013,7 +12013,7 @@ Assets {
         Name: "Wooden Bucket"
         Transform {
           Location {
-            X: -65.0976563
+            X: -65.0976562
             Y: 967.842773
             Z: 131.121811
           }
@@ -12107,7 +12107,7 @@ Assets {
           Location {
             X: 548.522949
             Y: 275.964844
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 100.566734
@@ -12868,7 +12868,7 @@ Assets {
           Location {
             X: -456.791504
             Y: 858.175781
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -13028,7 +13028,7 @@ Assets {
         Transform {
           Location {
             X: -944.967773
-            Y: 397.445313
+            Y: 397.445312
             Z: 24.553875
           }
           Rotation {
@@ -14227,6 +14227,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

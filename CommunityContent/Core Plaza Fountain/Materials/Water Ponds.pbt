@@ -2,7 +2,7 @@ Assets {
   Id: 1944444294958252181
   Name: "Water Ponds"
   PlatformAssetType: 13
-  SerializationVersion: 92
+  SerializationVersion: 97
   CustomMaterialAsset {
     BaseMaterialId: 11321696832878405883
     ParameterOverrides {

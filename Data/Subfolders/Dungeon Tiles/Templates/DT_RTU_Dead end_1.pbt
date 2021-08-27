@@ -1226,7 +1226,7 @@ Assets {
         Name: "Chest Big Opened"
         Transform {
           Location {
-            X: -60.2226563
+            X: -60.2226562
             Y: 1431.73364
             Z: 25.8849678
           }
@@ -1409,7 +1409,7 @@ Assets {
           Location {
             X: 269.224609
             Y: 1458.39624
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -1638,7 +1638,7 @@ Assets {
           Location {
             X: -153.951172
             Y: 1288.45325
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Pitch: 11.8174286
@@ -2085,7 +2085,7 @@ Assets {
         Name: "Gem - Baguette Polished"
         Transform {
           Location {
-            X: 5.52539063
+            X: 5.52539062
             Y: 1373.7085
             Z: 29.1958313
           }
@@ -2742,9 +2742,9 @@ Assets {
         Name: "Hill 04"
         Transform {
           Location {
-            X: -315.664063
+            X: -315.664062
             Y: 925.451233
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -5473,6 +5473,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

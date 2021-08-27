@@ -3118,7 +3118,7 @@ Assets {
           Location {
             X: 433.299316
             Y: 276.036133
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -3807,7 +3807,7 @@ Assets {
           Location {
             X: 1469.92725
             Y: -554.767578
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -3852,7 +3852,7 @@ Assets {
           Location {
             X: 1469.92725
             Y: -730.693359
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 18.4471035
@@ -4079,7 +4079,7 @@ Assets {
           Location {
             X: 645.085938
             Y: -305.369141
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: 86.5311432
@@ -4354,7 +4354,7 @@ Assets {
           Location {
             X: 867.581543
             Y: -520.800781
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
           }
@@ -4445,7 +4445,7 @@ Assets {
           Location {
             X: 890.815918
             Y: -808.943359
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -86.8492126
@@ -5800,7 +5800,7 @@ Assets {
           Location {
             X: 665.709
             Y: -38.8974609
-            Z: 25.2539063
+            Z: 25.2539062
           }
           Rotation {
             Yaw: -65.639183
@@ -6348,6 +6348,6 @@ Assets {
   Marketplace {
     Description: "Use this tiles to build your own dungeon! Connect prebuilt tiles or build your own from parts and objects that also included to this package.\r\nThis package contains:\r\n\342\200\242 Various prebuilt / ready to use tiles\r\n\342\200\242 Tiles parts ( walls, corners, stairs etc. )\r\n\342\200\242 Empty dungeons rooms\r\n\342\200\242 Various object to fill up your rooms ( tables, barrels, dirt pile etc. )"
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
   DirectlyPublished: true
 }

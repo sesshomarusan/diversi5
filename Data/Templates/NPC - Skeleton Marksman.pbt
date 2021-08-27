@@ -1386,7 +1386,7 @@ Assets {
         Name: "Lung"
         Transform {
           Location {
-            X: -2.09570313
+            X: -2.09570312
             Y: 6.68359375
             Z: 17.6203613
           }
@@ -2807,5 +2807,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }

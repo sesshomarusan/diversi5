@@ -68,7 +68,7 @@ Objects {
           Name: "Position"
           Vector {
             X: -460.906738
-            Y: 55.5039063
+            Y: 55.5039062
             Z: -85
           }
         }

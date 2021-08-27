@@ -1430,7 +1430,7 @@ Assets {
         Name: "Rock 02"
         Transform {
           Location {
-            X: 2.93945313
+            X: 2.93945312
             Y: 26.138916
             Z: 10.7721252
           }
@@ -2539,7 +2539,7 @@ Assets {
         Name: "Torso"
         Transform {
           Location {
-            X: -0.0512695313
+            X: -0.0512695312
             Y: -41.8035889
             Z: 76.6114197
           }
@@ -3534,7 +3534,7 @@ Assets {
         Name: "Rock 03"
         Transform {
           Location {
-            X: -28.3632813
+            X: -28.3632812
             Y: 60.4119415
             Z: 9.71595764
           }
@@ -4885,5 +4885,5 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 92
+  SerializationVersion: 97
 }
