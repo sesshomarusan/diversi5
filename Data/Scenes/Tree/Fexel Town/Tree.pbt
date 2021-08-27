@@ -1,8 +1,56 @@
 Name: "Fexel Town"
 RootId: 14814857204544419984
 Objects {
+  Id: 2686689008689288650
+  Name: "Mailbox 1"
+  Transform {
+    Location {
+      X: 6984.99902
+      Y: 3359.99902
+      Z: 2774.99707
+    }
+    Rotation {
+      Yaw: 1.02452814e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14814857204544419984
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12358748749897045919
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
   Id: 3444834579409730808
-  Name: "Urban Mailbox 01"
+  Name: "Mailbox 1"
   Transform {
     Location {
       X: 8794.9834
