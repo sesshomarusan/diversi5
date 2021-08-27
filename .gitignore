@@ -72,6 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UserSettings/*
 
 # Temporary files created by the Editor
 Temp/*
